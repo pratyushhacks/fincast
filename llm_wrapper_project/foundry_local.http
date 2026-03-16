@@ -1,0 +1,16 @@
+
+@foundry = http://127.0.0.1:52657
+
+### List models (try common endpoints)
+GET {{foundry}}/v1/models
+Accept: application/json
+
+### Chat completion (OpenAI-style endpoint)
+POST {{foundry}}/v1/chat/completions
+Content-Type: application/json
+
+{
+  "model": "Phi-3-mini-128k-instruct-cuda-gpu:1",
+  "messages": [{"role": "user", "content": "say hello"}],
+  "max_tokens": 50
+}

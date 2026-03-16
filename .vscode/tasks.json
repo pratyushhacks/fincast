@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+   {
+      "label": "Create venv & install (llm_wrapper_project)",
+      "type": "shell",
+      "command": "if (-not (Test-Path 'llm_wrapper_project\\.venv')) { python -m venv llm_wrapper_project\\.venv }; llm_wrapper_project\\.venv\\Scripts\\python -m pip install --upgrade pip; llm_wrapper_project\\.venv\\Scripts\\pip install -r llm_wrapper_project\\requirements.txt",
+      "problemMatcher": [],
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "shell": {
+          "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+          "args": ["-NoProfile", "-Command"]
+        }
+      }
+    },
+    {
+      "label": "Create venv & install (news_scrapper)",
+      "type": "shell",
+      "command": "if (-not (Test-Path 'news_scrapper\\.venv')) { python -m venv news_scrapper\\.venv }; news_scrapper\\.venv\\Scripts\\python -m pip install --upgrade pip; news_scrapper\\.venv\\Scripts\\pip install -r news_scrapper\\requirements.txt",
+      "problemMatcher": [],
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "shell": {
+          "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+          "args": ["-NoProfile", "-Command"]
+        }
+      }
+    },
+    {
+      "label": "Run server",
+      "type": "shell",
+      "command": "llm_wrapper_project\\.venv\\Scripts\\uvicorn app:app --host ${env:HOST || '127.0.0.1'} --port ${env:PORT || '8090'}",
+      "problemMatcher": [],
+      "group": "none"
+    }
+  ]
+}

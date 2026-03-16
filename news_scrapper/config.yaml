@@ -1,0 +1,54 @@
+# Configuration for news scraper
+
+schedule:
+  time: "22:00"
+  timezone: "PST"
+
+feeds_file: "feeds.json"
+
+# Preferred sites to restrict backfill (optional)
+sites:
+  - cnn.com
+  - reuters.com
+  - bbc.co.uk
+  - bing.com/news
+  - google.com/news
+
+# Company-specific targets: match by domain OR occurrence of name/keywords in title/text
+companies:
+  - name: "Microsoft"
+    domains: ["microsoft.com"]
+    keywords: ["Microsoft", "MSFT", "Azure", "Windows", "Office"]
+  - name: "Google"
+    domains: ["google.com"]
+    keywords: ["Google", "Alphabet", "GCP", "Gemini", "Android"]
+  - name: "Amazon"
+    domains: ["amazon.com"]
+    keywords: ["Amazon", "AWS", "AMZN", "Prime"]
+  - name: "Meta"
+    domains: ["facebook.com"]
+    keywords: ["Meta", "Facebook", "Instagram", "WhatsApp"]
+  - name: "NVIDIA"
+    domains: ["nvidia.com"]
+    keywords: ["NVIDIA", "NVDA", "GPU", "AI"]
+  - name: "Netflix"
+    domains: ["netflix.com"]
+    keywords: ["Netflix", "NFLX", "streaming"]
+  - name: "Tesla"
+    domains: ["tesla.com"]
+    keywords: ["Tesla", "TSLA", "Elon Musk"]
+  - name: "Pfizer"
+    domains: ["pfizer.com"]
+    keywords: ["Pfizer", "PFE"]
+
+# Broader industries/segments to tag articles by keyword presence
+industries:
+  - name: "Technology"
+    keywords: ["tech", "software", "SaaS", "cloud", "AI", "machine learning"]
+  - name: "Finance"
+    keywords: ["bank", "finance", "stock", "shares", "investment", "IPO"]
+  - name: "Healthcare"
+    keywords: ["healthcare", "hospital", "pharma", "drug", "vaccine", "clinic"]
+
+# Optional list of company names to track for dataset organization
+companies_to_track: []

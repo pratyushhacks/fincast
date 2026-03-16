@@ -1,0 +1,16 @@
+# Scraping
+requests
+beautifulsoup4
+lxml
+feedparser
+readability-lxml
+python-dateutil
+tldextract
+PyYAML
+
+# Sentiment labeling
+openai
+python-dotenv
+
+# Financial data
+yfinance

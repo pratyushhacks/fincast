@@ -1,0 +1,91 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug LLM Wrapper (llm_wrapper_project)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\llm_wrapper_project\\app.py",
+      "console": "integratedTerminal",
+      "preLaunchTask": "Create venv & install (llm_wrapper_project)",
+      "python": "${workspaceFolder}\\llm_wrapper_project\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\llm_wrapper_project"
+    },
+    {
+      "name": "Build Dataset - 1 - Fetch News (news_scrapper)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\news_scrapper\\fetch_gdelt_news.py",
+      "args": [
+        "--days",
+        "1",
+        "--limit",
+        "5000",
+        "--sleep",
+        "0.5"
+      ],
+      "console": "integratedTerminal",
+      "preLaunchTask": "Create venv & install (news_scrapper)",
+      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scrapper"
+    },
+    {
+      "name": "Build Dataset - 2 - Append Sentiments (news_scrapper)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\news_scrapper\\label_sentiment.py",
+      "args": [
+        "--data-dir",
+        "data/raw",
+        "--workers",
+        "1"
+      ],
+      "console": "integratedTerminal",
+      "preLaunchTask": "Create venv & install (news_scrapper)",
+      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scrapper"
+    },
+    {
+      "name": "Build Dataset - 3 - Fetch Stock Prices (news_scrapper)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\news_scrapper\\fetch_prices.py",
+      "args": [
+        "--data-dir",
+        "data/raw"
+      ],
+      "console": "integratedTerminal",
+      "preLaunchTask": "Create venv & install (news_scrapper)",
+      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scrapper"
+    },
+    {
+      "name": "Build Dataset - 4 - Create Training Data (news_scrapper)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\news_scrapper\\build_dataset.py",
+      "args": [
+        "--data-dir",
+        "data/raw",
+        "--out",
+        "dataset.jsonl",
+        "--min-words",
+        "100"
+      ],
+      "console": "integratedTerminal",
+      "preLaunchTask": "Create venv & install (news_scrapper)",
+      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scrapper"
+    },
+    {
+      "name": "Nightly Run (news_scrapper)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\news_scrapper\\nightly_run.py",
+      "console": "integratedTerminal",
+      "preLaunchTask": "Create venv & install (news_scrapper)",
+      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scrapper"
+    }
+  ]
+}
