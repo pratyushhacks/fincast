@@ -87,18 +87,21 @@ def fetch_urls_for_query(query, timespan_days, retries=3) -> list:
         try:
             r = requests.get(GDELT_API, params=params, timeout=30, verify=False)
             if r.status_code == 429:
-                wait = 10 * (attempt + 1)  # 10s, 20s, 30s
+                wait = 10 * (attempt + 1)
                 print(f"  [{query}] Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
+            if r.status_code != 200:
+                print(f"  [{query}] HTTP {r.status_code}: {r.text.strip()}")
+                return []
             r.raise_for_status()
             articles = r.json().get("articles", [])
             urls = [a["url"] for a in articles if "url" in a]
             urls = [u for u in urls if is_trusted(u)]
-            print(f"  [{query}] -> {len(urls)} articles")
+            print(f"  [{query}] -> {len(urls)} articles after source filter")
             return urls
         except Exception as e:
-            print(f"  [{query}] ERROR: {e}")
+            print(f"  [{query}] ERROR: {type(e).__name__}: {e}")
             return []
     print(f"  [{query}] Failed after {retries} retries")
     return []

@@ -19,11 +19,11 @@ def run(cmd):
     subprocess.run(cmd, check=True)
 
 if __name__ == '__main__':
-  wrapper = subprocess.Popen(
-    [PYTHON, "..\\llm_wrapper_project\\app.py"],
-    cwd="..\\llm_wrapper_project"
-  )
-  time.sleep(5)  # wait for it to start
+  # wrapper = subprocess.Popen(
+  #   [PYTHON, "..\\llm_wrapper_project\\app.py"],
+  #   cwd="..\\llm_wrapper_project"
+  # )
+  # time.sleep(5)  # wait for it to start
 
   run([PYTHON, "fetch_gdelt_news.py",  "--days", "1", "--workers", "5"])
   run([PYTHON, "label_sentiment.py",   "--data-dir", "data/raw", "--workers", "1"])

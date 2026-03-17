@@ -2,14 +2,14 @@
 
 watchlist:
   companies:
-    - '"NVIDIA" OR NVDA'
-    - '"Apple" OR AAPL'
-    - '"Microsoft" OR MSFT'
-    - '"Meta" OR META'
-    - '"Tesla" OR TSLA'
-    - '"Amazon" OR AMZN'
-    - '"Google" OR GOOGL'
-    - '"Intel" OR INTC'
+    - '(NVIDIA OR NVDA)'
+    - '(Apple OR AAPL)'
+    - '(Microsoft OR MSFT)'
+    - '(Meta OR META)'
+    - '(Tesla OR TSLA)'
+    - '(Amazon OR AMZN)'
+    - '(Google OR GOOGL)'
+    - '(Intel OR INTC)'
     - '"AMD"'
     - '"OpenAI"'
 
@@ -22,18 +22,18 @@ watchlist:
     - artificial intelligence market
 
   macro:
-    - '"Federal Reserve" OR "Fed rates"'
-    - "US inflation"
-    - "oil prices markets"
-    - "trade war tariffs technology"
-    - "US recession"
-    - "treasury yields"
-    - "dollar index markets"
-    - "geopolitical risk markets"
-    - "antitrust big tech"
-    - "AI regulation policy"
-    - "China US technology ban"
-    - "cybersecurity breach"
+    - '("Federal Reserve" OR "Fed rates")'
+    - '"US inflation"'
+    - '"oil prices"'
+    - '"trade war" tariffs technology'
+    - '"US recession"'
+    - '"treasury yields"'
+    - '"dollar index"'
+    - '"geopolitical risk"'
+    - '"antitrust" "big tech"'
+    - '"AI regulation"'
+    - '("China" "technology ban" OR "export controls")'
+    - '"cybersecurity breach"'
 
 trusted_sources:
   # Wire Services
