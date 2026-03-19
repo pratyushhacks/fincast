@@ -17,6 +17,8 @@ from dateutil import parser as dateparser
 import tldextract
 import yaml
 
+from langdetect import detect
+
 CONFIG_PATH = "config.yaml"
 try:
     with open(CONFIG_PATH, 'r', encoding='utf-8') as fh:
@@ -30,6 +32,15 @@ except Exception:
 DATA_DIR = os.path.join('data', 'raw')
 SCRAPER_VERSION = "0.1"
 REQUEST_HEADERS = {"User-Agent": "news-scraper/0.1"}
+
+
+
+def is_english(text):
+    try:
+        return detect(text[:500]) == 'en'
+    except Exception:
+        return True  # if detection fails, don't skip
+
 
 
 def slug_id(url, publish_date=None):
@@ -68,6 +79,11 @@ def save_article(url, feed_entry=None, gdelt_query=None, gdelt_category=None):
         print(f"  [SKIP] Too short ({len(text.split())} words): {url}")
         return None
 
+    # skip non-English content
+    if not is_english(text):
+        print(f"  [SKIP] Non-English content: {url}")
+        return None
+    
     publish_date = None
     if feed_entry:
         dt = feed_entry.get('published') or feed_entry.get('updated')

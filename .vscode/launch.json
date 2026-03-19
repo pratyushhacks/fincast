@@ -27,7 +27,8 @@
       "console": "integratedTerminal",
       "preLaunchTask": "Create venv & install (news_scrapper)",
       "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
-      "cwd": "${workspaceFolder}\\news_scrapper"
+      "cwd": "${workspaceFolder}\\news_scrapper",
+      "justMyCode": true
     },
     {
       "name": "Build Dataset - 2 - Append Sentiments (news_scrapper)",

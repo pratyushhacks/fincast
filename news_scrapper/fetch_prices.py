@@ -44,6 +44,19 @@ COMPANY_TICKERS = {
     '"OpenAI"':             None,
 }
 
+PLAIN_NAME_TICKERS = {
+    "NVIDIA":    "NVDA",
+    "Apple":     "AAPL",
+    "Microsoft": "MSFT",
+    "Meta":      "META",
+    "Tesla":     "TSLA",
+    "Amazon":    "AMZN",
+    "Google":    "GOOGL",
+    "Intel":     "INTC",
+    "AMD":       "AMD",
+    "OpenAI":    None,
+}
+
 SECTOR_TICKERS = {
     "semiconductor":                                    "SOXX",
     "cloud computing":                                  "SKYY",
@@ -65,6 +78,21 @@ SECTOR_TICKERS = {
     '"cybersecurity breach"':                           "CIBR",
 }
 
+PRIVATE_COMPANIES = {'"OpenAI"', 'OpenAI'}
+
+# Map ticker -> most relevant benchmark index
+TICKER_BENCHMARK = {
+    # Tech companies -> Nasdaq
+    "NVDA": "QQQ", "AAPL": "QQQ", "MSFT": "QQQ",
+    "META": "QQQ", "TSLA": "QQQ", "AMZN": "QQQ",
+    "GOOGL": "QQQ", "INTC": "QQQ", "AMD": "QQQ",
+    # Sector ETFs -> SPY (broad market)
+    "SOXX": "SPY", "SKYY": "SPY", "DRIV": "SPY",
+    "XLV":  "SPY", "XLF":  "SPY", "BOTZ": "SPY",
+    # Macro -> SPY
+    "USO": "SPY", "TLT": "SPY", "UUP": "SPY",
+    "XLK": "SPY", "CIBR": "SPY",
+}
 _price_cache = {}
 
 
@@ -144,44 +172,58 @@ def get_price_data(ticker, article_date_str, trend_days=7):
         print(f"  [PRICE ERROR] {ticker}: {e}")
         return None
 
+def get_ticker(gdelt_query):
+    return (
+        COMPANY_TICKERS.get(gdelt_query) or
+        SECTOR_TICKERS.get(gdelt_query) or
+        PLAIN_NAME_TICKERS.get(gdelt_query)
+    )
 
 def enrich_article(json_path):
+    print(f"Processing {json_path}...")
     with open(json_path, 'r', encoding='utf-8') as fh:
         meta = json.load(fh)
 
     if TRUSTED_SOURCES and meta.get('site') not in TRUSTED_SOURCES:
+        print(f"  [SKIP] Untrusted source: {json_path}")
         return None
 
     if not meta.get('sentiment'):
-        return None
-
-    # Skip if already complete (all non-SPY entries have bucket_1d)
-    price_changes = meta.get('price_changes', {})
-    if price_changes:
-        all_labeled = all(
-            v.get('bucket_1d') is not None
-            for k, v in price_changes.items()
-            if k != 'SPY'
-        )
-        if all_labeled:
-            return None  # already complete
-
-    date_str = meta.get('publish_date') or meta.get('scrape_date')
-    if not date_str:
+        print(f"  [SKIP] No sentiment label: {json_path}")
         return None
 
     gdelt_query = meta.get('gdelt_query', '')
+    ticker      = get_ticker(gdelt_query)
+
+    if not ticker:
+        if gdelt_query not in PRIVATE_COMPANIES:
+            print(f"  [NO TICKER] gdelt_query='{gdelt_query}'")
+        return None
+
+    # Skip only if primary ticker already has a label
+    existing = meta.get('price_changes', {})
+    primary  = existing.get(gdelt_query)
+    if primary and primary.get('bucket_1d') is not None:
+        print(f"  [SKIP] Already has price label: {json_path}")
+        return None  # already complete
+
+    date_str = meta.get('publish_date') or meta.get('scrape_date')
+    if not date_str:
+        print(f"  [SKIP] No publish/scrape date: {json_path}")
+        return None
+
     price_changes = {}
 
-    ticker = COMPANY_TICKERS.get(gdelt_query) or SECTOR_TICKERS.get(gdelt_query)
-    if ticker:
-        data = get_price_data(ticker, date_str)
-        if data:
-            price_changes[gdelt_query] = data
+    # Primary ticker
+    data = get_price_data(ticker, date_str)
+    if data:
+        price_changes[gdelt_query] = data
 
-    spy = get_price_data("SPY", date_str)
-    if spy:
-        price_changes["SPY"] = spy
+    # Relevant benchmark index for this ticker
+    benchmark      = TICKER_BENCHMARK.get(ticker, "SPY")
+    benchmark_data = get_price_data(benchmark, date_str)
+    if benchmark_data:
+        price_changes[benchmark] = benchmark_data
 
     if price_changes:
         meta['price_changes'] = price_changes
@@ -191,12 +233,12 @@ def enrich_article(json_path):
         bucket = price_changes.get(gdelt_query, {}).get('bucket_1d', 'n/a')
         print(
             f"  [OK] {meta.get('site',''):<20} "
-            f"query={gdelt_query:<30} "
+            f"ticker={ticker:<6} "
+            f"benchmark={benchmark:<4} "
             f"bucket_1d={bucket}"
         )
 
     return meta
-
 
 def collect_json_paths(data_dir):
     paths = []

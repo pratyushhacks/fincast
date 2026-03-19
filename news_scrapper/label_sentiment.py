@@ -9,6 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import yaml
 
 from openai import OpenAI
+from langdetect import detect
 
 from dotenv import load_dotenv
 load_dotenv(dotenv_path=".env")
@@ -20,39 +21,25 @@ CLIENT = OpenAI(
 
 SENTIMENT_MODEL = os.getenv("DEFAULT_CHAT_MODEL", "Phi-3-mini-128k-instruct-cuda-gpu:1")
 
-SENTIMENT_PROMPT = """You are a financial market analyst. 
+# SYSTEM_PROMPT = (
+#     "You are a financial market analyst. "
+#     "You respond ONLY with valid JSON. No markdown, no explanation, no extra text."
+# )
+
+SYSTEM_PROMPT = """You are a financial market analyst. 
 Read the article and respond with JSON:
 
-1. summary: max 300 tokens, capture the key market-relevant facts
-2. tags: which of these apply: {watchlist}
-3. sentiment: market impact score 1-5 where:
+1. summary: a couple of sentences capturing the key market-relevant facts
+2. sentiment: market impact score 1-5 where:
      1=strongly negative (war, crisis, crash, sanctions)
      2=negative (rate hikes, recession fears, earnings miss)
      3=neutral (routine news, no clear market impact)
      4=positive (rate cuts, strong earnings, trade deals)
      5=strongly positive (major breakthrough, record growth)
-4. reason: one sentence explaining the market impact
-
-Article title: {title}
-Article text: {text}
+3. reason: one sentence explaining the market impact
 
 Respond ONLY with JSON, no markdown:
 {{"summary": "...", "sentiment": 2, "reason": "..."}}"""
-
-
-def load_watchlist(config_path="gdelt_config.yaml"):
-    try:
-        with open(config_path, 'r', encoding='utf-8') as fh:
-            cfg = yaml.safe_load(fh) or {}
-        wl = cfg.get('watchlist', {})
-        all_terms = (
-            wl.get('companies', []) +
-            wl.get('sectors',   []) +
-            wl.get('macro',     [])
-        )
-        return all_terms
-    except Exception:
-        return []
 
 def load_trusted_sources(config_path="gdelt_config.yaml"):
     try:
@@ -62,21 +49,31 @@ def load_trusted_sources(config_path="gdelt_config.yaml"):
     except Exception:
         return set()
 
-WATCHLIST = load_watchlist()
 TRUSTED_SOURCES = load_trusted_sources()
 
+def is_english(text):
+    try:
+        return detect(text) == 'en'
+    except Exception:
+        return True  # if detection fails, don't skip
+    
 def score_article(json_path):
     with open(json_path, 'r', encoding='utf-8') as fh:
         meta = json.load(fh)
 
+    print(f"Scoring: file: {json_path}")
+
     if TRUSTED_SOURCES and meta.get('site') not in TRUSTED_SOURCES:
+        print(f"  [SKIP] Untrusted source: {meta.get('site')}")
         return None
     
     if meta.get('sentiment'):
+        print(f"  [SKIP] Already labeled: {json_path}")
         return None
 
     text_path = meta.get('text_path')
     if not text_path or not os.path.exists(text_path):
+        print(f"  [SKIP] Text file not found: {text_path}")
         return None
 
     with open(text_path, 'r', encoding='utf-8') as fh:
@@ -84,19 +81,27 @@ def score_article(json_path):
 
     # Skip very short articles
     if len(text.split()) < 50:
+        print(f"  [SKIP] Article too short: {json_path}")
         return None
 
-    prompt = SENTIMENT_PROMPT.format(
-        watchlist=', '.join(WATCHLIST),
-        title=meta.get('title', ''),
-        text=text
-    )
+    # skip if language detection says non-English
+     # skip non-English content
+    if not is_english(text):
+        print(f"  [SKIP] Non-English content: {json_path}")
+        return None
 
+    user_prompt = "Provide a concise summary and market sentiment score (1-5) for this article:\n\n" + text
+    
+    raw = ""
     try:
         response = CLIENT.chat.completions.create(
             model=SENTIMENT_MODEL,
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt}
+            ],
             max_tokens=500,  # bumped slightly for summary
+            temperature=0.0,  # deterministic output
         )
         raw = response.choices[0].message.content.strip()
 
@@ -106,6 +111,12 @@ def score_article(json_path):
             if raw.startswith("json"):
                 raw = raw[4:]
             raw = raw.strip()
+
+        # extract just the JSON object in case of extra text
+        start = raw.find('{')
+        end   = raw.rfind('}')
+        if start != -1 and end != -1:
+            raw = raw[start:end+1]
 
         result = json.loads(raw)
 

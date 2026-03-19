@@ -7,6 +7,7 @@ Usage:
   python backfill_gdelt.py --days 30 --limit 5000
 """
 
+import json
 import os
 import time
 import argparse
@@ -70,17 +71,15 @@ def is_trusted(url):
         return False
 
 
-def fetch_urls_for_query(query, timespan_days, retries=3) -> list:
+def fetch_urls_for_query(query, timespan_days, retries=3):
     params = {
-        "query": query,
-        "mode": "artlist",
-        "maxrecords": 250,
-        "format": "json",
-        "timespan": f"{timespan_days}d",
-        "sourcelang": "english",
-        "sourcecountry": os.getenv(
-            "GDELT_SOURCE_COUNTRIES", "US,GB,CA,AU,SN,HK,IN,JA,KS"
-        ),
+        "query":         query,
+        "mode":          "artlist",
+        "maxrecords":    250,
+        "format":        "json",
+        "timespan":      f"{timespan_days}d",
+        "sourcelang":    "english",
+        "sourcecountry": os.getenv("GDELT_SOURCE_COUNTRIES", "US,GB,CA,AU,SN,HK,IN,JA,KS"),
     }
 
     for attempt in range(retries):
@@ -94,15 +93,34 @@ def fetch_urls_for_query(query, timespan_days, retries=3) -> list:
             if r.status_code != 200:
                 print(f"  [{query}] HTTP {r.status_code}: {r.text.strip()}")
                 return []
+
             r.raise_for_status()
-            articles = r.json().get("articles", [])
+            
+            # GDELT sometimes returns malformed JSON — clean it first
+            try:
+                data = r.json()
+            except Exception:
+                # strip invalid escape sequences and retry parse
+                cleaned = r.content.decode('utf-8', errors='ignore')
+                cleaned = cleaned.encode('ascii', errors='ignore').decode('ascii')
+                try:
+                    import re
+                    cleaned = re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', cleaned)
+                    data = json.loads(cleaned)
+                except Exception as e:
+                    print(f"  [{query}] Malformed JSON, skipping: {e}")
+                    return []
+
+            articles = data.get("articles", [])
             urls = [a["url"] for a in articles if "url" in a]
             urls = [u for u in urls if is_trusted(u)]
             print(f"  [{query}] -> {len(urls)} articles after source filter")
             return urls
+
         except Exception as e:
             print(f"  [{query}] ERROR: {type(e).__name__}: {e}")
             return []
+
     print(f"  [{query}] Failed after {retries} retries")
     return []
 
