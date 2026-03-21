@@ -71,7 +71,7 @@ def is_trusted(url):
         return False
 
 
-def fetch_urls_for_query(query, timespan_days, retries=3):
+def fetch_urls_for_query(query, timespan_days, retries=5):
     params = {
         "query":         query,
         "mode":          "artlist",
@@ -84,9 +84,9 @@ def fetch_urls_for_query(query, timespan_days, retries=3):
 
     for attempt in range(retries):
         try:
-            r = requests.get(GDELT_API, params=params, timeout=30, verify=False)
+            r = requests.get(GDELT_API, params=params, timeout=60, verify=False)  # was 30
             if r.status_code == 429:
-                wait = 10 * (attempt + 1)
+                wait = 15 * (attempt + 1)
                 print(f"  [{query}] Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
@@ -94,21 +94,15 @@ def fetch_urls_for_query(query, timespan_days, retries=3):
                 print(f"  [{query}] HTTP {r.status_code}: {r.text.strip()}")
                 return []
 
-            r.raise_for_status()
-            
-            # GDELT sometimes returns malformed JSON — clean it first
             try:
                 data = r.json()
             except Exception:
-                # strip invalid escape sequences and retry parse
                 cleaned = r.content.decode('utf-8', errors='ignore')
-                cleaned = cleaned.encode('ascii', errors='ignore').decode('ascii')
+                cleaned = re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', cleaned)
                 try:
-                    import re
-                    cleaned = re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', cleaned)
                     data = json.loads(cleaned)
                 except Exception as e:
-                    print(f"  [{query}] Malformed JSON, skipping: {e}")
+                    print(f"  [{query}] Malformed JSON: {e}")
                     return []
 
             articles = data.get("articles", [])
@@ -117,13 +111,16 @@ def fetch_urls_for_query(query, timespan_days, retries=3):
             print(f"  [{query}] -> {len(urls)} articles after source filter")
             return urls
 
+        except requests.exceptions.Timeout:
+            wait = 10 * (attempt + 1)  # 10s, 20s, 30s
+            print(f"  [{query}] Timeout (attempt {attempt+1}/{retries}), waiting {wait}s...")
+            time.sleep(wait)
         except Exception as e:
             print(f"  [{query}] ERROR: {type(e).__name__}: {e}")
             return []
 
     print(f"  [{query}] Failed after {retries} retries")
     return []
-
 
 def collect_all_urls(days, companies, sectors, macro):
     all_urls = []

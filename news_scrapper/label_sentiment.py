@@ -21,13 +21,12 @@ CLIENT = OpenAI(
 
 SENTIMENT_MODEL = os.getenv("DEFAULT_CHAT_MODEL", "Phi-3-mini-128k-instruct-cuda-gpu:1")
 
-# SYSTEM_PROMPT = (
-#     "You are a financial market analyst. "
-#     "You respond ONLY with valid JSON. No markdown, no explanation, no extra text."
-# )
+SYSTEM_PROMPT = (
+    "You are a financial market analyst. "
+    "You respond ONLY with valid JSON. No markdown, no explanation, no extra text."
+)
 
-SYSTEM_PROMPT = """You are a financial market analyst. 
-Read the article and respond with JSON:
+USER_PROMPT = """Read the user provided article and respond with clean JSON format that includes the following keys:
 
 1. summary: a couple of sentences capturing the key market-relevant facts
 2. sentiment: market impact score 1-5 where:
@@ -38,8 +37,11 @@ Read the article and respond with JSON:
      5=strongly positive (major breakthrough, record growth)
 3. reason: one sentence explaining the market impact
 
+ARTICLE TEXT: {text}
+    
 Respond ONLY with JSON, no markdown:
-{{"summary": "...", "sentiment": 2, "reason": "..."}}"""
+{{"summary": "...", "sentiment": <1-5>, "reason": "why you assigned this sentiment"}}
+"""
 
 def load_trusted_sources(config_path="gdelt_config.yaml"):
     try:
@@ -61,14 +63,14 @@ def score_article(json_path):
     with open(json_path, 'r', encoding='utf-8') as fh:
         meta = json.load(fh)
 
-    print(f"Scoring: file: {json_path}")
+    # print(f"Scoring: file: {json_path}")
 
     if TRUSTED_SOURCES and meta.get('site') not in TRUSTED_SOURCES:
         print(f"  [SKIP] Untrusted source: {meta.get('site')}")
         return None
     
     if meta.get('sentiment'):
-        print(f"  [SKIP] Already labeled: {json_path}")
+        # print(f"  [SKIP] Already labeled: {json_path}")
         return None
 
     text_path = meta.get('text_path')
@@ -90,7 +92,7 @@ def score_article(json_path):
         print(f"  [SKIP] Non-English content: {json_path}")
         return None
 
-    user_prompt = "Provide a concise summary and market sentiment score (1-5) for this article:\n\n" + text
+    prompt = USER_PROMPT.format(text=text)
     
     raw = ""
     try:
@@ -98,7 +100,7 @@ def score_article(json_path):
             model=SENTIMENT_MODEL,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt}
+                {"role": "user", "content": prompt},
             ],
             max_tokens=500,  # bumped slightly for summary
             temperature=0.0,  # deterministic output
@@ -127,7 +129,7 @@ def score_article(json_path):
         with open(json_path, 'w', encoding='utf-8') as fh:
             json.dump(meta, fh, ensure_ascii=False, indent=2)
 
-        print(f"  [OK] {meta['site']} | sentiment={meta['sentiment']} | summary={meta['summary'][:60]}")
+        print(f"[Scored] {json_path} | sentiment={meta['sentiment']} | summary={meta['summary'][:60]}")
         return meta
 
     except json.JSONDecodeError:

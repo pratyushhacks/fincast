@@ -147,7 +147,7 @@ def get_price_data(ticker, article_date_str, trend_days=7):
 
         # Label: next trading day after article date
         if base_idx + 1 >= len(closes):
-            print(f"  [NO NEXT DAY] {ticker} | date={article_date}")
+            # print(f"  [NO NEXT DAY] {ticker} | date={article_date}")
             next_price = None
             change_1d  = None
             bucket_1d  = None
@@ -180,16 +180,16 @@ def get_ticker(gdelt_query):
     )
 
 def enrich_article(json_path):
-    print(f"Processing {json_path}...")
+    # print(f"Processing {json_path}...")
     with open(json_path, 'r', encoding='utf-8') as fh:
         meta = json.load(fh)
 
     if TRUSTED_SOURCES and meta.get('site') not in TRUSTED_SOURCES:
-        print(f"  [SKIP] Untrusted source: {json_path}")
+        print(f"[SKIP] Untrusted source: {json_path}")
         return None
 
     if not meta.get('sentiment'):
-        print(f"  [SKIP] No sentiment label: {json_path}")
+        print(f"[SKIP] No sentiment label: {json_path}")
         return None
 
     gdelt_query = meta.get('gdelt_query', '')
@@ -197,19 +197,19 @@ def enrich_article(json_path):
 
     if not ticker:
         if gdelt_query not in PRIVATE_COMPANIES:
-            print(f"  [NO TICKER] gdelt_query='{gdelt_query}'")
+            print(f"[NO TICKER] gdelt_query='{gdelt_query}'")
         return None
 
     # Skip only if primary ticker already has a label
     existing = meta.get('price_changes', {})
     primary  = existing.get(gdelt_query)
     if primary and primary.get('bucket_1d') is not None:
-        print(f"  [SKIP] Already has price label: {json_path}")
+        # print(f"  [SKIP] Already has price label: {json_path}")
         return None  # already complete
 
     date_str = meta.get('publish_date') or meta.get('scrape_date')
     if not date_str:
-        print(f"  [SKIP] No publish/scrape date: {json_path}")
+        print(f"[SKIP] No publish/scrape date: {json_path}")
         return None
 
     price_changes = {}
@@ -232,7 +232,7 @@ def enrich_article(json_path):
 
         bucket = price_changes.get(gdelt_query, {}).get('bucket_1d', 'n/a')
         print(
-            f"  [OK] {meta.get('site',''):<20} "
+            f"[Processed] {json_path} "
             f"ticker={ticker:<6} "
             f"benchmark={benchmark:<4} "
             f"bucket_1d={bucket}"
