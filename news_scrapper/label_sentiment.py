@@ -1,32 +1,37 @@
 r"""
-label_sentiment.py — scores articles using local LLM via llm_wrapper API
+label_sentiment.py — scores articles using local LLM via llm_wrapper API.
+
+Usage:
+  python label_sentiment.py --data-dir data/raw --workers 1
 """
 import os
 import json
 import argparse
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import yaml
 
 from openai import OpenAI
 from langdetect import detect
-
 from dotenv import load_dotenv
+
+from utils import get_trusted_sources
+
 load_dotenv(dotenv_path=".env")
 
 CLIENT = OpenAI(
-    base_url="http://127.0.0.1:8091/v1",
+    base_url=f"http://{os.getenv('HOST', '127.0.0.1')}:{os.getenv('PORT', '8091')}/v1",
     api_key="not-needed"
 )
 
-SENTIMENT_MODEL = os.getenv("DEFAULT_CHAT_MODEL", "Phi-3-mini-128k-instruct-cuda-gpu:1")
+SENTIMENT_MODEL   = os.getenv("DEFAULT_CHAT_MODEL", "phi-3-mini-128k-instruct-cuda-gpu:1")
+TRUSTED_SOURCES   = get_trusted_sources()
 
 SYSTEM_PROMPT = (
     "You are a financial market analyst. "
     "You respond ONLY with valid JSON. No markdown, no explanation, no extra text."
 )
 
-USER_PROMPT = """Read the user provided article and respond with clean JSON format that includes the following keys:
+USER_PROMPT = """Read the article and respond with clean JSON with exactly these keys:
 
 1. summary: a couple of sentences capturing the key market-relevant facts
 2. sentiment: market impact score 1-5 where:
@@ -38,39 +43,26 @@ USER_PROMPT = """Read the user provided article and respond with clean JSON form
 3. reason: one sentence explaining the market impact
 
 ARTICLE TEXT: {text}
-    
+
 Respond ONLY with JSON, no markdown:
-{{"summary": "...", "sentiment": <1-5>, "reason": "why you assigned this sentiment"}}
-"""
+{{"summary": "...", "sentiment": <1-5>, "reason": "..."}}"""
 
-def load_trusted_sources(config_path="gdelt_config.yaml"):
-    try:
-        with open(config_path, 'r', encoding='utf-8') as fh:
-            cfg = yaml.safe_load(fh) or {}
-        return set(cfg.get('trusted_sources', []))
-    except Exception:
-        return set()
-
-TRUSTED_SOURCES = load_trusted_sources()
 
 def is_english(text):
     try:
         return detect(text) == 'en'
     except Exception:
-        return True  # if detection fails, don't skip
-    
+        return True
+
+
 def score_article(json_path):
     with open(json_path, 'r', encoding='utf-8') as fh:
         meta = json.load(fh)
 
-    # print(f"Scoring: file: {json_path}")
-
     if TRUSTED_SOURCES and meta.get('site') not in TRUSTED_SOURCES:
-        print(f"  [SKIP] Untrusted source: {meta.get('site')}")
         return None
-    
+
     if meta.get('sentiment'):
-        # print(f"  [SKIP] Already labeled: {json_path}")
         return None
 
     text_path = meta.get('text_path')
@@ -81,55 +73,53 @@ def score_article(json_path):
     with open(text_path, 'r', encoding='utf-8') as fh:
         text = fh.read()[:3000]
 
-    # Skip very short articles
     if len(text.split()) < 50:
-        print(f"  [SKIP] Article too short: {json_path}")
         return None
 
-    # skip if language detection says non-English
-     # skip non-English content
     if not is_english(text):
-        print(f"  [SKIP] Non-English content: {json_path}")
+        print(f"  [SKIP] Non-English: {json_path}")
         return None
 
-    prompt = USER_PROMPT.format(text=text)
-    
     raw = ""
     try:
         response = CLIENT.chat.completions.create(
             model=SENTIMENT_MODEL,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt},
+                {"role": "user",   "content": USER_PROMPT.format(text=text)},
             ],
-            max_tokens=500,  # bumped slightly for summary
-            temperature=0.0,  # deterministic output
+            max_tokens=500,
+            temperature=0.0,
         )
         raw = response.choices[0].message.content.strip()
 
-        # Strip markdown fences if Phi wraps output
+        # Strip markdown fences if model wraps output
         if raw.startswith("```"):
             raw = raw.split("```")[1]
             if raw.startswith("json"):
                 raw = raw[4:]
             raw = raw.strip()
 
-        # extract just the JSON object in case of extra text
+        # Extract JSON object in case of extra text
         start = raw.find('{')
         end   = raw.rfind('}')
-        if start != -1 and end != -1:
-            raw = raw[start:end+1]
-
-        result = json.loads(raw)
-
-        meta['summary']          = result.get('summary', '')
-        meta['sentiment']        = result.get('sentiment')
-        meta['sentiment_reason'] = result.get('reason', '')
+        if start == -1 or end == -1:
+            # Model returned plain text — salvage as neutral
+            print(f"  [PLAIN TEXT] Salvaging: {json_path}")
+            meta['summary']          = raw[:200]
+            meta['sentiment']        = 3
+            meta['sentiment_reason'] = 'Auto-salvaged from plain text response'
+        else:
+            raw    = raw[start:end+1]
+            result = json.loads(raw)
+            meta['summary']          = result.get('summary', '')
+            meta['sentiment']        = result.get('sentiment')
+            meta['sentiment_reason'] = result.get('reason', '')
 
         with open(json_path, 'w', encoding='utf-8') as fh:
             json.dump(meta, fh, ensure_ascii=False, indent=2)
 
-        print(f"[Scored] {json_path} | sentiment={meta['sentiment']} | summary={meta['summary'][:60]}")
+        print(f"  [OK] {meta.get('site',''):<20} sentiment={meta['sentiment']} | {meta['summary'][:60]}")
         return meta
 
     except json.JSONDecodeError:
@@ -150,25 +140,27 @@ def collect_json_paths(data_dir):
 
 def main(data_dir, workers, sleep):
     paths = collect_json_paths(data_dir)
-    print(f"Found {len(paths)} articles to label\n")
+    print(f"Found {len(paths)} articles")
+    print(f"Trusted sources filter: {len(TRUSTED_SOURCES)} sites\n" if TRUSTED_SOURCES else "No source filter\n")
 
-    if TRUSTED_SOURCES:
-        print(f"Trusted sources filter active: {len(TRUSTED_SOURCES)} sites\n")
-    else:
-        print("No source filter — processing all articles\n")
-
-    # Local model is single-threaded — workers=1 avoids overwhelming it
+    labeled, skipped = 0, 0
     with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = {executor.submit(score_article, p): p for p in paths}
         for future in as_completed(futures):
-            future.result()
+            result = future.result()
+            if result:
+                labeled += 1
+            else:
+                skipped += 1
             time.sleep(sleep)
+
+    print(f"\nDone: {labeled} labeled, {skipped} skipped")
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data-dir', default='data/raw')
-    parser.add_argument('--workers', type=int, default=1)  # default 1 for local model
-    parser.add_argument('--sleep', type=float, default=0.0)
+    parser.add_argument('--workers',  type=int,   default=1)
+    parser.add_argument('--sleep',    type=float, default=0.0)
     args = parser.parse_args()
     main(args.data_dir, args.workers, args.sleep)

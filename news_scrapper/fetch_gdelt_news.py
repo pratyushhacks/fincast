@@ -1,63 +1,35 @@
 r"""
-backfill_gdelt.py — fetches article URLs from GDELT DOC API using watchlist from config.yaml.
+fetch_gdelt_news.py — fetches article URLs from GDELT DOC API using watchlist from gdelt_config.yaml.
 
 Usage:
-  python backfill_gdelt.py --days 30
-  python backfill_gdelt.py --days 1          # nightly run
-  python backfill_gdelt.py --days 30 --limit 5000
+  python fetch_gdelt_news.py --days 1          # nightly run
+  python fetch_gdelt_news.py --days 30         # bootstrap
+  python fetch_gdelt_news.py --days 30 --limit 5000
 """
-
+import re
 import json
 import os
 import time
 import argparse
 
 import requests
-
-import yaml
-
+import urllib3
+from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from scraper import save_article
 
 from dotenv import load_dotenv
 
-import urllib3
-from urllib.parse import urlparse
+from scraper import save_article
+from utils import get_watchlist, get_trusted_sources
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
 
-DATA_DIR = os.getenv("GDELT_DATA_DIR", "data/backfill/gdelt")
-CONFIG_PATH = os.getenv("GDELT_CONFIG_PATH", "gdelt_config.yaml")
-GDELT_API = os.getenv("GDELT_API", "http://api.gdeltproject.org/api/v2/doc/doc")
+DATA_DIR     = os.getenv("GDELT_DATA_DIR",    "data/backfill/gdelt")
+GDELT_API    = os.getenv("GDELT_API",         "http://api.gdeltproject.org/api/v2/doc/doc")
 DEFAULT_DAYS = int(os.getenv("GDELT_DEFAULT_DAYS", 30))
 
-
-def load_watchlist(config_path=CONFIG_PATH):
-    try:
-        with open(config_path, "r", encoding="utf-8") as fh:
-            cfg = yaml.safe_load(fh) or {}
-        wl = cfg.get("watchlist", {})
-        return (
-            wl.get("companies", []),
-            wl.get("sectors", []),
-            wl.get("macro", []),
-        )
-    except Exception as e:
-        print(f"[WARN] Could not load config: {e}")
-        return [], [], []
-
-
-def load_trusted_sources(config_path=CONFIG_PATH):
-    try:
-        with open(config_path, "r", encoding="utf-8") as fh:
-            cfg = yaml.safe_load(fh) or {}
-        return set(cfg.get("trusted_sources", []))
-    except Exception:
-        return set()
-
-
-TRUSTED_SOURCES = load_trusted_sources()
+TRUSTED_SOURCES = get_trusted_sources()
 
 
 def is_trusted(url):
@@ -84,12 +56,14 @@ def fetch_urls_for_query(query, timespan_days, retries=5):
 
     for attempt in range(retries):
         try:
-            r = requests.get(GDELT_API, params=params, timeout=60, verify=False)  # was 30
+            r = requests.get(GDELT_API, params=params, timeout=60, verify=False)
+
             if r.status_code == 429:
-                wait = 15 * (attempt + 1)
+                wait = min(15 * (attempt + 1), 60)
                 print(f"  [{query}] Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
+
             if r.status_code != 200:
                 print(f"  [{query}] HTTP {r.status_code}: {r.text.strip()}")
                 return []
@@ -112,7 +86,7 @@ def fetch_urls_for_query(query, timespan_days, retries=5):
             return urls
 
         except requests.exceptions.Timeout:
-            wait = 10 * (attempt + 1)  # 10s, 20s, 30s
+            wait = min(10 * (attempt + 1), 60)
             print(f"  [{query}] Timeout (attempt {attempt+1}/{retries}), waiting {wait}s...")
             time.sleep(wait)
         except Exception as e:
@@ -122,12 +96,13 @@ def fetch_urls_for_query(query, timespan_days, retries=5):
     print(f"  [{query}] Failed after {retries} retries")
     return []
 
+
 def collect_all_urls(days, companies, sectors, macro):
-    all_urls = []
+    all_urls    = []
     all_queries = (
-        [(q, "company") for q in companies]
-        + [(q, "sector") for q in sectors]
-        + [(q, "macro") for q in macro]
+        [(q, "company") for q in companies] +
+        [(q, "sector")  for q in sectors]   +
+        [(q, "macro")   for q in macro]
     )
 
     print(f"Querying {len(all_queries)} watchlist items...\n")
@@ -135,46 +110,46 @@ def collect_all_urls(days, companies, sectors, macro):
     failed_queries = []
     for query, category in all_queries:
         print(f"  [{category}] {query}")
-        urls = fetch_urls_for_query(query, timespan_days=days, retries=10)
-        if len(urls) == 0:
+        urls = fetch_urls_for_query(query, timespan_days=days)
+        if not urls:
             failed_queries.append((query, category))
         for url in urls:
-            all_urls.append((url, query, category))
-        time.sleep(2)  # gentle on GDELT API
-
-    # try failed queries again at the end
-    for query, category in failed_queries:
-        print(f"  [RETRY] {query}")
-        urls = fetch_urls_for_query(query, timespan_days=days, retries=10)
-        for url in urls:
-            all_urls.append((url, query, category))
+            all_urls.append((url, query))
         time.sleep(2)
+
+    # Retry failed queries once at the end
+    if failed_queries:
+        print(f"\nRetrying {len(failed_queries)} failed queries...")
+        for query, category in failed_queries:
+            print(f"  [RETRY] {query}")
+            urls = fetch_urls_for_query(query, timespan_days=days, retries=10)
+            for url in urls:
+                all_urls.append((url, query))
+            time.sleep(2)
 
     # Deduplicate preserving order
     seen, deduped = set(), []
-    for url, query, category in all_urls:
+    for url, query in all_urls:
         if url not in seen:
             seen.add(url)
-            deduped.append((url, query, category))
+            deduped.append((url, query))
 
     return deduped
 
 
 def fetch_and_save(args):
-    url, query, category = args
+    url, query = args
     try:
-        meta = save_article(
-            url, feed_entry=None, gdelt_query=query, gdelt_category=category
-        )
+        meta = save_article(url, feed_entry=None, gdelt_query=query)
         return meta, None
     except Exception as e:
         return None, str(e)
 
 
-def main(days=DEFAULT_DAYS, limit=None, sleep=0.5, workers=5):
+def main(days=DEFAULT_DAYS, limit=None, sleep=0.0, workers=5):
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    companies, sectors, macro = load_watchlist()
+    companies, sectors, macro = get_watchlist()
     print(
         f"Watchlist: {len(companies)} companies, "
         f"{len(sectors)} sectors, "
@@ -192,16 +167,16 @@ def main(days=DEFAULT_DAYS, limit=None, sleep=0.5, workers=5):
     with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = {executor.submit(fetch_and_save, item): item for item in urls}
         for idx, future in enumerate(as_completed(futures), 1):
-            url, query, category = futures[future]
-            meta, err = future.result()
+            url, query = futures[future]
+            meta, err  = future.result()
             if err:
-                print(f"  [ERROR] {url}: {err}")
+                print(f"  [ERROR {idx}/{len(urls)}] {url}: {err}")
                 errors += 1
             elif meta:
-                print(f"  [OK {idx}/{len(urls)}] {url}")
+                print(f"  [OK    {idx}/{len(urls)}] {url}")
                 fetched += 1
             else:
-                print(f"  [SKIP {idx}/{len(urls)}] {url}")
+                print(f"  [SKIP  {idx}/{len(urls)}] {url}")
                 skipped += 1
 
     print(f"\nDone: {fetched} saved, {skipped} skipped, {errors} errors")
@@ -209,15 +184,9 @@ def main(days=DEFAULT_DAYS, limit=None, sleep=0.5, workers=5):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fetch news via GDELT DOC API")
-    parser.add_argument(
-        "--days", type=int, default=DEFAULT_DAYS, help="Lookback window in days"
-    )
-    parser.add_argument("--limit", type=int, default=None, help="Max URLs to fetch")
-    parser.add_argument(
-        "--sleep", type=float, default=0.5, help="Sleep between article fetches"
-    )
-    parser.add_argument(
-        "--workers", type=int, default=5, help="Number of concurrent workers"
-    )
+    parser.add_argument("--days",    type=int,   default=DEFAULT_DAYS)
+    parser.add_argument("--limit",   type=int,   default=None)
+    parser.add_argument("--sleep",   type=float, default=0.0)
+    parser.add_argument("--workers", type=int,   default=5)
     args = parser.parse_args()
     main(days=args.days, limit=args.limit, sleep=args.sleep, workers=args.workers)

@@ -17,3 +17,9 @@ yfinance
 
 #language detection
 langdetect
+
+# jupyter notebook
+jupyter
+seaborn
+scipy
+matplotlib

@@ -25,6 +25,6 @@ if __name__ == '__main__':
   # )
   # time.sleep(5)  # wait for it to start
 
-  run([PYTHON, "fetch_gdelt_news.py",  "--days", "1", "--workers", "5"])
+  run([PYTHON, "fetch_gdelt_news.py",  "--days", "3", "--workers", "1"])
   run([PYTHON, "label_sentiment.py",   "--data-dir", "data/raw", "--workers", "1"])
   run([PYTHON, "fetch_prices.py",      "--data-dir", "data/raw"])

@@ -1,0 +1,25 @@
+{
+  "assessment": "The dataset shows a good distribution of sentiment scores and price buckets across tickers, with a majority of examples being flat. However, some tickers have too few examples to train on, and there is a need to balance the dataset by oversampling non-flat buckets. The dataset is ready to be used for training with the proposed sampling strategy.",
+  "total_examples_target": 10000,
+  "train_pct": 70,
+  "val_pct": 20,
+  "test_pct": 10,
+  "sampling_strategy": {
+    "flat_oversample": true,
+    "flat_cap_pct": 40,
+    "min_articles_per_day": 5,
+    "exclude_tickers": [
+      "BOTZ",
+      "AAPL"
+    ]
+  },
+  "data_gaps": [
+    "Ticker AAPL has too few examples to train on.",
+    "Ticker BOTZ has too few examples to train on."
+  ],
+  "recommendations": [
+    "Oversample non-flat buckets to balance the dataset.",
+    "Exclude tickers with too few examples to train on."
+  ],
+  "ready_to_train": true
+}
