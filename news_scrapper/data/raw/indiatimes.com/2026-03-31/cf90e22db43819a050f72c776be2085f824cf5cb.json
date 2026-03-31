@@ -1,0 +1,15 @@
+{
+  "id": "cf90e22db43819a050f72c776be2085f824cf5cb",
+  "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/jsw-mg-motor-india-to-hike-prices-by-up-to-2-from-april-1-premium-evs-excluded/articleshow/129895826.cms",
+  "site": "indiatimes.com",
+  "title": "JSW MG Motor India to hike prices by up to 2% from April 1; premium EVs excluded - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:22.647922",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\cf90e22db43819a050f72c776be2085f824cf5cb.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\cf90e22db43819a050f72c776be2085f824cf5cb.txt",
+  "word_count": 326,
+  "paywalled": false,
+  "dedup_hash": "b527bac4850a34c53c2458e148f4436fe016248b",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles"
+}

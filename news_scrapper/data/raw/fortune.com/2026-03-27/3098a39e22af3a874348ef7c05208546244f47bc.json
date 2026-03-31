@@ -1,0 +1,29 @@
+{
+  "id": "3098a39e22af3a874348ef7c05208546244f47bc",
+  "url": "https://fortune.com/2026/03/26/disney-ceo-three-reasons-bad-first-week/",
+  "site": "fortune.com",
+  "title": "New Disney CEO’s first week on the job was upset by 3 big developments | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:10.391776",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-27\\3098a39e22af3a874348ef7c05208546244f47bc.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-27\\3098a39e22af3a874348ef7c05208546244f47bc.txt",
+  "word_count": 748,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "f0e06a3884e7e98b93a906b50a0505d336de4cd1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "The article discusses the collapse of major partnerships and developments affecting Disney's vision for a unified digital entertainment platform, including the dissolution of the deal with OpenAI and the setbacks in Epic Games' Fortnite updates.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the impact of the dissolved partnerships and the failure of Fortnite updates to increase engagement, which affects Disney's strategic plans and investments."
+}

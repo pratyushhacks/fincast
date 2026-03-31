@@ -1,0 +1,68 @@
+{
+  "id": "70f0603521700a3e57454f13c683bb32f9ae8742",
+  "url": "https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html",
+  "site": "cnbc.com",
+  "title": "Meta signs $27 billion deal with Nebius for AI infrastructure",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:06.719216",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-17\\70f0603521700a3e57454f13c683bb32f9ae8742.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-17\\70f0603521700a3e57454f13c683bb32f9ae8742.txt",
+  "word_count": 425,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "0483d2c2ac3f4fc9d2c522cc3b3fd62c0b0b2f83",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta signs $27 billion deal with Nebius for AI infrastructure. Nebius' shares surge 14%, with a potential total spend of up to $42.4 billion by Meta. Nebius emerges as a leading AI cloud provider, with significant investments from companies like Nvidia and Microsoft.",
+  "sentiment": 4,
+  "sentiment_reason": "The article reports a significant, positive financial commitment from Meta and a surge in Nebius' share price due to the deal, indicating strong market confidence and potential growth in the AI cloud computing sector.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

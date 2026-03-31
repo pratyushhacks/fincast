@@ -1,0 +1,54 @@
+{
+  "id": "3238785f86324e4b36a2f19a722570317480b566",
+  "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-30-march-2026/article70799147.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Share Market Highlights March 30: Sensex, Nifty tumble over 2% as FY26 closes on a weak note - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:40.971322",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\3238785f86324e4b36a2f19a722570317480b566.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\3238785f86324e4b36a2f19a722570317480b566.txt",
+  "word_count": 325,
+  "paywalled": false,
+  "dedup_hash": "e15edb8b3c03682997907791bad20d1421473c04",
+  "scraper_version": "0.1",
+  "gdelt_query": "healthcare stocks",
+  "summary": "TAC Security has surpassed 10,000 clients, marking a significant milestone and establishing a powerful global cybersecurity distribution platform. The company's growth is driven by product strength, credibility, automation, and execution-led growth, with a broad client base across various industries.",
+  "sentiment": 5,
+  "sentiment_reason": "The achievement of surpassing 10,000 clients and the establishment of a robust global platform signify strong market growth and potential for future monetization, reflecting a strongly positive market impact.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        146.01,
+        144.74,
+        144.77,
+        144.79,
+        146.24,
+        145.74,
+        143.26
+      ],
+      "base_price": 143.82,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "6430b2139c7623d619c27b8daca74bc1484eff70",
+  "url": "https://www.thehindubusinessline.com/markets/commodities/omc-stocks-slump-as-crude-jumps-to-114-per-barrel/article70761123.ece",
+  "site": "thehindubusinessline.com",
+  "title": "OMC stocks slump as crude jumps to $114 per barrel - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:44.478964",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\6430b2139c7623d619c27b8daca74bc1484eff70.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\6430b2139c7623d619c27b8daca74bc1484eff70.txt",
+  "word_count": 206,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "dc1c7abe229313a6d4a65039ebb5afe724519968",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Oil marketing companies' shares plunged due to escalating tensions in West Asia and sharp increase in crude oil prices. Brent crude surged 6.25%, and Indian stock markets also suffered heavy losses.",
+  "sentiment": 1,
+  "sentiment_reason": "The article indicates a strong negative market impact due to geopolitical tensions and rising crude oil prices affecting oil marketing companies and stock markets.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36
+      ],
+      "base_price": 121.43,
+      "next_price": 110.56,
+      "change_1d": -8.9517,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

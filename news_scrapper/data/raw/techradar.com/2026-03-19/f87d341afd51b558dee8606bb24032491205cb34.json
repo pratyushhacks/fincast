@@ -1,0 +1,65 @@
+{
+  "id": "f87d341afd51b558dee8606bb24032491205cb34",
+  "url": "https://www.techradar.com/health-fitness/fitness-apps/fitbit-is-promising-a-15-percent-accuracy-boost-for-sleep-tracking-thanks-to-some-significant-updates-for-premium-subscribers",
+  "site": "techradar.com",
+  "title": "Fitbit is promising a 15% accuracy boost for sleep tracking thanks to some 'significant updates' for Premium subscribers | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:30.077915",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-19\\f87d341afd51b558dee8606bb24032491205cb34.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-19\\f87d341afd51b558dee8606bb24032491205cb34.txt",
+  "word_count": 482,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ca6e266a9143872be648169aa675bbfedffe7836",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Fitbit enhances sleep tracking for Premium users with a 15% increase in sleep staging accuracy and the ability to link health records for a more comprehensive health analysis.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about Fitbit's app improvements for Premium users, focusing on better sleep tracking and health data integration, which are generally neutral in terms of market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

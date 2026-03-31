@@ -1,0 +1,26 @@
+{
+  "id": "b19764a911607f7b97537e21edfda57c4a33c2a0",
+  "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/mar/23/et-front/kotak-bank-set-to-acquire-deutsches-retail-business-in-4500-crore-deal/articleshow/129738717.cms",
+  "site": "indiatimes.com",
+  "title": "Kotak Bank Set to Acquire Deutsche’s Retail Business in ₹4,500-crore Deal - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:21.961927",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\b19764a911607f7b97537e21edfda57c4a33c2a0.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\b19764a911607f7b97537e21edfda57c4a33c2a0.txt",
+  "word_count": 636,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "8ff16e58e537d92625ba531b2b66200140c3605b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

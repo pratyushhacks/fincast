@@ -1,0 +1,24 @@
+{
+  "id": "75126e07e8755c975d6c704ff4bb340fe40850c7",
+  "url": "https://economictimes.indiatimes.com/nri/visit/nepal-opens-restricted-trekking-routes-to-solo-foreign-travellers/articleshow/129746437.cms",
+  "site": "indiatimes.com",
+  "title": "Nepal opens restricted trekking routes to solo foreign travellers - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:27.423651",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\75126e07e8755c975d6c704ff4bb340fe40850c7.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\75126e07e8755c975d6c704ff4bb340fe40850c7.txt",
+  "word_count": 254,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "25f9db2049e6490ce4be570d00aac041d1b8ebf8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

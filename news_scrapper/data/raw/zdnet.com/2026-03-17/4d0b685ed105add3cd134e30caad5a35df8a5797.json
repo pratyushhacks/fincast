@@ -1,0 +1,49 @@
+{
+  "id": "4d0b685ed105add3cd134e30caad5a35df8a5797",
+  "url": "https://www.zdnet.com/home-and-office/work-life/karakeep-cure-browser-tab-overload/",
+  "site": "zdnet.com",
+  "title": "I stopped drowning in browser tabs, thanks to this clever AI tool | ZDNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:28.873002",
+  "language": null,
+  "html_path": "data\\raw\\zdnet.com\\2026-03-17\\4d0b685ed105add3cd134e30caad5a35df8a5797.html",
+  "text_path": "data\\raw\\zdnet.com\\2026-03-17\\4d0b685ed105add3cd134e30caad5a35df8a5797.txt",
+  "word_count": 2336,
+  "reading_time_minutes": 11,
+  "paywalled": false,
+  "dedup_hash": "332fee3f5f590ca3fc9de52c0abca6ad34e8f0a9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "ZDNET introduces Karakeep, an AI-powered tool to manage and organize browser tabs, offering solutions for tabulomania and compulsive tab usage. It features AI-generated keywords and summaries, with options for cloud or self-hosted use. Pro users gain access to more bookmarks and storage.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral sentiment as it introduces a useful tool for a common problem without significant market impact or financial implications.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

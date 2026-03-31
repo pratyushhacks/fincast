@@ -1,0 +1,25 @@
+{
+  "id": "c2eb9d5a1bb30d8b218537427469293845ebbc57",
+  "url": "https://economictimes.indiatimes.com/news/india/russia-says-ukraines-india-activities-aimed-at-destabilising-region/articleshow/129737339.cms",
+  "site": "indiatimes.com",
+  "title": "Russia says Ukraine’s India activities aimed at destabilising region - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:07.527286",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\c2eb9d5a1bb30d8b218537427469293845ebbc57.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\c2eb9d5a1bb30d8b218537427469293845ebbc57.txt",
+  "word_count": 196,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1ac6e45f02a92b8bf75d2d0350598d170aadc1a2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "d9656b962803f33f0380e5696b6f8bec38f9ec8b",
+  "url": "https://www.techradar.com/pro/five-signs-your-infrastructure-is-stalling-your-ai-strategy",
+  "site": "techradar.com",
+  "title": "Five signs your infrastructure is stalling your AI strategy | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:13.555558",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\d9656b962803f33f0380e5696b6f8bec38f9ec8b.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\d9656b962803f33f0380e5696b6f8bec38f9ec8b.txt",
+  "word_count": 1336,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "55ac121c6d213af895600674d79d8f4959e83539",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"AI regulation\"",
+  "gdelt_category": "macro",
+  "summary": "The article discusses the challenges UK organizations face in leveraging AI due to outdated IT infrastructure, emphasizing the need for modern data platforms to support AI workloads and comply with evolving data protection laws.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative because the article highlights issues such as legacy IT infrastructure being a barrier to AI progress and the challenges of meeting data protection and privacy expectations.",
+  "price_changes": {
+    "\"AI regulation\"": {
+      "ticker": "BOTZ",
+      "trend": [
+        34.85,
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38,
+        33.29
+      ],
+      "base_price": 32.46,
+      "next_price": 31.99,
+      "change_1d": -1.4479,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

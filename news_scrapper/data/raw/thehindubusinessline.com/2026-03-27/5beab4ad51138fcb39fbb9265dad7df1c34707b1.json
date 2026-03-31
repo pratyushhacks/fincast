@@ -1,0 +1,66 @@
+{
+  "id": "5beab4ad51138fcb39fbb9265dad7df1c34707b1",
+  "url": "https://www.thehindubusinessline.com/info-tech/jury-verdict-explained-meta-and-google-found-liable-in-social-media-case/article70785790.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Meta and Google verdict: What the jury ruled in youth social media lawsuit - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:50.426255",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-27\\5beab4ad51138fcb39fbb9265dad7df1c34707b1.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-27\\5beab4ad51138fcb39fbb9265dad7df1c34707b1.txt",
+  "word_count": 273,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fee39bc6f21dbb047656e533045218a10001b387",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "A jury found Meta and Google liable in a landmark trial for allegedly harming children's mental health through their social media platforms, Instagram and YouTube. The companies are ordered to pay damages and adequately warn users about the dangers of using their platforms.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negligence and liability in the context of social media companies, which can contribute to negative market sentiment due to potential legal and financial implications.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "d2eef9e0c4a418f98cac0e87bc2502e3dae84d40",
+  "url": "https://www.benzinga.com/markets/economic-data/26/03/51489887/energy-stocks-streak-record-2013-buy-now",
+  "site": "benzinga.com",
+  "title": "XLE's 14-Week Winning Streak Hunts A Record Since 2013 - State Street SPDR S&P 500 ETF Trust (ARCA:SPY), State Street Materials Select Sector SPDR ETF (ARCA:XLB)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:24.108613",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\d2eef9e0c4a418f98cac0e87bc2502e3dae84d40.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\d2eef9e0c4a418f98cac0e87bc2502e3dae84d40.txt",
+  "word_count": 582,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "22d424bfb84c66d692b7a9b3fc6a2b6d2fa243c5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The Energy Select Sector SPDR Fund has achieved a 14-week winning streak, a record for the fund, amidst geopolitical tensions with Iran. This streak is significant as it is a rare occurrence for any S&P 500 sector ETF.",
+  "sentiment": 5,
+  "sentiment_reason": "The article describes a historically unusual and record-setting winning streak for the Energy Select Sector SPDR Fund, which is a strong positive indicator of the sector's performance and investor confidence.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34,
+        49.05
+      ],
+      "base_price": 47.81,
+      "next_price": 48.36,
+      "change_1d": 1.1504,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

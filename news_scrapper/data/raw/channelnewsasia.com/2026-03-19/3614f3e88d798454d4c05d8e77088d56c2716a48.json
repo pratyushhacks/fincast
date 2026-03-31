@@ -1,0 +1,63 @@
+{
+  "id": "3614f3e88d798454d4c05d8e77088d56c2716a48",
+  "url": "https://www.channelnewsasia.com/watch/nvidia-ceo-says-h200-chip-production-restart-china-orders-6001826",
+  "site": "channelnewsasia.com",
+  "title": "Nvidia CEO says H200 chip production to restart for China orders - CNA",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:05.278152",
+  "language": null,
+  "html_path": "data\\raw\\channelnewsasia.com\\2026-03-19\\3614f3e88d798454d4c05d8e77088d56c2716a48.html",
+  "text_path": "data\\raw\\channelnewsasia.com\\2026-03-19\\3614f3e88d798454d4c05d8e77088d56c2716a48.txt",
+  "word_count": 76,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "15352658326b4bd97e6c5c9a6f2efaa925845f81",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia plans to restart AI chip production for China and continue autonomous vehicle technology development. Focus on the Chinese market and AI advancements in vehicles are key points.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement indicates potential growth in the Chinese market and continued investment in AI, but it also suggests a strategic pivot that could affect global supply and competition.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

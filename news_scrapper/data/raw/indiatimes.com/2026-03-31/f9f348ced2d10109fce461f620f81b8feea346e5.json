@@ -1,0 +1,15 @@
+{
+  "id": "f9f348ced2d10109fce461f620f81b8feea346e5",
+  "url": "https://realty.economictimes.indiatimes.com/news/commercial/meta-platforms-renews-office-lease-in-mumbai-for-over-200-crore/129877455",
+  "site": "indiatimes.com",
+  "title": "Meta Platforms Renews Office Lease in Mumbai for Over ₹200 Crore, ETRealty",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:25.288707",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\f9f348ced2d10109fce461f620f81b8feea346e5.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\f9f348ced2d10109fce461f620f81b8feea346e5.txt",
+  "word_count": 341,
+  "paywalled": false,
+  "dedup_hash": "3a007d2c5e9a0f5bd93c8304d910ed87129271e0",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

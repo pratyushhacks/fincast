@@ -1,0 +1,66 @@
+{
+  "id": "c3a341fbd4b551e9cb2d797690f01ed6d0b0e2d6",
+  "url": "https://gizmodo.com/epstein-victims-sue-google-claim-ai-mode-exposed-personal-information-2000739177",
+  "site": "gizmodo.com",
+  "title": "Epstein Victims Sue Google, Claim AI Mode Exposed Personal Information",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:36.007644",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-28\\c3a341fbd4b551e9cb2d797690f01ed6d0b0e2d6.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-28\\c3a341fbd4b551e9cb2d797690f01ed6d0b0e2d6.txt",
+  "word_count": 581,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "64c429f7c485187df1c228d5003ed3da5d9008d7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "A class action lawsuit was filed against Google for allegedly publishing personal information of Jeffrey Epstein's victims through its AI Mode feature, despite the government's withdrawal of such information. The lawsuit also highlights the issue of other AI tools not disclosing victim-related information.",
+  "sentiment": 1,
+  "sentiment_reason": "The lawsuit indicates a strong negative market impact due to the violation of privacy rights and the potential harm to survivors of sexual abuse.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

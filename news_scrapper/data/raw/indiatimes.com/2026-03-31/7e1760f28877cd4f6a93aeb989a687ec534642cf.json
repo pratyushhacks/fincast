@@ -1,0 +1,15 @@
+{
+  "id": "7e1760f28877cd4f6a93aeb989a687ec534642cf",
+  "url": "https://auto.economictimes.indiatimes.com/news/oil-and-lubes/new-fuel-maths-cut-in-excise-duty-levy-on-exports/129857693",
+  "site": "indiatimes.com",
+  "title": "Export Duty On Diesel: India Reduces Fuel Excise Duty Amid Rising Oil Prices, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:11.583483",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\7e1760f28877cd4f6a93aeb989a687ec534642cf.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\7e1760f28877cd4f6a93aeb989a687ec534642cf.txt",
+  "word_count": 432,
+  "paywalled": false,
+  "dedup_hash": "9260370b76a94930838e62b8b580e979cf904dae",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\""
+}

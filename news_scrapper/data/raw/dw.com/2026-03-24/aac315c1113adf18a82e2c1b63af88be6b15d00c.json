@@ -1,0 +1,63 @@
+{
+  "id": "aac315c1113adf18a82e2c1b63af88be6b15d00c",
+  "url": "https://www.dw.com/en/german-court-rejects-climate-case-against-bmw-mercedes/a-76485571",
+  "site": "dw.com",
+  "title": "German court rejects climate case against BMW, Mercedes",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:26.188509",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-24\\aac315c1113adf18a82e2c1b63af88be6b15d00c.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-24\\aac315c1113adf18a82e2c1b63af88be6b15d00c.txt",
+  "word_count": 415,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "316bdcd00ff0748bd0e9801eff2e54fe2261da4c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Germany's Federal Court dismissed a case to ban BMW and Mercedes Benz from selling new combustion engine cars beyond 2030, stating there are no emissions budgets for individual companies. The decision is seen as a mandate for the legislature to take action on climate protection.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the court's decision is seen as a clear mandate for the legislature to take action on climate protection, despite the plaintiffs' argument not being accepted.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32,
+        29.32,
+        30.23
+      ],
+      "base_price": 30.43,
+      "next_price": 30.89,
+      "change_1d": 1.5117,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

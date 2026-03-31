@@ -1,0 +1,54 @@
+{
+  "id": "cd313ef565f09adee6ce06421ac1774aa53f1361",
+  "url": "https://www.pcmag.com/news/metas-community-notes-could-pose-significant-human-rights-risks-outside",
+  "site": "pcmag.com",
+  "title": "Meta’s Community Notes Could Pose ‘Significant Human Rights Risks’ Outside US | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:19.962342",
+  "html_path": "data\\raw\\pcmag.com\\2026-03-31\\cd313ef565f09adee6ce06421ac1774aa53f1361.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-31\\cd313ef565f09adee6ce06421ac1774aa53f1361.txt",
+  "word_count": 561,
+  "paywalled": false,
+  "dedup_hash": "7123c8c116754fadbce4a3f1a41e8a165aaf79d3",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta's Community Notes expansion outside the US raises human rights concerns due to potential misuse by disinformation networks and privileging dominant groups, while also facing practical challenges like translation and internet connectivity issues.",
+  "sentiment": 2,
+  "sentiment_reason": "The expansion poses negative implications for human rights and faces significant operational challenges that could lead to bias and misinformation.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

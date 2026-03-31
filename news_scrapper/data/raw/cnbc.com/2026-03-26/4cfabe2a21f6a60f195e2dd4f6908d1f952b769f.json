@@ -1,0 +1,68 @@
+{
+  "id": "4cfabe2a21f6a60f195e2dd4f6908d1f952b769f",
+  "url": "https://www.cnbc.com/2026/03/25/arm-just-unveiled-its-first-in-house-chip-raymond-james-says-buy-the-stock.html",
+  "site": "cnbc.com",
+  "title": "Arm just unveiled its first in-house chip. Raymond James says buy the stock",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:04.625341",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-26\\4cfabe2a21f6a60f195e2dd4f6908d1f952b769f.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-26\\4cfabe2a21f6a60f195e2dd4f6908d1f952b769f.txt",
+  "word_count": 425,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f6ba07ee4040e84df7d0887a0caad8a0e5f51dd3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Arm Holdings announced its first in-house central processing unit chip, AGI CPU, designed for AI data centers, leading to an upgrade by Raymond James and a significant share price increase.",
+  "sentiment": 5,
+  "sentiment_reason": "The announcement is a major breakthrough for Arm, with strong positive market reaction, potential for significant revenue growth, and widespread adoption by AI firms.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        35.38,
+        34.85,
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38
+      ],
+      "base_price": 33.29,
+      "next_price": 32.72,
+      "change_1d": -1.7122,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.96,
+      "change_1d": -0.7952,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "74964d522fcc7ae61d2532259e0a67a529e7af4c",
+  "url": "https://www.thehindu.com/brandhub/pr-release/supermicro-among-first-to-unveil-nvidia-bluefield-4-stx-storage-server-to-improve-ai-inference-performance/article70756794.ece",
+  "site": "thehindu.com",
+  "title": "Supermicro Among First to Unveil NVIDIA BlueField-4 STX Storage Server to Improve AI Inference Performance - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:44:59.820731",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-19\\74964d522fcc7ae61d2532259e0a67a529e7af4c.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-19\\74964d522fcc7ae61d2532259e0a67a529e7af4c.txt",
+  "word_count": 675,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "762ebcd669d3a59821f24dad78e82124f1ce6d2a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Supermicro unveils one of the first CMX storage servers based on NVIDIA STX reference architecture to enhance AI inference performance, addressing long-lived AI queries and multi-stage workloads.",
+  "sentiment": 3,
+  "sentiment_reason": "The announcement is neutral as it represents routine news in the tech industry with no clear immediate market impact, but it does indicate ongoing innovation in AI storage solutions.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

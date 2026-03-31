@@ -1,0 +1,66 @@
+{
+  "id": "e276bf7e055dcbe368740d016746e11d1872b053",
+  "url": "https://www.techradar.com/pro/mini-pc-vendors-jumping-on-the-open-claw-bandwagon-with-minisforums-m2-pro-the-latest-to-offer-intels-core-ultra-x9-388h-cpu-with-96gb-of-ram-but-it-wont-be-cheap",
+  "site": "techradar.com",
+  "title": "Mini PC makers are racing to support OpenClaw despite major security warnings and rising concerns about sensitive data safety | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:21.734805",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-20\\e276bf7e055dcbe368740d016746e11d1872b053.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-20\\e276bf7e055dcbe368740d016746e11d1872b053.txt",
+  "word_count": 603,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "aa0744f333ce73d3ffbf0c08a08c6eb9cfbf2463",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Minisforum M2 Pro, a high-performance mini PC, supports AI workloads with up to 180 TOPS, balancing on-device and cloud processing for privacy and scalability. Despite OpenClaw's known vulnerabilities, Minisforum emphasizes its hybrid approach to mitigate risks.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral sentiment as it discusses both the advanced capabilities of the M2 Pro and the security concerns associated with OpenClaw, without indicating a strong market impact.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        404.88,
+        401.86,
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02
+      ],
+      "base_price": 381.87,
+      "next_price": 383.0,
+      "change_1d": 0.2959,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

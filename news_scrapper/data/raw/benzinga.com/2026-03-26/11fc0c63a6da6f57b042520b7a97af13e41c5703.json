@@ -1,0 +1,66 @@
+{
+  "id": "11fc0c63a6da6f57b042520b7a97af13e41c5703",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51450633/dan-ives-says-teslas-terafab-project-is-hinting-towards-merger-with-spacex-predicts-nearly-55-tsla-u",
+  "site": "benzinga.com",
+  "title": "Dan Ives Says Tesla's Terafab Project Is Hinting Towards Merger With SpaceX—Predicts Nearly 55% TSLA Upside - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:14.063375",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\11fc0c63a6da6f57b042520b7a97af13e41c5703.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\11fc0c63a6da6f57b042520b7a97af13e41c5703.txt",
+  "word_count": 302,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "beefec8901574c83aeafd52e3255b05bbf8ca2c8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Terafab project could be a precursor to a potential SpaceX-Tesla merger, crucial for Musk's AI efforts, with significant production targets and investor outlook.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses a potentially transformative project for Tesla and SpaceX, indicating a positive market impact with strong production targets and a favorable investor outlook.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.08,
+      "change_1d": -1.8892,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.22,
+      "change_1d": -1.145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

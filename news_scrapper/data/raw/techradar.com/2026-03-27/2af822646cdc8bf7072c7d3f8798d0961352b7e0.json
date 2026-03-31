@@ -1,0 +1,65 @@
+{
+  "id": "2af822646cdc8bf7072c7d3f8798d0961352b7e0",
+  "url": "https://www.techradar.com/seasonal-sales/the-libernovo-omni-office-chair-is-something-very-different-and-we-absolutely-loved-it-now-its-massively-dropped-in-price-at-amazon",
+  "site": "techradar.com",
+  "title": "LiberNovo's office chair is 'very different' — now in Amazon's sale | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:59.215578",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-27\\2af822646cdc8bf7072c7d3f8798d0961352b7e0.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-27\\2af822646cdc8bf7072c7d3f8798d0961352b7e0.txt",
+  "word_count": 496,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a73223ffc47211d69794a9d45e7b4996108ee6b4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The LiberNovo Omni office chair, known for its dynamic ergonomic features and electric switch lumbar support, has been discounted on Amazon. It's praised for its comfort and quality, though noted for its narrow seat width.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the chair's unique features, positive user experience, and significant price drop, indicating a positive market impact.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

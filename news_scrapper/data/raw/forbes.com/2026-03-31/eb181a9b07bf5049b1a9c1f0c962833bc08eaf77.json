@@ -1,0 +1,54 @@
+{
+  "id": "eb181a9b07bf5049b1a9c1f0c962833bc08eaf77",
+  "url": "https://www.forbes.com/sites/simonmoore/2026/03/30/energy-shock-raises-odds-fed-holds-rates-through-2026/",
+  "site": "forbes.com",
+  "title": "Fed Officials And Markets Hint Energy Price Shock May Delay Rate Cuts",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:02.879012",
+  "html_path": "data\\raw\\forbes.com\\2026-03-31\\eb181a9b07bf5049b1a9c1f0c962833bc08eaf77.html",
+  "text_path": "data\\raw\\forbes.com\\2026-03-31\\eb181a9b07bf5049b1a9c1f0c962833bc08eaf77.txt",
+  "word_count": 596,
+  "paywalled": false,
+  "dedup_hash": "834caa974ddccae30967d15b4d21e140f7065c8b",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Energy price shocks are causing concern among policymakers, with potential risks to the economy and inflation. The Fed is closely monitoring the situation, as sustained high energy prices could lead to persistent inflation and affect long-term economic decisions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of sustained high energy prices on inflation and the economy, increasing recession chances and complicating the Fed's policy decisions.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

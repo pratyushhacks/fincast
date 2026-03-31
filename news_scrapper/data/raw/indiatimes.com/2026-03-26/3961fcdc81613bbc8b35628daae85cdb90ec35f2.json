@@ -1,0 +1,26 @@
+{
+  "id": "3961fcdc81613bbc8b35628daae85cdb90ec35f2",
+  "url": "https://economictimes.indiatimes.com/tech/funding/openai-set-to-raise-about-10-billion-from-mgx-coatue-thrive/articleshow/129785603.cms",
+  "site": "indiatimes.com",
+  "title": "OpenAI set to raise about $10 billion from MGX, Coatue, Thrive - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:36.015261",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\3961fcdc81613bbc8b35628daae85cdb90ec35f2.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\3961fcdc81613bbc8b35628daae85cdb90ec35f2.txt",
+  "word_count": 235,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "489e994b9d016a601fe41edc3d0b72558f87db95",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

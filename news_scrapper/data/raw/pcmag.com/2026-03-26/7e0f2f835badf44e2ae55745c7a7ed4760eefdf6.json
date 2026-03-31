@@ -1,0 +1,65 @@
+{
+  "id": "7e0f2f835badf44e2ae55745c7a7ed4760eefdf6",
+  "url": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026",
+  "site": "pcmag.com",
+  "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:41.657915",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-26\\7e0f2f835badf44e2ae55745c7a7ed4760eefdf6.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-26\\7e0f2f835badf44e2ae55745c7a7ed4760eefdf6.txt",
+  "word_count": 1361,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "3e69d671c3d8a04b2db24570ff5e2c6996c4588f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's DLSS 5 introduces a new layer of photorealism in gaming graphics by using a 'neural rendering' model to enhance shadows, textures, and facial definition, potentially revolutionizing the visual experience in video games.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the significant improvements and innovative aspects of DLSS 5, such as the enhanced photorealism and the potential to change gaming graphics, which are positive developments for the industry.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68
+      ],
+      "base_price": 171.24,
+      "next_price": 168.78,
+      "change_1d": -1.4366,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.65,
+      "change_1d": -1.0701,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

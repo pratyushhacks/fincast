@@ -1,0 +1,67 @@
+{
+  "id": "822a407aa129f9d00f4cc541c0b0f7ab53fc11e3",
+  "url": "https://www.digitaltrends.com/phones/best-samsung-galaxy-s26-accessories/",
+  "site": "digitaltrends.com",
+  "title": "My Galaxy S26 accessories buying list: The best cases, chargers, and storage drives I found - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:16.106187",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-17\\822a407aa129f9d00f4cc541c0b0f7ab53fc11e3.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-17\\822a407aa129f9d00f4cc541c0b0f7ab53fc11e3.txt",
+  "word_count": 1507,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "c787d1f4f9475a9da60d02e8822fed38bfa4f29b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Roundup of best Galaxy S26 accessories focusing on protective cases, chargers, and storage drives, highlighting unique advantages of selected cases like magnetic charging, drop protection, and design variety.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the importance of choosing the right accessories for the Galaxy S26, focusing on protective cases that offer features like magnetic wireless charging and drop protection, which are relevant to consumers but do not indicate a strong positive or negative market impact.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74
+      ],
+      "base_price": 215.2,
+      "next_price": 209.87,
+      "change_1d": -2.4768,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "01f270c3852e2403bbe6c8d44cae17c96ea0b007",
+  "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+  "site": "arstechnica.com",
+  "title": "Millions of iPhones can be hacked with a new tool found in the wild - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:19.229541",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-20\\01f270c3852e2403bbe6c8d44cae17c96ea0b007.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-20\\01f270c3852e2403bbe6c8d44cae17c96ea0b007.txt",
+  "word_count": 340,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e4546570fba46392d02d54e727d4b778cfa414e8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "DarkSword is a hacking toolkit that stealthily steals data from vulnerable iPhones, including cryptocurrency wallet credentials, without leaving persistent spyware. It targets iOS 18 and earlier versions, with a focus on data theft within minutes of infection.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a sophisticated cyber espionage campaign with negative implications for user privacy and security, highlighting the theft of sensitive data and cryptocurrency wallet credentials.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96
+      ],
+      "base_price": 247.99,
+      "next_price": 251.49,
+      "change_1d": 1.4113,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

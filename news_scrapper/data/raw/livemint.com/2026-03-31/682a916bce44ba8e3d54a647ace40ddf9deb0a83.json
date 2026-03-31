@@ -1,0 +1,54 @@
+{
+  "id": "682a916bce44ba8e3d54a647ace40ddf9deb0a83",
+  "url": "https://www.livemint.com/companies/airtel-nxtra-data-center-investment-alpha-wave-global-carlyle-11774887359101.html",
+  "site": "livemint.com",
+  "title": "Airtel data centre arm Nxtra to raise $1 billion investment | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:13.684347",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\682a916bce44ba8e3d54a647ace40ddf9deb0a83.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\682a916bce44ba8e3d54a647ace40ddf9deb0a83.txt",
+  "word_count": 582,
+  "paywalled": false,
+  "dedup_hash": "fd91102e79adcd07b5521637742825c441c5a34a",
+  "scraper_version": "0.1",
+  "gdelt_query": "cloud computing",
+  "summary": "Bharti Airtel invests $1 billion in Nxtra data centre expansion with major stakeholders, amidst rising data centre investments in India and amidst AGR payment obligations.",
+  "sentiment": 4,
+  "sentiment_reason": "The investment is positive due to the significant funding for expansion and the growing data centre market in India.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47,
+        109.92,
+        106.0
+      ],
+      "base_price": 105.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

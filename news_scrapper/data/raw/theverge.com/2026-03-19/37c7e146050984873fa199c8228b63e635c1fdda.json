@@ -1,0 +1,64 @@
+{
+  "id": "37c7e146050984873fa199c8228b63e635c1fdda",
+  "url": "https://www.theverge.com/gadgets/896532/garmin-gets-whatsappd",
+  "site": "theverge.com",
+  "title": "Garmin gets WhatsApp’d. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:12.489833",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-19\\37c7e146050984873fa199c8228b63e635c1fdda.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-19\\37c7e146050984873fa199c8228b63e635c1fdda.txt",
+  "word_count": 68,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fbf9e487268710ddd35217b1c0280cfe9ee68e23",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Garmin introduces WhatsApp functionality on its devices, allowing users to send and receive messages directly from their watches. This feature is similar to one already available on the Apple Watch.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the article focusing on the introduction of a new feature that may not significantly impact the market but could be seen as a response to competitors' actions.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94
+      ],
+      "base_price": 248.96,
+      "next_price": 247.99,
+      "change_1d": -0.3896,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

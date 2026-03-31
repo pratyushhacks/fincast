@@ -1,0 +1,65 @@
+{
+  "id": "cf7758a30f85b13bbee6a3d929a8dbbfb8e9aa4f",
+  "url": "https://www.thehindu.com/entertainment/movies/dhurandhar-merchandise-case-madras-high-court-prohibits-unauthorised-sale-on-amazon-flipkart-and-instagram/article70756673.ece",
+  "site": "thehindu.com",
+  "title": "‘Dhurandhar’ merchandise case: Madras High Court prohibits unauthorised sale on Amazon, Flipkart, and Instagram - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:15.836012",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-19\\cf7758a30f85b13bbee6a3d929a8dbbfb8e9aa4f.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-19\\cf7758a30f85b13bbee6a3d929a8dbbfb8e9aa4f.txt",
+  "word_count": 446,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2f6e30e74fbeccb17548e263cb130a2aae6ae82c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Madras High Court prohibits unauthorized sale of 'Dhurandhar' merchandise on major e-commerce platforms and Internet Service Providers. Reliance Industries and B62 Studios filed suit against copyright infringement of their movies. Notices and injunctions sought to prevent further unauthorized use and sales.",
+  "sentiment": 2,
+  "sentiment_reason": "The market impact is negative due to the fear of copyright infringement and potential loss of revenue for the production house and related entities.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

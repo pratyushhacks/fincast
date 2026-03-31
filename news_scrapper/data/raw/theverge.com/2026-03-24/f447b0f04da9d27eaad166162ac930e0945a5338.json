@@ -1,0 +1,64 @@
+{
+  "id": "f447b0f04da9d27eaad166162ac930e0945a5338",
+  "url": "https://www.theverge.com/tech/898815/samsung-quick-share-airdrop-support-galaxy-s26",
+  "site": "theverge.com",
+  "title": "Samsung adds native AirDrop support to Galaxy S26 devices | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:01.743081",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-24\\f447b0f04da9d27eaad166162ac930e0945a5338.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-24\\f447b0f04da9d27eaad166162ac930e0945a5338.txt",
+  "word_count": 222,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ee344c58e6a6904703186a7b3342f16e1acf2803",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Samsung is introducing AirDrop support for Galaxy devices, starting with the S26 series, enabling file sharing with Apple devices. This feature will be rolled out in Korea and later in other regions, making Samsung the second Android brand to offer native AirDrop support.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of AirDrop support is a positive development for Samsung users, enhancing interoperability with Apple devices and potentially increasing market competitiveness.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49
+      ],
+      "base_price": 251.64,
+      "next_price": 252.62,
+      "change_1d": 0.3894,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

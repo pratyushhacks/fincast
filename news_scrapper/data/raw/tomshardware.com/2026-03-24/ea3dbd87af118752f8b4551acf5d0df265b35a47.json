@@ -1,0 +1,65 @@
+{
+  "id": "ea3dbd87af118752f8b4551acf5d0df265b35a47",
+  "url": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-review",
+  "site": "tomshardware.com",
+  "title": "Intel Core Ultra 7 270K Plus review: Back from the brink | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:06.295661",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-24\\ea3dbd87af118752f8b4551acf5d0df265b35a47.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-24\\ea3dbd87af118752f8b4551acf5d0df265b35a47.txt",
+  "word_count": 1772,
+  "reading_time_minutes": 8,
+  "paywalled": false,
+  "dedup_hash": "c5aadac3dbe65fed901fa434793cc60b8d2aba10",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Intel's Arrow Lake Refresh, Core Ultra 200S Plus, underperforms compared to AMD's offerings and faces a challenging market, despite its competitive pricing and performance gains in certain applications.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights issues such as underperformance relative to AMD, a market that's increasingly hostile to PC enthusiasts, and the fact that it's too late for this refreshed product to make a significant impact.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0
+      ],
+      "base_price": 372.74,
+      "next_price": 371.04,
+      "change_1d": -0.4561,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

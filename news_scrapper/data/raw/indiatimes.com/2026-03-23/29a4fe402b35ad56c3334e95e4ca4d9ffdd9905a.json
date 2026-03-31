@@ -1,0 +1,25 @@
+{
+  "id": "29a4fe402b35ad56c3334e95e4ca4d9ffdd9905a",
+  "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-interest-rate-hikes-may-be-coming/articleshow/129728094.cms",
+  "site": "indiatimes.com",
+  "title": "Charting the global economy: Interest-rate hikes may be coming - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:26.906618",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\29a4fe402b35ad56c3334e95e4ca4d9ffdd9905a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\29a4fe402b35ad56c3334e95e4ca4d9ffdd9905a.txt",
+  "word_count": 924,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "2ba7982092252f4c4ac6f370c173231e9c127cef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

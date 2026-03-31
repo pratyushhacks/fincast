@@ -1,0 +1,70 @@
+{
+  "id": "2fb9fd77caafc5d884d0d97112c31c7efdd2bba5",
+  "url": "https://www.insidermonkey.com/blog/lemonade-lmnd-climbs-15-8-on-morgan-stanley-rating-price-target-hike-1719261/",
+  "site": "insidermonkey.com",
+  "title": "Lemonade (LMND) Climbs 15.8% on Morgan Stanley Rating, Price Target Hike - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:20.021451",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-19\\2fb9fd77caafc5d884d0d97112c31c7efdd2bba5.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-19\\2fb9fd77caafc5d884d0d97112c31c7efdd2bba5.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Amazon's new CEO highlights generative AI as a transformative technology, while billionaires invest in AI-related ventures. An under-valued company is identified as crucial to the AI ecosystem, potentially disrupting the market.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of neutral news about AI advancements and investments, with a hint of positive sentiment due to the potential of generative AI and the interest of major investors.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56,
+        399.27,
+        392.78
+      ],
+      "base_price": 380.3,
+      "next_price": 367.96,
+      "change_1d": -3.2448,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

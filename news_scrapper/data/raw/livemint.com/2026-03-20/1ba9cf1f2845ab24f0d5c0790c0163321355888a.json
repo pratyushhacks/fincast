@@ -1,0 +1,64 @@
+{
+  "id": "1ba9cf1f2845ab24f0d5c0790c0163321355888a",
+  "url": "https://www.livemint.com/market/stock-market-news/sensex-today-stock-market-today-gift-nifty-us-iran-war-crude-oil-prices-us-fed-policy-gold-rate-today-19-march-2026-11773887249273.html",
+  "site": "livemint.com",
+  "title": "Sensex Crash on 19th March 2026 Highlights: Sensex ends around 2,500 pts lower, Nifty at 23,002;  ₹12 lakh crore eroded | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:36.619875",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-20\\1ba9cf1f2845ab24f0d5c0790c0163321355888a.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-20\\1ba9cf1f2845ab24f0d5c0790c0163321355888a.txt",
+  "word_count": 451,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "3b9ae8403a09424f62074915a6b0e9438187ab08",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The Indian stock market experienced a significant crash on March 19, 2026, with the Sensex and Nifty 50 indices falling over 3.26% due to global market losses, surging crude oil prices, hawkish US Federal Reserve comments, and specific events affecting HDFC Bank and other sectors.",
+  "sentiment": 1,
+  "sentiment_reason": "The sentiment is strongly negative due to the major market crash, influenced by geopolitical tensions, surging oil prices, and hawkish policy comments from the US Federal Reserve, along with specific corporate governance issues within HDFC Bank.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "90e531edd7236494992f3fad7d4f3fb13e52aeda",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-markets-iran-war-clouds-policy-path-as-fed-watches-price-pressures-rise/articleshow/129839110.cms",
+  "site": "indiatimes.com",
+  "title": "US Stock Markets | Iran war clouds policy path as Fed watches price pressures rise - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:05.717097",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\90e531edd7236494992f3fad7d4f3fb13e52aeda.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\90e531edd7236494992f3fad7d4f3fb13e52aeda.txt",
+  "word_count": 398,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "90eb85d4ddb62471afd4d9126218cf5bc00d0130",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

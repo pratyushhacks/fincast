@@ -1,0 +1,65 @@
+{
+  "id": "315579240f47fd3d02897e2702f9cf7aa523a0ff",
+  "url": "https://www.pcmag.com/news/best-early-amazon-spring-sale-2026-deals-lenovo-laptops-desktops",
+  "site": "pcmag.com",
+  "title": "The Best Deals on Lenovo Desktops, Laptops, and Tablets You Can Get Before Amazon's Big Spring Sale Begins | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:54.295498",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-21\\315579240f47fd3d02897e2702f9cf7aa523a0ff.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-21\\315579240f47fd3d02897e2702f9cf7aa523a0ff.txt",
+  "word_count": 686,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "81e3a4d1edcc93df9b924ced44fd1bfe32bb2858",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Leading PC brands are offering deep discounts on Amazon's Big Spring Sale, with Lenovo products like desktops, laptops, and tablets being heavily discounted, including up to 40% off. Notable deals include the Lenovo IdeaPad Slim Laptop and Lenovo Legion Tab Gen 3.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights significant price cuts across a range of Lenovo products, indicating a strong positive market impact with major discounts and excellent product reviews.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76
+      ],
+      "base_price": 205.37,
+      "next_price": 210.14,
+      "change_1d": 2.3226,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

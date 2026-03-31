@@ -1,0 +1,54 @@
+{
+  "id": "9eba8826103e40779864aeb546a32cfc765a2920",
+  "url": "https://www.digitaltrends.com/cool-tech/metas-next-smart-glasses-sound-like-a-treat-for-humans-stuck-with-prescription-lenses/",
+  "site": "digitaltrends.com",
+  "title": "Meta's next smart glasses sound like a treat for humans stuck with prescription lenses - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:16.838650",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\9eba8826103e40779864aeb546a32cfc765a2920.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\9eba8826103e40779864aeb546a32cfc765a2920.txt",
+  "word_count": 336,
+  "paywalled": false,
+  "dedup_hash": "ca43ebad40ccef3fa0e682c4227b899acec193f6",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta is developing prescription-friendly smart glasses, codenamed 'Scriber' and 'Blazer', aiming at prescription wearers, a previously untapped market. These glasses will be sold through conventional eyewear retailers and support Wi-Fi 6, but no display is expected.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of prescription-friendly smart glasses by Meta targets a significant market segment, potentially expanding the user base and indicating a positive development in the smart glasses industry.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

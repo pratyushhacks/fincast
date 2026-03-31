@@ -1,0 +1,64 @@
+{
+  "id": "eb593bdb4dc0c4670d45e0647f3f7235a6fd34ef",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028",
+  "site": "tomshardware.com",
+  "title": "Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:22.407682",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-17\\eb593bdb4dc0c4670d45e0647f3f7235a6fd34ef.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-17\\eb593bdb4dc0c4670d45e0647f3f7235a6fd34ef.txt",
+  "word_count": 2318,
+  "reading_time_minutes": 11,
+  "paywalled": false,
+  "dedup_hash": "3ae03eb628281e8fbacd4e4a852589fc91d4736c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Intel shifts to 18A process for consumer chips, abandoning 20A for external nodes, with major AI and data center chips like Gaudi 3 and Crescent Island. Lunar Lake marks power-efficient x86 platform debut, while Arrow Lake diverges in process level for desktop line.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Intel's strategic shifts and product launches, indicating a negative sentiment due to the abandonment of the 20A process node and the redirection of the GPU roadmap.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        43.42,
+        45.58,
+        46.78,
+        47.98,
+        45.25,
+        45.77,
+        45.76
+      ],
+      "base_price": 44.06,
+      "next_price": 45.03,
+      "change_1d": 2.2015,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

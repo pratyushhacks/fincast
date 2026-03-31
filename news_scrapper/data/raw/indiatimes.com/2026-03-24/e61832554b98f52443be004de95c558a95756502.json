@@ -1,0 +1,25 @@
+{
+  "id": "e61832554b98f52443be004de95c558a95756502",
+  "url": "https://economictimes.indiatimes.com/nri/study/sp-jain-launches-two-year-master-of-management-programme-in-sydney/articleshow/129746750.cms",
+  "site": "indiatimes.com",
+  "title": "SP Jain launches two-year master of management programme in Sydney - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:27.935003",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\e61832554b98f52443be004de95c558a95756502.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\e61832554b98f52443be004de95c558a95756502.txt",
+  "word_count": 349,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "bc90f0f2435ddfb80abd357fb44a1a068465eee7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

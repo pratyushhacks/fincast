@@ -1,0 +1,70 @@
+{
+  "id": "fb74ba68a61a43aa1baba12e3be18fb81bb4def9",
+  "url": "https://www.insidermonkey.com/blog/keybanc-initiates-chime-chym-coverage-with-overweight-rating-1719766/",
+  "site": "insidermonkey.com",
+  "title": "KeyBanc Initiates Chime (CHYM) Coverage With Overweight Rating - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:50.476267",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-19\\fb74ba68a61a43aa1baba12e3be18fb81bb4def9.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-19\\fb74ba68a61a43aa1baba12e3be18fb81bb4def9.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Insider Monkey highlights a smaller company's critical role in the AI revolution, with major firms and billionaires showing significant interest and investment in AI technology.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook on the AI industry, emphasizing major investments and interest from influential figures and companies, indicating potential growth and market impact.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.8,
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72
+      ],
+      "base_price": 48.74,
+      "next_price": 48.83,
+      "change_1d": 0.1847,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

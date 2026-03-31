@@ -1,0 +1,64 @@
+{
+  "id": "8a58bef5a6a5e9b36de71b540f9a1e68443dfb34",
+  "url": "https://gizmodo.com/google-issues-new-warning-about-the-quantum-computing-security-apocalypse-2000738326",
+  "site": "gizmodo.com",
+  "title": "Google Issues New Warning About the Quantum Computing Security Apocalypse",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:05.166810",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-27\\8a58bef5a6a5e9b36de71b540f9a1e68443dfb34.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-27\\8a58bef5a6a5e9b36de71b540f9a1e68443dfb34.txt",
+  "word_count": 493,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "4f8f10fa61a492416d35766616fb567f075ecb1e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google has postponed the estimated timeline for quantum computers to break current cryptographic security, known as Q-Day, from an earlier date to 2029. This change is attributed to advancements in quantum computing and the need for more robust post-quantum cryptography (PQC).",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the implications of a potential security breach and the urgency for the transition to post-quantum cryptography.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

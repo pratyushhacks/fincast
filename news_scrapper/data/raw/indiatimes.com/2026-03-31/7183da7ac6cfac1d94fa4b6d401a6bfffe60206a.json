@@ -1,0 +1,15 @@
+{
+  "id": "7183da7ac6cfac1d94fa4b6d401a6bfffe60206a",
+  "url": "https://economictimes.indiatimes.com/industry/renewables/traffic-in-middle-lane-revving-up-e-cars-rs-10-30l-e-cars-see-fastest-growth-amid-discounts/articleshow/129871340.cms",
+  "site": "indiatimes.com",
+  "title": "Traffic in middle lane revving up e-cars; Rs 10-30L e-cars see fastest growth amid discounts - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:24.795611",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\7183da7ac6cfac1d94fa4b6d401a6bfffe60206a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\7183da7ac6cfac1d94fa4b6d401a6bfffe60206a.txt",
+  "word_count": 532,
+  "paywalled": false,
+  "dedup_hash": "3ad67664758d81f90dbb0f9b4f3c57f77439eba4",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles"
+}

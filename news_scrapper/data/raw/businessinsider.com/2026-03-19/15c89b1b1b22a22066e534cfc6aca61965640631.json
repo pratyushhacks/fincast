@@ -1,0 +1,65 @@
+{
+  "id": "15c89b1b1b22a22066e534cfc6aca61965640631",
+  "url": "https://www.businessinsider.com/people-ceo-neil-vogel-google-zero-ai-interview-kafka-2026-3",
+  "site": "businessinsider.com",
+  "title": "People Inc CEO Neil Vogel Plans for Life Without Google — and With AI - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:29.565517",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-19\\15c89b1b1b22a22066e534cfc6aca61965640631.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-19\\15c89b1b1b22a22066e534cfc6aca61965640631.txt",
+  "word_count": 1542,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "e3272d2992d5964f669878d8688c3ab4ffcbf4fa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Neil Vogel, CEO of People Inc., acknowledges the decline in Google referrals, which once accounted for 70% of his company's traffic but have dropped to about 25%. Despite this, People Inc. is growing due to the acquisition of Meredith'nets and successful content creation. Vogel is also exploring partnerships with AI companies like OpenAI, despite potential risks.",
+  "sentiment": 2,
+  "sentiment_reason": "The decline in Google referrals and the acknowledgment of potential risks with AI partnerships contribute to a negative sentiment, but the company's growth and successful content strategy provide a counterbalance, resulting in a neutral market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

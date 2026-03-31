@@ -1,0 +1,64 @@
+{
+  "id": "7d09cb3327cb51e75f0da7eb1ca94fae1bd72196",
+  "url": "https://www.theguardian.com/technology/2026/mar/23/iphone-17e-review-apple-cheapest-new-smartphone-chip-magsafe-storage",
+  "site": "theguardian.com",
+  "title": "iPhone 17e review: Apple upgrades its cheapest new smartphone | iPhone | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:02.231811",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-24\\7d09cb3327cb51e75f0da7eb1ca94fae1bd72196.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-24\\7d09cb3327cb51e75f0da7eb1ca94fae1bd72196.txt",
+  "word_count": 971,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "677de07c82b9f002fa267897441b927ba7760234",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "The iPhone 17e, priced at £599, is the cheapest new iPhone with upgrades like a faster chip, double the storage, and MagSafe, but lacks some advanced features and has a single camera.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the affordable price and key upgrades of the iPhone 17e, which are positive aspects for consumers looking for value in a new iPhone.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49
+      ],
+      "base_price": 251.64,
+      "next_price": 252.62,
+      "change_1d": 0.3894,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

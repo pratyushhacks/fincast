@@ -1,0 +1,27 @@
+{
+  "id": "f8a599aeca9e5f6dec1d49c52293b8aba3e3d085",
+  "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/ipl-2026-advertisement-gold-rush-jiostar-locks-in-27-sponsors-big-tech-to-fmcg-pile-in/articleshow/129818441.cms",
+  "site": "indiatimes.com",
+  "title": "IPL 2026 advertisement gold rush: JioStar locks in 27 sponsors, big tech to FMCG pile in - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:07.412844",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\f8a599aeca9e5f6dec1d49c52293b8aba3e3d085.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\f8a599aeca9e5f6dec1d49c52293b8aba3e3d085.txt",
+  "word_count": 447,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "b5951be0579768c2b9c8188e522063fe69544bd5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

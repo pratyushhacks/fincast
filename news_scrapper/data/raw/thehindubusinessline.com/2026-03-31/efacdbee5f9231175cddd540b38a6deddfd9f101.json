@@ -1,0 +1,54 @@
+{
+  "id": "efacdbee5f9231175cddd540b38a6deddfd9f101",
+  "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-update-march-2026-volatility-inflation/article70801924.ece",
+  "site": "thehindubusinessline.com",
+  "title": "World gold prices steady - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:09.275416",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\efacdbee5f9231175cddd540b38a6deddfd9f101.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\efacdbee5f9231175cddd540b38a6deddfd9f101.txt",
+  "word_count": 264,
+  "paywalled": false,
+  "dedup_hash": "8436eb2e966d9129920104b6ad1bd8db9e179b14",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Gold prices remained steady amidst a volatile market influenced by a weaker US dollar, a surge in crude oil prices, and geopolitical tensions. The market also reflects the US Federal Reserve's stance on interest rates, which is unlikely to cut due to inflation concerns.",
+  "sentiment": 2,
+  "sentiment_reason": "The market sentiment is negative due to inflation fears sparked by the surge in energy prices and the reduced likelihood of interest rate cuts by the US Federal Reserve.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "91e80a6897f12ded873340b8b1f23ab0bae43b9e",
+  "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/european-car-sales-rise-modestly-in-february-tesla-reverses-year-long-skid/129767546",
+  "site": "indiatimes.com",
+  "title": "European Car Sales Surge in February, Tesla Sees Growth After Year-Long Decline, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:18.567929",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\91e80a6897f12ded873340b8b1f23ab0bae43b9e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\91e80a6897f12ded873340b8b1f23ab0bae43b9e.txt",
+  "word_count": 358,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b807c2802f4aff7ca889a54e4fc98a2a19aa3e60",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company"
+}

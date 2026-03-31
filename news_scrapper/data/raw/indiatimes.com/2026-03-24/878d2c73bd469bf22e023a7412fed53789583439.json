@@ -1,0 +1,25 @@
+{
+  "id": "878d2c73bd469bf22e023a7412fed53789583439",
+  "url": "https://economictimes.indiatimes.com/news/india/punjab-recovers-rs-111-crore-under-vat-arrears-one-time-settlement-scheme-fm-harpal-singh-cheema/articleshow/129746379.cms",
+  "site": "indiatimes.com",
+  "title": "Punjab recovers Rs 111 crore under VAT arrears one-time settlement scheme: FM Harpal Singh Cheema - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:17.601853",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\878d2c73bd469bf22e023a7412fed53789583439.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\878d2c73bd469bf22e023a7412fed53789583439.txt",
+  "word_count": 222,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1594edde83d9c9ca2ca61ba2c71f528b6b632915",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

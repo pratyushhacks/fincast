@@ -1,0 +1,65 @@
+{
+  "id": "5a896db9287b52478377ba36e033379212864aa1",
+  "url": "https://www.pcmag.com/news/nvidia-to-upgrade-ai-chatbot-performance-with-new-lpu-chip-gtc-2026",
+  "site": "pcmag.com",
+  "title": "Nvidia to Upgrade AI Chatbot Performance With New 'LPU' Chip | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:48.336255",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-17\\5a896db9287b52478377ba36e033379212864aa1.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-17\\5a896db9287b52478377ba36e033379212864aa1.txt",
+  "word_count": 883,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "e590a5dc15b44f132455db9b0bd920c25d61f811",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia plans to sell a new LPU chip optimized for running large language models to improve chatbot performance. This chip is part of a larger platform that includes Groq's earlier LPUs and Nvidia's upcoming Rubin GPU and Vera CPU technologies for data centers. Nvidia aims to pair these technologies to enhance AI performance, especially with longer prompts and larger models.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Nvidia's strategic move to improve AI performance with new chips, which is generally seen as a positive development for the tech industry, but the mention of Groq's lower memory capacity compared to Nvidia's GPUs introduces a slight negative aspect.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

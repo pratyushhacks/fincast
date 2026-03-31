@@ -1,0 +1,64 @@
+{
+  "id": "2763e11b980f0f85e322b890de250543e902f30e",
+  "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/mixue-reports-33-jump-profit-amid-bruising-china-price-war",
+  "site": "businesstimes.com.sg",
+  "title": "Mixue reports 33% jump in profit amid bruising China price war - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:38.820652",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\2763e11b980f0f85e322b890de250543e902f30e.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\2763e11b980f0f85e322b890de250543e902f30e.txt",
+  "word_count": 486,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c7691be5475c720770886202b745fddf37ad7ab4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Mixue Group reported a significant revenue and profit increase amidst a consumer price war, while facing challenges from the broader sector's price competition and delivery expenses.",
+  "sentiment": 4,
+  "sentiment_reason": "The company's strong revenue and profit growth, despite the price war and delivery expenses, indicates a positive market impact.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34
+      ],
+      "base_price": 49.05,
+      "next_price": 48.38,
+      "change_1d": -1.366,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.9,
+      "change_1d": -0.8045,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

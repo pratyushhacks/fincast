@@ -1,0 +1,29 @@
+{
+  "id": "635e90ad3778d902a274892ae8b7ce58c5631c8c",
+  "url": "https://economictimes.indiatimes.com/news/international/us/a-billion-dollars-each-while-you-work-9-to-5-these-6-meta-execs-are-in-line-for-a-billion-dollar-ai-payday/articleshow/129829997.cms",
+  "site": "indiatimes.com",
+  "title": "Meta: A billion dollars each? While you work 9-to-5, these 6 Meta execs are in line for a billion-dollar AI payday - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:50.834727",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\635e90ad3778d902a274892ae8b7ce58c5631c8c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\635e90ad3778d902a274892ae8b7ce58c5631c8c.txt",
+  "word_count": 530,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ceca56c3957d744423379b362f474e511d8daca9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

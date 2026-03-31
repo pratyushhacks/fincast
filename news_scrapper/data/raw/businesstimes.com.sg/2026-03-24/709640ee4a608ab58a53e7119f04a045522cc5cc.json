@@ -1,0 +1,64 @@
+{
+  "id": "709640ee4a608ab58a53e7119f04a045522cc5cc",
+  "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/stocks-watch-mapletree-logistics-trust-lendlease-global-commercial-reit-aem",
+  "site": "businesstimes.com.sg",
+  "title": "Stocks to watch: Mapletree Logistics Trust, Lendlease Global Commercial Reit, AEM - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:23.371613",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-24\\709640ee4a608ab58a53e7119f04a045522cc5cc.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-24\\709640ee4a608ab58a53e7119f04a045522cc5cc.txt",
+  "word_count": 266,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7534373eac5b2b4508a9b55a2359ed6a00167253",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "Mapletree Logistics Trust expands into Mumbai logistics market with a 3.89 billion rupee warehouse acquisition. Lendlease Global Commercial Reit faces underwriter absorption due to lower-than-expected subscription rate. AEM partners with ASE Technology for disruptive test solutions in AI and high-performance computing markets, raising about S$12 million.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive developments such as the expansion of Mapletree Logistics Trust and the partnership for AEM, despite some challenges faced by Lendlease Global Commercial Reit.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59
+      ],
+      "base_price": 341.02,
+      "next_price": 345.25,
+      "change_1d": 1.2404,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

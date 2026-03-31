@@ -1,0 +1,25 @@
+{
+  "id": "4c6757aee866cdfa89b335dd9a2efccad90e6a00",
+  "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-predicts-20-boost-in-spectral-efficiency-through-ai-at-et5gcongress/129823881",
+  "site": "indiatimes.com",
+  "title": "Ericsson Predicts 20% Boost in Spectral Efficiency through AI at #ET5GCongress, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:19.558700",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\4c6757aee866cdfa89b335dd9a2efccad90e6a00.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\4c6757aee866cdfa89b335dd9a2efccad90e6a00.txt",
+  "word_count": 510,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f8ec111d956354167ba53b4b2479c4ea16bbfcff",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector"
+}

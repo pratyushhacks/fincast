@@ -1,0 +1,64 @@
+{
+  "id": "1ec1660792447d41e85341fc07c36119266f4deb",
+  "url": "https://www.kiplinger.com/retirement/im-ready-to-retire-in-europe-now-my-wife-thinks-its-too-risky-whos-right",
+  "site": "kiplinger.com",
+  "title": "I’m Ready to Retire in Europe Now. My Wife Thinks It’s Too Risky. Who’s Right? | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:30.789376",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-23\\1ec1660792447d41e85341fc07c36119266f4deb.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-23\\1ec1660792447d41e85341fc07c36119266f4deb.txt",
+  "word_count": 1571,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "907b98ed353e65b54dd395c2ece681a989107803",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Over 170,000 retired workers are receiving Social Security benefits in Europe, with a significant number of Americans considering moving there for retirement due to cost of living and political climate differences. However, geopolitical risks are increasing as the war in Ukraine persists.",
+  "sentiment": 3,
+  "sentiment_reason": "The sentiment is neutral as the article presents both the positive aspects of Americans moving to Europe for retirement and the growing concerns due to geopolitical risks.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

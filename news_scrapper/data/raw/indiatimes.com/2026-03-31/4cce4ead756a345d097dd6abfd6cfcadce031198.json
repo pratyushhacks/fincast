@@ -1,0 +1,15 @@
+{
+  "id": "4cce4ead756a345d097dd6abfd6cfcadce031198",
+  "url": "https://telecom.economictimes.indiatimes.com/news/internet/ais-impact-on-big-techs-climate-commitments-a-growing-fossil-fuel-dependency/129857710",
+  "site": "indiatimes.com",
+  "title": "AI's Impact on Big Tech's Climate Commitments: A Growing Fossil Fuel Dependency, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:01.794452",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\4cce4ead756a345d097dd6abfd6cfcadce031198.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\4cce4ead756a345d097dd6abfd6cfcadce031198.txt",
+  "word_count": 1298,
+  "paywalled": false,
+  "dedup_hash": "8742d19a0900c8a9aaa1984d2adb31696610c1a4",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)"
+}

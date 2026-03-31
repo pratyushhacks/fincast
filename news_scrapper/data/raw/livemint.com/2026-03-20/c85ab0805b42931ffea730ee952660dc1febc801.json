@@ -1,0 +1,64 @@
+{
+  "id": "c85ab0805b42931ffea730ee952660dc1febc801",
+  "url": "https://www.livemint.com/technology/tech-news/update-your-iphone-now-apple-warns-users-as-google-uncovers-russian-linked-darksword-spyware-threat-11773890379309.html",
+  "site": "livemint.com",
+  "title": "Update your iPhone now: Apple warns users as Google uncovers Russian-linked ‘DarkSword’ spyware threat | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:15.938082",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-20\\c85ab0805b42931ffea730ee952660dc1febc801.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-20\\c85ab0805b42931ffea730ee952660dc1febc801.txt",
+  "word_count": 418,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f3f6685a5537ed1acca0a0a505f810aff5e57d5f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple warns iPhone users to update devices due to a new exploit being used by Russian-linked actors to take control of older iOS versions. The company emphasizes the importance of regular updates for security.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a security threat and the need for updates, which indicates negative market impact due to potential recession fears and earnings miss.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96
+      ],
+      "base_price": 247.99,
+      "next_price": 251.49,
+      "change_1d": 1.4113,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

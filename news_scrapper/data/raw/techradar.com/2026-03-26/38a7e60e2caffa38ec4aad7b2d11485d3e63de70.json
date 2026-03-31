@@ -1,0 +1,64 @@
+{
+  "id": "38a7e60e2caffa38ec4aad7b2d11485d3e63de70",
+  "url": "https://www.techradar.com/pro/when-ai-drives-the-m-and-a-deal-reality-arrives-fast",
+  "site": "techradar.com",
+  "title": "When AI drives the M&A deal, reality arrives fast | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:50.196601",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\38a7e60e2caffa38ec4aad7b2d11485d3e63de70.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\38a7e60e2caffa38ec4aad7b2d11485d3e63de70.txt",
+  "word_count": 767,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "82608df2fa85770f110da36a086ea22b5b900271",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "AI has become a key factor in software acquisitions, influencing both the strategic rationale behind deals and the post-deal integration challenges. However, this has led to inefficiencies and financial losses due to unused or duplicate licenses, as well as the sunk cost fallacy in technology strategy.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of AI-driven acquisitions on operational efficiency and financial outcomes due to early investments and subsequent integration challenges.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47
+      ],
+      "base_price": 109.92,
+      "next_price": 106.55,
+      "change_1d": -3.0659,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.16,
+      "change_1d": -0.7642,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bb2ce112c8b45ba1e4086fb81fe8b38ee17ff6ca",
+  "url": "https://economictimes.indiatimes.com/news/international/business/blackstones-flagship-private-credit-fund-posts-first-monthly-loss-in-over-three-years/articleshow/129711825.cms",
+  "site": "indiatimes.com",
+  "title": "Blackstone's flagship private credit fund posts first monthly loss in over three years - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:20.170497",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\bb2ce112c8b45ba1e4086fb81fe8b38ee17ff6ca.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\bb2ce112c8b45ba1e4086fb81fe8b38ee17ff6ca.txt",
+  "word_count": 331,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2b4fe63d4452be06bc0db911a400ea776a09c760",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

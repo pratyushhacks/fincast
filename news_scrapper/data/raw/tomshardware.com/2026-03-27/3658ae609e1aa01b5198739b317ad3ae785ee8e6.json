@@ -1,0 +1,64 @@
+{
+  "id": "3658ae609e1aa01b5198739b317ad3ae785ee8e6",
+  "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-power-series-breaks-cover-in-geekbench-listing-core-3-304-is-twice-as-fast-in-single-core-performance-versus-last-gen",
+  "site": "tomshardware.com",
+  "title": "Intel's upcoming 'Wildcat Lake' low-power series breaks cover in Geekbench listing — 'Core 3 304' is twice as fast in single-core performance versus last-gen | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:07.954763",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-27\\3658ae609e1aa01b5198739b317ad3ae785ee8e6.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-27\\3658ae609e1aa01b5198739b317ad3ae785ee8e6.txt",
+  "word_count": 656,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "0088cdc1091ca87a9bac92fb7b8ca7f2a5cec838",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Intel's leaked information about the Core 3 304 processor indicates a significant performance improvement over its predecessor, the Twin Lake-based N355, with impressive Geekbench scores. However, it's an early engineering sample with a lower TDP of 15W, aimed at the ultra-budget market.",
+  "sentiment": 4,
+  "sentiment_reason": "The processor shows strong performance improvements and is targeted for a growing market segment, which are positive indicators for Intel.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1
+      ],
+      "base_price": 43.13,
+      "next_price": 41.19,
+      "change_1d": -4.498,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

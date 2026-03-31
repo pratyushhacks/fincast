@@ -1,0 +1,64 @@
+{
+  "id": "6907801b5f67e79ed4107c8ed99a0ac189070a1e",
+  "url": "https://www.businesstimes.com.sg/international/global/shockwave-war-rippling-through-global-economy",
+  "site": "businesstimes.com.sg",
+  "title": "Global economy rattled by war shocks; PMIs set to decline - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:26.999703",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-23\\6907801b5f67e79ed4107c8ed99a0ac189070a1e.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-23\\6907801b5f67e79ed4107c8ed99a0ac189070a1e.txt",
+  "word_count": 1658,
+  "reading_time_minutes": 8,
+  "paywalled": false,
+  "dedup_hash": "713d06ee12d9eafde2a492cbd51b2958956f42cd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "PMIs are expected to decline globally, indicating a synchronized weakening in manufacturing and services. This comes amidst the backdrop of the Middle East conflict and its impact on the global economy.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a decline in PMI, which signals negative economic trends and fears of a recession, along with the impact of the Middle East conflict on global markets.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e6405f133da62e18111a68fe05eeb08fbc34cf7f",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/did-nikola-tesla-hear-aliens-first-heres-all-about-the-century-old-black-knight-satellite-ufo-conspiracy-theory/articleshow/129751560.cms",
+  "site": "indiatimes.com",
+  "title": "Did Nikola Tesla hear aliens first? Here's all about the century-old ‘Black Knight satellite’ UFO conspiracy theory - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:12.543984",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\e6405f133da62e18111a68fe05eeb08fbc34cf7f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\e6405f133da62e18111a68fe05eeb08fbc34cf7f.txt",
+  "word_count": 370,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cc7e8d535d8b19cb0bb5c9c80cb737f93a196780",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company"
+}

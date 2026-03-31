@@ -1,0 +1,25 @@
+{
+  "id": "decba7bd725374703303693781fa952191a65efd",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-dump-rs-88000-crore-in-machr-2026-outflows-cross-rs-1-lakh-crore/articleshow/129729235.cms",
+  "site": "indiatimes.com",
+  "title": "Foreign investors dump Rs 88,000 crore in March; 2026 outflows cross Rs 1 lakh crore - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:29.706549",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\decba7bd725374703303693781fa952191a65efd.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\decba7bd725374703303693781fa952191a65efd.txt",
+  "word_count": 442,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "279cea62bfccead28a171b7b12f7711da122ceaa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "3e558da9bfcaae554cdbfd9e8a5c5a5479d926fb",
+  "url": "https://www.digitaltrends.com/business/whats-the-top-rated-accounting-suite-for-large-companies/",
+  "site": "digitaltrends.com",
+  "title": "What’s the top-rated accounting suite for large companies? - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:20.715669",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-20\\3e558da9bfcaae554cdbfd9e8a5c5a5479d926fb.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-20\\3e558da9bfcaae554cdbfd9e8a5c5a5479d926fb.txt",
+  "word_count": 701,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "7be3afedc560979e4b64af0c5670f846ce034d9d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Leading accounting suites for large enterprises centralize accounting, reporting, and compliance on a single cloud platform, offering multi-entity support, automation, and real-time insights to improve operational efficiency and decision-making.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the positive features of top-rated accounting suites such as multi-entity support, automation, and real-time dashboards which streamline operations and enable faster, data-driven decisions.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        404.88,
+        401.86,
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02
+      ],
+      "base_price": 381.87,
+      "next_price": 383.0,
+      "change_1d": 0.2959,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

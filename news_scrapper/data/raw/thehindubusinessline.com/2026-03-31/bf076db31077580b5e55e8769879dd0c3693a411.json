@@ -1,0 +1,54 @@
+{
+  "id": "bf076db31077580b5e55e8769879dd0c3693a411",
+  "url": "https://www.thehindubusinessline.com/markets/investors-to-keep-a-track-of-west-asia-war-crude-oil-prices-in-holiday-shortened-week-analysts/article70799123.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Investors to keep a track of West Asia war, crude oil prices in holiday-shortened week: Analysts - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:07.036812",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\bf076db31077580b5e55e8769879dd0c3693a411.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\bf076db31077580b5e55e8769879dd0c3693a411.txt",
+  "word_count": 384,
+  "paywalled": false,
+  "dedup_hash": "e2b51aec82e3742aba9aa95fa8ffe3ad6c419aaf",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "The ongoing war in West Asia and its impact on crude oil prices, along with the rupee-dollar trend and foreign investor activity, are expected to drive domestic equities. Key data releases on industrial production and manufacturing PMI will also influence market sentiment.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is influenced by negative factors such as the war's impact on crude oil prices and the outflow of foreign investments due to geopolitical tensions and currency weakness.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

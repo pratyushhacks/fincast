@@ -1,0 +1,47 @@
+{
+  "id": "3f7bc135421b2051a18a80aa99626f398d4a413c",
+  "url": "https://www.independent.co.uk/news/uk/home-news/oil-heating-prices-hike-uk-iran-war-b2938451.html",
+  "site": "independent.co.uk",
+  "title": "‘Breathing in cold air will kill my husband – but we can’t afford a heating oil delivery’ | The Independent",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:07:29.339677",
+  "language": null,
+  "html_path": "data\\raw\\independent.co.uk\\2026-03-14\\3f7bc135421b2051a18a80aa99626f398d4a413c.html",
+  "text_path": "data\\raw\\independent.co.uk\\2026-03-14\\3f7bc135421b2051a18a80aa99626f398d4a413c.txt",
+  "word_count": 673,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "20299bbfbf14ba1d9d979af93e65c2d0472a5ff7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "UK woman fears inability to heat home due to costly heating oil amid US-Iran conflict, with elderly neighbors also at risk. Reports of heating oil thefts in Suffolk as prices soar.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to the financial strain caused by rising heating oil costs and the health risks associated with the inability to heat homes, particularly for those with respiratory illnesses.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

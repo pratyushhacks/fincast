@@ -1,0 +1,26 @@
+{
+  "id": "df00ed764f3ea46cbc295849fb74d1f1adbc75d1",
+  "url": "https://economictimes.indiatimes.com/industry/banking/finance/tata-capital-served-rs-413-crore-tax-notice-plans-to-contest-reassessment/articleshow/129732691.cms",
+  "site": "indiatimes.com",
+  "title": "Tata Capital served Rs 413 crore tax notice, plans to contest reassessment - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:13.405566",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\df00ed764f3ea46cbc295849fb74d1f1adbc75d1.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\df00ed764f3ea46cbc295849fb74d1f1adbc75d1.txt",
+  "word_count": 316,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4f75eb431798826a5760f449ed64a547587165eb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

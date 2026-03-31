@@ -1,0 +1,54 @@
+{
+  "id": "b978bf625ca457628b6afc3d71a3d2504bb9fe7d",
+  "url": "https://www.pymnts.com/apple/2026/apple-recruits-google-shopping-exec-to-lead-ai-marketing/",
+  "site": "pymnts.com",
+  "title": "Apple Recruits Google Shopping Exec to Lead AI Marketing",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:55.470665",
+  "html_path": "data\\raw\\pymnts.com\\2026-03-31\\b978bf625ca457628b6afc3d71a3d2504bb9fe7d.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-31\\b978bf625ca457628b6afc3d71a3d2504bb9fe7d.txt",
+  "word_count": 412,
+  "paywalled": false,
+  "dedup_hash": "effaa9f0b75bcba460c66af7c902ae2c037ea27e",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "Lilian Rincon, former Google employee, will be Apple's vice president of product marketing for AI, amidst the introduction of an updated Siri with Google AI technology. Apple's partnership with Google and the planned 'Extensions' feature for Siri are also highlighted.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about corporate hiring and partnerships with a neutral market impact, as it does not indicate a significant market-moving event.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

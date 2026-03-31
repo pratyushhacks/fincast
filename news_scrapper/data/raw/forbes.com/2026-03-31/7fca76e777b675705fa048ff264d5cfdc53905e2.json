@@ -1,0 +1,18 @@
+{
+  "id": "7fca76e777b675705fa048ff264d5cfdc53905e2",
+  "url": "https://www.forbes.com/sites/jaymcgregor/2026/03/28/samsung-galaxy-bixby-perplexity-one-ui-85-update/",
+  "site": "forbes.com",
+  "title": "Samsung Releases New Feature Boost To Millions Of Galaxy Phones",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:51.976003",
+  "html_path": "data\\raw\\forbes.com\\2026-03-31\\7fca76e777b675705fa048ff264d5cfdc53905e2.html",
+  "text_path": "data\\raw\\forbes.com\\2026-03-31\\7fca76e777b675705fa048ff264d5cfdc53905e2.txt",
+  "word_count": 545,
+  "paywalled": false,
+  "dedup_hash": "080cfedbe508275ad7471ff5f6794fb9311d5674",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Samsung is enhancing its Galaxy phones with an upgraded Bixby powered by Perplexity AI, enabling natural language interaction to control settings and features, and introducing an AI-powered browser with agentic capabilities for more efficient online tasks.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of an upgraded Bixby and an AI-powered browser represents a positive development for Samsung's smartphones, offering enhanced user experience and innovative features."
+}

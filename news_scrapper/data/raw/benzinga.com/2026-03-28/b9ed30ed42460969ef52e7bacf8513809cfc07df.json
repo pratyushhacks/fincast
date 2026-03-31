@@ -1,0 +1,68 @@
+{
+  "id": "b9ed30ed42460969ef52e7bacf8513809cfc07df",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51516506/meta-amazon-and-big-tech-is-driving-a-140-billion-ai-debt-tsunami-spooking-wall-street-jpmorgan-just-stepped-in",
+  "site": "benzinga.com",
+  "title": "Big Tech’s $140B AI Debt Surge Has Wall Street On Edge - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG), Alphabet (NASDAQ:GOOGL), Meta Platforms (NASDAQ:META)",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:30.764996",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-28\\b9ed30ed42460969ef52e7bacf8513809cfc07df.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-28\\b9ed30ed42460969ef52e7bacf8513809cfc07df.txt",
+  "word_count": 287,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "57528f23fb34f33a1be47c19c523fb098be2350a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the shift in funding for AI growth from internal cash flows to debt, highlighting the risks and credit cycle emerging from this trend. JPMorgan Chase's introduction of a new financial product to hedge against this credit risk is also mentioned.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a significant change in the market dynamics with the shift to debt-funded AI growth and the creation of a credit cycle, but it doesn't indicate a strong negative or positive market impact.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97
+      ],
+      "base_price": 356.77,
+      "next_price": 358.96,
+      "change_1d": 0.6138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

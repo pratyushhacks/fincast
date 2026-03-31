@@ -1,0 +1,65 @@
+{
+  "id": "a3ae2854bcd8e8d826cbcf432244be66a8e29445",
+  "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+  "site": "arstechnica.com",
+  "title": "Google details new 24-hour process to sideload unverified Android apps - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:50.203180",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-20\\a3ae2854bcd8e8d826cbcf432244be66a8e29445.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-20\\a3ae2854bcd8e8d826cbcf432244be66a8e29445.txt",
+  "word_count": 289,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "9cea63127efeadfa8bb6061435926b0e93fdc30f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google introduces a 24-hour verification delay for sideloading apps to combat social engineering attacks, emphasizing user safety and security. The company also provides options to bypass this verification process for trusted users.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the implementation of a verification delay, which could be seen as a hindrance to users who are confident in their app sources, potentially leading to frustration or inconvenience.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69,
+        307.13
+      ],
+      "base_price": 301.0,
+      "next_price": 302.06,
+      "change_1d": 0.3522,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

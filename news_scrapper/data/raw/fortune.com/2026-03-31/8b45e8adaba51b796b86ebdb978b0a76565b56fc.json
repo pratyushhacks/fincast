@@ -1,0 +1,54 @@
+{
+  "id": "8b45e8adaba51b796b86ebdb978b0a76565b56fc",
+  "url": "https://fortune.com/2026/03/28/meta-executives-stock-options-9-trillion-market-capvaluation-ai/",
+  "site": "fortune.com",
+  "title": "Meta executives could earn $1 billion each if they hit goals in pursuit of a $9 trillion valuation | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:17.426901",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\8b45e8adaba51b796b86ebdb978b0a76565b56fc.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\8b45e8adaba51b796b86ebdb978b0a76565b56fc.txt",
+  "word_count": 758,
+  "paywalled": false,
+  "dedup_hash": "9589bb1540d35e491cf82e9c880caba3198542b5",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta extends moonshot-level stock grants to a broader group of senior leaders, not just the CEO, to incentivize achieving a significant market capitalization growth. This move could lead to speculative compensation packages for non-CEO C-suite executives.",
+  "sentiment": 2,
+  "sentiment_reason": "The initiative is negative due to the speculative nature of the compensation packages and the pressure it puts on multiple executives to achieve a high-risk, high-reward goal.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

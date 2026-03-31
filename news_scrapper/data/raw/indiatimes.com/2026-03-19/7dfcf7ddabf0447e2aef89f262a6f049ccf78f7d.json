@@ -1,0 +1,26 @@
+{
+  "id": "7dfcf7ddabf0447e2aef89f262a6f049ccf78f7d",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-outcome-today-amid-iran-war-what-to-expect-and-what-it-means-for-indian-markets/articleshow/129648345.cms",
+  "site": "indiatimes.com",
+  "title": "US Fed outcome today amid Iran war: What to expect and what it means for Indian markets - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:58.646361",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\7dfcf7ddabf0447e2aef89f262a6f049ccf78f7d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\7dfcf7ddabf0447e2aef89f262a6f049ccf78f7d.txt",
+  "word_count": 532,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "007920970c6642f7d112fe0c2091ee1409ab4c15",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

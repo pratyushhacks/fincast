@@ -1,0 +1,66 @@
+{
+  "id": "4df7a03cf3d152a3328ecba8165de8b68720e726",
+  "url": "https://www.thehindubusinessline.com/info-tech/meta-plans-major-layoffs-of-up-to-20-amid-ai-investments-and-efficiency-drive/article70742164.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Meta plans up to 20% layoffs as generative AI reshapes workforce - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:00:11.135338",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\4df7a03cf3d152a3328ecba8165de8b68720e726.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\4df7a03cf3d152a3328ecba8165de8b68720e726.txt",
+  "word_count": 516,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "94e23d9e4b5326ebcb8ad61b28a951c93aa7eebb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Meta is planning significant layoffs, potentially affecting 20% of its workforce, to counterbalance the cost of its aggressive investment in generative AI and to improve efficiency. This move comes as part of a larger trend in tech companies leveraging AI advancements to streamline operations.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the planned layoffs and the context of cost-cutting measures amidst significant investment in technology.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

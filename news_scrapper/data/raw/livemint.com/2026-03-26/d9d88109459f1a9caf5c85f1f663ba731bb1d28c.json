@@ -1,0 +1,64 @@
+{
+  "id": "d9d88109459f1a9caf5c85f1f663ba731bb1d28c",
+  "url": "https://www.livemint.com/money/personal-finance/how-india-s-youth-is-evolving-into-more-informed-and-responsible-borrowers-loans-11774420411610.html",
+  "site": "livemint.com",
+  "title": "How India’s youth is evolving into more informed and responsible borrowers | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:39.287043",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-26\\d9d88109459f1a9caf5c85f1f663ba731bb1d28c.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-26\\d9d88109459f1a9caf5c85f1f663ba731bb1d28c.txt",
+  "word_count": 550,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "755ed448018be7d5bf8f5363426ff7ba30cc6588",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "New India's economic growth is driven by self-reliance, economic empowerment, and financial inclusion, with significant efforts in upskilling, simplifying tax structures, and promoting financial literacy among the youth. Initiatives like PMJDY have led to increased bank account ownership and usage. The focus is on building a disciplined credit culture among first-time borrowers.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive developments in India's financial sector, highlighting government initiatives, increased financial inclusion, and the rise in bank account ownership, which are all indicators of a positive market impact.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34
+      ],
+      "base_price": 49.05,
+      "next_price": 48.4,
+      "change_1d": -1.3252,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.24,
+      "change_1d": -0.7518,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

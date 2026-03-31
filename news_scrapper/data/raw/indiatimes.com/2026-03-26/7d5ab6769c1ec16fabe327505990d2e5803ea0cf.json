@@ -1,0 +1,26 @@
+{
+  "id": "7d5ab6769c1ec16fabe327505990d2e5803ea0cf",
+  "url": "https://retail.economictimes.indiatimes.com/news/consumption-holds-strong-fmcg-pharma-stocks-gain-investor-attention/129774998",
+  "site": "indiatimes.com",
+  "title": "FMCG and Pharma Stocks: The Resilient Investment Choices for Uncertain Times, ETRetail",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:56.210961",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\7d5ab6769c1ec16fabe327505990d2e5803ea0cf.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\7d5ab6769c1ec16fabe327505990d2e5803ea0cf.txt",
+  "word_count": 1023,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "34e09c2b8d21c307ee9b270fdae3be336ab77e98",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

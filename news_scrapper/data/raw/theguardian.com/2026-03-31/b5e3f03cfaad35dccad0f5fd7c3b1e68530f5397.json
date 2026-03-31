@@ -1,0 +1,54 @@
+{
+  "id": "b5e3f03cfaad35dccad0f5fd7c3b1e68530f5397",
+  "url": "https://www.theguardian.com/us-news/2026/mar/29/trump-news-at-a-glance-no-kings-rallies-draw-millions-to-us-streets-in-protest-against-president",
+  "site": "theguardian.com",
+  "title": "Trump news at a glance: No Kings rallies draw millions to US streets in protest against president | Trump administration | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:00.050970",
+  "html_path": "data\\raw\\theguardian.com\\2026-03-31\\b5e3f03cfaad35dccad0f5fd7c3b1e68530f5397.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-31\\b5e3f03cfaad35dccad0f5fd7c3b1e68530f5397.txt",
+  "word_count": 441,
+  "paywalled": false,
+  "dedup_hash": "381bc5d316fa56031fad5c017ff450a3bc7d3783",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Millions participated in No Kings protests against the Trump administration, focusing on opposition to war with Iran, rising living costs, and federal immigration enforcement. Simultaneously, a significant protest occurred outside the NIH headquarters against cuts to medical research. The US treasury demanded retraction of a story on increased oversight of the Federal Reserve, and the US House passed a stopgap DHS funding bill after rejecting a Senate deal.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the focus on protests against government policies and actions, such as war, immigration enforcement, and budget standoffs affecting essential services.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

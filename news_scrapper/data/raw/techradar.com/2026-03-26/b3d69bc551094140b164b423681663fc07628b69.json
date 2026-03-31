@@ -1,0 +1,65 @@
+{
+  "id": "b3d69bc551094140b164b423681663fc07628b69",
+  "url": "https://www.techradar.com/vpn/vpn-services/exclusive-get-4-months-extra-up-to-usd50-amazon-gift-card-with-nordvpn",
+  "site": "techradar.com",
+  "title": "Exclusive: Get 4 months extra + up to $50 Amazon gift card with NordVPN | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:30.019097",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\b3d69bc551094140b164b423681663fc07628b69.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\b3d69bc551094140b164b423681663fc07628b69.txt",
+  "word_count": 292,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "db7fd9d8e13d2fb8bd3a5feea3d4c56626048338",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "NordVPN offers a low-priced deal with added benefits like extended protection and Amazon gift cards, making it a top pick for secure and comprehensive VPN services.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents NordVPN's deal as a major breakthrough with strong positive features such as the lowest price of the year, extended protection, and attractive Amazon gift card offer.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 201.05,
+      "change_1d": -3.1271,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.23,
+      "change_1d": -1.1433,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

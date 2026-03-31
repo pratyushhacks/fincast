@@ -1,0 +1,64 @@
+{
+  "id": "e0036ef6cf6ebfabfe0d5b741b55e23b66069813",
+  "url": "https://www.techradar.com/seasonal-sales/i-write-about-tv-deals-for-a-living-heres-what-id-buy-from-amazons-spring-prime-day-sale-to-watch-the-sweet-sixteen",
+  "site": "techradar.com",
+  "title": "I write about TV deals for a living — here's what I'd buy from Amazon's Spring Prime Day to watch the Sweet Sixteen | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:31.709237",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\e0036ef6cf6ebfabfe0d5b741b55e23b66069813.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\e0036ef6cf6ebfabfe0d5b741b55e23b66069813.txt",
+  "word_count": 196,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "63262bcad2878e4abe5962729d32e1891b8710f5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon's Big Spring Sale offers discounted prices on a wide range of highly rated TVs, perfect for watching the Sweet Sixteen, with deals starting as low as $145.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights major discounts and incredible value on TVs, indicating a strongly positive market impact.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 201.03,
+      "change_1d": -3.1367,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.29,
+      "change_1d": -1.1328,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

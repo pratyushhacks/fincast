@@ -1,0 +1,54 @@
+{
+  "id": "b1bdac0760661fa360c35eb2cec77a674c635a5d",
+  "url": "https://www.thehindubusinessline.com/markets/wall-street-drops-again-to-close-its-5th-straight-losing-week-worst-since-iran-war/article70795401.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Wall Street drops again to close its 5th straight losing week, worst since Iran war - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:17.725138",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\b1bdac0760661fa360c35eb2cec77a674c635a5d.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\b1bdac0760661fa360c35eb2cec77a674c635a5d.txt",
+  "word_count": 725,
+  "paywalled": false,
+  "dedup_hash": "a7eb059bf5f0e55e31dc1b3a6b8cd8abeaea5983",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\"",
+  "summary": "US stocks continued to decline amidst ongoing war tensions and uncertainty over the Strait of Hormuz, with oil prices fluctuating in response to the situation.",
+  "sentiment": 2,
+  "sentiment_reason": "The article describes a negative market impact due to the war's effect on oil prices and stock market volatility, coupled with the uncertainty surrounding the Strait of Hormuz.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11,
+        85.64
+      ],
+      "base_price": 86.78,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

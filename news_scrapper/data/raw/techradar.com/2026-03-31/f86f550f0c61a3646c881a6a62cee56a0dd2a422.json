@@ -1,0 +1,54 @@
+{
+  "id": "f86f550f0c61a3646c881a6a62cee56a0dd2a422",
+  "url": "https://www.techradar.com/tech/think-youre-an-apple-expert-prove-it-by-taking-our-big-apple-50th-anniversary-quiz",
+  "site": "techradar.com",
+  "title": "Think you're an Apple expert? Prove it by taking our big Apple 50th anniversary quiz | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:44.243797",
+  "html_path": "data\\raw\\techradar.com\\2026-03-31\\f86f550f0c61a3646c881a6a62cee56a0dd2a422.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-31\\f86f550f0c61a3646c881a6a62cee56a0dd2a422.txt",
+  "word_count": 267,
+  "paywalled": false,
+  "dedup_hash": "2fbec4d1fc77f3efa70f851eb5231a21e7cd98f1",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Apple OR AAPL)",
+  "summary": "The article reflects on the author's personal history with Apple products and the company's 50-year history, including a quiz to test readers' knowledge and affinity for Apple.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral tone, focusing on personal recollections and historical facts without expressing strong positive or negative market impacts.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89,
+        248.8
+      ],
+      "base_price": 246.63,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

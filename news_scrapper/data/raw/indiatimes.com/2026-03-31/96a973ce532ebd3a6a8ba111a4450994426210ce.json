@@ -1,0 +1,15 @@
+{
+  "id": "96a973ce532ebd3a6a8ba111a4450994426210ce",
+  "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/metas-india-arm-renews-mumbai-bkc-office-lease-in-over-rs-200-cr-rental-deal/articleshow/129865051.cms",
+  "site": "indiatimes.com",
+  "title": "Meta’s India arm renews Mumbai BKC office lease in over Rs 200 cr rental deal - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:38.799079",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\96a973ce532ebd3a6a8ba111a4450994426210ce.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\96a973ce532ebd3a6a8ba111a4450994426210ce.txt",
+  "word_count": 303,
+  "paywalled": false,
+  "dedup_hash": "83930aaf467509f430caf30b77af8b1364393ae8",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

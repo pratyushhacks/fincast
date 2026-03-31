@@ -1,0 +1,65 @@
+{
+  "id": "2ba975323f2c90df1c400014bb56b2369444f0af",
+  "url": "https://www.independent.co.uk/news/world/americas/us-politics/oil-prices-dropping-sp500-nasdaq-dow-jones-b2939605.html",
+  "site": "independent.co.uk",
+  "title": "Oil prices send Wall Street toward best day since Iran war began | The Independent",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:48.419161",
+  "language": null,
+  "html_path": "data\\raw\\independent.co.uk\\2026-03-17\\2ba975323f2c90df1c400014bb56b2369444f0af.html",
+  "text_path": "data\\raw\\independent.co.uk\\2026-03-17\\2ba975323f2c90df1c400014bb56b2369444f0af.txt",
+  "word_count": 774,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "22fb4b9cfc35072a856aeabcd703a58d13423b5b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Oil prices drop, stocks rise amid Iran conflict, with major impacts on companies reliant on fuel and storage deals surging due to market reactions.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is reacting to the fluctuating oil prices due to the Iran conflict, with a negative impact due to the potential for prolonged disruption in oil supply.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.77,
+        104.33,
+        105.86,
+        108.05,
+        118.39,
+        119.89,
+        115.03
+      ],
+      "base_price": 118.84,
+      "next_price": 121.67,
+      "change_1d": 2.3814,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

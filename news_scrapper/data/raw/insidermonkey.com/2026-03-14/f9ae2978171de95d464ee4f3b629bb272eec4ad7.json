@@ -1,0 +1,70 @@
+{
+  "id": "f9ae2978171de95d464ee4f3b629bb272eec4ad7",
+  "url": "https://www.insidermonkey.com/blog/exxon-xom-plans-legal-shift-to-texas-after-more-than-a-century-in-new-jersey-1716109/",
+  "site": "insidermonkey.com",
+  "title": "Exxon (XOM) Plans Legal Shift to Texas after More than a Century in New Jersey - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:07:01.785965",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-14\\f9ae2978171de95d464ee4f3b629bb272eec4ad7.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-14\\f9ae2978171de95d464ee4f3b629bb272eec4ad7.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "Tesla",
+  "gdelt_category": "company",
+  "summary": "Exxon plans to move its legal base to Texas after over a century in New Jersey. Meanwhile, AI innovators like Tesla, Nvidia, Alphabet, and Microsoft are positioning themselves to capitalize on the AI revolution. An under-valued company with crucial AI technology is identified as a key player in this ecosystem.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a mix of corporate news and AI industry developments, with a negative sentiment due to the mention of a company (Exxon) planning a legal shift, which could imply financial or strategic challenges.",
+  "price_changes": {
+    "Tesla": {
+      "ticker": "TSLA",
+      "trend": [
+        405.94,
+        405.55,
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01
+      ],
+      "base_price": 391.2,
+      "next_price": 395.56,
+      "change_1d": 1.1145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

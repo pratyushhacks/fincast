@@ -1,0 +1,47 @@
+{
+  "id": "8297f4c94046b72799e0cd295ff13095c58d547d",
+  "url": "https://www.cnbc.com/2026/03/14/peruvian-stocks-why-they-may-be-an-unexpected-winner-of-the-ai-boom-iran-war.html",
+  "site": "cnbc.com",
+  "title": "Peruvian stocks: Why they may be an unexpected winner of the AI boom, Iran war",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:05:17.382944",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-14\\8297f4c94046b72799e0cd295ff13095c58d547d.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-14\\8297f4c94046b72799e0cd295ff13095c58d547d.txt",
+  "word_count": 878,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "cd1ae48772be23768482f63888d41c37e44c4b59",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "Peruvian stocks surge as AI boom and geopolitical risks drive commodity demand, outperforming global markets.",
+  "sentiment": 4,
+  "sentiment_reason": "The Peruvian stock market's strong performance is attributed to the rising demand for copper and gold due to the AI boom and safe-haven status amidst global uncertainties.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

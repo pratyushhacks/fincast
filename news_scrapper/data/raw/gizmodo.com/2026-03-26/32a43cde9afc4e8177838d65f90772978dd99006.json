@@ -1,0 +1,65 @@
+{
+  "id": "32a43cde9afc4e8177838d65f90772978dd99006",
+  "url": "https://gizmodo.com/google-clears-out-pixel-9a-at-an-all-time-low-after-pixel-10a-release-now-a-budget-android-smartphone-on-amazon-2000737191",
+  "site": "gizmodo.com",
+  "title": "Google Clears Out Pixel 9a at an All-Time Low After Pixel 10a Release, Now a Budget Android Smartphone",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:22.481258",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-26\\32a43cde9afc4e8177838d65f90772978dd99006.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-26\\32a43cde9afc4e8177838d65f90772978dd99006.txt",
+  "word_count": 428,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "51dcf0b3b13aa8ec7bb48b4d7471a5485ec17cb0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "The Google Pixel 9a offers significant savings and enhanced features compared to its predecessor, including a lower price point, improved durability, AI-integrated assistance, and camera enhancements. It also boasts a long battery life with extreme saver mode.",
+  "sentiment": 4,
+  "sentiment_reason": "The Pixel 9a's launch provides cost-saving opportunities, improved durability, and AI features that enhance user experience, making it a positive development for consumers looking to upgrade.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93
+      ],
+      "base_price": 280.92,
+      "next_price": 274.34,
+      "change_1d": -2.3423,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 562.58,
+      "change_1d": -1.9537,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

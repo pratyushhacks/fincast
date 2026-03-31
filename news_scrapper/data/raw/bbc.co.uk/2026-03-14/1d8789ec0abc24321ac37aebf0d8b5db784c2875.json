@@ -1,0 +1,65 @@
+{
+  "id": "1d8789ec0abc24321ac37aebf0d8b5db784c2875",
+  "url": "https://www.bbc.co.uk/news/articles/c0mg3zd7xwpo",
+  "site": "bbc.co.uk",
+  "title": "She spent 16 hours a day on Instagram. Jury to decide if Meta is to blame   - BBC News",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:00:38.553206",
+  "language": null,
+  "html_path": "data\\raw\\bbc.co.uk\\2026-03-14\\1d8789ec0abc24321ac37aebf0d8b5db784c2875.html",
+  "text_path": "data\\raw\\bbc.co.uk\\2026-03-14\\1d8789ec0abc24321ac37aebf0d8b5db784c2875.txt",
+  "word_count": 475,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "68f74da09a853d83f0d65ca0174b9fb18285dffd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Kaley's lawsuit against Meta, focusing on social media addiction and its impact on her mental health, faces challenges as addiction is not officially recognized and other life factors are presented.",
+  "sentiment": 2,
+  "sentiment_reason": "The case hinges on the argument of social media addiction, which is legally and scientifically contentious, and the defense highlights other significant factors affecting Kaley's mental health.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

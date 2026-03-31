@@ -1,0 +1,54 @@
+{
+  "id": "40a2fbdb59f6a1edcb2e19489138f217357e744b",
+  "url": "https://www.techradar.com/pro/keep-your-data-safe-and-save-big-with-these-top-nas-deals-for-world-backup-day-2026",
+  "site": "techradar.com",
+  "title": "World Backup Day 2026: Save big with these top NAS deals | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:33.130061",
+  "html_path": "data\\raw\\techradar.com\\2026-03-31\\40a2fbdb59f6a1edcb2e19489138f217357e744b.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-31\\40a2fbdb59f6a1edcb2e19489138f217357e744b.txt",
+  "word_count": 396,
+  "paywalled": false,
+  "dedup_hash": "9391cd9d59c850f8287dc0bf3c5d5361b659fc8a",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Intel OR INTC)",
+  "summary": "Unmissable deals on desktop NAS systems are available ahead of World Backup Day, with a focus on a UGreen's DXP4800 Pro offering significant discounts and robust features for data storage and management.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights positive aspects such as significant discounts on desirable NAS systems, robust features for data storage and management, and the convenience of having a centralized backup system.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1,
+        43.13
+      ],
+      "base_price": 41.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

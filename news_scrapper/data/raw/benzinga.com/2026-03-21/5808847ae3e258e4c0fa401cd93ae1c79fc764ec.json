@@ -1,0 +1,66 @@
+{
+  "id": "5808847ae3e258e4c0fa401cd93ae1c79fc764ec",
+  "url": "https://www.benzinga.com/markets/equities/26/03/51383435/tesla-palantir-aerovironment-seen-at-risk-gary-black-says-war-outcome-could-drive-sharp-rebound",
+  "site": "benzinga.com",
+  "title": "Tesla, Palantir, AeroVironment Seen At Risk: Gary Black Says War Outcome Could Drive Sharp Rebound - AeroVironment (NASDAQ:AVAV), Palantir Technologies (NASDAQ:PLTR), Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:51.738775",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\5808847ae3e258e4c0fa401cd93ae1c79fc764ec.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\5808847ae3e258e4c0fa401cd93ae1c79fc764ec.txt",
+  "word_count": 341,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "28510d4a082620dc4fbadd9f986096a018aa6138",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Long-duration stocks suffered due to rising U.S. 10-year Treasury yields and volatile oil prices amid geopolitical tensions, while supplemental defense spending and potential war impacts weighed on market sentiment.",
+  "sentiment": 2,
+  "sentiment_reason": "The article focuses on negative market indicators such as heavy selling pressure, rising yields, volatile oil prices, and hawkish Fed stance, indicating a negative market impact.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        407.82,
+        395.01,
+        391.2,
+        395.56,
+        399.27,
+        392.78,
+        380.3
+      ],
+      "base_price": 367.96,
+      "next_price": 380.85,
+      "change_1d": 3.5031,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

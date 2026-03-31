@@ -1,0 +1,65 @@
+{
+  "id": "8b92a67c887c590e10b0035bf4944d94578cd230",
+  "url": "https://seekingalpha.com/article/4881437-value-plus-quality-plus-cash-flow-is-king",
+  "site": "seekingalpha.com",
+  "title": "Value + Quality + Cash Flow Is King | Seeking Alpha",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:03:50.464856",
+  "language": null,
+  "html_path": "data\\raw\\seekingalpha.com\\2026-03-14\\8b92a67c887c590e10b0035bf4944d94578cd230.html",
+  "text_path": "data\\raw\\seekingalpha.com\\2026-03-14\\8b92a67c887c590e10b0035bf4944d94578cd230.txt",
+  "word_count": 5257,
+  "reading_time_minutes": 26,
+  "paywalled": false,
+  "dedup_hash": "e63846f3b4d4e3e88e46ea045ea39f63bd6656e2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Dividend investing sees a shift from growth to value investments, with PE ratios extending into value space. Oil prices fluctuate due to geopolitical tensions, influencing investor rotation. S&P 500 remains expensive with PE ratio gaining more value than earnings growth.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is experiencing a rotation influenced by geopolitical tensions and a shift in investment focus from growth to value, with overextended PE ratios and fluctuating oil prices.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

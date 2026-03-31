@@ -1,0 +1,18 @@
+{
+  "id": "3c7edc9a866a49c8f4dffbf070d65e0211063aa6",
+  "url": "https://www.livemint.com/ai/artificial-intelligence/the-decadelong-feud-shaping-the-future-of-ai-11774662842223.html",
+  "site": "livemint.com",
+  "title": "The decadelong feud shaping the future of AI | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:37.244659",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\3c7edc9a866a49c8f4dffbf070d65e0211063aa6.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\3c7edc9a866a49c8f4dffbf070d65e0211063aa6.txt",
+  "word_count": 53,
+  "paywalled": false,
+  "dedup_hash": "ff1960bc07ff94ad3cf447a56c19d719d22270ce",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Holden Karnofsky, founder of a philanthropy promoting effective altruism, influenced Peter Brockman'pts interest in AI's potential power and danger. The article does not directly discuss market impacts.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents neutral information about individuals and their interests without clear market impact."
+}

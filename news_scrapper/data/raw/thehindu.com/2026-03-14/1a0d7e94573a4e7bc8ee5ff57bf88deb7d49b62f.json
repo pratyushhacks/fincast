@@ -1,0 +1,61 @@
+{
+  "id": "1a0d7e94573a4e7bc8ee5ff57bf88deb7d49b62f",
+  "url": "https://www.thehindu.com/entertainment/movies/rajkummar-rao-and-keerthy-suresh-team-up-for-raftaar-film-to-release-on-this-date/article70742841.ece",
+  "site": "thehindu.com",
+  "title": "Rajkummar Rao and Keerthy Suresh team up for ‘Raftaar’; film to release on this date - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:14:28.945165",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-14\\1a0d7e94573a4e7bc8ee5ff57bf88deb7d49b62f.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-14\\1a0d7e94573a4e7bc8ee5ff57bf88deb7d49b62f.txt",
+  "word_count": 189,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "266dd8dbaf585f9b263a711fde804d4c7cf3c63b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon"
+  ],
+  "matched_industries": [],
+  "gdelt_query": "Amazon",
+  "gdelt_category": "company",
+  "summary": "Rajkummar Rao and Keerthy Suresh team up for ‘Raftaar’; Amazon MGM Studios announces film directed by Aditya Nimbalkar, set in a competitive education business, with a release date of July 24, 2026. Synopsis: fast-rising start-up, charged relationship, ambition, love, and greed.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement of a new film release, while positive for the actors and production companies, carries a negative sentiment for the market due to the usual cautious approach investors take towards entertainment news without clear indicators of major financial impact.",
+  "price_changes": {
+    "Amazon": {
+      "ticker": "AMZN",
+      "trend": [
+        216.82,
+        218.94,
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53
+      ],
+      "base_price": 207.67,
+      "next_price": 211.74,
+      "change_1d": 1.9598,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

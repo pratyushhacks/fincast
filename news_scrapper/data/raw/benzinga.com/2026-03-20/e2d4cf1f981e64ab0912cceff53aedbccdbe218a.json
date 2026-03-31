@@ -1,0 +1,66 @@
+{
+  "id": "e2d4cf1f981e64ab0912cceff53aedbccdbe218a",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51349050/why-are-newmont-shares-sliding-on-thursday",
+  "site": "benzinga.com",
+  "title": "Why Are Newmont Shares Sliding On Thursday? - Newmont (NYSE:NEM)",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:37.578694",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-20\\e2d4cf1f981e64ab0912cceff53aedbccdbe218a.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-20\\e2d4cf1f981e64ab0912cceff53aedbccdbe218a.txt",
+  "word_count": 370,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c0f571bcb44208620bf349ca9bf030f142c5d079",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Newmont Corporation's shares are trading lower due to a decline in gold prices and geopolitical tensions, with central bank policies and economic revisions adding to the market's uncertainty.",
+  "sentiment": 2,
+  "sentiment_reason": "The negative sentiment is driven by the decline in gold prices, geopolitical tensions, and the impact of central bank policies on the market.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

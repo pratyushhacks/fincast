@@ -1,0 +1,28 @@
+{
+  "id": "9698d818900fa8def59f560026a5dedaadc8624f",
+  "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
+  "site": "cnbc.com",
+  "title": "ChatGPT's ads have the industry excited, but insiders are frustrated",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:02.895937",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-21\\9698d818900fa8def59f560026a5dedaadc8624f.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-21\\9698d818900fa8def59f560026a5dedaadc8624f.txt",
+  "word_count": 830,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "5bbc28165d3aaa06ee5cb69074037570f74a9e46",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI's slow and cautious rollout of ads in ChatGPT has caused frustration among advertisers due to high ad commitments and slow pace, despite the potential for innovative advertising strategies.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative because of the frustration caused by the slow pace of the rollout and the high ad commitments required, which are not meeting the advertisers' expectations for rapid deployment and insights."
+}

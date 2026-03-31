@@ -1,0 +1,65 @@
+{
+  "id": "f633afa78ab469f39251d526e48acd518673c65d",
+  "url": "https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3",
+  "site": "businessinsider.com",
+  "title": "Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs. - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:33.943362",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-17\\f633afa78ab469f39251d526e48acd518673c65d.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-17\\f633afa78ab469f39251d526e48acd518673c65d.txt",
+  "word_count": 893,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "f942f75fc8725db6ac891cafc92adf2efb790147",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Robot dogs are being deployed in data centers for security and inspection tasks, offering a quick return on investment for operators and a new market for robotics companies.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral market impact as it discusses the growing trend of using robot dogs in data centers without indicating a significant positive or negative effect on the market.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.17,
+        113.67,
+        112.36,
+        113.35,
+        111.72,
+        111.65,
+        112.56
+      ],
+      "base_price": 113.49,
+      "next_price": 113.26,
+      "change_1d": -0.2027,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "5997f24d473df34416c8f73f726f90d7d18786f3",
+  "url": "https://www.thehindubusinessline.com/economy/every-10-rise-in-crude-may-add-60-bps-to-indias-inflation-careedge-global/article70802514.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Every $10 rise in crude may add 60 bps to India's inflation: CareEdge Global - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:56.603500",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\5997f24d473df34416c8f73f726f90d7d18786f3.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\5997f24d473df34416c8f73f726f90d7d18786f3.txt",
+  "word_count": 448,
+  "paywalled": false,
+  "dedup_hash": "bf0be863e69b101e0c718f7dff7187493893c7fc",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "India's inflation and economic growth face challenges due to rising global crude oil prices, with potential impacts on the current account deficit, currency pressures, and remittances. However, diversification efforts and policy flexibility may mitigate some effects.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as increased inflation, widened current account deficit, and currency pressures due to rising oil prices, but also mentions positive factors like diversification and policy flexibility that could cushion the economy.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

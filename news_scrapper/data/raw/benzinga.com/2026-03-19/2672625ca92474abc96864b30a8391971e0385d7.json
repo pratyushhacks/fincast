@@ -1,0 +1,64 @@
+{
+  "id": "2672625ca92474abc96864b30a8391971e0385d7",
+  "url": "https://www.benzinga.com/markets/commodities/26/03/51330881/jpmorgan-90-oil-sp500-wipeout-wealth-effect",
+  "site": "benzinga.com",
+  "title": "J.P. Morgan: $90 Oil Risks 15% S&P 500 Wipeout in 2026 - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:59.446643",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\2672625ca92474abc96864b30a8391971e0385d7.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\2672625ca92474abc96864b30a8391971e0385d7.txt",
+  "word_count": 478,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2a08fcce8b7c817a4bf1d743a599fe40ed45c7eb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "J.P. Morgan warns of a potential 10%-15% S&P 500 decline if oil stays above $90, impacting consumer spending and portfolio values due to the wealth effect. This scenario also considers the inflationary impact of rising oil prices and the compounded demand destruction if oil prices escalate further.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative market impact due to the potential decline in the stock market and its subsequent effect on consumer spending and inflation, driven by sustained high oil prices.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

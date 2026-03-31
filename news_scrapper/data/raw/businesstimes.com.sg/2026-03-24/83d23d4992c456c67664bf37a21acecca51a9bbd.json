@@ -1,0 +1,65 @@
+{
+  "id": "83d23d4992c456c67664bf37a21acecca51a9bbd",
+  "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/sti-closes-2-2-down-asia-markets-drop-trump-iran-threats-gold-wipes-out-gains-year",
+  "site": "businesstimes.com.sg",
+  "title": "Asian markets, gold prices slump on Trump, Iran threats on energy targets - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:38.274114",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-24\\83d23d4992c456c67664bf37a21acecca51a9bbd.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-24\\83d23d4992c456c67664bf37a21acecca51a9bbd.txt",
+  "word_count": 526,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "99792c8fa8694f7d59f918d31996c23823f4f3ed",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Escalating tensions in the Middle East, threats of military action against Iran's infrastructure, and coordinated hawkish monetary policies by global central banks led to significant declines in Asian markets and volatility in commodity prices, particularly oil and gold.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses threats of military action and escalating tensions, which are negative indicators for market stability and investor confidence, alongside aggressive monetary policies that are generally bearish for commodities like gold.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

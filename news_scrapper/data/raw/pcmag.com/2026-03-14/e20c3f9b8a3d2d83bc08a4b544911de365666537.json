@@ -1,0 +1,66 @@
+{
+  "id": "e20c3f9b8a3d2d83bc08a4b544911de365666537",
+  "url": "https://www.pcmag.com/news/suspicious-about-the-impact-of-data-centers-most-americans-agree-with-you",
+  "site": "pcmag.com",
+  "title": "Suspicious About the Impact of Data Centers? Most Americans Agree With You | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:07:35.914454",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-14\\e20c3f9b8a3d2d83bc08a4b544911de365666537.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-14\\e20c3f9b8a3d2d83bc08a4b544911de365666537.txt",
+  "word_count": 633,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "0a87cafd24037a5a53af2edde47e16e60621fd84",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Tesla",
+  "gdelt_category": "company",
+  "summary": "Survey shows majority of Americans view data centers negatively impacting environment and energy costs, but positively on jobs and economy. Partisan divide exists in perceptions. Despite concerns, Big Tech leaders predict significant growth and innovation in data center development.",
+  "sentiment": 2,
+  "sentiment_reason": "The survey indicates negative public sentiment towards data centers' environmental and economic impacts, with a partisan divide and mixed views on their overall impact, suggesting cautious optimism in the tech industry's future.",
+  "price_changes": {
+    "Tesla": {
+      "ticker": "TSLA",
+      "trend": [
+        405.94,
+        405.55,
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01
+      ],
+      "base_price": 391.2,
+      "next_price": 395.56,
+      "change_1d": 1.1145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

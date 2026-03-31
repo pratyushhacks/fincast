@@ -1,0 +1,26 @@
+{
+  "id": "01e907d4bcc8aae1abcbdca86cc1ae8c5247a17b",
+  "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-lay-off-hundreds-of-employees-the-information-reports/articleshow/129803946.cms",
+  "site": "indiatimes.com",
+  "title": "Meta to lay off hundreds of employees: Report - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:53.175790",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\01e907d4bcc8aae1abcbdca86cc1ae8c5247a17b.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\01e907d4bcc8aae1abcbdca86cc1ae8c5247a17b.txt",
+  "word_count": 196,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "51b64397b8fa8abd1890b721d4d2c7b02584ae70",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

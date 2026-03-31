@@ -1,0 +1,65 @@
+{
+  "id": "7ba3b20556bd7a2bae89d440da7202a7189ca8f8",
+  "url": "https://www.businesstimes.com.sg/companies-markets/most-hospitality-and-lodging-s-reits-post-higher-h2-revenue-payouts",
+  "site": "businesstimes.com.sg",
+  "title": "Most hospitality and lodging S-Reits post higher H2 revenue, payouts - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:22.878768",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-23\\7ba3b20556bd7a2bae89d440da7202a7189ca8f8.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-23\\7ba3b20556bd7a2bae89d440da7202a7189ca8f8.txt",
+  "word_count": 751,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "199c5bdf47fefb15a5346506cd96697c120460b4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Singapore's hospitality and lodging S-Reits have reported stable to higher distributions, with notable growth in revenue and DPS for most trusts, and robust results for new entrant CAReit, all contributing to a positive market outlook.",
+  "sentiment": 4,
+  "sentiment_reason": "The consistent growth in revenue, higher distributions, and positive outlook from the trusts' earnings reports indicate a strong performance in the market.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83
+      ],
+      "base_price": 49.27,
+      "next_price": 49.28,
+      "change_1d": 0.0203,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

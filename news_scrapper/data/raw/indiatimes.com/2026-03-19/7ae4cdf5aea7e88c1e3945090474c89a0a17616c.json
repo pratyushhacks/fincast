@@ -1,0 +1,24 @@
+{
+  "id": "7ae4cdf5aea7e88c1e3945090474c89a0a17616c",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-secures-chinese-approval-for-h200-chip-sales-and-develops-adapted-groq-chip/129651043",
+  "site": "indiatimes.com",
+  "title": "Nvidia Secures Chinese Approval for H200 Chip Sales and Develops Adapted Groq Chip, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:01.881143",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\7ae4cdf5aea7e88c1e3945090474c89a0a17616c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\7ae4cdf5aea7e88c1e3945090474c89a0a17616c.txt",
+  "word_count": 648,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "5ee5f37d899e36379161a141d4ced278233dd7ef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

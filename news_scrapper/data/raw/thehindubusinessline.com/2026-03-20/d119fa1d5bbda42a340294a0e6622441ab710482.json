@@ -1,0 +1,64 @@
+{
+  "id": "d119fa1d5bbda42a340294a0e6622441ab710482",
+  "url": "https://www.thehindubusinessline.com/news/world/uk-to-cut-steel-import-quotas-raise-tariffs-to-protect-domestic-industry/article70760497.ece",
+  "site": "thehindubusinessline.com",
+  "title": "UK to cut steel import quotas, raise tariffs to protect domestic industry - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:49:02.333130",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\d119fa1d5bbda42a340294a0e6622441ab710482.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\d119fa1d5bbda42a340294a0e6622441ab710482.txt",
+  "word_count": 381,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "91f241b80f0a93e96884f318774afa2005c6c2e6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Britain plans to reduce its tariff-free quota on imported steel and impose a higher tariff on excess imports to protect its domestic steel industry, amidst global trade tensions and efforts to revive the sector.",
+  "sentiment": 4,
+  "sentiment_reason": "The measures are intended to support and strengthen the domestic steel industry, which is considered vital for national security and the economy.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

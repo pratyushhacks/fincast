@@ -1,0 +1,54 @@
+{
+  "id": "6e8767ad5d2fc0d73ef45689a36b6099b6d7f2c3",
+  "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-rate-today-us-iran-war-crude-oil-prices-donald-trump-us-fed-rate-cut-30-march-2026-11774837182653.html",
+  "site": "livemint.com",
+  "title": "Gold, Silver Rates Today: Gold, silver prices rebound; MCX gold rate rises above  ₹1.48 lakh, silver prices jump 1% | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:11.257506",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\6e8767ad5d2fc0d73ef45689a36b6099b6d7f2c3.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\6e8767ad5d2fc0d73ef45689a36b6099b6d7f2c3.txt",
+  "word_count": 322,
+  "paywalled": false,
+  "dedup_hash": "b1ff4e30908f8a01f018f75bde5d64eebfebf012",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Gold and silver prices in India initially fell but later recovered, trading higher due to steady global bullion prices and a weaker dollar. However, gold prices have seen a significant monthly decline due to a stronger dollar and inflation concerns, while silver prices have plunged due to sustained pressure from the US-Iran conflict.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is negatively impacted by the steep decline in gold prices due to a stronger dollar and inflation concerns, despite some recovery in India, and the significant drop in silver prices due to geopolitical tensions and market volatility.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

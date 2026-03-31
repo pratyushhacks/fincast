@@ -1,0 +1,65 @@
+{
+  "id": "2d55254ce6d1a64eee0da95bfc004a02aed960d5",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2026/treasury-department-targets-regulatory-friction-to-scale-bank-ai-adoption/",
+  "site": "pymnts.com",
+  "title": "Treasury Gathers Industry and Regulators for AI Finance Talks",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:32.196508",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-24\\2d55254ce6d1a64eee0da95bfc004a02aed960d5.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-24\\2d55254ce6d1a64eee0da95bfc004a02aed960d5.txt",
+  "word_count": 347,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e6332738b29a7c01dad78b6a0731d68fd31ba974",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The Treasury Department, in collaboration with the Office of the Financial Stability Oversight Council, launched an initiative to optimize regulation for AI adoption in the financial sector, aiming to enhance economic security and resilience. Two new resources, AI Lexicon and Financial Services AI Risk Management Framework, were also introduced to guide the sector's use of AI.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive sentiment as it discusses proactive measures by the Treasury Department to lead the financial sector in AI adoption, focusing on economic security and resilience.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

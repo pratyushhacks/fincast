@@ -1,0 +1,67 @@
+{
+  "id": "0240c38a67e4c8e8f23749576f39bffc49f85a1d",
+  "url": "https://www.techradar.com/phones/ios/i-cant-believe-this-is-happening-iphone-users-are-threatening-to-defect-to-android-over-new-ios-age-verification-push-and-id-do-the-same",
+  "site": "techradar.com",
+  "title": "'I can't believe this is happening': iPhone users are threatening to defect to Android over new iOS age verification push — and I'd do the same | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:36.276269",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-27\\0240c38a67e4c8e8f23749576f39bffc49f85a1d.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-27\\0240c38a67e4c8e8f23749576f39bffc49f85a1d.txt",
+  "word_count": 757,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "b5cee3ffefc74e37feb4c6943149e3b89ff71f49",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple and Discord's new age verification measures for users, particularly impacting UK users and potentially global, are met with significant backlash due to privacy and ID safety concerns, as well as the inconvenience and potential for data breaches.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the widespread user dissatisfaction, privacy concerns, and the potential for data breaches highlighted in the article.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

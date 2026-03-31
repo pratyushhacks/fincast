@@ -1,0 +1,65 @@
+{
+  "id": "501cd7284554197b7a629eb7c5be041c8fea0c04",
+  "url": "https://www.pcmag.com/reviews/apple-macbook-air-13-inch-2026-m5",
+  "site": "pcmag.com",
+  "title": "I Tested Apple’s M5 MacBook Air—It’s Still the One Most Laptops Chase | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:56:22.738933",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-14\\501cd7284554197b7a629eb7c5be041c8fea0c04.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-14\\501cd7284554197b7a629eb7c5be041c8fea0c04.txt",
+  "word_count": 582,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9756a66207e88b955661b8e7273b7bd9f0f8a9fd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Apple",
+  "gdelt_category": "company",
+  "summary": "Apple's MacBook Air remains largely unchanged from last year, with a new Sky Blue color option and a 60Hz display. Despite a competitive aluminum build and Touch ID, the lack of OLED display and the ongoing memory crisis contribute to its higher cost.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the unchanged features of the MacBook Air, which are seen as a negative due to the absence of OLED technology and the impact of the memory crisis on pricing.",
+  "price_changes": {
+    "Apple": {
+      "ticker": "AAPL",
+      "trend": [
+        262.52,
+        260.29,
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76
+      ],
+      "base_price": 250.12,
+      "next_price": 252.82,
+      "change_1d": 1.0795,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "6018f61ce675dbb4eeffa0c7559a71e1890eb71e",
+  "url": "https://auto.economictimes.indiatimes.com/news/auto-components/asiabrake-2026-shaping-the-future-of-braking-technologies-and-sustainability/129697745",
+  "site": "indiatimes.com",
+  "title": "ASIABRAKE 2026: Shaping the Future of Braking Technologies and Sustainability, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:14.104840",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\6018f61ce675dbb4eeffa0c7559a71e1890eb71e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\6018f61ce675dbb4eeffa0c7559a71e1890eb71e.txt",
+  "word_count": 284,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2923e1726738ea153f27688d12ec703e800d6c93",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

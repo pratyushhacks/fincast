@@ -1,0 +1,63 @@
+{
+  "id": "e2689907911a86aa023688f4e2130b6543a2ca37",
+  "url": "https://www.thehindu.com/business/nayara-energy-petrol-diesel-price-hike/article70787316.ece",
+  "site": "thehindu.com",
+  "title": "Nayara Energy hikes petrol price by ₹5 per litre, diesel by ₹3 - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:37.191126",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-27\\e2689907911a86aa023688f4e2130b6543a2ca37.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-27\\e2689907911a86aa023688f4e2130b6543a2ca37.txt",
+  "word_count": 628,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "d546f0e55eb9671c80e166338dc1bde69c104e1f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Nayara Energy, India's largest private fuel retailer, raised petrol and diesel prices due to a surge in global oil prices following the war in West Asia. Jio-bp, a joint venture, has not raised prices yet, incurring heavy losses. Private retailers face mounting losses without government compensation to offset price increases.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of rising oil prices and the decision of private fuel retailers to increase petrol and diesel prices, which indicates negative market sentiment due to potential consumer backlash and financial strain on retailers.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        121.67,
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26
+      ],
+      "base_price": 124.2,
+      "next_price": 129.83,
+      "change_1d": 4.533,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

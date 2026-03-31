@@ -1,0 +1,65 @@
+{
+  "id": "68647efa243acec5f02a34f7b27a24f7e44765dc",
+  "url": "https://www.livemint.com/news/trends/elon-musk-calls-oscars-2026-unwatchable-as-he-shares-viral-post-criticising-hollywood-11773673505546.html",
+  "site": "livemint.com",
+  "title": "Elon Musk calls Oscars 2026 ‘unwatchable’ as he shares viral post criticising Hollywood | Today News",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:12.779303",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-17\\68647efa243acec5f02a34f7b27a24f7e44765dc.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-17\\68647efa243acec5f02a34f7b27a24f7e44765dc.txt",
+  "word_count": 428,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ad5f0eb7b8cb0754e7c4d010b0f67a8bd24dd8ce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tesla CEO Elon Musk criticized the 2026 Academy Awards as 'unwatchable' due to changing trends in Hollywood storytelling and award eligibility, sparking online debate. The ceremony also saw Paul Thomas Anderson's film win multiple awards amid heightened security due to geopolitical tensions.",
+  "sentiment": 2,
+  "sentiment_reason": "Musk's criticism and the online debate reflect negative sentiment towards the Oscars, while the film wins and heightened security measures indicate underlying concerns and potential impacts on the entertainment industry.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56
+      ],
+      "base_price": 399.27,
+      "next_price": 392.78,
+      "change_1d": -1.6255,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

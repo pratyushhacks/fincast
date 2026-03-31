@@ -1,0 +1,54 @@
+{
+  "id": "3fcb323f31b49e4e48aaf64d86da6ff95bb4fc4f",
+  "url": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
+  "site": "arstechnica.com",
+  "title": "Authors' lucky break in court may help class action over Meta torrenting - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:02.602570",
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-31\\3fcb323f31b49e4e48aaf64d86da6ff95bb4fc4f.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-31\\3fcb323f31b49e4e48aaf64d86da6ff95bb4fc4f.txt",
+  "word_count": 379,
+  "paywalled": false,
+  "dedup_hash": "9ea3527c3c6a3e57b4e642a7bf09e2431ee4b587",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta faces a contributory infringement claim in a class action, with the judge reluctantly adding the claim due to potential harm to absent class members. The ruling incentivizes Meta to avoid these claims, but the authors may still achieve a partial win if they get past summary judgment. Meanwhile, Meta is preparing a filing based on a Supreme Court ruling that could impact the case.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the ongoing legal battle, the reluctance of the judge to add the claim, and the potential harm to absent class members, but there is a glimmer of hope for the authors to achieve a partial win.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

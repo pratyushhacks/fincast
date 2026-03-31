@@ -1,0 +1,54 @@
+{
+  "id": "6f82ff4344fde792447c9d626fc799fb3de47958",
+  "url": "https://www.straitstimes.com/business/end-of-an-era-fitbit-singapore-winds-up-as-google-completes-takeover-of-fitness-tracker-brand",
+  "site": "straitstimes.com",
+  "title": "Fitbit Singapore winds up as Google completes takeover of fitness tracker brand | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:15.433802",
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-31\\6f82ff4344fde792447c9d626fc799fb3de47958.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-31\\6f82ff4344fde792447c9d626fc799fb3de47958.txt",
+  "word_count": 803,
+  "paywalled": false,
+  "dedup_hash": "64717b5d15a2132a386f08cafce49565799990dc",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Google OR GOOGL)",
+  "summary": "Fitbit Singapore is being liquidated, ending its corporate presence in the country after more than a decade. This follows the acquisition by Google and integration into its ecosystem, including the Pixel Watch lineup.",
+  "sentiment": 1,
+  "sentiment_reason": "The liquidation of Fitbit Singapore signifies a strong negative market impact due to the end of a pioneering entity in the fitness tracking industry in Singapore.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92,
+        274.34
+      ],
+      "base_price": 273.5,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

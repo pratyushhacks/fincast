@@ -1,0 +1,64 @@
+{
+  "id": "7f0880f88b3205439167c094806d73814b3ce993",
+  "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51472116/amd-intel-rally-on-ai-chip-shortage-semiconductor-etfs-gain-but-risks-linger",
+  "site": "benzinga.com",
+  "title": "AMD, Intel Rally On AI Chip Shortage— ETF Risks Linger - Advanced Micro Devices (NASDAQ:AMD)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:31.722729",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\7f0880f88b3205439167c094806d73814b3ce993.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\7f0880f88b3205439167c094806d73814b3ce993.txt",
+  "word_count": 585,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "8640e1e4bf2a02e3aad767109b56a64175fd7713",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "Advanced Micro Devices (AMD) stock is near recent highs, with significant price hikes driven by AI-centric data center demand, leading to a robust but fragile semiconductor market. Valuations are high amid divergence in ETF performance.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive market impact due to strong earnings momentum and AI-driven growth, despite concerns about high valuations and supply chain fragility.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25
+      ],
+      "base_price": 328.85,
+      "next_price": 325.1,
+      "change_1d": -1.1403,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.02,
+      "change_1d": -0.7859,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

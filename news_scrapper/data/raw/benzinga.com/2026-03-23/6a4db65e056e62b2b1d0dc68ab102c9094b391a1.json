@@ -1,0 +1,65 @@
+{
+  "id": "6a4db65e056e62b2b1d0dc68ab102c9094b391a1",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51396679/weekend-round-up-palantirs-pentagon-win-nvidias-trillion-dollar-vision-super-micros-doj-woes-and-musks-legal-setback",
+  "site": "benzinga.com",
+  "title": "Weekend Round-Up: Palantir's Pentagon Win, Nvidia's Trillion-Dollar Vision, Super Micro's DOJ Woes And Musk's Legal Setback",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:28:51.391926",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-23\\6a4db65e056e62b2b1d0dc68ab102c9094b391a1.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-23\\6a4db65e056e62b2b1d0dc68ab102c9094b391a1.txt",
+  "word_count": 364,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b76af8802869dde833208fdcff433626408eedef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Major tech companies faced varied outcomes this week, with Palantir securing a Pentagon deal, NVIDIA aiming for a trillion-dollar revenue, Super Micro Computer dealing with DOJ charges, Micron exceeding Q2 revenue estimates, and Elon Musk facing legal issues with Tesla.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of significant wins and setbacks in the tech sector, with no overwhelmingly negative or positive impact overall.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7
+      ],
+      "base_price": 175.64,
+      "next_price": 175.2,
+      "change_1d": -0.2505,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

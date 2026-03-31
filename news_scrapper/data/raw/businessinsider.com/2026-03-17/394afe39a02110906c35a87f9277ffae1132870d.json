@@ -1,0 +1,64 @@
+{
+  "id": "394afe39a02110906c35a87f9277ffae1132870d",
+  "url": "https://www.businessinsider.com/march-madness-bracket-business-trends-saas-private-credit-voting-2026-3",
+  "site": "businessinsider.com",
+  "title": "Vote in BI Today's Trend-Focused March Madness Bracket - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:13.000134",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-17\\394afe39a02110906c35a87f9277ffae1132870d.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-17\\394afe39a02110906c35a87f9277ffae1132870d.txt",
+  "word_count": 367,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cea8f3e445d37c38515051672be5c1d261a65634",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "March Madness bracket with biggest business trends: SaaSPocalypse (1) vs Autonomous vehicles (8), Prediction markets (4) vs Tariffs (5), Vibe coding (3) vs Longevity (6), Private credit (2) vs Robotics (7)",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses various business trends and their respective brackets, with a focus on negative impacts such as software companies' struggles (SaaSPocalypse), tariff issues, and concerns about the private credit industry.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56
+      ],
+      "base_price": 399.27,
+      "next_price": 392.78,
+      "change_1d": -1.6255,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

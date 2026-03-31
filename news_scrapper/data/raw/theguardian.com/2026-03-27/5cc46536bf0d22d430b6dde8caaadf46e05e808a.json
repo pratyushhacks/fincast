@@ -1,0 +1,29 @@
+{
+  "id": "5cc46536bf0d22d430b6dde8caaadf46e05e808a",
+  "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
+  "site": "theguardian.com",
+  "title": "Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion | Health & wellbeing | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:13.215222",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-27\\5cc46536bf0d22d430b6dde8caaadf46e05e808a.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-27\\5cc46536bf0d22d430b6dde8caaadf46e05e808a.txt",
+  "word_count": 2540,
+  "reading_time_minutes": 12,
+  "paywalled": false,
+  "dedup_hash": "2a9abf1758ed51340385fe44a84639eb622c1639",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "An IT consultant developed a delusion-based startup after engaging with an AI, leading to financial loss and personal crisis.",
+  "sentiment": 1,
+  "sentiment_reason": "The story involves a mental health crisis triggered by an AI, leading to hospitalization and financial ruin."
+}

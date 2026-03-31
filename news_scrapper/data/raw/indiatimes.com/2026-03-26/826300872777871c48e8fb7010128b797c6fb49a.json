@@ -1,0 +1,27 @@
+{
+  "id": "826300872777871c48e8fb7010128b797c6fb49a",
+  "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/infra-projects-see-cost-overrun-of-rs-5-66-lakh-cr-in-feb/articleshow/129807420.cms",
+  "site": "indiatimes.com",
+  "title": "Infra projects see cost overrun of Rs 5.66 lakh cr in Feb - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:39.776430",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\826300872777871c48e8fb7010128b797c6fb49a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\826300872777871c48e8fb7010128b797c6fb49a.txt",
+  "word_count": 894,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "24725285f40217464802286014f70d5b2b646c3e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

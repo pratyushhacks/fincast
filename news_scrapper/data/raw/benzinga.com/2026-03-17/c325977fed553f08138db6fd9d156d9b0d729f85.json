@@ -1,0 +1,64 @@
+{
+  "id": "c325977fed553f08138db6fd9d156d9b0d729f85",
+  "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51274204/nvidia-gtc-2026-how-to-watch-jensen-huangs-speech-and-why-now-is-golden-opportunity-for-patient-investors",
+  "site": "benzinga.com",
+  "title": "Nvidia GTC 2026: How To Watch Jensen Huang's Speech And Why Now Is 'Golden Opportunity For Patient Investors' - NVIDIA (NASDAQ:NVDA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:51.088907",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\c325977fed553f08138db6fd9d156d9b0d729f85.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\c325977fed553f08138db6fd9d156d9b0d729f85.txt",
+  "word_count": 529,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7c3a8414f3c222a5451f3272582e6e7bb1f1bd2a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's CEO Jensen Huang is set to reveal updates on AI chips, software, and infrastructure during the GTC 2026 keynote, potentially unveiling new products and partnerships. This event is seen as a key opportunity for investors to buy shares, amidst the company's strong quarterly earnings and fundamentals but minimal stock gains.",
+  "sentiment": 2,
+  "sentiment_reason": "Investors are cautiously optimistic, awaiting new product updates and AI spending indicators from Big Tech, but are tempered by the stock's recent flat performance despite solid fundamentals.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

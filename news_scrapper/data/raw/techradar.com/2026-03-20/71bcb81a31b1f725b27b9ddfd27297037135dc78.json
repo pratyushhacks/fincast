@@ -1,0 +1,65 @@
+{
+  "id": "71bcb81a31b1f725b27b9ddfd27297037135dc78",
+  "url": "https://www.techradar.com/computing/gaming-components/we-found-out-at-the-same-time-as-the-public-capcom-and-ubisoft-devs-were-out-of-the-loop-on-nvidia-dlss-5-involvement-adding-to-the-ai-controversy",
+  "site": "techradar.com",
+  "title": "'We found out at the same time as the public' — Capcom and Ubisoft devs were out of the loop on Nvidia DLSS 5 involvement, adding to the AI controversy | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:06.836978",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-20\\71bcb81a31b1f725b27b9ddfd27297037135dc78.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-20\\71bcb81a31b1f725b27b9ddfd27297037135dc78.txt",
+  "word_count": 498,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "26199ac1a1556e1ffba82a729398c3b1238aec2e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's DLSS 5 reveal has caused backlash from game developers and the gaming community due to its generative AI use and significant alterations to game visuals, particularly character models.",
+  "sentiment": 1,
+  "sentiment_reason": "The strong negative reaction from developers and gamers, along with the controversy surrounding the use of generative AI in gaming, indicates a market impact score of 1.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "69ee22a024247e2479fcba4e4fb591b4f1811e04",
+  "url": "https://www.upi.com/Top_News/US/2026/03/27/judge-blocks-trump-administration-ban-anthropic/5631774622065/",
+  "site": "upi.com",
+  "title": "Judge strikes down Trump administration attempt to ban Anthropic - UPI.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:16.241204",
+  "language": null,
+  "html_path": "data\\raw\\upi.com\\2026-03-28\\69ee22a024247e2479fcba4e4fb591b4f1811e04.html",
+  "text_path": "data\\raw\\upi.com\\2026-03-28\\69ee22a024247e2479fcba4e4fb591b4f1811e04.txt",
+  "word_count": 431,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "bf00e2eb4060eed7984b8351c231df87432fb3bb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "A federal judge deemed the Trump administration's blockade of Anthropic from government contracts as likely unlawful and arbitrary. The case highlights tensions between government regulations and AI companies' operational principles, particularly regarding autonomous weapons and surveillance.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the implications of the government's actions on Anthropic's business operations and the potential harm to its reputation, as well as the legal challenges it faces."
+}

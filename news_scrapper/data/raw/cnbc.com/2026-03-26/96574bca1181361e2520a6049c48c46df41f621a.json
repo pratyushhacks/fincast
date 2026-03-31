@@ -1,0 +1,65 @@
+{
+  "id": "96574bca1181361e2520a6049c48c46df41f621a",
+  "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
+  "site": "cnbc.com",
+  "title": "Oil price: WTI, Brent after Iran rejects direct U.S. talks",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:07.434545",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-26\\96574bca1181361e2520a6049c48c46df41f621a.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-26\\96574bca1181361e2520a6049c48c46df41f621a.txt",
+  "word_count": 307,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "11b232dff298dccee4cbbce64564021abd0c40d9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Iran signaled no intention of direct talks with the U.S. amidst ongoing war, causing oil prices to rise. Meanwhile, the Federal Reserve is expected to remain in a 'wait and see' mode regarding policy response.",
+  "sentiment": 4,
+  "sentiment_reason": "The market impact is positive due to the rise in oil prices following Iran's stance on direct talks and the anticipation of potential trade deals.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.98,
+      "change_1d": -0.7921,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.98,
+      "change_1d": -0.7921,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

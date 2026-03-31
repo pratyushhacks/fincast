@@ -1,0 +1,65 @@
+{
+  "id": "d2a0277704a2ccbbabf4d6832a40a0c175622cb5",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51398561/gary-black-cautions-against-tesla-spacex-merger",
+  "site": "benzinga.com",
+  "title": "Gary Black Warns Tesla-SpaceX Merger Could Reduce TSLA Value By 25%: '...Looking For A Problem - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:10.922350",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\d2a0277704a2ccbbabf4d6832a40a0c175622cb5.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\d2a0277704a2ccbbabf4d6832a40a0c175622cb5.txt",
+  "word_count": 372,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3b3807793563066c66e6f14f22860f4e1e99ba80",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Gary Black expressed concerns over a hypothetical merger between Tesla and SpaceX, suggesting it could lead to a significant dilution of Tesla's stock value. He also mentioned the unusual trading patterns of conglomerates and the potential short-term gains for Tesla shareholders if SpaceX were to acquire Tesla instead.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the concerns over stock dilution and the unusual trading patterns of conglomerates, which could imply uncertainty and potential negative impact on Tesla's stock value.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        391.2,
+        395.56,
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85
+      ],
+      "base_price": 383.03,
+      "next_price": 385.95,
+      "change_1d": 0.7623,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

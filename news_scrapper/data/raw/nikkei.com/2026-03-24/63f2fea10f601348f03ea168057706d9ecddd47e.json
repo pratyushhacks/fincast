@@ -1,0 +1,64 @@
+{
+  "id": "63f2fea10f601348f03ea168057706d9ecddd47e",
+  "url": "https://asia.nikkei.com/spotlight/iran-tensions/oil-plunges-after-trump-postpones-strikes-on-iranian-power-plants",
+  "site": "nikkei.com",
+  "title": "Oil prices plunge after Trump says US, Iran discussing deal to end hostilities - Nikkei Asia",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:40.865105",
+  "language": null,
+  "html_path": "data\\raw\\nikkei.com\\2026-03-24\\63f2fea10f601348f03ea168057706d9ecddd47e.html",
+  "text_path": "data\\raw\\nikkei.com\\2026-03-24\\63f2fea10f601348f03ea168057706d9ecddd47e.txt",
+  "word_count": 679,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "f0d9395e4d8a17e1800ae96450d6909628622174",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Oil prices significantly dropped due to the U.S. President's announcement of postponed military strikes against Iran, amidst ongoing tensions and threats in the Middle East. This development, along with Iran's denial of negotiations and threats to attack Israel, has led to a volatile situation affecting global oil markets.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the impact of potential military action postponement, threats of attacks, and the ongoing war which could disrupt oil supplies and markets.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

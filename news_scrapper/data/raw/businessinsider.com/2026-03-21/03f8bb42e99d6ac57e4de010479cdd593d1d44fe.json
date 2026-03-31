@@ -1,0 +1,28 @@
+{
+  "id": "03f8bb42e99d6ac57e4de010479cdd593d1d44fe",
+  "url": "https://www.businessinsider.com/sam-altman-sexual-abuse-lawsuit-sister-annie-defamation-countersuit-2026-3",
+  "site": "businessinsider.com",
+  "title": "Sam Altman's Countersuit Against His Sister Gets Green Light - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:03.222928",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-21\\03f8bb42e99d6ac57e4de010479cdd593d1d44fe.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-21\\03f8bb42e99d6ac57e4de010479cdd593d1d44fe.txt",
+  "word_count": 329,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2823404c23795ac196681893e36d5c7d79ff582b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "A federal judge dismissed a lawsuit alleging sexual abuse by OpenAI CEO Sam Altman, but allowed for refiling under Missouri's extended statute of limitations. Sam Altman countersued for defamation and abuse of the legal process.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the lawsuit dismissal and the countersuit alleging defamation and abuse of the legal process."
+}

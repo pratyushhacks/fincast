@@ -1,0 +1,65 @@
+{
+  "id": "7679f070afbee968372cbd32fb4575ad528859ba",
+  "url": "https://www.livemint.com/ai/artificial-intelligence/apple-is-way-behind-in-ai-and-still-making-a-fortune-from-it-11773882877020.html",
+  "site": "livemint.com",
+  "title": "Apple is way behind in AI—and still making a fortune from it | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:09.673295",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-19\\7679f070afbee968372cbd32fb4575ad528859ba.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-19\\7679f070afbee968372cbd32fb4575ad528859ba.txt",
+  "word_count": 75,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ac543677d64b52734cd1d1b39e9cb45885e45e8e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple investors are concerned about the company's lack of progress in AI compared to rivals and its absence of a cloud business to monetize AI data center spending. Despite this, Apple's strategy could still be beneficial in the long term by potentially acting as a toll road for AI providers.",
+  "sentiment": 2,
+  "sentiment_reason": "The article reflects negative sentiment due to concerns about Apple's AI strategy and lack of a cloud business, which could affect its future growth and investor confidence.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94
+      ],
+      "base_price": 248.96,
+      "next_price": 247.99,
+      "change_1d": -0.3896,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "d069750e532df642886191df8102351740640da7",
+  "url": "https://www.techradar.com/computing/minisforum-ai-x1-pro-470-mini-pc-review",
+  "site": "techradar.com",
+  "title": "Minisforum AI X1 Pro-470 mini PC review | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:51.718728",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\d069750e532df642886191df8102351740640da7.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\d069750e532df642886191df8102351740640da7.txt",
+  "word_count": 3193,
+  "reading_time_minutes": 15,
+  "paywalled": false,
+  "dedup_hash": "2e4a36b2dbcee99692a56676dfa82d77e50fdd82",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The Minisforum AI X1 Pro-470 is a stylish mini PC with a premium metal finish, aimed at office workers, featuring a fingerprint sensor for login and authorisation, and a dedicated Copilot button for AI functions. It runs powerful AMD Ryzen AI 9 HX 470 processor and can handle a range of creative and productivity applications smoothly.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the machine's premium features, strong AI performance, and ability to handle multiple applications, which are positive aspects for potential buyers.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1
+      ],
+      "base_price": 43.13,
+      "next_price": 41.19,
+      "change_1d": -4.498,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

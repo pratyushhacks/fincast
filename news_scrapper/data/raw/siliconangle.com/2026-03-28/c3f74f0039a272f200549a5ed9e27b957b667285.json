@@ -1,0 +1,70 @@
+{
+  "id": "c3f74f0039a272f200549a5ed9e27b957b667285",
+  "url": "https://siliconangle.com/2026/03/27/ai-agents-overtake-cybersecurity-better-worse/",
+  "site": "siliconangle.com",
+  "title": "AI agents are about to overtake cybersecurity - for better, or worse? - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:28.652838",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-28\\c3f74f0039a272f200549a5ed9e27b957b667285.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-28\\c3f74f0039a272f200549a5ed9e27b957b667285.txt",
+  "word_count": 2598,
+  "reading_time_minutes": 12,
+  "paywalled": false,
+  "dedup_hash": "f55c7f2f3968e4746675618f05966de7c64b8189",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Tech stocks suffered due to war worries, Meta legal issues, and chip shortages. AI was a major focus at RSAC, with discussions on AI agents, cybersecurity, and the future of AI in enterprises. OpenAI discontinued Sora, and there was a legal dispute involving Anthropic and the Pentagon.",
+  "sentiment": 2,
+  "sentiment_reason": "The article mentions negative events such as tech stocks suffering, legal woes, and a security crisis, alongside neutral discussions on AI advancements and challenges.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

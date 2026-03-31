@@ -1,0 +1,54 @@
+{
+  "id": "8a0c7ced2e5d9bd12fa8a42284cc15e3a4d1141c",
+  "url": "https://www.techradar.com/pro/everything-you-need-to-know-about-moltbook",
+  "site": "techradar.com",
+  "title": "Everything you need to know about Moltbook, the 'Reddit for OpenClaw agents' that got acquired by Meta | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:13.137002",
+  "html_path": "data\\raw\\techradar.com\\2026-03-31\\8a0c7ced2e5d9bd12fa8a42284cc15e3a4d1141c.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-31\\8a0c7ced2e5d9bd12fa8a42284cc15e3a4d1141c.txt",
+  "word_count": 997,
+  "paywalled": false,
+  "dedup_hash": "f11bcc776e7ad9ece96d1ab0ff8a4b1e268282d8",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Moltbook, an AI-driven social network, faced security issues and was acquired by Meta amidst viral but misleading content suggesting autonomous AI behavior, which was later debunked.",
+  "sentiment": 2,
+  "sentiment_reason": "The platform suffered from a serious security breach and was associated with misleading viral content that suggested AI autonomy, leading to negative market impact due to security concerns and the need for clarification.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

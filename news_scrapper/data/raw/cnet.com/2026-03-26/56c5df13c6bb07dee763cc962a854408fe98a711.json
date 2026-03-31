@@ -1,0 +1,64 @@
+{
+  "id": "56c5df13c6bb07dee763cc962a854408fe98a711",
+  "url": "https://www.cnet.com/tech/computing/razer-blade-16-2026-intel-panther-lake-brighter-oled/",
+  "site": "cnet.com",
+  "title": "Razer Releases New Blade 16 Gaming Laptop With Intel Panther Lake, Brighter OLED - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:27.636771",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-26\\56c5df13c6bb07dee763cc962a854408fe98a711.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-26\\56c5df13c6bb07dee763cc962a854408fe98a711.txt",
+  "word_count": 617,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "24faf2d16d44f56b1c26d1ffae222285d5187cf1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Razer releases a new gaming laptop, the Blade 16, with updated hardware including Intel's latest CPU and GPU options, and enhanced display features. It also offers improved connectivity options and maintains its sleek design.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights positive aspects such as the powerful new hardware, enhanced display, and improved connectivity, which are generally seen as improvements and advancements in the gaming laptop market.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.33,
+      "change_1d": -1.746,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.1,
+      "change_1d": -1.1659,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

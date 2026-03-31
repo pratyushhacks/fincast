@@ -1,0 +1,48 @@
+{
+  "id": "c0424fa74fe91a618d648b9f0f5dfe4897527158",
+  "url": "https://fortune.com/2026/03/16/nasdaq-ceo-adena-friedman-convinced-ai-isnt-death-knell-software/",
+  "site": "fortune.com",
+  "title": "Nasdaq CEO Adena Friedman is convinced AI isn't a death knell for software | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:26.966865",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-17\\c0424fa74fe91a618d648b9f0f5dfe4897527158.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-17\\c0424fa74fe91a618d648b9f0f5dfe4897527158.txt",
+  "word_count": 797,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4d2a4d14f90d1daac24ca1eb107251890a200d4a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Nasdaq CEO Adena Friedman views AI as a transformative force for companies, including Nasdaq's evolution into a software and technology provider. She emphasizes the importance of integrating AI securely and efficiently into financial operations, citing tools like Settlement Guard that use AI to predict and prevent settlement failures.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents AI as a neutral topic with a focus on its integration and benefits in the financial industry without clear indications of strong market impact.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

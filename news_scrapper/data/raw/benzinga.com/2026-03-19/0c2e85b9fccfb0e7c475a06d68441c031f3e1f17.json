@@ -1,0 +1,66 @@
+{
+  "id": "0c2e85b9fccfb0e7c475a06d68441c031f3e1f17",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51322694/whats-going-on-with-intel-stock-wednesday-5",
+  "site": "benzinga.com",
+  "title": "What's Going On With Intel Stock Wednesday? - Intel (NASDAQ:INTC)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:08.543593",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\0c2e85b9fccfb0e7c475a06d68441c031f3e1f17.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\0c2e85b9fccfb0e7c475a06d68441c031f3e1f17.txt",
+  "word_count": 229,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3a6ef04b8223e756bb8d202d7e73e2aed10456a6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Intel announced new high-performance chips for gamers, facing a shareholder lawsuit and capacity constraints amid strong server processor demand.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement of new chips is overshadowed by the negative impact of a shareholder lawsuit and operational challenges, indicating a negative market sentiment.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

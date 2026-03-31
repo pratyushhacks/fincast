@@ -1,0 +1,25 @@
+{
+  "id": "102e2138bd328c36efb9333c1a7038335bb23189",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-peace-talks-are-on-pause-amid-iran-war-says-kremlin/articleshow/129687015.cms",
+  "site": "indiatimes.com",
+  "title": "Ukraine peace talks are on pause amid Iran war, says Kremlin - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:54.382664",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\102e2138bd328c36efb9333c1a7038335bb23189.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\102e2138bd328c36efb9333c1a7038335bb23189.txt",
+  "word_count": 138,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "f78a761e56a9e5a9fa95b8f31e5d91a08bb2cea0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

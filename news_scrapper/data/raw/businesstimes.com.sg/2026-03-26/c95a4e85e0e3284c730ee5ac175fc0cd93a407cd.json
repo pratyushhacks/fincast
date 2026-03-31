@@ -1,0 +1,66 @@
+{
+  "id": "c95a4e85e0e3284c730ee5ac175fc0cd93a407cd",
+  "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-ordered-pay-us375-million-new-mexico-trial-over-child-exploitation-user-safety-claims",
+  "site": "businesstimes.com.sg",
+  "title": "Meta ordered to pay US$375 million in New Mexico trial over child exploitation, user safety claims - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:10.976432",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\c95a4e85e0e3284c730ee5ac175fc0cd93a407cd.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\c95a4e85e0e3284c730ee5ac175fc0cd93a407cd.txt",
+  "word_count": 840,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "a15e9a656cd91d55c825c29f58132046fb33b9f9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "A New Mexico jury found Meta Platforms liable for violating state law by allegedly misleading users about the safety of its platforms and enabling child sexual exploitation. The company faces a significant financial penalty and ongoing legal challenges.",
+  "sentiment": 1,
+  "sentiment_reason": "The article discusses a jury finding against Meta for serious allegations of misleading users and enabling child exploitation, which are strongly negative events with clear negative market impact.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        622.66,
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89
+      ],
+      "base_price": 547.54,
+      "next_price": 529.62,
+      "change_1d": -3.2728,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.1,
+      "change_1d": -1.1659,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

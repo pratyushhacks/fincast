@@ -1,0 +1,54 @@
+{
+  "id": "c3be905c8c34ba8511e73b52c5c659eb59b1cc10",
+  "url": "https://www.digitaltrends.com/computing/the-cheese-grater-mac-pro-is-no-more-but-apple-will-still-sell-you-an-old-one/",
+  "site": "digitaltrends.com",
+  "title": "The cheese-grater Mac Pro is no more, but Apple will still sell you an old one - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:45.867764",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\c3be905c8c34ba8511e73b52c5c659eb59b1cc10.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\c3be905c8c34ba8511e73b52c5c659eb59b1cc10.txt",
+  "word_count": 353,
+  "paywalled": false,
+  "dedup_hash": "cb2e07f12a84b4088646fa7b71a8267d48b03d92",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Apple OR AAPL)",
+  "summary": "Apple officially discontinued the Mac Pro, with no plans for future hardware, leaving only refurbished units available for purchase, albeit at high costs and limited availability.",
+  "sentiment": 2,
+  "sentiment_reason": "The discontinuation of the Mac Pro and the limited availability of refurbished units at high prices reflect negative market impact due to the loss of a key product for professionals.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89,
+        248.8
+      ],
+      "base_price": 246.63,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

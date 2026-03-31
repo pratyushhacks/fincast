@@ -1,0 +1,25 @@
+{
+  "id": "84840d4deb645c8edaaf79cebc2c643fa3596d54",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-5-4-mini-and-nano-models-following-gpt-5-4-debut/articleshow/129649030.cms",
+  "site": "indiatimes.com",
+  "title": "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:33.551721",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\84840d4deb645c8edaaf79cebc2c643fa3596d54.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\84840d4deb645c8edaaf79cebc2c643fa3596d54.txt",
+  "word_count": 264,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ef7b0902e4071073b5afdabc1bcaac36948da966",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

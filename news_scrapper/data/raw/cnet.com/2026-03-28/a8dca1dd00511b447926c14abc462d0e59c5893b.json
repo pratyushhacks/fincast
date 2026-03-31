@@ -1,0 +1,63 @@
+{
+  "id": "a8dca1dd00511b447926c14abc462d0e59c5893b",
+  "url": "https://www.cnet.com/tech/services-and-software/iphone-battery-draining-faster-after-ios-26-4-dont-panic/",
+  "site": "cnet.com",
+  "title": "iPhone Battery Draining Faster After iOS 26.4? Don't Panic - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:30.544847",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-28\\a8dca1dd00511b447926c14abc462d0e59c5893b.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-28\\a8dca1dd00511b447926c14abc462d0e59c5893b.txt",
+  "word_count": 271,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "97d05a072b5e1aa3ab1e9282d49f52e7db4e0193",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple released iOS 26.4, introducing new emoji, video podcasts, and bug fixes. Users may experience temporary battery drain post-update, but it's considered normal.",
+  "sentiment": 4,
+  "sentiment_reason": "The release of a new iOS version with added features and bug fixes is generally seen as a positive development for users and the company, hence the positive sentiment score.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

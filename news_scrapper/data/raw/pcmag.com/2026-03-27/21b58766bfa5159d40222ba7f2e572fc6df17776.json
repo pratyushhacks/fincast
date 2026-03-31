@@ -1,0 +1,64 @@
+{
+  "id": "21b58766bfa5159d40222ba7f2e572fc6df17776",
+  "url": "https://www.pcmag.com/news/sick-of-copilot-you-can-finally-uninstall-microsofts-ai-but-its-tricky",
+  "site": "pcmag.com",
+  "title": "Sick of Copilot? You Can Finally Uninstall Microsoft's AI, But It's Tricky | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:41.890622",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-27\\21b58766bfa5159d40222ba7f2e572fc6df17776.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-27\\21b58766bfa5159d40222ba7f2e572fc6df17776.txt",
+  "word_count": 545,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "932cc10969b5fc1ed9827aa84474d22f9380c395",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Microsoft acknowledges frustration from Windows 11 users due to its AI enthusiasm, particularly with the Copilot chatbot, and is now offering a way to uninstall it on managed devices with admin approval.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the acknowledgment of user frustration and the difficulty in uninstalling the AI assistant, despite the option now being available.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97
+      ],
+      "base_price": 356.77,
+      "next_price": 358.96,
+      "change_1d": 0.6138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

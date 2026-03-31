@@ -1,0 +1,26 @@
+{
+  "id": "bd9a09a4d40cd12bf38996b9607520b538b4c158",
+  "url": "https://economictimes.indiatimes.com/jobs/mid-career/the-code-is-not-enough-why-indias-it-professionals-need-an-educational-edge-in/articleshow/129607599.cms",
+  "site": "indiatimes.com",
+  "title": "The code is not enough: Why India's IT professionals need an educational edge in - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:45.009577",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\bd9a09a4d40cd12bf38996b9607520b538b4c158.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\bd9a09a4d40cd12bf38996b9607520b538b4c158.txt",
+  "word_count": 1140,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "dfae0bd612241a54f0359c8eb2d1b10803ab07a9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company"
+}

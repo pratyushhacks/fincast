@@ -1,0 +1,28 @@
+{
+  "id": "27cf693ed8efbb5c0881427e8cebbaa85105c326",
+  "url": "https://www.thehindu.com/sci-tech/technology/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-sources-say/article70778167.ece",
+  "site": "thehindu.com",
+  "title": "OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:35.291114",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-26\\27cf693ed8efbb5c0881427e8cebbaa85105c326.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-26\\27cf693ed8efbb5c0881427e8cebbaa85105c326.txt",
+  "word_count": 752,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "e55d2e2473d750799cfd6743a623923db72da724",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI is offering private-equity firms a more attractive deal than Anthropic for joint ventures to raise capital and accelerate AI adoption. OpenAI's deal includes preferred equity stakes with a guaranteed minimum return and early access to AI models.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive sentiment as it highlights OpenAI's competitive advantage in attracting private-equity firms with better financial incentives and product offerings compared to its competitor, Anthropic."
+}

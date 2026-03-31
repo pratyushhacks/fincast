@@ -1,0 +1,65 @@
+{
+  "id": "cf96c5127d3a1313cfaff87a3d44f6537acf87c0",
+  "url": "https://www.businessinsider.com/judge-blocks-anthropic-supply-chain-risk-2026-3",
+  "site": "businessinsider.com",
+  "title": "Judge Temporarily Blocks the Pentagon's Action Against Anthropic - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:49.775327",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-27\\cf96c5127d3a1313cfaff87a3d44f6537acf87c0.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-27\\cf96c5127d3a1313cfaff87a3d44f6537acf87c0.txt",
+  "word_count": 577,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "4ad948aaf4adf643bffb6c6f26124ca7adaf8ce5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "A federal judge granted Anthropic a preliminary injunction against the Pentagon's blacklisting, halting the supply-chain risk designation and potentially impacting billions in revenue. The ruling is seen as a victory for Anthropic and its CEO, amidst concerns over government overreach in AI contracting.",
+  "sentiment": 4,
+  "sentiment_reason": "The decision is positive for Anthropic as it allows the company to continue its business with defense contractors and challenges the government's actions against it.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97
+      ],
+      "base_price": 356.77,
+      "next_price": 358.96,
+      "change_1d": 0.6138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "811e2c89e1f762fd634b6dbb57b55667c0f968d5",
+  "url": "https://www.bbc.co.uk/news/articles/c5y8d721q18o",
+  "site": "bbc.co.uk",
+  "title": "Rocket stocks soar on report Muskâs SpaceX to file for share sale - BBC News",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:18.562478",
+  "language": null,
+  "html_path": "data\\raw\\bbc.co.uk\\2026-03-26\\811e2c89e1f762fd634b6dbb57b55667c0f968d5.html",
+  "text_path": "data\\raw\\bbc.co.uk\\2026-03-26\\811e2c89e1f762fd634b6dbb57b55667c0f968d5.txt",
+  "word_count": 104,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fc73d78eacbfadba0f215209365cff91b75e50f9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "SpaceX, owned by Elon Musk, has secured significant government contracts and space projects, potentially making Musk a trillionaire through a share sale. The company also has diverse subsidiaries like xAI and Starlink contributing to its market presence.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights SpaceX's growth and potential for Musk to become a trillionaire, indicating a positive market impact due to the company's success and expansion.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.12,
+      "change_1d": -1.8785,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.12,
+      "change_1d": -1.1624,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

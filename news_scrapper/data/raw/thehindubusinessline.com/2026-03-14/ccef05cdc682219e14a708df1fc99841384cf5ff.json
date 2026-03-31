@@ -1,0 +1,45 @@
+{
+  "id": "ccef05cdc682219e14a708df1fc99841384cf5ff",
+  "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-surge-over-40-in-15-days-since-us-israel-iran-conflict-began/article70742483.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Crude oil prices surge over 40% in 15 days since US-Israel-Iran conflict began - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:01:56.988075",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\ccef05cdc682219e14a708df1fc99841384cf5ff.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\ccef05cdc682219e14a708df1fc99841384cf5ff.txt",
+  "word_count": 394,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d444dc6947106d4d197faae1c7e4001f683c5311",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "Crude oil prices soar over 40% in 15 days due to US-Israel-Iran conflict, affecting global energy supply and markets, with focus on Strait of Hormuz disruptions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of geopolitical tensions and potential supply disruptions on crude oil prices and global markets.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

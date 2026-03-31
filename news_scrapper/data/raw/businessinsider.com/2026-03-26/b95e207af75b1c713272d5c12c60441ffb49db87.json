@@ -1,0 +1,28 @@
+{
+  "id": "b95e207af75b1c713272d5c12c60441ffb49db87",
+  "url": "https://www.businessinsider.com/disney-openai-deal-breakup-test-ceo-josh-damaro-short-form-2026-3",
+  "site": "businessinsider.com",
+  "title": "Disney's OpenAI Breakup Is a Major Test for New CEO Josh D'Amaro - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:36.536955",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-26\\b95e207af75b1c713272d5c12c60441ffb49db87.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-26\\b95e207af75b1c713272d5c12c60441ffb49db87.txt",
+  "word_count": 457,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a4058c454969b8cd0c477e91e3df536f8d3d6abc",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Disney and OpenAI ended their partnership, affecting Disney+'s strategy to engage audiences, especially younger ones, with AI-generated content. Disney+ faces challenges in maintaining viewer engagement and competing with free services like YouTube.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of the partnership ending on Disney's strategy to boost engagement and the struggles faced by paid streamers in the face of rising prices and competition from free services."
+}

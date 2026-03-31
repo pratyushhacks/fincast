@@ -1,0 +1,26 @@
+{
+  "id": "259a82014756886cedacc070321292c2fa988c79",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-tumble-to-lowest-close-in-over-six-months-as-iran-war-drags/articleshow/129854169.cms",
+  "site": "indiatimes.com",
+  "title": "US stocks today: US stocks tumble to lowest close in 6 months as Iran war drags; Nasdaq confirms correction - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:26.896761",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\259a82014756886cedacc070321292c2fa988c79.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\259a82014756886cedacc070321292c2fa988c79.txt",
+  "word_count": 549,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "acb86d81820821f8dd626e74fde3962080400763",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "762dd64d66fe0674acb7afcc5c52b5916b27b8d3",
+  "url": "https://www.euronews.com/next/2026/03/19/free-riding-on-our-work-dictionary-sues-openai-for-using-copyrighted-materials-to-train-ch",
+  "site": "euronews.com",
+  "title": "'Free-riding on our work’: Dictionary sues OpenAI for using copyrighted materials to train ChatGPT​ | Euronews",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:56.296618",
+  "language": null,
+  "html_path": "data\\raw\\euronews.com\\2026-03-20\\762dd64d66fe0674acb7afcc5c52b5916b27b8d3.html",
+  "text_path": "data\\raw\\euronews.com\\2026-03-20\\762dd64d66fe0674acb7afcc5c52b5916b27b8d3.txt",
+  "word_count": 245,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "42a4d4b46a2d3fc88926ba1ed213a55531d9488b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Merriam-Webster and Encyclopedia Britannica filed a lawsuit against OpenAI for allegedly using copyrighted material from their content to train ChatGPT, resulting in AI-generated summaries and hallucinations that resemble their content.",
+  "sentiment": 1,
+  "sentiment_reason": "The lawsuit accuses OpenAI of copyright infringement and misuse of content, which could negatively impact their reputation and potentially lead to financial and legal consequences."
+}

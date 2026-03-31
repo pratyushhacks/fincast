@@ -1,0 +1,29 @@
+{
+  "id": "530de80d545072a36bc5f41771bd27f2bfc2457f",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51331212/microsoft-unifies-ai-division-to-end-copilot-confusion-boost-growth",
+  "site": "benzinga.com",
+  "title": "Microsoft Unifies AI Division To End Copilot Confusion, Boost Growth - Microsoft (NASDAQ:MSFT)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:42.275731",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\530de80d545072a36bc5f41771bd27f2bfc2457f.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\530de80d545072a36bc5f41771bd27f2bfc2457f.txt",
+  "word_count": 546,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2fa331167204fb5010d9b7d68fb8f0dcced051da",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Microsoft is reshaping its AI leadership to streamline its product lineup and strengthen its position in the AI market, amidst pressure on its shares and competition from rivals.",
+  "sentiment": 2,
+  "sentiment_reason": "The company's restructuring and focus on AI models development come at a time when it faces strong competition and its stock is under pressure, indicating negative sentiment."
+}

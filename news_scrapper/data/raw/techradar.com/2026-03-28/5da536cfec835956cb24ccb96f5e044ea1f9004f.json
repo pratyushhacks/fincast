@@ -1,0 +1,28 @@
+{
+  "id": "5da536cfec835956cb24ccb96f5e044ea1f9004f",
+  "url": "https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed",
+  "site": "techradar.com",
+  "title": "Claude is limiting usage more aggressively during peak hours — here’s what changed | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:16.575806",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\5da536cfec835956cb24ccb96f5e044ea1f9004f.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\5da536cfec835956cb24ccb96f5e044ea1f9004f.txt",
+  "word_count": 636,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "d14402e2494aab6e48d7e6ce4c35a173439c1f9d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Anthropic is changing its rules to manage growing demand for Claude by reducing message limits for free/Pro/Max customers during peak hours, affecting roughly 7% of users and potentially impacting their usage without clear notification.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement indicates a negative market impact due to the increased rate at which users are burning through their message limits during peak hours, potentially leading to dissatisfaction and the need to adjust usage habits."
+}

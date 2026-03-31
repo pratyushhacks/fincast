@@ -1,0 +1,64 @@
+{
+  "id": "4d2a1ee54b6089ecdaa719b42582879044236330",
+  "url": "https://www.kiplinger.com/investing/stocks/stocks-continue-to-slide-on-energy-shock-stock-market-today",
+  "site": "kiplinger.com",
+  "title": "Stocks Continue to Slide on Energy Shock: Stock Market Today | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:47.521554",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-20\\4d2a1ee54b6089ecdaa719b42582879044236330.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-20\\4d2a1ee54b6089ecdaa719b42582879044236330.txt",
+  "word_count": 1055,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "aa97a1e40c568aa956454bb49d266273b9f0d136",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Stocks fell due to market concerns over an energy shock related to the Iran situation, with potential impacts on fertilizer supply for the upcoming planting season. Chevron's stock rose amidst the volatility.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market reactions due to geopolitical tensions and potential energy shortages, indicating negative sentiment.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

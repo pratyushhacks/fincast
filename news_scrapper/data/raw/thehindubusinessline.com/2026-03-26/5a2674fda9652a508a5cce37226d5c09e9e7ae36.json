@@ -1,0 +1,63 @@
+{
+  "id": "5a2674fda9652a508a5cce37226d5c09e9e7ae36",
+  "url": "https://www.thehindubusinessline.com/incoming/samvardhana-motherson-signs-logistics-jv-with-hellmann-completes-l-in-global-demal-strategy/article70783554.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Samvardhana Motherson signs logistics JV with Hellmann,  Completes ‘L’ in Global D.E.M.A.L. Strategy - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:35.037867",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\5a2674fda9652a508a5cce37226d5c09e9e7ae36.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\5a2674fda9652a508a5cce37226d5c09e9e7ae36.txt",
+  "word_count": 492,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "50b289676f9f404e55eb434f31b72061ef2d1048",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "Motherson's partnership with Hellmann Worldwide Logistics aims to provide integrated supply chain solutions for the global automotive industry, expanding its role from manufacturing to managing end-to-end supply chains. This strategic move is expected to improve supply chain stability and efficiency amid ongoing disruptions.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive development as it signifies Motherson's expansion into logistics and its potential to reduce costs and improve supply chain visibility, which are crucial for the automotive industry.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25
+      ],
+      "base_price": 328.85,
+      "next_price": 325.13,
+      "change_1d": -1.1312,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.14,
+      "change_1d": -0.7673,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

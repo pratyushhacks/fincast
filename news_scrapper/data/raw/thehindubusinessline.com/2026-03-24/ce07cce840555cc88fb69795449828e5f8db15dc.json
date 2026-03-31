@@ -1,0 +1,64 @@
+{
+  "id": "ce07cce840555cc88fb69795449828e5f8db15dc",
+  "url": "https://www.thehindubusinessline.com/markets/stock-markets/indian-government-bond-yields-rise-as-oil-prices-surge-and-rupee-hits-record-low/article70774670.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Indian government bond yields rise as oil prices surge and rupee hits record low - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:45.059034",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\ce07cce840555cc88fb69795449828e5f8db15dc.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\ce07cce840555cc88fb69795449828e5f8db15dc.txt",
+  "word_count": 314,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "af23d9b621c5dd3e6627e199368bf7468a9c98f2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Indian government bonds and the rupee plummeted due to surging oil prices, rising U.S. Treasury yields, and geopolitical tensions, while India faces record bond issuance amidst these challenges.",
+  "sentiment": 2,
+  "sentiment_reason": "The negative factors such as surging oil prices, rising U.S. Treasury yields, geopolitical tensions, and the impact on the Indian rupee and bond market indicate a negative market impact.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36,
+        121.43,
+        110.56
+      ],
+      "base_price": 114.54,
+      "next_price": 113.39,
+      "change_1d": -1.004,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

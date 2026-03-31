@@ -1,0 +1,28 @@
+{
+  "id": "0f6799d8413f361a4e260427014c8705512c6478",
+  "url": "https://economictimes.indiatimes.com/news/international/us/mass-layoffs-spike-in-america-warn-notices-reveal-hidden-job-crisis-before-it-hits-heres-what-you-need-to-know-to-prepare-yourself/articleshow/129685345.cms",
+  "site": "indiatimes.com",
+  "title": "largest Mass layoffs 2026 in US alert: Mass layoffs spike in America: WARN notices reveal hidden job crisis before it hits - here's what you need to know to prepare yourself - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:22.433766",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\0f6799d8413f361a4e260427014c8705512c6478.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\0f6799d8413f361a4e260427014c8705512c6478.txt",
+  "word_count": 575,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e09c5d3642e36aae4c2ea0632920132852255604",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company"
+}

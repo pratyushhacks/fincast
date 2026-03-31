@@ -1,0 +1,63 @@
+{
+  "id": "06aaf9b455e9efe7fdb331a1417a417b4dde86a1",
+  "url": "https://gizmodo.com/apple-studio-display-xdr-review-it-looks-so-good-i-wish-it-were-an-imac-2000733073",
+  "site": "gizmodo.com",
+  "title": "Apple Studio Display XDR Review: It Looks So Good, I Wish It Were an iMac",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:55:21.840209",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-14\\06aaf9b455e9efe7fdb331a1417a417b4dde86a1.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-14\\06aaf9b455e9efe7fdb331a1417a417b4dde86a1.txt",
+  "word_count": 1977,
+  "reading_time_minutes": 9,
+  "paywalled": false,
+  "dedup_hash": "76edfafdbfbbe797a19cece07595bea9b808b4fa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Apple",
+  "gdelt_category": "company",
+  "summary": "Apple's new Studio Display XDR is a premium, professional-grade monitor with great contrast, brightness, and audio. It's priced more approachably than the Pro Display XDR but still comes with a hefty price tag and lacks swivel functionality. It supports a 120Hz refresh rate and HDR, and it's equipped with a 12-megapixel camera for features like Center Stage.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the high cost, lack of swivel functionality, and the fact that it's still a premium product with a pricey price point.",
+  "price_changes": {
+    "Apple": {
+      "ticker": "AAPL",
+      "trend": [
+        262.52,
+        260.29,
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76
+      ],
+      "base_price": 250.12,
+      "next_price": 252.82,
+      "change_1d": 1.0795,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

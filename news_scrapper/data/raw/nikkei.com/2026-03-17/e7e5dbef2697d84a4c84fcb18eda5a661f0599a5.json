@@ -1,0 +1,47 @@
+{
+  "id": "e7e5dbef2697d84a4c84fcb18eda5a661f0599a5",
+  "url": "https://asia.nikkei.com/business/markets/trading-asia/softbank-group-shares-lose-steam-as-investors-have-qualms-on-big-openai-bet",
+  "site": "nikkei.com",
+  "title": "SoftBank Group shares lose steam as investors have qualms on big OpenAI bet - Nikkei Asia",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:27.027781",
+  "language": null,
+  "html_path": "data\\raw\\nikkei.com\\2026-03-17\\e7e5dbef2697d84a4c84fcb18eda5a661f0599a5.html",
+  "text_path": "data\\raw\\nikkei.com\\2026-03-17\\e7e5dbef2697d84a4c84fcb18eda5a661f0599a5.txt",
+  "word_count": 59,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0d7316e7a650912df303c2a909dd5cd01f47754f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "SoftBank Group shares decline amid investor concerns over major OpenAI investment amidst AI competition, military use, and regulatory scrutiny.",
+  "sentiment": 2,
+  "sentiment_reason": "Investors' qualms and increased competition in the AI sector negatively impact SoftBank's share value.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

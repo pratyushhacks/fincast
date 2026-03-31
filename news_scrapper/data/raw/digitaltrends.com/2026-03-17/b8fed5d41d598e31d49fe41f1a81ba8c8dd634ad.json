@@ -1,0 +1,64 @@
+{
+  "id": "b8fed5d41d598e31d49fe41f1a81ba8c8dd634ad",
+  "url": "https://www.digitaltrends.com/computing/gemini-panel-in-chrome-left-the-doors-open-for-hackers-and-you-must-update-asap/",
+  "site": "digitaltrends.com",
+  "title": "Gemini panel in Chrome left the doors open for hackers, and you must update ASAP - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:18.358677",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-17\\b8fed5d41d598e31d49fe41f1a81ba8c8dd634ad.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-17\\b8fed5d41d598e31d49fe41f1a81ba8c8dd634ad.txt",
+  "word_count": 279,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6850b3a57773071232fbc4f97d8067c0987150bc",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google’s Gemini AI panel vulnerability could allow hackers to access sensitive data and execute dangerous actions. Google patched the issue, but it highlights security risks with AI-powered browser features.",
+  "sentiment": 2,
+  "sentiment_reason": "The vulnerability discovery and subsequent patching indicate a negative sentiment due to security concerns and potential misuse.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

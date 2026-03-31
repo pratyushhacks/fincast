@@ -1,0 +1,64 @@
+{
+  "id": "aaab651ac1037db58f15ed459a934ba6da30e98a",
+  "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazon-plans-drastic-cut-packages-it-sends-through-usps",
+  "site": "businesstimes.com.sg",
+  "title": "Amazon plans drastic cut in packages it sends through USPS - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:23.897832",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-19\\aaab651ac1037db58f15ed459a934ba6da30e98a.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-19\\aaab651ac1037db58f15ed459a934ba6da30e98a.txt",
+  "word_count": 498,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "efdabddf200002f1fc16cfa7d08751be2efe9995",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon plans to significantly reduce its use of USPS for package delivery, potentially cutting shipments by two-thirds, due to failed negotiations and the introduction of an auction process by USPS for access to its delivery network.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to the uncertainty and potential disruption in Amazon's delivery operations and its implications for USPS.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87
+      ],
+      "base_price": 208.76,
+      "next_price": 205.37,
+      "change_1d": -1.6239,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

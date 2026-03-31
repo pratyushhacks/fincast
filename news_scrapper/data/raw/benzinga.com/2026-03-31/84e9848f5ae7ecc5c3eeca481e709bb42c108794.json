@@ -1,0 +1,54 @@
+{
+  "id": "84e9848f5ae7ecc5c3eeca481e709bb42c108794",
+  "url": "https://www.benzinga.com/crypto/cryptocurrency/26/03/51529184/weekend-round-up-crypto-exchange-gets-fed-approval-ethereum-outperforms-sp-500-and-more",
+  "site": "benzinga.com",
+  "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More  - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:00.691175",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\84e9848f5ae7ecc5c3eeca481e709bb42c108794.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\84e9848f5ae7ecc5c3eeca481e709bb42c108794.txt",
+  "word_count": 360,
+  "paywalled": false,
+  "dedup_hash": "7ce3a90ffa2ae267a2da0b8e9edfed4991146cac",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Cryptocurrency faces a mix of significant events including a historic approval for a crypto exchange to access Federal Reserve services, advocacy for crypto as a wartime store of value, a dip in Coinbase shares amid a market sell-off, and the impact of political warnings on crypto prices.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to the market sell-off, liquidation of cryptocurrency positions, and the impact of political tensions on crypto prices.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

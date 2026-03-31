@@ -1,0 +1,54 @@
+{
+  "id": "6998913f1e7c2878cf0e59385e73fd992c1b9523",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51528535/elon-musks-xai-loses-last-original-co-founder-ahead-of-spacex-ipo-report",
+  "site": "benzinga.com",
+  "title": "Elon Musk's xAI Loses Last Original Co-Founder Ahead Of SpaceX IPO: Report - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:41.080829",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\6998913f1e7c2878cf0e59385e73fd992c1b9523.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\6998913f1e7c2878cf0e59385e73fd992c1b9523.txt",
+  "word_count": 294,
+  "paywalled": false,
+  "dedup_hash": "95d62ce84cfd1495a481c89018e76e662f2586fc",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "Elon Musk's co-founder Ross Nordeen has resigned from xAI, leading to a major reorganization ahead of a potential IPO. This follows a pattern of leadership turnover within the company, amidst scaling challenges against competitors.",
+  "sentiment": 2,
+  "sentiment_reason": "The resignation of a key co-founder and ongoing leadership issues at xAI, coupled with the struggle to scale and compete, contribute to negative market sentiment due to potential instability and disruption.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

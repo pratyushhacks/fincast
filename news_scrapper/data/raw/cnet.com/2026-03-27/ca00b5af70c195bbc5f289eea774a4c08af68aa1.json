@@ -1,0 +1,29 @@
+{
+  "id": "ca00b5af70c195bbc5f289eea774a4c08af68aa1",
+  "url": "https://www.cnet.com/tech/services-and-software/wikipedia-bans-ai-generated-content-in-new-policy-change-with-only-two-exceptions/",
+  "site": "cnet.com",
+  "title": "Wikipedia Bans AI-Generated Content, With Only Two Exceptions - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:12.060654",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-27\\ca00b5af70c195bbc5f289eea774a4c08af68aa1.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-27\\ca00b5af70c195bbc5f289eea774a4c08af68aa1.txt",
+  "word_count": 456,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "cc7338370492d067b9e053f6f8aaf0fff2aa642c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Wikipedia prohibits the use of AI tools to create or rewrite content, with exceptions for basic edits and translations, reflecting a tension between AI convenience and the need for accurate, verifiable knowledge.",
+  "sentiment": 2,
+  "sentiment_reason": "The policy indicates concerns about AI's accuracy and potential for misinformation, which aligns with negative market impacts due to fears of content reliability."
+}

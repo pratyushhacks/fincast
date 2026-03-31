@@ -1,0 +1,64 @@
+{
+  "id": "ae110a741af3e704e2a3086ab2cfa336f15e407e",
+  "url": "https://www.pcmag.com/reviews/lenovo-ideapad-slim-5i-gen-10",
+  "site": "pcmag.com",
+  "title": "Lenovo IdeaPad Slim 5i Gen 10 Review: Practical Power for the Productivity Crowd | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:50.746916",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-28\\ae110a741af3e704e2a3086ab2cfa336f15e407e.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-28\\ae110a741af3e704e2a3086ab2cfa336f15e407e.txt",
+  "word_count": 321,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e004230819e6ec40887df5ba32d59d56f4f4ed8b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The Slim 5i is a well-built, powerful laptop with a focus on productivity, offering a premium experience with a noticeable step above budget laptops. However, it shows limitations in entertainment aspects like display and audio quality.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the laptop's strong performance, quality build, and good portability, which are positive aspects, but also points out its shortcomings in display and audio quality, which are negative but not severe enough to be considered strongly negative.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1
+      ],
+      "base_price": 43.13,
+      "next_price": 41.19,
+      "change_1d": -4.498,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

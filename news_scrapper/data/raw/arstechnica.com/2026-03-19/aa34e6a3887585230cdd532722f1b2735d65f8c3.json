@@ -1,0 +1,64 @@
+{
+  "id": "aa34e6a3887585230cdd532722f1b2735d65f8c3",
+  "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+  "site": "arstechnica.com",
+  "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\" - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:32.015262",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-19\\aa34e6a3887585230cdd532722f1b2735d65f8c3.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-19\\aa34e6a3887585230cdd532722f1b2735d65f8c3.txt",
+  "word_count": 393,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "16872aae39e409374c73ffaaa6e092e440fd5402",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Kagi Translate, an AI-powered tool, can now translate into unconventional 'languages' like 'horny Margaret Thatcher' slang, as reported by Ars Technica. This feature, while playful, underscores the risks associated with the misuse of generalized language models.",
+  "sentiment": 2,
+  "sentiment_reason": "The ability to translate into such esoteric and potentially inappropriate 'languages' raises concerns about the misuse of AI tools and the need for better content moderation.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

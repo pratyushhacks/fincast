@@ -1,0 +1,65 @@
+{
+  "id": "597b0d976293a130d4d371427bfd550befce635d",
+  "url": "https://www.techradar.com/seasonal-sales/dont-get-the-apple-watch-ultra-3-amazon-has-a-record-low-deal-on-the-apple-watch-ultra-2-and-its-just-as-powerful-and-accurate",
+  "site": "techradar.com",
+  "title": "Don't get the Apple Watch Ultra 3 — Amazon has a record-low deal on the Apple Watch Ultra 2, and it's just as powerful and accurate | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:29.761661",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\597b0d976293a130d4d371427bfd550befce635d.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\597b0d976293a130d4d371427bfd550befce635d.txt",
+  "word_count": 329,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "bffc901e46240df116a071b8a7e44d48917db221",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Amazon is offering a rare deal on the Apple Watch Ultra 2, priced at $499, which is $300 cheaper than its predecessor, the Ultra 3. The deal is attractive for fitness enthusiasts and adventurers who need a rugged smartwatch with tracking features.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the significant discount on a premium smartwatch, making it more accessible to consumers and potentially driving sales.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

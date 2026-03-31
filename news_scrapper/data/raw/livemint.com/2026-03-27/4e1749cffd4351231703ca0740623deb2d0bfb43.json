@@ -1,0 +1,64 @@
+{
+  "id": "4e1749cffd4351231703ca0740623deb2d0bfb43",
+  "url": "https://www.livemint.com/news/world-recession-hormuz-axis-bank-neelkanth-mishra-chief-economist-impact-of-war-11774520965868.html",
+  "site": "livemint.com",
+  "title": "World may face recession in weeks if Hormuz stays shut: Axis Bank’s Mishra | Today News",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:37.584420",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-27\\4e1749cffd4351231703ca0740623deb2d0bfb43.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-27\\4e1749cffd4351231703ca0740623deb2d0bfb43.txt",
+  "word_count": 602,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "56ddc215d7c4333ad5fb43c4a719cac2c5f5c1b6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro",
+  "summary": "Neelkanth Mishra warns of a potential global recession triggered by the ongoing war in West Asia, with a particular focus on the impact of energy disruptions and oil price surges. Despite these challenges, he maintains optimism for India's medium-term growth trajectory, driven by domestic demand and structural reforms.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the war's potential to cause a global recession and the significant impact of rising oil prices on inflation and macroeconomic stability.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        86.96,
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11
+      ],
+      "base_price": 85.64,
+      "next_price": 86.78,
+      "change_1d": 1.3312,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

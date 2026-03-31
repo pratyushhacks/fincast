@@ -1,0 +1,68 @@
+{
+  "id": "340f7d09e0dfaf9911847a16408b09803342bb68",
+  "url": "https://www.thehindu.com/sci-tech/technology/when-ai-firms-become-power-firms-should-governments-foot-the-bill/article70734230.ece",
+  "site": "thehindu.com",
+  "title": "When AI firms become power firms, should governments foot the bill? - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:03:13.146870",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-14\\340f7d09e0dfaf9911847a16408b09803342bb68.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-14\\340f7d09e0dfaf9911847a16408b09803342bb68.txt",
+  "word_count": 850,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "9555e16cf521c49804e58da9981b12cd6e982c78",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Trump administration's 'Ratepayer Protection Pledge' urges AI firms to self-fund their data centres' energy costs, potentially transforming them into quasi-utility companies and shifting the AI industry's focus from chips to energy.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement reflects a negative sentiment due to concerns over rising power bills and grid strain, but it also indicates a potential negative shift in the AI industry's economic model.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

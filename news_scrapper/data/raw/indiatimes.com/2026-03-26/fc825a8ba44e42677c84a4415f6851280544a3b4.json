@@ -1,0 +1,25 @@
+{
+  "id": "fc825a8ba44e42677c84a4415f6851280544a3b4",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-jensen-huang-we-have-achieved-agi/articleshow/129773934.cms",
+  "site": "indiatimes.com",
+  "title": "Nvidia CEO Jensen Huang: We have achieved AGI - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:44.020403",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\fc825a8ba44e42677c84a4415f6851280544a3b4.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\fc825a8ba44e42677c84a4415f6851280544a3b4.txt",
+  "word_count": 316,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cac7b5cebe0e2e3592f7da05ddf9f01c2a4ec762",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "69882205149db80dada51f7ee0d046ed1a544afa",
+  "url": "https://www.thehindu.com/news/international/cuba-begins-to-restore-power-after-third-nationwide-collapse-in-month/article70774192.ece",
+  "site": "thehindu.com",
+  "title": "Cuba begins to restore power after third nationwide collapse in month - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:19.332835",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-23\\69882205149db80dada51f7ee0d046ed1a544afa.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-23\\69882205149db80dada51f7ee0d046ed1a544afa.txt",
+  "word_count": 667,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "f90a948ff01db2f22d3762450d0fc2b82a775969",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Cuba's national electric grid collapsed for the second time in a week due to an energy crisis, with the government blaming the U.S. energy blockade and deteriorating infrastructure. The outages have caused significant disruptions to the lives of millions of Cubans.",
+  "sentiment": 2,
+  "sentiment_reason": "The article describes a negative situation involving energy shortages and their impact on the population, including a healthcare crisis and daily life disruptions, which indicates a negative market impact.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.41,
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32,
+        29.32
+      ],
+      "base_price": 30.23,
+      "next_price": 30.43,
+      "change_1d": 0.6616,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

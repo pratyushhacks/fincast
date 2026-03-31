@@ -1,0 +1,54 @@
+{
+  "id": "157584233004fdd48ebf8d89fbe8cb128d10e228",
+  "url": "https://www.digitaltrends.com/gaming/after-ps5-price-hike-xbox-and-nintendo-could-be-next/",
+  "site": "digitaltrends.com",
+  "title": "After PS5 price hike, Xbox and Nintendo could be next - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:49.421315",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\157584233004fdd48ebf8d89fbe8cb128d10e228.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\157584233004fdd48ebf8d89fbe8cb128d10e228.txt",
+  "word_count": 336,
+  "paywalled": false,
+  "dedup_hash": "96d9a9194489a0f824bfcad3d74b59eeb9ccd9c1",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "Sony's PlayStation 5 price hike may signal a trend in the gaming industry due to rising memory costs, supply shortages, and inflation affecting the entire sector. Neither Microsoft nor Nintendo has confirmed price increases, but industry analysts suggest they might follow suit to maintain profitability.",
+  "sentiment": 2,
+  "sentiment_reason": "The potential industry-wide price increases due to economic pressures and supply chain issues are causing negative sentiment as they may lead to higher costs for consumers and impact sales.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

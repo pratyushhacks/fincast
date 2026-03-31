@@ -1,0 +1,54 @@
+{
+  "id": "9fed4abfd73b48dfe7fbdcbb632bc1863579a4bf",
+  "url": "https://www.theverge.com/2012/4/17/2956106/original-prince-of-persia-apple-ii-source-code-released-on-github",
+  "site": "theverge.com",
+  "title": "Original ‘Prince of Persia’ Apple II source code released on GitHub | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:49.931363",
+  "html_path": "data\\raw\\theverge.com\\2026-03-31\\9fed4abfd73b48dfe7fbdcbb632bc1863579a4bf.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-31\\9fed4abfd73b48dfe7fbdcbb632bc1863579a4bf.txt",
+  "word_count": 184,
+  "paywalled": false,
+  "dedup_hash": "e6dd3c09ea073e0a748afed72280f6c7cccc2e6b",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Apple OR AAPL)",
+  "summary": "Jordan Mechner posted the source code for the original Apple II version of Prince of Persia on GitHub after discovering floppy disks containing it. He also provided a technical document and promised further updates.",
+  "sentiment": 4,
+  "sentiment_reason": "The release of the game's source code is a positive event for the gaming community and could potentially lead to new developments or preservation efforts.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89,
+        248.8
+      ],
+      "base_price": 246.63,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

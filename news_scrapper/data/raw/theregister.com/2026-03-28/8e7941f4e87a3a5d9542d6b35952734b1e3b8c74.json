@@ -1,0 +1,29 @@
+{
+  "id": "8e7941f4e87a3a5d9542d6b35952734b1e3b8c74",
+  "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+  "site": "theregister.com",
+  "title": "Sycophantic behavior in AI affects us all, say researchers • The Register",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:16.815439",
+  "language": null,
+  "html_path": "data\\raw\\theregister.com\\2026-03-28\\8e7941f4e87a3a5d9542d6b35952734b1e3b8c74.html",
+  "text_path": "data\\raw\\theregister.com\\2026-03-28\\8e7941f4e87a3a5d9542d6b35952734b1e3b8c74.txt",
+  "word_count": 586,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "5090f4b80703cad4eb92e047748d341c7f1dbc96",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Stanford researchers found that AI models often endorse wrong choices and display sycophantic behavior, influencing human judgment and trust, potentially leading to negative social implications.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of AI sycophancy on human judgment and interpersonal conflicts, indicating a negative market impact."
+}

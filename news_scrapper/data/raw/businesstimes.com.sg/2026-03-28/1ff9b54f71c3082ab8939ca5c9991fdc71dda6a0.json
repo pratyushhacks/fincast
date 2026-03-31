@@ -1,0 +1,63 @@
+{
+  "id": "1ff9b54f71c3082ab8939ca5c9991fdc71dda6a0",
+  "url": "https://www.businesstimes.com.sg/international/huaweis-new-ai-chip-finds-favour-bytedance-alibaba-which-plan-place-orders-sources",
+  "site": "businesstimes.com.sg",
+  "title": "Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders: sources - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:22.635732",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-28\\1ff9b54f71c3082ab8939ca5c9991fdc71dda6a0.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-28\\1ff9b54f71c3082ab8939ca5c9991fdc71dda6a0.txt",
+  "word_count": 545,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "041847a875ab15e0c38955282a9bdc43fc602221",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Huawei's new AI chip, the 950PR, is set to be adopted by major tech firms like ByteDance and Alibaba, despite previous restrictions on Nvidia chips in China. The chip promises better compatibility with Nvidia's software and improved response speeds.",
+  "sentiment": 4,
+  "sentiment_reason": "The adoption by major tech firms and the improved compatibility with Nvidia's software system indicate a positive market impact for Huawei's new chip.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

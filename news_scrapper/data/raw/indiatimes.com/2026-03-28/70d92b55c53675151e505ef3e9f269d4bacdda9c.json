@@ -1,0 +1,25 @@
+{
+  "id": "70d92b55c53675151e505ef3e9f269d4bacdda9c",
+  "url": "https://economictimes.indiatimes.com/tech/technology/softbank-secures-40-billion-loan-to-fund-further-openai-investment/articleshow/129845566.cms",
+  "site": "indiatimes.com",
+  "title": "SoftBank secures $40 billion loan to fund further OpenAI investment - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:11.336750",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\70d92b55c53675151e505ef3e9f269d4bacdda9c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\70d92b55c53675151e505ef3e9f269d4bacdda9c.txt",
+  "word_count": 120,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "966833e484f39081b37ebbe885cab605423ecfa2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

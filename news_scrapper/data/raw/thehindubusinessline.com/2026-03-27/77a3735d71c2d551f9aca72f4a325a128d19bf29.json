@@ -1,0 +1,65 @@
+{
+  "id": "77a3735d71c2d551f9aca72f4a325a128d19bf29",
+  "url": "https://www.thehindubusinessline.com/info-tech/googles-top-india-counsel-quits-in-latest-departure-amid-regulatory-hurdles/article70787409.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Google’s top India counsel quits in latest departure amid regulatory hurdles - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:04.056298",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-27\\77a3735d71c2d551f9aca72f4a325a128d19bf29.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-27\\77a3735d71c2d551f9aca72f4a325a128d19bf29.txt",
+  "word_count": 208,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "bf62917de4c7d9bf844e0f248f8d3dc5bde6db4d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Bijoya Roy, Google's top India counsel, resigned amid regulatory challenges and antitrust cases in India, a key market for Google. The company also faces issues with AI training and content takedown regulations. Additionally, Google's investment in an AI data centre in India is mentioned.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the regulatory hurdles, antitrust cases, and legal challenges faced by Google in India, which could potentially impact its operations and growth in the market.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

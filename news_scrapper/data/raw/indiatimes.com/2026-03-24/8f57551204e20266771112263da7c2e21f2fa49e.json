@@ -1,0 +1,22 @@
+{
+  "id": "8f57551204e20266771112263da7c2e21f2fa49e",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/reserve-bank-of-india-releases-mpc-meeting-schedule-of-the-monetary-policy-committee-for-2026-2027/articleshow/129751853.cms",
+  "site": "indiatimes.com",
+  "title": "RBI releases meeting schedule of the Monetary Policy Committee for 2026-2027 - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:17.843644",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\8f57551204e20266771112263da7c2e21f2fa49e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\8f57551204e20266771112263da7c2e21f2fa49e.txt",
+  "word_count": 203,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d7185364fa3d3a33adef70cba5bd01edaf6ae29a",
+  "scraper_version": "0.1",
+  "matched_companies": [],
+  "matched_industries": [
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

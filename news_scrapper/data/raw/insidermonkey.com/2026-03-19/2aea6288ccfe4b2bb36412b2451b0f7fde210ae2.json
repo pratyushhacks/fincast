@@ -1,0 +1,34 @@
+{
+  "id": "2aea6288ccfe4b2bb36412b2451b0f7fde210ae2",
+  "url": "https://www.insidermonkey.com/blog/alibaba-group-holding-limited-babas-expanding-role-in-ai-and-digital-innovation-1718959/",
+  "site": "insidermonkey.com",
+  "title": "Alibaba Group Holding Limited (BABA)’s Expanding Role in AI and Digital Innovation - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:41.415373",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-19\\2aea6288ccfe4b2bb36412b2451b0f7fde210ae2.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-19\\2aea6288ccfe4b2bb36412b2451b0f7fde210ae2.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Alibaba Group Holding Limited is highlighted for its expanding role in AI and digital innovation, with implications for a broader AI ecosystem potentially worth $250 trillion by 2040.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the potential of AI and digital innovation, with a focus on Alibaba's role, which implies a negative sentiment due to the pressure and competition it creates in the market."
+}

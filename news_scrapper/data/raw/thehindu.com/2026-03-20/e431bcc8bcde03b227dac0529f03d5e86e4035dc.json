@@ -1,0 +1,64 @@
+{
+  "id": "e431bcc8bcde03b227dac0529f03d5e86e4035dc",
+  "url": "https://www.thehindu.com/news/international/taiwan-rejects-chinas-energy-security-reunification-offer-amid-west-asian-war/article70760996.ece",
+  "site": "thehindu.com",
+  "title": "Taiwan rejects China's energy security 'reunification' offer amid West Asian war - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:49:05.487484",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-20\\e431bcc8bcde03b227dac0529f03d5e86e4035dc.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-20\\e431bcc8bcde03b227dac0529f03d5e86e4035dc.txt",
+  "word_count": 376,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d10b517ea5155eb91b533025dad9ca630c1b55c4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "gdelt_category": "macro",
+  "summary": "Taiwan rejects China's offer for energy security in exchange for Beijing's rule, amidst global scrambling for alternative energy supplies due to disrupted shipping lanes. Taiwan secures alternative energy sources, including from the U.S.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as Taiwan is proactively securing its energy needs and alternatives in the face of global disruptions, despite the ongoing tensions with China.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        341.88,
+        329.99,
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2
+      ],
+      "base_price": 332.51,
+      "next_price": 336.59,
+      "change_1d": 1.227,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

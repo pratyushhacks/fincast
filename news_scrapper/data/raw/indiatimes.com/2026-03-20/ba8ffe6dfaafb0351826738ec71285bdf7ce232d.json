@@ -1,0 +1,26 @@
+{
+  "id": "ba8ffe6dfaafb0351826738ec71285bdf7ce232d",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-valuations-are-overheated-buy-high-sell-higher-works-only-in-a-bubble-first-round-capital-cofounder-howard-morgan/articleshow/129680932.cms",
+  "site": "indiatimes.com",
+  "title": "AI startup valuations are overheated: First Round Capital cofounder Howard Morgan - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:56.427201",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\ba8ffe6dfaafb0351826738ec71285bdf7ce232d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\ba8ffe6dfaafb0351826738ec71285bdf7ce232d.txt",
+  "word_count": 418,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7e7c3687ce7976da7dd27d188fd043f416e00065",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

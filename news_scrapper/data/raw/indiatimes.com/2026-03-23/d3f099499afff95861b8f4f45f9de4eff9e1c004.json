@@ -1,0 +1,24 @@
+{
+  "id": "d3f099499afff95861b8f4f45f9de4eff9e1c004",
+  "url": "https://economictimes.indiatimes.com/news/economy/indicators/fresh-family-income-survey-likely-ahead-of-cpi-iw-update/articleshow/129738181.cms",
+  "site": "indiatimes.com",
+  "title": "Fresh family income survey likely ahead of CPI-IW update - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:14.327709",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\d3f099499afff95861b8f4f45f9de4eff9e1c004.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\d3f099499afff95861b8f4f45f9de4eff9e1c004.txt",
+  "word_count": 336,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "94048c232c01e38186edc37a9ef42ea29f5a5999",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

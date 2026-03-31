@@ -1,0 +1,30 @@
+{
+  "id": "470432e89ec21efdf4cf02157b2cedda5ec7a075",
+  "url": "https://www.businessinsider.com/openai-sam-altman-adult-chat-sora-pivot-2026-3",
+  "site": "businessinsider.com",
+  "title": "Sam Altman Keeps Changing His Mind. Here's Why That's Such a Problem. - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:10.699063",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-27\\470432e89ec21efdf4cf02157b2cedda5ec7a075.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-27\\470432e89ec21efdf4cf02157b2cedda5ec7a075.txt",
+  "word_count": 565,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2baa527bbf60edf17901b0019970ae8c0d53cad2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI, led by Sam Altman, has abandoned plans for an adult chat feature and a video app due to controversy and strategic shifts towards profitable ventures. These decisions reflect the company's response to criticism and its evolving business model amidst preparations for an IPO.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the company's decision to cancel potentially profitable ventures and the controversy surrounding the abandoned adult chat feature, which indicates strategic missteps and possible internal conflict."
+}

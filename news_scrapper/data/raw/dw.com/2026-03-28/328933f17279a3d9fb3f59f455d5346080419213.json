@@ -1,0 +1,27 @@
+{
+  "id": "328933f17279a3d9fb3f59f455d5346080419213",
+  "url": "https://www.dw.com/en/anthropic-claude-mythos-pentagon-sanctions/a-76556322",
+  "site": "dw.com",
+  "title": "US court suspends Pentagon sanctions against Anthropic",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:15.833141",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-28\\328933f17279a3d9fb3f59f455d5346080419213.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-28\\328933f17279a3d9fb3f59f455d5346080419213.txt",
+  "word_count": 395,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "11d613e514be49bc1ae093934de68a8d0539cb89",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Anthropic won temporary legal relief against the US Pentagon's move to label it as a 'supply chain risk to national security', due to a dispute over safety restrictions in its AI model. The company refused to use its AI for mass surveillance or in autonomous weapons, leading to the Pentagon halting contracts and other vendors being required to certify non-use of Anthropic's models.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the dispute causing the Pentagon to halt contracts with Anthropic and other vendors, reflecting recession fears and potential impact on the company's operations."
+}

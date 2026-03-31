@@ -1,0 +1,65 @@
+{
+  "id": "9e584ef1bce2a80a95c8bc8392b340ee88c0551e",
+  "url": "https://www.pymnts.com/supply-chain/2026/trade-finance-faces-stress-test-as-global-risks-rise/",
+  "site": "pymnts.com",
+  "title": "Trade Finance Faces Stress Test as Global Risks Rise",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:50.914875",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-17\\9e584ef1bce2a80a95c8bc8392b340ee88c0551e.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-17\\9e584ef1bce2a80a95c8bc8392b340ee88c0551e.txt",
+  "word_count": 784,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4449f8cb295741d40a85ed9e4b6ae74ecf82323a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Trade finance faces stress due to geopolitical risks like the war in Iran affecting global trade patterns, particularly air and sea freight, leading to increased shipping rates and logistical challenges. Companies with digital trade infrastructure are better equipped to handle these disruptions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article describes negative market impacts due to increased logistical challenges and delays in trade finance caused by geopolitical risks, affecting both shipping and aviation corridors.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

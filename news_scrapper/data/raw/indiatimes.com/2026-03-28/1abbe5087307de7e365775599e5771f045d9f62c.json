@@ -1,0 +1,26 @@
+{
+  "id": "1abbe5087307de7e365775599e5771f045d9f62c",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots/articleshow/129839304.cms",
+  "site": "indiatimes.com",
+  "title": "AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:36.853521",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\1abbe5087307de7e365775599e5771f045d9f62c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\1abbe5087307de7e365775599e5771f045d9f62c.txt",
+  "word_count": 1250,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "a0690dae158dfab856ed3c60b4a86d1b59ad4ca1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

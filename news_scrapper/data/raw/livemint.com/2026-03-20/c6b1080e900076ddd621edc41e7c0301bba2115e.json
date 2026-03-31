@@ -1,0 +1,67 @@
+{
+  "id": "c6b1080e900076ddd621edc41e7c0301bba2115e",
+  "url": "https://www.livemint.com/companies/news/hsbc-layoffs-soon-wall-street-giant-may-slash-20-000-roles-amid-ai-led-overhaul-says-report-11773883152084.html",
+  "site": "livemint.com",
+  "title": "HSBC layoffs soon? Wall Street giant may slash 20,000 roles amid AI-led overhaul, says report | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:14.447651",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-20\\c6b1080e900076ddd621edc41e7c0301bba2115e.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-20\\c6b1080e900076ddd621edc41e7c0301bba2115e.txt",
+  "word_count": 549,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2ffb5426938ebec3efc2fe0ff99690b6aba4044d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "HSBC is considering significant layoffs, potentially affecting 20,000 roles due to AI integration, as part of a medium-term plan over the next three to five years.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses potential job cuts and the impact of AI on the workforce, which can cause negative sentiment due to fears of unemployment and economic uncertainty.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "70721217fe4a4dbe2d083fd15236725bd643df57",
+  "url": "https://www.pcmag.com/news/nvidia-debuts-an-ai-chip-for-space-based-data-centers-gtc-2026",
+  "site": "pcmag.com",
+  "title": "Nvidia Debuts an AI Chip for Space-Based Data Centers | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:53.369622",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-17\\70721217fe4a4dbe2d083fd15236725bd643df57.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-17\\70721217fe4a4dbe2d083fd15236725bd643df57.txt",
+  "word_count": 798,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "61a638e96f83ea42cb79ffb53e4719a3202d8f2b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia debuts space-resistant AI chip, Vera Rubin, for future orbiting data centers, amidst industry speculation and SpaceX's ambitious satellite project.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement reflects cautious optimism with underlying concerns about the current economics and technological challenges of space-based data centers.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fb1fb3758b8e7d316431d3e1dc33f42d23ab5b98",
+  "url": "https://www.thehindubusinessline.com/markets/stock-markets/coforge-ofss-persistent-systems-infosys-tcs-wipro-lead-it-stocks-rally-nifty-it-rises-over-4/article70756851.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Coforge, OFSS, Persistent Systems, Infosys, TCS, Wipro lead IT stocks rally, Nifty IT rises 4.5% over 30,000 mark - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:41.498993",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-19\\fb1fb3758b8e7d316431d3e1dc33f42d23ab5b98.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-19\\fb1fb3758b8e7d316431d3e1dc33f42d23ab5b98.txt",
+  "word_count": 414,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2f8b0154415a7d4deacae2e8605acd4c94daadba",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "IT stocks surged, with the Nifty IT index climbing 4.5% due to strong buying across companies, despite some sectors like retail and automobile facing softness. Discussions with companies suggest stable demand and resilient trends, with some delays in client decision-making due to uncertainties around new AI tools.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is experiencing a negative sentiment due to near-term uncertainties and increased scrutiny in AI-linked deals, despite overall strong deal pipelines and attractive valuations."
+}

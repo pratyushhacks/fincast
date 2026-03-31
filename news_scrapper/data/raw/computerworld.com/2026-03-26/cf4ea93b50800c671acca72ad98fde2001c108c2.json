@@ -1,0 +1,64 @@
+{
+  "id": "cf4ea93b50800c671acca72ad98fde2001c108c2",
+  "url": "https://www.computerworld.com/podcast/4150213/uk-ai-labels-handala-attack-europe-us-risk-ep-62.html",
+  "site": "computerworld.com",
+  "title": "UK AI Labels, Handala Attack, Europe US Risk | Ep. 62 – Computerworld",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:05.694890",
+  "language": null,
+  "html_path": "data\\raw\\computerworld.com\\2026-03-26\\cf4ea93b50800c671acca72ad98fde2001c108c2.html",
+  "text_path": "data\\raw\\computerworld.com\\2026-03-26\\cf4ea93b50800c671acca72ad98fde2001c108c2.txt",
+  "word_count": 142,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ac1c6d4074932d74b3226f08a53d8bef8720cbba",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "The US Cybersecurity and Infrastructure Security Agency issued a warning about potential compromises of enterprise systems using Microsoft Intune, a service reportedly targeted by Hondala. Additionally, a survey indicates widespread European fears of heavy reliance on American tech, with concerns over possible restrictions on digital services.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents negative market impact due to the cybersecurity warning and the fear of reliance on American tech, indicating potential risks and vulnerabilities in the market.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04
+      ],
+      "base_price": 365.97,
+      "next_price": 359.71,
+      "change_1d": -1.7105,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.16,
+      "change_1d": -1.1555,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

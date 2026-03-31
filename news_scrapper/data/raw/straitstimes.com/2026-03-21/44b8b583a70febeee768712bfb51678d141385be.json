@@ -1,0 +1,63 @@
+{
+  "id": "44b8b583a70febeee768712bfb51678d141385be",
+  "url": "https://www.straitstimes.com/world/middle-east/us-issues-30-day-sanctions-waiver-for-sale-of-iranian-oil-at-sea",
+  "site": "straitstimes.com",
+  "title": "US issues 30-day sanctions waiver for sale of Iranian oil at sea in bid to tame prices | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:28.817383",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-21\\44b8b583a70febeee768712bfb51678d141385be.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-21\\44b8b583a70febeee768712bfb51678d141385be.txt",
+  "word_count": 690,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "dcba19e2c4d1ac7a3f4b55f6a6beb67db3d0783c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "The Trump administration waived sanctions on Iranian oil imports to ease rising oil prices due to US-Israeli conflict, with potential global market impacts.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses sanctions waivers and geopolitical tensions that could negatively affect oil prices and market stability.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36
+      ],
+      "base_price": 121.43,
+      "next_price": 110.56,
+      "change_1d": -8.9517,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "b9afe12c24efe43076435ad53695cc56da03d202",
+  "url": "https://www.livemint.com/market/the-hottest-new-crypto-trade-is-24-7-oil-futures-11773474717529.html",
+  "site": "livemint.com",
+  "title": "The hottest new crypto trade is 24/7 oil futures | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:07:36.950498",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-14\\b9afe12c24efe43076435ad53695cc56da03d202.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-14\\b9afe12c24efe43076435ad53695cc56da03d202.txt",
+  "word_count": 73,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0379bb7e4f3815d604ddd1b255e714e3bad9aafe",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "trade war tariffs technology",
+  "gdelt_category": "macro",
+  "summary": "Crypto-inspired oil futures soar to $96 a barrel on a platform, offering extreme leverage and no expiration, unlike traditional oil futures.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a significant price jump in a new type of oil futures, which could indicate market volatility and potential risk due to the extreme leverage and unconventional nature of these futures.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

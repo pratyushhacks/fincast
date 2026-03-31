@@ -1,0 +1,46 @@
+{
+  "id": "87a0e42fe79af53f271b2ccb0e1caf8661504264",
+  "url": "https://www.livemint.com/news/india/petrol-diesel-prices-in-your-city-today-14-march-fuel-rates-in-bengaluru-mumbai-delhi-hyderabad-chennai-mor-11773451579165.html",
+  "site": "livemint.com",
+  "title": "Petrol, diesel prices in your city today — 14 March: Fuel rates in Bengaluru, Mumbai, Delhi amid Middle East conflict | Today News",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:01:12.203178",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-14\\87a0e42fe79af53f271b2ccb0e1caf8661504264.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-14\\87a0e42fe79af53f271b2ccb0e1caf8661504264.txt",
+  "word_count": 421,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "354fce685f1d1649324eb6d653f22fc4278c6f1d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "Indian fuel prices stable amid Middle East conflict, with state-level tax differences causing price variations across cities. Oil companies absorb volatility to avoid consumer price shocks, incurring losses due to global crude price increases and currency exchange rates.",
+  "sentiment": 2,
+  "sentiment_reason": "The stability in fuel prices and the absorption of volatility by oil companies to prevent consumer price shocks and inflation concerns reflect a negative market impact due to geopolitical tensions and their effect on crude oil prices and the forex stockpile.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

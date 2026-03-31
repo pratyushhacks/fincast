@@ -1,0 +1,65 @@
+{
+  "id": "c29ea6725e9c554da8a9bcd637f4290a41b93a2e",
+  "url": "https://www.kiplinger.com/retirement/estate-planning/business-exit-combined-estate-and-succession-planning",
+  "site": "kiplinger.com",
+  "title": "Why Business Owners Need Combined Estate and Succession Plans | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:09.302820",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-27\\c29ea6725e9c554da8a9bcd637f4290a41b93a2e.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-27\\c29ea6725e9c554da8a9bcd637f4290a41b93a2e.txt",
+  "word_count": 1032,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "dae9001bf5870d07ec91f53fd630b8a306cc2ce5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the importance of integrating estate planning with business succession for private business owners to maximize value, minimize taxes, and ensure a smooth transition. It emphasizes the need for a unified plan and the factors to consider when timing a business sale.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as it provides strategic advice on combining succession and estate planning to secure a business owner's legacy and financial well-being.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1
+      ],
+      "base_price": 43.13,
+      "next_price": 41.19,
+      "change_1d": -4.498,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

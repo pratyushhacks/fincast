@@ -1,0 +1,65 @@
+{
+  "id": "d4383a4c6d4a2024199a6628675a99baae41a2a0",
+  "url": "https://www.channelnewsasia.com/asia/malaysia-social-media-ban-teens-child-safety-big-tech-5991331",
+  "site": "channelnewsasia.com",
+  "title": "‘Be the one in control’: Why are more countries leaning towards banning social media access for kids - CNA",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:09.732707",
+  "language": null,
+  "html_path": "data\\raw\\channelnewsasia.com\\2026-03-17\\d4383a4c6d4a2024199a6628675a99baae41a2a0.html",
+  "text_path": "data\\raw\\channelnewsasia.com\\2026-03-17\\d4383a4c6d4a2024199a6628675a99baae41a2a0.txt",
+  "word_count": 420,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "83efd73d6ba62776a770ec3ab8e0eeca332f9298",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Regulators prioritize a precautionary approach to social media for teens, with countries leaning towards bans. Meta seeks to keep people safe online and calls for base-level age verification in app stores. Australia's ban on social media access for kids has unintended consequences and includes oversight.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses increasing regulatory actions and potential bans on social media for teens, reflecting negative market sentiment due to regulatory fears and potential impacts on tech companies.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "72d5088cc7a32eaad7062e9892514fc97164fc89",
+  "url": "https://www.digitaltrends.com/cars/your-android-auto-can-now-plan-ev-trips-with-ai-powered-charging-stops/",
+  "site": "digitaltrends.com",
+  "title": "Your Android Auto can now plan EV trips with AI-powered charging stops - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:13.221032",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\72d5088cc7a32eaad7062e9892514fc97164fc89.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\72d5088cc7a32eaad7062e9892514fc97164fc89.txt",
+  "word_count": 371,
+  "paywalled": false,
+  "dedup_hash": "36d0ab735dc9c44d6ade9616196a1c077d06e82c",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Google OR GOOGL)",
+  "summary": "Google Maps on Android Auto now uses AI to plan EV trips, suggesting charging stops and estimated battery levels without needing a live connection to the car. It covers over 350 models from 16 brands and uses live traffic data for predictions.",
+  "sentiment": 5,
+  "sentiment_reason": "This feature represents a major positive advancement for electric vehicle drivers, simplifying the process of locating charging stations and enhancing the overall driving experience.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92,
+        274.34
+      ],
+      "base_price": 273.5,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

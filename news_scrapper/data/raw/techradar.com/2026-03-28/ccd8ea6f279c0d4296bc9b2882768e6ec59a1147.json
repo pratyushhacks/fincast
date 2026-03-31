@@ -1,0 +1,63 @@
+{
+  "id": "ccd8ea6f279c0d4296bc9b2882768e6ec59a1147",
+  "url": "https://www.techradar.com/seasonal-sales/ive-spent-hours-shopping-amazons-big-spring-sale-here-are-25-deals-that-i-wouldnt-want-to-miss",
+  "site": "techradar.com",
+  "title": "I've spent hours shopping Amazon's Big Spring sale — here are 25 deals that I wouldn't want to miss | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:41.916247",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\ccd8ea6f279c0d4296bc9b2882768e6ec59a1147.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\ccd8ea6f279c0d4296bc9b2882768e6ec59a1147.txt",
+  "word_count": 225,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3204ddf77d3e2bf41cfee71b39bc23bab87c4ed5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon's Big Spring Sale offers significant discounts on a variety of products, including TVs, smart home devices, kitchen appliances, and vacuums, with some items available at record-low prices. Notable deals include over 50% off best-selling products and a $1,300 discount on a high-rated C5 OLED TV.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights major discounts and record-low prices on popular and high-value items, indicating a strongly positive market impact.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

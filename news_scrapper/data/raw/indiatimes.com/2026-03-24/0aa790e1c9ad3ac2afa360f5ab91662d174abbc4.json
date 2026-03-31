@@ -1,0 +1,24 @@
+{
+  "id": "0aa790e1c9ad3ac2afa360f5ab91662d174abbc4",
+  "url": "https://economictimes.indiatimes.com/tech/technology/onlyfans-owner-leonid-radvinsky-dies-of-cancer-at-43/articleshow/129754306.cms",
+  "site": "indiatimes.com",
+  "title": "OnlyFans owner Leonid Radvinsky dies of cancer at 43 - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:27.063514",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\0aa790e1c9ad3ac2afa360f5ab91662d174abbc4.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\0aa790e1c9ad3ac2afa360f5ab91662d174abbc4.txt",
+  "word_count": 117,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7654ebd0f36f49b12bc177b595ea33b2bf40c4ab",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "562d072c2458de2f738bd870083223efb5436bee",
+  "url": "https://www.livemint.com/market/commodities/gold-silver-rate-today-29-march-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11774759656660.html",
+  "site": "livemint.com",
+  "title": "Gold, silver rate today, 29 March: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:21.776893",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\562d072c2458de2f738bd870083223efb5436bee.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\562d072c2458de2f738bd870083223efb5436bee.txt",
+  "word_count": 581,
+  "paywalled": false,
+  "dedup_hash": "2fa9f82022c915283cf0069d57fd3c48340ebeda",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\"",
+  "summary": "Gold and silver prices in India remained flat due to geopolitical tensions, including the Israel-US-Iran conflict, and other factors such as US Treasury yields and a strong US Dollar. However, gold showed a recovery, while silver prices fell slightly.",
+  "sentiment": 2,
+  "sentiment_reason": "The neutral to slightly negative sentiment is due to the geopolitical tensions and volatile market factors affecting gold and silver prices, despite a solid recovery in gold prices.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11,
+        85.64
+      ],
+      "base_price": 86.78,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

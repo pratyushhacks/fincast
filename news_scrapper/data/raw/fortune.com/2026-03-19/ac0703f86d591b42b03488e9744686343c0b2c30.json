@@ -1,0 +1,67 @@
+{
+  "id": "ac0703f86d591b42b03488e9744686343c0b2c30",
+  "url": "https://fortune.com/2026/03/18/microsoft-satya-nadella-bet-big-openai-copilot-reshuffling-ai-deck/",
+  "site": "fortune.com",
+  "title": "Fortune Tech: Microsoft's AI re-shuffle, Amazon 1-hour delivery; Google intelligence | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:26.761284",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-19\\ac0703f86d591b42b03488e9744686343c0b2c30.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-19\\ac0703f86d591b42b03488e9744686343c0b2c30.txt",
+  "word_count": 831,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "101e8a561e4f1ef0858d8175d78d665f699325ef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Microsoft is restructuring its AI teams and focusing on in-house AI model development, while Amazon introduces a 1-hour delivery service in select U.S. locations for a fee.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses strategic business decisions and new services that may lead to customer confusion and potential cost implications.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87
+      ],
+      "base_price": 208.76,
+      "next_price": 205.37,
+      "change_1d": -1.6239,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

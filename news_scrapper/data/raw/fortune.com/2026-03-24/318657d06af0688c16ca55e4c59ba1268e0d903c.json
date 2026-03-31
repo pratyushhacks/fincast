@@ -1,0 +1,66 @@
+{
+  "id": "318657d06af0688c16ca55e4c59ba1268e0d903c",
+  "url": "https://fortune.com/2026/03/23/interloom-ai-agents-raises-16-million-venture-funding/",
+  "site": "fortune.com",
+  "title": "Exclusive: Interloom, a startup unlocking 'tacit knowledge' for AI agents, raises $16.5 million | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:05.739202",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-24\\318657d06af0688c16ca55e4c59ba1268e0d903c.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-24\\318657d06af0688c16ca55e4c59ba1268e0d903c.txt",
+  "word_count": 928,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "082abe1c705f245be7b915206fc14cb7ecdfdce0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Interloom, a startup, has secured a $16.5 million funding round to address the tacit knowledge challenge in AI automation, with its software already deployed in large European enterprises to improve operational knowledge mapping.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights a positive development in AI automation and business process improvement, focusing on a company's innovative approach to a significant challenge in the industry.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0
+      ],
+      "base_price": 372.74,
+      "next_price": 371.04,
+      "change_1d": -0.4561,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

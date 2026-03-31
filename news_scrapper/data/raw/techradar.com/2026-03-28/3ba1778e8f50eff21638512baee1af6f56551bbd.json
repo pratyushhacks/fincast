@@ -1,0 +1,65 @@
+{
+  "id": "3ba1778e8f50eff21638512baee1af6f56551bbd",
+  "url": "https://www.techradar.com/gaming/consoles-pc/theres-no-escaping-price-hikes-on-gaming-hardware-and-thats-why-its-time-to-make-a-move-for-a-new-handheld-now",
+  "site": "techradar.com",
+  "title": "There's no escaping price hikes on gaming hardware — and that's why it's time to make a move for a new handheld now | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:26.992928",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\3ba1778e8f50eff21638512baee1af6f56551bbd.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\3ba1778e8f50eff21638512baee1af6f56551bbd.txt",
+  "word_count": 461,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "d7a590a004db814e654d31cae7893f442f37c5b9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Sony's price hike on PS5 hardware amid the RAM crisis and economic state leads to significant price increases for gaming hardware, including handheld gaming PCs and consoles, with potential future affordability issues.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative impacts such as price hikes, economic concerns, and potential future affordability issues for gaming hardware.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

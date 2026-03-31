@@ -1,0 +1,28 @@
+{
+  "id": "b98074f725d7c22cde6f31f0ea2639f3e9995c20",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-leaves-some-private-share-buyers-unsure-what-they-own/articleshow/129815022.cms",
+  "site": "indiatimes.com",
+  "title": "SpaceX IPO leaves some private share buyers unsure what they own - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:14.220926",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\b98074f725d7c22cde6f31f0ea2639f3e9995c20.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\b98074f725d7c22cde6f31f0ea2639f3e9995c20.txt",
+  "word_count": 963,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "53dd2762e1172bf43ae1f5e149c6324ebc8bf3c2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

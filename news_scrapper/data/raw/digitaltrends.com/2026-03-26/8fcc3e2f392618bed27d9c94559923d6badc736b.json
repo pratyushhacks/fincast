@@ -1,0 +1,65 @@
+{
+  "id": "8fcc3e2f392618bed27d9c94559923d6badc736b",
+  "url": "https://www.digitaltrends.com/computing/i-miss-when-upgrading-your-gaming-pc-felt-exciting-instead-of-financially-stupid/",
+  "site": "digitaltrends.com",
+  "title": "I miss when upgrading your gaming PC felt exciting instead of financially stupid - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:27.094166",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-26\\8fcc3e2f392618bed27d9c94559923d6badc736b.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-26\\8fcc3e2f392618bed27d9c94559923d6badc736b.txt",
+  "word_count": 459,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2da38b71770aa40691b8b88c7a2af3f857ca3be4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Intel's expected CPU price hike, coupled with the booming demand for AI infrastructure, is causing a ripple effect in the PC gaming industry. This includes increased prices for RAM and storage, shortages, scalping, and timing traps, making PC gaming more expensive and less justifiable as a value play.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative impacts such as price hikes, shortages, and the overall difficulty and expense of upgrading PC gaming components, indicating a negative market impact.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.36,
+      "change_1d": -1.678,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.2,
+      "change_1d": -1.1485,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

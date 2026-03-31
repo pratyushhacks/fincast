@@ -1,0 +1,54 @@
+{
+  "id": "3229226b1bc9687b346286858538bcf02787695f",
+  "url": "https://www.businessinsider.com/gas-travel-price-impacts-of-iran-war-tsa-government-shutdown-2026-3",
+  "site": "businessinsider.com",
+  "title": "Prices Rise for Travel, Gas, Mortgages After a Month of War, Shutdown - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:48.295978",
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-31\\3229226b1bc9687b346286858538bcf02787695f.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-31\\3229226b1bc9687b346286858538bcf02787695f.txt",
+  "word_count": 603,
+  "paywalled": false,
+  "dedup_hash": "41a0de2a3b58ebb7d8136578dc8525ea3f6ed22d",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"US inflation\"",
+  "summary": "The onset of the Iran war has caused disruptions in prices, mortgage rates, and the overall economic outlook, leading to uncertainty in the US economy. Long security lines and the impact of the war are affecting travelers, airport staff, and the job market, with potential consequences for household wealth and consumer confidence.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a negative impact on the economy due to the Iran war, causing price hikes, increased mortgage rates, and a potential recession, which affects travel, job market, and household wealth.",
+  "price_changes": {
+    "\"US inflation\"": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

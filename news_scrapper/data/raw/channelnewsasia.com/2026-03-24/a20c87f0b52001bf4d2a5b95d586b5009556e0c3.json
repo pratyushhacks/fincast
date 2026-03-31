@@ -1,0 +1,63 @@
+{
+  "id": "a20c87f0b52001bf4d2a5b95d586b5009556e0c3",
+  "url": "https://www.channelnewsasia.com/singapore/electric-vehicles-differentiated-licence-plates-lta-scdf-6010931",
+  "site": "channelnewsasia.com",
+  "title": "LTA, SCDF to seek views on design of differentiated licence plates for EVs - CNA",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:25.303566",
+  "language": null,
+  "html_path": "data\\raw\\channelnewsasia.com\\2026-03-24\\a20c87f0b52001bf4d2a5b95d586b5009556e0c3.html",
+  "text_path": "data\\raw\\channelnewsasia.com\\2026-03-24\\a20c87f0b52001bf4d2a5b95d586b5009556e0c3.txt",
+  "word_count": 193,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c228fefc1d8a072f53a28a97c028517618a95068",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Authorized motor dealers and selected workshops will be engaged to seek views on differentiated EV licence plates in Singapore, where EVs now make up 7.4% of the car population. Feedback from EV and PHEV owners will be considered for the finalised design and implementation approach to be announced later.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about the engagement of stakeholders for a new licence plate design, without indicating any immediate market-relevant impact or crisis.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32,
+        29.32,
+        30.23
+      ],
+      "base_price": 30.43,
+      "next_price": 30.89,
+      "change_1d": 1.5117,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

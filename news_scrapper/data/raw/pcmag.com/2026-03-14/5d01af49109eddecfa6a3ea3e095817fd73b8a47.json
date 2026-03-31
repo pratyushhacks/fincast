@@ -1,0 +1,68 @@
+{
+  "id": "5d01af49109eddecfa6a3ea3e095817fd73b8a47",
+  "url": "https://www.pcmag.com/explainers/streaming-service-costs-price-hikes-complete-guide",
+  "site": "pcmag.com",
+  "title": "How Much?! The Complete Guide to Streaming Service Costs and Price Hikes | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:56:24.011477",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-14\\5d01af49109eddecfa6a3ea3e095817fd73b8a47.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-14\\5d01af49109eddecfa6a3ea3e095817fd73b8a47.txt",
+  "word_count": 3076,
+  "reading_time_minutes": 15,
+  "paywalled": false,
+  "dedup_hash": "a619946cbc279226229a8cb80ec3572a17937180",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA",
+    "Netflix",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Apple",
+  "gdelt_category": "company",
+  "summary": "Netflix and other streaming services face constant price hikes and plan adjustments, making it challenging to manage costs amidst a growing number of subscriptions, including ad-based tiers and bundles.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of continuous price increases and the complexity of managing multiple streaming subscriptions.",
+  "price_changes": {
+    "Apple": {
+      "ticker": "AAPL",
+      "trend": [
+        262.52,
+        260.29,
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76
+      ],
+      "base_price": 250.12,
+      "next_price": 252.82,
+      "change_1d": 1.0795,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

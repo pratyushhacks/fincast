@@ -1,0 +1,65 @@
+{
+  "id": "05aaa865e834605c862853cc6ace9a26479b829c",
+  "url": "https://www.businessinsider.com/tesla-spacex-terafab-hiring-elon-musk-chip-salaries-texas-california-2026-3",
+  "site": "businessinsider.com",
+  "title": "Tesla Is Hiring for Elon Musk's Terafab Chip Moonshot - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:55.609328",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-27\\05aaa865e834605c862853cc6ace9a26479b829c.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-27\\05aaa865e834605c862853cc6ace9a26479b829c.txt",
+  "word_count": 618,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "7800b17abfc9df11223c52662d00b4338fcc3584",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tesla and SpaceX are intensively recruiting for semiconductor roles for their Terafab project, aiming to build one of the world's largest chip manufacturing plants, amidst a global talent shortage and a significant industry demand for specialized knowledge.",
+  "sentiment": 4,
+  "sentiment_reason": "The recruitment drive and the ambition to innovate in chip manufacturing indicate a positive market impact, as it suggests growth and potential advancements in the semiconductor industry.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

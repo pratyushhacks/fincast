@@ -1,0 +1,18 @@
+{
+  "id": "2053b1fd46f9d34086e3c3415359368d3ce12109",
+  "url": "https://www.livemint.com/technology/tech-news/apple-readies-massive-siri-overhaul-for-ios-27-5-major-ai-upgrades-to-expect-at-wwdc-2026-11774835467941.html",
+  "site": "livemint.com",
+  "title": "Apple readies massive Siri overhaul for iOS 27: 5 major AI upgrades to expect at WWDC 2026 | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:47.264961",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\2053b1fd46f9d34086e3c3415359368d3ce12109.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\2053b1fd46f9d34086e3c3415359368d3ce12109.txt",
+  "word_count": 574,
+  "paywalled": false,
+  "dedup_hash": "a1aee2a5c0deabd5afc99ddbacb9833aec29edb4",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Apple is set to unveil a revamped Siri with enhanced AI capabilities, including a new standalone app, integrations with other chatbots, and access to personal data for tailored responses. The company had previously promised these features at WWDC 2024 but is now expected to reveal them at WWDC 2026.",
+  "sentiment": 4,
+  "sentiment_reason": "The upgrades to Siri are expected to be positive for the market, as they represent significant advancements in AI integration and personal assistant technology."
+}

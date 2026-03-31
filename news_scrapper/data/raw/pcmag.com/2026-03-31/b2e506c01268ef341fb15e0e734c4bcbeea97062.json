@@ -1,0 +1,54 @@
+{
+  "id": "b2e506c01268ef341fb15e0e734c4bcbeea97062",
+  "url": "https://www.pcmag.com/news/meta-ray-bans-aimed-at-prescription-users-could-launch-next-week",
+  "site": "pcmag.com",
+  "title": "Meta Ray-Bans Aimed at Prescription Users Could Launch Next Week | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:04.362445",
+  "html_path": "data\\raw\\pcmag.com\\2026-03-31\\b2e506c01268ef341fb15e0e734c4bcbeea97062.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-31\\b2e506c01268ef341fb15e0e734c4bcbeea97062.txt",
+  "word_count": 491,
+  "paywalled": false,
+  "dedup_hash": "d3d8367ca507f027cb2f4ab7d140e9f7207126e4",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta plans to launch two new Ray-Ban smart glasses models for prescription wearers, amidst strong demand for its eyewear. The company is expanding into vision correction, a market with billions of potential customers.",
+  "sentiment": 4,
+  "sentiment_reason": "The launch of new Ray-Ban smart glasses models is a positive development for Meta, indicating market expansion and strong consumer demand for their eyewear products.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

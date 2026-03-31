@@ -1,0 +1,64 @@
+{
+  "id": "825f2a33c1757e927d8f2bf7b06bb4e1b6c46f43",
+  "url": "https://www.thehindubusinessline.com/economy/india-has-25-years-to-escape-middle-income-trap-says-axis-bank-economist/article70761499.ece",
+  "site": "thehindubusinessline.com",
+  "title": "India has 25 years to escape middle-income trap, warns Axis Bank economist - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:34.625997",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\825f2a33c1757e927d8f2bf7b06bb4e1b6c46f43.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\825f2a33c1757e927d8f2bf7b06bb4e1b6c46f43.txt",
+  "word_count": 472,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ddcbd5c974511e18445f8b68e421481f2ceec12a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "India faces a critical 20-25 year window to avoid the middle-income trap due to declining fertility rates, with significant implications for its economic growth and global competitiveness in sectors like semiconductors and AI deployment.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents concerns about India's economic future, including the risk of the middle-income trap and the impact of declining fertility rates on growth, which indicates a negative sentiment.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        36.3,
+        35.59,
+        34.83,
+        35.39,
+        35.38,
+        34.85,
+        34.88
+      ],
+      "base_price": 33.6,
+      "next_price": 34.24,
+      "change_1d": 1.9048,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

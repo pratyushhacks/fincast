@@ -1,0 +1,65 @@
+{
+  "id": "7c1c4561043473e7fee23765db6978836c31665d",
+  "url": "https://www.benzinga.com/insights/movers/26/03/51276820/12-consumer-discretionary-stocks-moving-in-mondays-intraday-session",
+  "site": "benzinga.com",
+  "title": "12 Consumer Discretionary Stocks Moving In Monday's Intraday Session - a.k.a. Brands Holding (NYSE:AKA), Faraday Future (NASDAQ:FFAI)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:19.472898",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\7c1c4561043473e7fee23765db6978836c31665d.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\7c1c4561043473e7fee23765db6978836c31665d.txt",
+  "word_count": 51,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "55ad01b1cb122cf5672860d062ed901886a366f1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "12 consumer discretionary stocks, including AKA and FF",
+  "sentiment": 2,
+  "sentiment_reason": "The article title suggests a focus on stock movements without clear indication of negative or positive market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

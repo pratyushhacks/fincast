@@ -1,0 +1,24 @@
+{
+  "id": "22b24d810121ea2c71f9670d157d413995148b01",
+  "url": "https://economictimes.indiatimes.com/news/india/mandi-himachal-pradesh-landslide-nine-homes-evacuated-as-boulders-threaten-village/articleshow/129736867.cms",
+  "site": "indiatimes.com",
+  "title": "Mandi Himachal Pradesh landslide: Nine homes evacuated as boulders threaten village - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:09.853176",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\22b24d810121ea2c71f9670d157d413995148b01.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\22b24d810121ea2c71f9670d157d413995148b01.txt",
+  "word_count": 287,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fa5fc885588f58992040ae4b07dbd89575e86082",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

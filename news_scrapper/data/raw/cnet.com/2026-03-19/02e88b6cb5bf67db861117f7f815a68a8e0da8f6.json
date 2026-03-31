@@ -1,0 +1,65 @@
+{
+  "id": "02e88b6cb5bf67db861117f7f815a68a8e0da8f6",
+  "url": "https://www.cnet.com/tech/mobile/garmin-smartwatch-users-can-now-make-calls-and-send-texts-through-whatsapp/",
+  "site": "cnet.com",
+  "title": "Garmin Smartwatch Users Can Now Make Calls and Send Texts Through WhatsApp - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:16.440146",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-19\\02e88b6cb5bf67db861117f7f815a68a8e0da8f6.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-19\\02e88b6cb5bf67db861117f7f815a68a8e0da8f6.txt",
+  "word_count": 206,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7ee75c5dee61d071ce3e85309da7934260b03c0e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Garmin has integrated WhatsApp into its select smartwatches, allowing users to send texts and make calls. This feature is exclusive to Garmin smartwatches through the Meta-owned app.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the article focusing on the addition of a third-party app to smartwatches, which could imply increased complexity or potential distractions for users.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

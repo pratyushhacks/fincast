@@ -1,0 +1,64 @@
+{
+  "id": "52046f804873c94f3720440f7af6ed68ab38f9bc",
+  "url": "https://www.livemint.com/global/the-fed-s-most-awkward-leadership-transition-is-coming-11774228255692.html",
+  "site": "livemint.com",
+  "title": "The Fed’s most awkward leadership transition is coming | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:26.660657",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\52046f804873c94f3720440f7af6ed68ab38f9bc.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\52046f804873c94f3720440f7af6ed68ab38f9bc.txt",
+  "word_count": 73,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6815e57ba8c3a19e150ddc9459c36786381929ab",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Warsh promised a significant shift from his predecessor, a departure from the norm among recent Fed leaders who typically pledged continuity. This unusual handover is further complicated by existing issues.",
+  "sentiment": 2,
+  "sentiment_reason": "The mention of a 'sharp break' and the unusual nature of the handover, without explicit positive or negative outcomes, suggests a negative sentiment due to the uncertainty and potential for disruption in the markets.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

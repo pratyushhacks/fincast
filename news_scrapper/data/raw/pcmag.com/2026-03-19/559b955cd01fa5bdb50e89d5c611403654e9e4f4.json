@@ -1,0 +1,27 @@
+{
+  "id": "559b955cd01fa5bdb50e89d5c611403654e9e4f4",
+  "url": "https://www.pcmag.com/explainers/can-you-spot-ai-writing-look-for-these-7-dead-giveaways",
+  "site": "pcmag.com",
+  "title": "Can You Spot AI Writing? Look for These 7 Dead Giveaways | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:42.196498",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-19\\559b955cd01fa5bdb50e89d5c611403654e9e4f4.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-19\\559b955cd01fa5bdb50e89d5c611403654e9e4f4.txt",
+  "word_count": 1424,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "9e25df21313dc1edaa595484d08cb83f5c9000a0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "The article discusses how to identify AI-generated text through specific tell-tale signs such as unnecessary encouragement, perfect grammar, and overuse of em dashes. It also contrasts these with human writing nuances and AI's tendency to avoid grammatical errors unless prompted otherwise.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights the subtle signs of AI text generation which can be seen as negative due to the implications of inauthenticity and over-optimism in responses, but it's not directly tied to financial markets or economic events."
+}

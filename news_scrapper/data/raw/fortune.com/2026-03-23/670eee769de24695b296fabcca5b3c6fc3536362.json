@@ -1,0 +1,63 @@
+{
+  "id": "670eee769de24695b296fabcca5b3c6fc3536362",
+  "url": "https://fortune.com/2026/03/22/gasoline-prices-offsetting-trump-one-big-beautiful-bill-act-tax-refund/",
+  "site": "fortune.com",
+  "title": "Higher gasoline prices this year could wipe out tax refunds from Trump's One Big Beautiful Bill Act | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:28.915613",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-23\\670eee769de24695b296fabcca5b3c6fc3536362.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-23\\670eee769de24695b296fabcca5b3c6fc3536362.txt",
+  "word_count": 692,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "5f81ad91dcc6aa71852c622bd38da7597100c4a4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Ongoing conflict in Iran and the closure of the Strait of Hormuz have led to surging gas prices, impacting lower- and middle-income consumers the most. Projections suggest these elevated prices will persist into 2027, with potential long-term effects on the economy.",
+  "sentiment": 1,
+  "sentiment_reason": "The article discusses the negative impact of the war in Iran on gas prices, the financial strain on consumers, and the potential for long-term economic consequences, all of which are strongly negative.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36,
+        121.43
+      ],
+      "base_price": 110.56,
+      "next_price": 114.54,
+      "change_1d": 3.5999,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

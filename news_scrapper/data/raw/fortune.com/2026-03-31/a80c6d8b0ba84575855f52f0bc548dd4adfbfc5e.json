@@ -1,0 +1,54 @@
+{
+  "id": "a80c6d8b0ba84575855f52f0bc548dd4adfbfc5e",
+  "url": "https://fortune.com/2026/03/28/housing-market-buyers-vs-sellers-mismatch-home-prices-mortgage-rates-iran-war/",
+  "site": "fortune.com",
+  "title": "There are now nearly 50% more home sellers than buyers as mismatch widens to a record 630,000 | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:19.838969",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\a80c6d8b0ba84575855f52f0bc548dd4adfbfc5e.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\a80c6d8b0ba84575855f52f0bc548dd4adfbfc5e.txt",
+  "word_count": 560,
+  "paywalled": false,
+  "dedup_hash": "2ddc37909f9f0b83d217e794876b99e72f4934ca",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\"",
+  "summary": "Home buyers have a significant advantage in the current housing market due to a large gap between sellers and buyers, with the highest disparity in recent records. This imbalance is exacerbated by high home prices and economic uncertainty, including the impact of the Iran war and rising Treasury yields.",
+  "sentiment": 1,
+  "sentiment_reason": "The market is strongly negative due to the overwhelming seller's market, high home prices, economic uncertainty, and record cancellations, all of which contribute to a challenging environment for potential buyers.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11,
+        85.64
+      ],
+      "base_price": 86.78,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

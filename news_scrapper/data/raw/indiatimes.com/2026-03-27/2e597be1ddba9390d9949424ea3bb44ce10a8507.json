@@ -1,0 +1,25 @@
+{
+  "id": "2e597be1ddba9390d9949424ea3bb44ce10a8507",
+  "url": "https://economictimes.indiatimes.com/news/international/us/mortgage-rates-today-why-are-they-rising-right-now-30-year-mortgage-rates-increase-to-6-49-when-will-rates-fall/articleshow/129825386.cms",
+  "site": "indiatimes.com",
+  "title": "Today's mortgage and refinance rates March 26 2026: Mortgage rates today: Why are they rising right now? 30-Year mortgage rates increase to 6.49%: When will rates fall? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:27.212220",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\2e597be1ddba9390d9949424ea3bb44ce10a8507.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\2e597be1ddba9390d9949424ea3bb44ce10a8507.txt",
+  "word_count": 1032,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "38b6ffbe1d254eb31eafc1a2261f3b8a2eabc235",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

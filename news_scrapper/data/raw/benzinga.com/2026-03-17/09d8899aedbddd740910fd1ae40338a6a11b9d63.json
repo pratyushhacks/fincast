@@ -1,0 +1,65 @@
+{
+  "id": "09d8899aedbddd740910fd1ae40338a6a11b9d63",
+  "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51282565/byd-beat-tesla-in-2025-could-acquisitions-help-further-global-dominance",
+  "site": "benzinga.com",
+  "title": "BYD Beat Tesla In 2025: Could M&A Boost Global Dominance? - BYD (OTC:BYDDF), BYD (OTC:BYDDY), Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:11.784734",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\09d8899aedbddd740910fd1ae40338a6a11b9d63.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\09d8899aedbddd740910fd1ae40338a6a11b9d63.txt",
+  "word_count": 356,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c40fe37607b78c5e8fe02d31915157ef44c215af",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "BYD surpassed Tesla for EV deliveries in 2025 and targets Canada for expansion, considering acquisitions over joint ventures, amidst a complicated U.S. market with high tariffs and tech restrictions, while facing challenges in China.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative sentiment due to the challenges BYD faces in the U.S. market with high tariffs and tech restrictions, despite its success in surpassing Tesla and potential growth in Canada.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56
+      ],
+      "base_price": 399.27,
+      "next_price": 392.78,
+      "change_1d": -1.6255,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

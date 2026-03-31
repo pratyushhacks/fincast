@@ -1,0 +1,24 @@
+{
+  "id": "8e069027e8da1353e4dda05d9cef968b187506ef",
+  "url": "https://auto.economictimes.indiatimes.com/news/two-wheelers/ola-electric-expands-insiders-upgrade-program-to-150-cities-boosting-customer-benefits/129803376",
+  "site": "indiatimes.com",
+  "title": "Ola Electric Expansion: Ola Electric Expands Insiders Upgrade Program to 150 Cities, Boosting Customer Benefits, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:55.431366",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\8e069027e8da1353e4dda05d9cef968b187506ef.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\8e069027e8da1353e4dda05d9cef968b187506ef.txt",
+  "word_count": 343,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "bd3757d58692d1548808a37830ccaa16e5629e57",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

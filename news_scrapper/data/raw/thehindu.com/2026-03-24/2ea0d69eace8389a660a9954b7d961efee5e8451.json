@@ -1,0 +1,64 @@
+{
+  "id": "2ea0d69eace8389a660a9954b7d961efee5e8451",
+  "url": "https://www.thehindu.com/news/national/telangana/telangana-joins-vahan-platform-scraps-2-tax-on-second-vehicle/article70774867.ece",
+  "site": "thehindu.com",
+  "title": "Telangana joins ‘Vahan’ platform, scraps 2% tax on second vehicle - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:25.708485",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-24\\2ea0d69eace8389a660a9954b7d961efee5e8451.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-24\\2ea0d69eace8389a660a9954b7d961efee5e8451.txt",
+  "word_count": 310,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "27105c4eb78f9e9f8ae39e62cb48e72c052e7ed4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Telangana's Transport Minister inaugurated the 'Vahan' portal, integrating the state into the national vehicle database system for improved transparency and service delivery. Additionally, the abolition of the 2% lifetime tax on vehicles and the adoption of modern technology for efficient data management were announced.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive developments such as the integration into the national vehicle database system, abolition of the additional tax, and policy measures for electric mobility, which are likely to have a positive impact on the market.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32,
+        29.32,
+        30.23
+      ],
+      "base_price": 30.43,
+      "next_price": 30.89,
+      "change_1d": 1.5117,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

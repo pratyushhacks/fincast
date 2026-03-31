@@ -1,0 +1,64 @@
+{
+  "id": "0150f2e673b26da0eca632c9c8ea705e6c90f348",
+  "url": "https://www.benzinga.com/markets/private-markets/26/03/51420579/apollo-bain-compete-for-control-of-continental-industries",
+  "site": "benzinga.com",
+  "title": "Apollo, Bain Compete For Control Of Continental Industries",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:34.848895",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\0150f2e673b26da0eca632c9c8ea705e6c90f348.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\0150f2e673b26da0eca632c9c8ea705e6c90f348.txt",
+  "word_count": 325,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "18a71251adb5e8c3791610c40688a30f78a1ca56",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Private equity firms are considering purchasing Continental AG's industrial unit, ContiTech, amidst a sector sell-off and market concerns over AI's impact on SaaS and data provider stocks. Continental is also undergoing a transformation and expects higher earnings in 2026.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of neutral information regarding the ongoing discussions of the potential purchase and Continental's transformation, along with negative market sentiment due to the sector sell-off and AI concerns.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        34.83,
+        35.39,
+        35.38,
+        34.85,
+        34.88,
+        33.6,
+        34.24
+      ],
+      "base_price": 33.82,
+      "next_price": 34.38,
+      "change_1d": 1.6558,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

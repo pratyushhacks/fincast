@@ -1,0 +1,65 @@
+{
+  "id": "fa51bdc79400fd784bee8ece5ec06c24d38cb99c",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51502224/turboquant-panic-why-market-is-wrong-about-googles-newest-ai-breakthrough",
+  "site": "benzinga.com",
+  "title": "TurboQuant Panic: Why Market Is Wrong About Google's Newest AI Breakthrough - Alphabet (NASDAQ:GOOG), Alphabet (NASDAQ:GOOGL)",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:45.868600",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-28\\fa51bdc79400fd784bee8ece5ec06c24d38cb99c.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-28\\fa51bdc79400fd784bee8ece5ec06c24d38cb99c.txt",
+  "word_count": 539,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f712c412311b5c5c6a903645106743c5600a3914",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google's TurboQuant technology reduces memory usage by 6x, causing a sell-off fear due to potential impact on memory hardware demand. However, analysts argue it could expand AI market and drive higher demand by making AI more accessible.",
+  "sentiment": 2,
+  "sentiment_reason": "The market reaction is negative due to fears of reduced demand for memory hardware, despite analysts' optimism about long-term AI market expansion.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

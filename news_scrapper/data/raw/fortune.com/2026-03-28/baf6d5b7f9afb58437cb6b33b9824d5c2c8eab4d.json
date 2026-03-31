@@ -1,0 +1,68 @@
+{
+  "id": "baf6d5b7f9afb58437cb6b33b9824d5c2c8eab4d",
+  "url": "https://fortune.com/2026/03/27/apple-cofounder-steve-wozniak-ai-use-analog-apple-50-years/",
+  "site": "fortune.com",
+  "title": "Apple cofounder Steve Wozniak admits he’s ‘disappointed a lot’ by AI and hardly uses it | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:40.729602",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-28\\baf6d5b7f9afb58437cb6b33b9824d5c2c8eab4d.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-28\\baf6d5b7f9afb58437cb6b33b9824d5c2c8eab4d.txt",
+  "word_count": 661,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "cd1d77fa2bc2c09b3ed6cdc501591c5459cf1614",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Steve Wozniak, co-founder of Apple, expresses disconnection from technology and skepticism towards AI, advocating for nature over human-made tech. Other tech leaders also set boundaries on screen time for children, amidst growing AI use in workplaces.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to Wozniak's disconnection from technology and skepticism towards AI, as well as the discussion on limiting screen time for children, which implies a concern over the overuse of technology.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

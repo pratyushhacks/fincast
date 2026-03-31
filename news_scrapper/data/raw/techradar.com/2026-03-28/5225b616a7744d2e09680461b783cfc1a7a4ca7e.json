@@ -1,0 +1,65 @@
+{
+  "id": "5225b616a7744d2e09680461b783cfc1a7a4ca7e",
+  "url": "https://www.techradar.com/computing/apple-fans-declare-the-end-of-an-era-as-the-mac-pro-is-discontinued-with-its-usd700-accessory-dubbed-the-worst-apple-product-ever",
+  "site": "techradar.com",
+  "title": "Apple fans declare the ‘end of an era’ as the Mac Pro is discontinued — with its $700 accessory dubbed the ‘worst’ Apple product ever | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:29.957748",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\5225b616a7744d2e09680461b783cfc1a7a4ca7e.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\5225b616a7744d2e09680461b783cfc1a7a4ca7e.txt",
+  "word_count": 662,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "3d050535185ad25b0b2c9dc9e4ff3a7f440f0181",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple has discontinued the Mac Pro, a high-end desktop model criticized for its price and accessories, particularly the $700 wheels.",
+  "sentiment": 1,
+  "sentiment_reason": "The discontinuation of the Mac Pro, a product with a high price point and negative public sentiment due to its accessories, reflects a strong negative market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "c92d8d9bdb9c3b23e565606008b991e32b559ea4",
+  "url": "https://www.livemint.com/market/stock-market-news/crude-oil-prices-spike-over-5-as-conflicting-us-iran-signals-cloud-ceasefire-prospects-11774543330917.html",
+  "site": "livemint.com",
+  "title": "Crude oil prices spike over 5% as conflicting US-Iran signals cloud ceasefire prospects | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:23.853205",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-27\\c92d8d9bdb9c3b23e565606008b991e32b559ea4.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-27\\c92d8d9bdb9c3b23e565606008b991e32b559ea4.txt",
+  "word_count": 417,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "5468c8cb00d45bda447abebbacf4f7af118fc766",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Crude oil prices surged due to escalating geopolitical tensions and the ongoing conflict, with significant disruptions in the Strait of Hormuz affecting global oil flows. Central banks are reacting cautiously to the rising prices and inflation forecasts.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as rising oil prices due to conflict and supply disruptions, along with central banks' cautious stance due to inflation concerns.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34,
+        49.05
+      ],
+      "base_price": 47.81,
+      "next_price": 48.36,
+      "change_1d": 1.1504,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

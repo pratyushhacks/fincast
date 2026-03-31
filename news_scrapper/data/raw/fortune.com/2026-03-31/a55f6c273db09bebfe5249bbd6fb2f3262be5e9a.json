@@ -1,0 +1,54 @@
+{
+  "id": "a55f6c273db09bebfe5249bbd6fb2f3262be5e9a",
+  "url": "https://fortune.com/2026/03/30/the-humbling-big-tech-magnificent-seven/",
+  "site": "fortune.com",
+  "title": "Fortune Tech: Mag 7's correction, Musk's Baltimore problem, Anthropic model spooks cyber | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:39.800281",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\a55f6c273db09bebfe5249bbd6fb2f3262be5e9a.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\a55f6c273db09bebfe5249bbd6fb2f3262be5e9a.txt",
+  "word_count": 991,
+  "paywalled": false,
+  "dedup_hash": "7a611de87a7daca96d8bd4c01dfd92af57577d46",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "The AI-focused tech stocks, known as the Magnificent Seven, are experiencing significant losses, with Microsoft leading the decline amidst controversies and the impact of the war in Iran. The sector's downturn marks a reversal from previous years of growth.",
+  "sentiment": 1,
+  "sentiment_reason": "The market impact is strongly negative due to the sharp decline in tech stocks, controversies surrounding major companies, and geopolitical tensions exacerbating the situation.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

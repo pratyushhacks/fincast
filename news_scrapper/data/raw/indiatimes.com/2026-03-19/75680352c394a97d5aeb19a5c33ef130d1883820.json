@@ -1,0 +1,25 @@
+{
+  "id": "75680352c394a97d5aeb19a5c33ef130d1883820",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-holds-rates-over-uncertain-war-impact/articleshow/129668398.cms",
+  "site": "indiatimes.com",
+  "title": "US Stock Market: Fed holds rates over 'uncertain' war impact - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:46:00.925613",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\75680352c394a97d5aeb19a5c33ef130d1883820.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\75680352c394a97d5aeb19a5c33ef130d1883820.txt",
+  "word_count": 214,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "abfafb6d79fa5f33ed90ed65da68233ab98502dd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

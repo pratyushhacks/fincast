@@ -1,0 +1,54 @@
+{
+  "id": "862f2a9f3f89b86986dd99c97d9bd380128216dc",
+  "url": "https://www.thehindu.com/sci-tech/technology/metas-longtime-content-policy-chief-monika-bickert-leaving-to-teach-at-harvard/article70801635.ece",
+  "site": "thehindu.com",
+  "title": "Meta's longtime content policy chief Monika Bickert leaving to teach at Harvard - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:03.114396",
+  "html_path": "data\\raw\\thehindu.com\\2026-03-31\\862f2a9f3f89b86986dd99c97d9bd380128216dc.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-31\\862f2a9f3f89b86986dd99c97d9bd380128216dc.txt",
+  "word_count": 208,
+  "paywalled": false,
+  "dedup_hash": "a5bd3c5fc5b9b0a4504f892c96e23366019846aa",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Monika Bickert, Facebook's long-time content policy chief, is leaving for a teaching position at Harvard Law School. Her role included overseeing content policies and addressing controversies related to user safety and political content.",
+  "sentiment": 2,
+  "sentiment_reason": "The departure of a key figure in content policy management and the ongoing controversies surrounding Facebook's handling of sensitive issues contribute to a negative sentiment due to potential impacts on the company's reputation and policy enforcement.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

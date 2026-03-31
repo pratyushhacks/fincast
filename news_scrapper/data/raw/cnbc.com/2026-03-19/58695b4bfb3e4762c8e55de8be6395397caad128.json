@@ -1,0 +1,29 @@
+{
+  "id": "58695b4bfb3e4762c8e55de8be6395397caad128",
+  "url": "https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html",
+  "site": "cnbc.com",
+  "title": "China AI: Zhipu, Minimax after Nvidia Jensen Huang OpenClaw comments",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:42.003286",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-19\\58695b4bfb3e4762c8e55de8be6395397caad128.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-19\\58695b4bfb3e4762c8e55de8be6395397caad128.txt",
+  "word_count": 326,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1a6c9cb303442954143f55c3ccc9388977ac4ddb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Chinese AI stocks surged after Nvidia CEO Jensen Huang's comments on AI potential, with companies like MiniMax and Zhipu seeing significant gains. Huang's remarks on OpenClaw's transformative role and the expected AI market growth in China also positively influenced tech stocks in Asia.",
+  "sentiment": 4,
+  "sentiment_reason": "The positive market sentiment is driven by optimistic comments on AI's future and the anticipated growth in the AI market, as reflected by the surge in Chinese AI stocks and gains in other tech stocks."
+}

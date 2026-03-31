@@ -1,0 +1,54 @@
+{
+  "id": "bdc0d0298b213541d95644dac07f810c234a933d",
+  "url": "https://www.insidermonkey.com/blog/hedge-fund-and-insider-trading-news-bill-ackman-kerr-neilson-warren-buffett-guardian-capital-millennium-management-tudor-investment-corp-saba-capital-management-iperionx-ltd-ipx-and-more-1727896/",
+  "site": "insidermonkey.com",
+  "title": "Hedge Fund and Insider Trading News: Bill Ackman, Kerr Neilson, Warren Buffett, Guardian Capital, Millennium Management, Tudor Investment Corp, Saba Capital Management, Iperionx Ltd (IPX), and More - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:07.231476",
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-31\\bdc0d0298b213541d95644dac07f810c234a933d.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-31\\bdc0d0298b213541d95644dac07f810c234a933d.txt",
+  "word_count": 828,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "summary": "Amazon's CEO highlights generative AI as a transformative technology, while billionaires invest in AI for major societal impacts. An under-valued company is pivotal to this AI revolution, according to insiders.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents a strongly positive outlook on the impact of generative AI and the investments made by major figures in the tech industry, indicating a significant market opportunity and transformative potential.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24,
+        167.52
+      ],
+      "base_price": 165.17,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

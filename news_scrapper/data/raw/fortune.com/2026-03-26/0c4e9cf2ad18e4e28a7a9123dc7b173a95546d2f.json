@@ -1,0 +1,67 @@
+{
+  "id": "0c4e9cf2ad18e4e28a7a9123dc7b173a95546d2f",
+  "url": "https://fortune.com/2026/03/25/trump-appoints-zuckerberg-huang-ellison-for-tech-advisory-council-but-excludes-elon-musk-sam-altman/",
+  "site": "fortune.com",
+  "title": "Trump appoints Zuckerberg, Huang, Ellison to tech council; Musk and Altman excluded | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:16.240273",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-26\\0c4e9cf2ad18e4e28a7a9123dc7b173a95546d2f.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-26\\0c4e9cf2ad18e4e28a7a9123dc7b173a95546d2f.txt",
+  "word_count": 429,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "24d70a8197cbb0d83aa677295412f23194074ce0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "President Trump is forming a White House advisory council with tech leaders like Mark Zuckerberg and Jensen Huang to guide U.S. policy on AI and other technologies. The council aims to ensure American leadership in science and technology amid global competition.",
+  "sentiment": 4,
+  "sentiment_reason": "The establishment of the advisory council with prominent tech leaders and the focus on maintaining technological dominance are positive indicators for the tech industry and U.S. leadership in innovation.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.21,
+      "change_1d": -1.8543,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.17,
+      "change_1d": -1.1537,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

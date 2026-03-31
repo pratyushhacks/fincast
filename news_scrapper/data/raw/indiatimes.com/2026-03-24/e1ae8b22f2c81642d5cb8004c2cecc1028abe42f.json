@@ -1,0 +1,24 @@
+{
+  "id": "e1ae8b22f2c81642d5cb8004c2cecc1028abe42f",
+  "url": "https://economictimes.indiatimes.com/us/entertainment/jujutsu-kaisen-season-3-unveils-new-voice-cast-in-latest-trailer-ahead-of-march-26-finale/articleshow/129745736.cms",
+  "site": "indiatimes.com",
+  "title": "Jujutsu Kaisen Season 3 unveils new voice cast in latest trailer ahead of March 26 finale - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:16.565927",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\e1ae8b22f2c81642d5cb8004c2cecc1028abe42f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\e1ae8b22f2c81642d5cb8004c2cecc1028abe42f.txt",
+  "word_count": 201,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e91c2d709a8c790a6cd7d8c7df94259164146fa5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

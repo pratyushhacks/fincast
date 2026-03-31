@@ -1,0 +1,63 @@
+{
+  "id": "f519dd1c471266883f44d8e578169113c514f644",
+  "url": "https://gizmodo.com/amazon-smart-plug-is-practically-a-giveaway-after-the-spring-sale-discount-an-easy-entry-into-an-alexa-smart-home-2000738440",
+  "site": "gizmodo.com",
+  "title": "This Amazon Smart Plug Deal in the Spring Sale Makes Alexa Smart Home Setup Almost Too Easy and Cheap",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:42.773710",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-28\\f519dd1c471266883f44d8e578169113c514f644.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-28\\f519dd1c471266883f44d8e578169113c514f644.txt",
+  "word_count": 413,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "479694a0debafc16772f2aefd91b19bac0daaee3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The article highlights the benefits and affordability of the Amazon Smart Plug, especially during the Amazon Big Spring Sale where it's available for $20 with a 20% discount. It emphasizes the plug's compatibility with Alexa, its convenience, and its ability to turn non-smart devices into smart ones.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the focus on the smart plug's utility, affordability, and the convenience it offers for upgrading to smart home devices.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "26147e1325f14c626a2a72d060603b68d79cd6c0",
+  "url": "https://auto.economictimes.indiatimes.com/news/auto-components/supplier-zf-gives-downbeat-revenue-outlook-over-weak-commercial-vehicle-sector/129694827",
+  "site": "indiatimes.com",
+  "title": "Supplier ZF gives downbeat revenue outlook over weak commercial vehicle sector, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:19.492969",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\26147e1325f14c626a2a72d060603b68d79cd6c0.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\26147e1325f14c626a2a72d060603b68d79cd6c0.txt",
+  "word_count": 258,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "bdc0b0c3f41103901318a8d404ad16b168a22972",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

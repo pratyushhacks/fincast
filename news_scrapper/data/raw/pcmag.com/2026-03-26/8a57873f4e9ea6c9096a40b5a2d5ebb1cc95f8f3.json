@@ -1,0 +1,65 @@
+{
+  "id": "8a57873f4e9ea6c9096a40b5a2d5ebb1cc95f8f3",
+  "url": "https://www.pcmag.com/picks/windows-vs-macos-vs-chrome-os-vs-linux-ultimate-operating-system-showdown",
+  "site": "pcmag.com",
+  "title": "The Ultimate OS Showdown: Windows vs. macOS vs. Linux vs. ChromeOS | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:04.333286",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-26\\8a57873f4e9ea6c9096a40b5a2d5ebb1cc95f8f3.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-26\\8a57873f4e9ea6c9096a40b5a2d5ebb1cc95f8f3.txt",
+  "word_count": 2396,
+  "reading_time_minutes": 11,
+  "paywalled": false,
+  "dedup_hash": "7e4078794a9840f48932704becf0b817211f3863",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Windows 11, the latest operating system, offers enhanced security, improved HDR display support, and new AI features like Copilot, which is integrated more prominently than in previous versions. It also includes new tools for video editing and sound recording, and aims to continuously deliver new features throughout the year.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the positive aspects of Windows 11, such as new features, improved security, and AI capabilities, which are generally seen as advancements and improvements in the market.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04
+      ],
+      "base_price": 365.97,
+      "next_price": 360.07,
+      "change_1d": -1.6122,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.52,
+      "change_1d": -1.0927,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "e369db536ef236502c87bd5575b575dbc6ddfb72",
+  "url": "https://www.digitaltrends.com/computing/hp-refreshes-elitebook-lineup-and-introduces-new-ai-workstations/",
+  "site": "digitaltrends.com",
+  "title": "HP refreshes EliteBook lineup and introduces new AI workstations - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:32.670207",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-26\\e369db536ef236502c87bd5575b575dbc6ddfb72.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-26\\e369db536ef236502c87bd5575b575dbc6ddfb72.txt",
+  "word_count": 344,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2c1302da58aa39a01d4750ebff543f69af975545",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "HP unveiled a new lineup of EliteBook laptops and Z-series workstations, focusing on AI capabilities for local workloads, hybrid work, and enterprise-grade security. The company aims to make AI a core part of everyday computing with these devices.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the positive impact of HP's new AI-focused devices, such as the EliteBook 6 G2q's powerful NPU performance and the ZBook workstations' flexibility and security features, indicating a strong market-positive sentiment.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.37,
+      "change_1d": -1.6553,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.19,
+      "change_1d": -1.1502,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

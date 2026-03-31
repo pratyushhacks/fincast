@@ -1,0 +1,54 @@
+{
+  "id": "4a992f4ad5fbc115ff3dc5ab18c35466528ebb22",
+  "url": "https://www.forbes.com/sites/lanceeliot/2026/03/29/honesty-versus-trickery-when-it-comes-to-swaying-public-opinion-about-ai-and-the-future-of-humanity/",
+  "site": "forbes.com",
+  "title": "Honesty Versus Trickery When It Comes To Swaying Public Opinion About AI And The Future Of Humanity",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:35.720202",
+  "html_path": "data\\raw\\forbes.com\\2026-03-31\\4a992f4ad5fbc115ff3dc5ab18c35466528ebb22.html",
+  "text_path": "data\\raw\\forbes.com\\2026-03-31\\4a992f4ad5fbc115ff3dc5ab18c35466528ebb22.txt",
+  "word_count": 3448,
+  "paywalled": false,
+  "dedup_hash": "40709f86833ae28df21bb27ed1b869f38f0da8d5",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"AI regulation\"",
+  "summary": "The article discusses the influence of public opinion on the regulation of AI, highlighting the importance of understanding which predictions and proclamations about AI are most persuasive to the public. It also touches on the potential regulatory approaches, including fast-tracking, slowing down, or banning certain AI technologies.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral discussion on the public's reaction to AI predictions and the possible regulatory outcomes, without leaning towards a strongly negative or positive sentiment.",
+  "price_changes": {
+    "\"AI regulation\"": {
+      "ticker": "BOTZ",
+      "trend": [
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38,
+        33.29,
+        32.46
+      ],
+      "base_price": 31.99,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "086a79de3974483eb962d1975a194cdc6fc9141d",
+  "url": "https://telecom.economictimes.indiatimes.com/news/policy/indias-electronics-and-mobile-sectors-unaffected-by-west-asia-conflict-ashwini-vaishnaw/129895769",
+  "site": "indiatimes.com",
+  "title": "India's Electronics and Mobile Sectors Unaffected by West Asia Conflict: Ashwini Vaishnaw, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:08.834752",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\086a79de3974483eb962d1975a194cdc6fc9141d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\086a79de3974483eb962d1975a194cdc6fc9141d.txt",
+  "word_count": 350,
+  "paywalled": false,
+  "dedup_hash": "26e167bd52d1943cd924adb800ac13ffc4bcc9c8",
+  "scraper_version": "0.1",
+  "gdelt_query": "semiconductor"
+}

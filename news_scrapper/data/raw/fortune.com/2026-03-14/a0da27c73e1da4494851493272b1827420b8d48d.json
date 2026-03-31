@@ -1,0 +1,46 @@
+{
+  "id": "a0da27c73e1da4494851493272b1827420b8d48d",
+  "url": "https://fortune.com/2026/03/14/hyperliquid-iran-oil-trade-weekend-markets-24-7/",
+  "site": "fortune.com",
+  "title": "Traders are rushing to this hot crypto platform amid the war in Iran | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:06:51.514003",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-14\\a0da27c73e1da4494851493272b1827420b8d48d.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-14\\a0da27c73e1da4494851493272b1827420b8d48d.txt",
+  "word_count": 574,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "74a97e860087e501757d5dd9f0c6b7906565a8e2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "Hyperliquid, a blockchain-based crypto platform, has become popular for trading oil derivatives, especially amid geopolitical tensions like the Iran war, offering 24/7 global markets unlike traditional stock exchanges.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights the increased demand for continuous markets due to geopolitical events, but also mentions the limitations and risks associated with trading in oil derivatives.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

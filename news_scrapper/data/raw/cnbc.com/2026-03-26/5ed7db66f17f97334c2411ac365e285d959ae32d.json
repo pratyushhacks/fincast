@@ -1,0 +1,66 @@
+{
+  "id": "5ed7db66f17f97334c2411ac365e285d959ae32d",
+  "url": "https://www.cnbc.com/2026/03/24/databricks-cybersecurity-lakewatch-ipo.html",
+  "site": "cnbc.com",
+  "title": "Databricks adds cybersecurity with Lakewatch, bulking up ahead of IPO",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:46.310981",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-26\\5ed7db66f17f97334c2411ac365e285d959ae32d.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-26\\5ed7db66f17f97334c2411ac365e285d959ae32d.txt",
+  "word_count": 513,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7b311d92b1ea601f36ef74b51dbd33d1e262c8b5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Databricks, now a major software company, is expanding into cybersecurity with its new product, Lakewatch, amid growing concerns over AI threats to cybersecurity and the need for more sophisticated tools to handle increased alerts.",
+  "sentiment": 4,
+  "sentiment_reason": "The development of Lakewatch and Databricks' strategic moves in cybersecurity, despite the AI worries and pressure on software stocks, are seen as positive steps for the company's growth and market position.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47
+      ],
+      "base_price": 109.92,
+      "next_price": 106.53,
+      "change_1d": -3.0841,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.98,
+      "change_1d": -0.7921,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

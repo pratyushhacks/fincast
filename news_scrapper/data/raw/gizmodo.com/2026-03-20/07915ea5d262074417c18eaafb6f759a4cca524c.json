@@ -1,0 +1,64 @@
+{
+  "id": "07915ea5d262074417c18eaafb6f759a4cca524c",
+  "url": "https://gizmodo.com/apple-airtag-4-pack-gets-another-price-cut-and-now-over-55-cheaper-per-tracker-than-buying-one-2000735386",
+  "site": "gizmodo.com",
+  "title": "Apple AirTag 4-Pack Gets Another Price Cut and Now Over 55% Cheaper Per Tracker Than Buying One",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:19.048606",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-20\\07915ea5d262074417c18eaafb6f759a4cca524c.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-20\\07915ea5d262074417c18eaafb6f759a4cca524c.txt",
+  "word_count": 489,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a6421d67f3946db33bd6378b2abad86a3bef057d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Amazon offers a 36% discount on 1st Generation Apple AirTags, reducing the price to $63 for a pack of four, making it a cost-effective time to purchase these tracking devices. The article highlights the versatility and usefulness of AirTags for locating personal belongings.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents AirTags in a positive light, emphasizing their practicality, affordability due to the discount, and useful features for tracking items without expressing any negative market impacts or concerns.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96
+      ],
+      "base_price": 247.99,
+      "next_price": 251.49,
+      "change_1d": 1.4113,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

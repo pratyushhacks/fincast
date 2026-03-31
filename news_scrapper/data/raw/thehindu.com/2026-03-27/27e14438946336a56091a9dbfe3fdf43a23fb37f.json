@@ -1,0 +1,69 @@
+{
+  "id": "27e14438946336a56091a9dbfe3fdf43a23fb37f",
+  "url": "https://www.thehindu.com/sci-tech/technology/verdicts-against-social-media-companies-carry-consequences-but-questions-linger/article70786562.ece",
+  "site": "thehindu.com",
+  "title": "Verdicts against social media companies carry consequences, but questions linger - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:51.134273",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-27\\27e14438946336a56091a9dbfe3fdf43a23fb37f.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-27\\27e14438946336a56091a9dbfe3fdf43a23fb37f.txt",
+  "word_count": 681,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "63f0a081a5f8a14d6ee421d23a3ffdc8f9b9ea76",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Two lawsuits resulted in significant fines against Meta, totaling $381 million, for allegedly harming children's mental health through social media platforms. The cases highlight concerns over platform algorithms and their impact on child users.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents negative aspects such as lawsuits, fines, and concerns over mental health impacts on children, but does not indicate a market crash or severe crisis.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "8ec919e364ab58c2e0dd3202e39f4d59bdbc2860",
+  "url": "https://www.livemint.com/companies/people/who-is-lindsay-rae-mcintyre-microsofts-diversity-head-quits-as-hr-team-undergoes-major-ai-first-restructuring-11774581156954.html",
+  "site": "livemint.com",
+  "title": "Who is Lindsay-Rae McIntyre? Microsoft's diversity head quits as HR team undergoes major AI-first restructuring | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:31.430258",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\8ec919e364ab58c2e0dd3202e39f4d59bdbc2860.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\8ec919e364ab58c2e0dd3202e39f4d59bdbc2860.txt",
+  "word_count": 636,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "779376099d3be5aa0677502fdec788ae872342df",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Microsoft's chief diversity officer, Lindsay-Rae McIntyre, is stepping down amidst a significant HR overhaul to align with the company's growing AI strategy. The overhaul aims to transition employees from AI users to designers and orchestrators of autonomous AI agents.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral market impact as it discusses a routine corporate restructuring and strategic shift without clear indication of immediate positive or negative market consequences.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97
+      ],
+      "base_price": 356.77,
+      "next_price": 358.96,
+      "change_1d": 0.6138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

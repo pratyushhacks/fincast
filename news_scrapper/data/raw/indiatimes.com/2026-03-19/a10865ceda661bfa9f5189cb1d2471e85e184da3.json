@@ -1,0 +1,27 @@
+{
+  "id": "a10865ceda661bfa9f5189cb1d2471e85e184da3",
+  "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-crashes-big-today-why-sp-500-nasdaq-have-suddenly-fallen-dow-down-400-points-while-sp-and-nasdaq-slip-0-5/articleshow/129661158.cms",
+  "site": "indiatimes.com",
+  "title": "US stock crashes big today across Dow S&P Nasdaq: US stock crashes big today: Why S&P 500, Nasdaq have suddenly fallen - Dow down 400 points while S&P and Nasdaq slip 0.5% - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:06.585269",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\a10865ceda661bfa9f5189cb1d2471e85e184da3.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\a10865ceda661bfa9f5189cb1d2471e85e184da3.txt",
+  "word_count": 1174,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "d5f3ed195912a20fa9f47d92e2483264f16054a4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

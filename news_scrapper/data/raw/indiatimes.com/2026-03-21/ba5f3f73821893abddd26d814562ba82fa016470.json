@@ -1,0 +1,26 @@
+{
+  "id": "ba5f3f73821893abddd26d814562ba82fa016470",
+  "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-mayuresh-joshi-on-the-only-strategy-that-makes-sense-right-now/articleshow/129693222.cms",
+  "site": "indiatimes.com",
+  "title": "Markets on edge: Mayuresh Joshi on the only strategy that makes sense right now - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:18.000775",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\ba5f3f73821893abddd26d814562ba82fa016470.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\ba5f3f73821893abddd26d814562ba82fa016470.txt",
+  "word_count": 963,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "1e4b59a880235c4759bf5f306a6555a792137a24",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

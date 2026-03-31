@@ -1,0 +1,15 @@
+{
+  "id": "b179078e541ee9045de2af6bf6996096a84fed7a",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/thailand-will-have-new-government-next-week-pm-says/articleshow/129858759.cms",
+  "site": "indiatimes.com",
+  "title": "Thailand will have new government next week, PM says - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:01.914923",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\b179078e541ee9045de2af6bf6996096a84fed7a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\b179078e541ee9045de2af6bf6996096a84fed7a.txt",
+  "word_count": 155,
+  "paywalled": false,
+  "dedup_hash": "abd548c6031aa1cdc4bee47a0efb49b028ab0ffd",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\""
+}

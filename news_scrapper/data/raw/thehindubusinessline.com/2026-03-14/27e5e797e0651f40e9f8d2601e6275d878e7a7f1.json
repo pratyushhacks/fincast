@@ -1,0 +1,63 @@
+{
+  "id": "27e5e797e0651f40e9f8d2601e6275d878e7a7f1",
+  "url": "https://www.thehindubusinessline.com/companies/nmdc-clocks-record-output-of-50-mt-in-2025-26/article70743285.ece",
+  "site": "thehindubusinessline.com",
+  "title": "NMDC clocks record output of 50 mt in 2025-26 - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:45:26.563485",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\27e5e797e0651f40e9f8d2601e6275d878e7a7f1.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\27e5e797e0651f40e9f8d2601e6275d878e7a7f1.txt",
+  "word_count": 190,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "aad5e56af5b0cb854c654736f84f44fe7ffefca9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "NMDC Ltd, a CSE, hit a record 50 mt iron ore output in 2025-26, up from 44 mt in 2024-25, marking a significant increase in production over the years. This growth aligns with India's strategic priority to ensure a stable domestic iron ore supply for its steelmaking capacity expansion goal.",
+  "sentiment": 2,
+  "sentiment_reason": "The article reports a significant increase in production, which is generally positive, but the context of steady growth and strategic national priorities suggests underlying concerns about the pace and sustainability of this expansion.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        51.24,
+        50.97,
+        50.31,
+        50.07,
+        49.8,
+        49.39,
+        48.58
+      ],
+      "base_price": 48.64,
+      "next_price": 49.05,
+      "change_1d": 0.8429,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        683.26,
+        679.45,
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25
+      ],
+      "base_price": 660.49,
+      "next_price": 667.21,
+      "change_1d": 1.0174,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

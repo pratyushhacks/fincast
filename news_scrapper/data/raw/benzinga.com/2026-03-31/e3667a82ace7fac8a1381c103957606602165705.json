@@ -1,0 +1,54 @@
+{
+  "id": "e3667a82ace7fac8a1381c103957606602165705",
+  "url": "https://www.benzinga.com/Opinion/26/03/51553506/is-bitcoin-bottoming-out",
+  "site": "benzinga.com",
+  "title": "Is Bitcoin Bottoming Out?  - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:32.857205",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\e3667a82ace7fac8a1381c103957606602165705.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\e3667a82ace7fac8a1381c103957606602165705.txt",
+  "word_count": 1029,
+  "paywalled": false,
+  "dedup_hash": "ab2de5bae97d7cdef2106dcbf0560a3bb645d105",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"geopolitical risk\"",
+  "summary": "Bitcoin experienced significant volatility in March 2026, with a notable inflow of investments into BTC ETFs followed by outflows and a sharp price drop due to geopolitical tensions. On-chain data suggests a defensive trading range with potential for recovery.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights a negative market impact characterized by a sharp price decline and investor uncertainty due to geopolitical events and outflows from centralized exchanges.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

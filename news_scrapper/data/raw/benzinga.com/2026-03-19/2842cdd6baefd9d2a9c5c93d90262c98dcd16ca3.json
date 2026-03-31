@@ -1,0 +1,65 @@
+{
+  "id": "2842cdd6baefd9d2a9c5c93d90262c98dcd16ca3",
+  "url": "https://www.benzinga.com/insights/movers/26/03/51333018/12-industrials-stocks-moving-in-wednesdays-intraday-session",
+  "site": "benzinga.com",
+  "title": "12 Industrials Stocks Moving In Wednesday's Intraday Session - Andersen Group (NYSE:ANDG), Addentax Group (NASDAQ:ATXG)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:33.330099",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\2842cdd6baefd9d2a9c5c93d90262c98dcd16ca3.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\2842cdd6baefd9d2a9c5c93d90262c98dcd16ca3.txt",
+  "word_count": 51,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "55ad01b1cb122cf5672860d062ed901886a366f1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the movement of 12 industrials stocks, including Andersen Group and Addentax Group, within a single trading session. No specific market-relevant facts regarding the tech sector or other key companies are mentioned in the provided text.",
+  "sentiment": 2,
+  "sentiment_reason": "The article title and description suggest routine market activity without clear indications of major market impacts such as rate hikes, recession fears, or significant earnings reports.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0839869fb7fe34f6936a2aaf416c57638e0abe4f",
+  "url": "https://economictimes.indiatimes.com/nri/study/the-non-tech-careers-that-will-define-the-ai-decade-and-why-admissions-committees-are-quietly-prioritising-human-centred-proof/articleshow/129840682.cms",
+  "site": "indiatimes.com",
+  "title": "The ânon-techâ careers that will define the AI decade and why admissions committees are quietly prioritising human-centred proof - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:58.314974",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\0839869fb7fe34f6936a2aaf416c57638e0abe4f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\0839869fb7fe34f6936a2aaf416c57638e0abe4f.txt",
+  "word_count": 972,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "b1a69bd57993258ec78891daaf38782bc291b0e8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

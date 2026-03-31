@@ -1,0 +1,65 @@
+{
+  "id": "124265894b05e7d797c14ce920d36d7be14775fb",
+  "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51463176/tesla-semi-gets-jay-leno-talking-and-he-says-this-could-be-a-game%E2%80%91changer",
+  "site": "benzinga.com",
+  "title": "Tesla Semi Gets Jay Leno Talking — And He Says This Could Be A Game‑Changer - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:14.269937",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\124265894b05e7d797c14ce920d36d7be14775fb.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\124265894b05e7d797c14ce920d36d7be14775fb.txt",
+  "word_count": 577,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e3c1166e8ed465003f31e673319d922ab96edc18",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tesla's new electric semi truck is gaining traction in the market, with features like a 1-million-mile battery life and 50% cheaper operation costs per mile than diesel semis. The company is targeting existing partners and the first customer for the Tesla Semi.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive aspects such as improved towing capacity, long battery life, and lower operation costs, which are likely to attract customers to the Tesla Semi.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.08,
+      "change_1d": -1.8892,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.25,
+      "change_1d": -1.1398,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

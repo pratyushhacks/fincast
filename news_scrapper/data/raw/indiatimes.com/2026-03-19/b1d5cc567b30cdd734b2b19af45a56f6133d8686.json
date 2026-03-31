@@ -1,0 +1,24 @@
+{
+  "id": "b1d5cc567b30cdd734b2b19af45a56f6133d8686",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says/129645508",
+  "site": "indiatimes.com",
+  "title": "Rising component cost to keep hardware prices elevated in near term, Lenovo executive says, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:47.316063",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\b1d5cc567b30cdd734b2b19af45a56f6133d8686.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\b1d5cc567b30cdd734b2b19af45a56f6133d8686.txt",
+  "word_count": 567,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f21f78c4aa859e872c12fb7f2d06ee4adcb45445",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector"
+}

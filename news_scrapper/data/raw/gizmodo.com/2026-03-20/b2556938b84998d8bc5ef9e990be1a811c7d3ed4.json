@@ -1,0 +1,63 @@
+{
+  "id": "b2556938b84998d8bc5ef9e990be1a811c7d3ed4",
+  "url": "https://gizmodo.com/federal-ev-surcharge-idea-not-dead-yet-and-now-includes-hybrids-2000735360",
+  "site": "gizmodo.com",
+  "title": "Federal EV Surcharge Idea Not Dead Yet and Now Includes Hybrids",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:30.351865",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-20\\b2556938b84998d8bc5ef9e990be1a811c7d3ed4.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-20\\b2556938b84998d8bc5ef9e990be1a811c7d3ed4.txt",
+  "word_count": 527,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a90d5ec6655370eb2d945cd0bfd85cf052750c51",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Congress is considering additional taxes for electric and hybrid vehicle drivers, amidst a backdrop of rising fuel prices and a shift in consumer behavior towards more fuel-efficient vehicles. This comes after previous actions to reduce federal incentives for EVs and amidst debates over the allocation of gas tax revenues.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the potential financial burden on electric and hybrid vehicle owners and the uncertainty surrounding the tax's impact on the EV market and consumer behavior.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        31.21,
+        30.41,
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32
+      ],
+      "base_price": 29.32,
+      "next_price": 30.23,
+      "change_1d": 3.1037,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

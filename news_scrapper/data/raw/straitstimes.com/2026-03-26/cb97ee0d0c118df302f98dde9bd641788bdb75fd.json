@@ -1,0 +1,64 @@
+{
+  "id": "cb97ee0d0c118df302f98dde9bd641788bdb75fd",
+  "url": "https://www.straitstimes.com/world/united-states/trump-admin-in-midst-of-iran-war-keeps-eyes-on-china-rivalry",
+  "site": "straitstimes.com",
+  "title": "In midst of Iran war, Trump administration keeps an eye on China rivalry | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:25.998144",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-26\\cb97ee0d0c118df302f98dde9bd641788bdb75fd.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-26\\cb97ee0d0c118df302f98dde9bd641788bdb75fd.txt",
+  "word_count": 1275,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "b2acbcaf4baefc6ccf71255f7d0d307e00f61247",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "gdelt_category": "macro",
+  "summary": "The US is expanding the Pax Silica forum to secure the AI and semiconductor supply chain against potential Chinese dominance, amidst ongoing tensions with Iran and the uncertainty of a US-China summit.",
+  "sentiment": 4,
+  "sentiment_reason": "The focus on securing critical supply chains and forming a consortium to counteract potential threats indicates a proactive and positive market impact.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25
+      ],
+      "base_price": 328.85,
+      "next_price": 324.89,
+      "change_1d": -1.2042,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.01,
+      "change_1d": -0.7875,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

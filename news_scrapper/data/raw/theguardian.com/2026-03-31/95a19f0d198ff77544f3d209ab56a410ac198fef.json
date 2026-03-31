@@ -1,0 +1,54 @@
+{
+  "id": "95a19f0d198ff77544f3d209ab56a410ac198fef",
+  "url": "https://www.theguardian.com/environment/2026/mar/28/how-evs-could-be-part-of-answer-to-uk-fuel-reserve-worries",
+  "site": "theguardian.com",
+  "title": "How EVs could be part of answer to UK’s fuel reserve worries | Electric, hybrid and low-emission cars | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:28.552245",
+  "html_path": "data\\raw\\theguardian.com\\2026-03-31\\95a19f0d198ff77544f3d209ab56a410ac198fef.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-31\\95a19f0d198ff77544f3d209ab56a410ac198fef.txt",
+  "word_count": 1029,
+  "paywalled": false,
+  "dedup_hash": "a0fec3453d2277705808f7bcdb3607acc6cca7dd",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles",
+  "summary": "The Iran war has escalated petrol and diesel prices, leading to potential fuel rationing in Europe and prompting calls for increased domestic oil and gas production in Britain. The situation highlights the potential of electric vehicles (EVs) in reducing fuel consumption and acting as a buffer against energy shocks.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to the war's impact on fuel prices and the potential for energy shortages, coupled with the urgency to find alternative solutions like EVs to mitigate these issues.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91,
+        29.62
+      ],
+      "base_price": 29.11,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

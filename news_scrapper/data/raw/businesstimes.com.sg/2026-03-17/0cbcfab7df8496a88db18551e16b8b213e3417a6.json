@@ -1,0 +1,66 @@
+{
+  "id": "0cbcfab7df8496a88db18551e16b8b213e3417a6",
+  "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-higher-traders-return-ai-stocks",
+  "site": "businesstimes.com.sg",
+  "title": "Wall Street ends higher as traders return to AI stocks - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:09.831483",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\0cbcfab7df8496a88db18551e16b8b213e3417a6.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\0cbcfab7df8496a88db18551e16b8b213e3417a6.txt",
+  "word_count": 626,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "ff4940e7b36dd848d3615506059682f17b4205d4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Wall Street gains on AI stock surge, Fed holds rates, oil prices drop amid Middle East tensions.",
+  "sentiment": 2,
+  "sentiment_reason": "Market impact is negative due to ongoing Middle East conflict uncertainty affecting oil prices, despite positive movement in AI-related stocks and steady Fed interest rates.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

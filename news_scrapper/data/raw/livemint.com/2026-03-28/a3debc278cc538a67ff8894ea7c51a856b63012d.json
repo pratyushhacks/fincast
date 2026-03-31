@@ -1,0 +1,64 @@
+{
+  "id": "a3debc278cc538a67ff8894ea7c51a856b63012d",
+  "url": "https://www.livemint.com/market/stock-market-news/sensex-crashes-900-points-nifty-50-investors-lose-6-lakh-crore-5-key-factors-behind-stock-market-selloff-explained-11774583529768.html",
+  "site": "livemint.com",
+  "title": "Sensex ends 1,700 points down, investors lose  ₹9 lakh crore— 5 Key factors behind stock market selloff explained | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:10.970043",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\a3debc278cc538a67ff8894ea7c51a856b63012d.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\a3debc278cc538a67ff8894ea7c51a856b63012d.txt",
+  "word_count": 646,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "33850835a2b06d6fb3d0d85325d25b23be715db0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Indian stock market faced significant losses with Sensex and Nifty 50 falling over 2% due to weak global cues, conflicting signals over the West Asian conflict, rupee's weakness, elevated crude oil prices, and lowered earnings growth forecasts.",
+  "sentiment": 1,
+  "sentiment_reason": "The combination of a major stock market crash, weakening currency, and negative global and geopolitical events indicates a strongly negative market impact.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        121.67,
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26
+      ],
+      "base_price": 124.2,
+      "next_price": 129.83,
+      "change_1d": 4.533,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

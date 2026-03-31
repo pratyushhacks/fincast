@@ -1,0 +1,65 @@
+{
+  "id": "520cf0f2a15dde3fd923c8023d3d6290940d214c",
+  "url": "https://www.straitstimes.com/world/united-states/trumps-signature-to-appear-on-us-currency-treasury-says-ending-165-year-tradition",
+  "site": "straitstimes.com",
+  "title": "Trump’s signature to appear on US currency, Treasury says, ending 165-year tradition | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:28.106520",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-27\\520cf0f2a15dde3fd923c8023d3d6290940d214c.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-27\\520cf0f2a15dde3fd923c8023d3d6290940d214c.txt",
+  "word_count": 465,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "0d575bc73f648105375375a41791955653a44cec",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "US paper currency will feature President Trump's signature starting summer, replacing the treasurer's signature for the first time in 165 years. This change coincides with the 250th anniversary of American independence and is seen as a symbol of American resilience and economic strength.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the emphasis on American resilience, economic strength, and the historic significance of President Trump's signature on the currency.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "7b4a812e2c8b1278f796abfb02f63d8d9f59c7d6",
+  "url": "https://fortune.com/2026/03/20/spacex-openai-anthropic-could-be-3-of-the-biggest-venture-backed-ipos-of-all-time/",
+  "site": "fortune.com",
+  "title": "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:44.796353",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-21\\7b4a812e2c8b1278f796abfb02f63d8d9f59c7d6.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-21\\7b4a812e2c8b1278f796abfb02f63d8d9f59c7d6.txt",
+  "word_count": 1008,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "b3c8e8108f26a6d2aa8bc3427927f11a50e09c0d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "SpaceX, OpenAI, and Anthropic are rumored to have mega-IPOs in 2026, potentially the biggest venture-backed IPOs ever, but geopolitical tensions and a volatile market may affect their success.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses potential negative impacts such as geopolitical uncertainty, a volatile market, and the risk of a low tech IPO activity year, despite the possibility of significant returns for investors.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        404.88,
+        401.86,
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02
+      ],
+      "base_price": 381.87,
+      "next_price": 383.0,
+      "change_1d": 0.2959,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

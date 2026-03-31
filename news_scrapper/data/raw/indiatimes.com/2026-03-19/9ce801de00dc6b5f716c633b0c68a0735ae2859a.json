@@ -1,0 +1,25 @@
+{
+  "id": "9ce801de00dc6b5f716c633b0c68a0735ae2859a",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/new-spyware-targets-millions-of-iphones-darksword-discovered/129659633",
+  "site": "indiatimes.com",
+  "title": "New Spyware Targets Millions of iPhones: Darksword Discovered, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:13.137947",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\9ce801de00dc6b5f716c633b0c68a0735ae2859a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\9ce801de00dc6b5f716c633b0c68a0735ae2859a.txt",
+  "word_count": 427,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "cc1a34b19e98b7034cd3e7a795a72b49298214f3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company"
+}

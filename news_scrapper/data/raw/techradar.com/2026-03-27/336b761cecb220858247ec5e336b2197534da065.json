@@ -1,0 +1,65 @@
+{
+  "id": "336b761cecb220858247ec5e336b2197534da065",
+  "url": "https://www.techradar.com/seasonal-sales/sorry-my-best-budget-mini-pc-may-be-in-the-amazon-spring-sale-but-i-cant-recommend-it-when-the-m6-ultra-is-discounted-too",
+  "site": "techradar.com",
+  "title": "My 'best budget mini PC' is in Amazon's Spring Sale — but get the M6 Ultra instead | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:00.547288",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-27\\336b761cecb220858247ec5e336b2197534da065.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-27\\336b761cecb220858247ec5e336b2197534da065.txt",
+  "word_count": 651,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "860d2c9414ec5a514529eb0a1360cf62939184ad",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The GMKtec mini PC deals reviewed in the Amazon Big Spring Sale highlight the versatility of the M6 Ultra over the G10, especially for users requiring more robust performance for multimedia creation and gaming. The G10 is recommended for general office tasks with upgrade potential, while the M6 Ultra is suggested for those pushing boundaries.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive sentiment due to the highlighted strengths of the GMKtec mini PCs, particularly the M6 Ultra's performance for multimedia and gaming tasks, despite some noted average housing and longer export/encoding times.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4c9b35348ec845aaeadf3087b5a67dbfc03c5ba3",
+  "url": "https://www.insidermonkey.com/blog/titan-america-s-a-nysettam-q4-2025-earnings-call-transcript-1720444/",
+  "site": "insidermonkey.com",
+  "title": "Titan America S.A. (NYSE:TTAM) Q4 2025 Earnings Call Transcript - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:30.186118",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-20\\4c9b35348ec845aaeadf3087b5a67dbfc03c5ba3.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-20\\4c9b35348ec845aaeadf3087b5a67dbfc03c5ba3.txt",
+  "word_count": 5936,
+  "reading_time_minutes": 29,
+  "paywalled": false,
+  "dedup_hash": "ec7105aa00c9987d41aa22c5622e8e47d03ee2d9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Titan America missed earnings expectations in Q4 2025, reporting an EPS of $0.24 against expectations of $0.2494. Despite strategic milestones and a strong performance over the previous 11 years, the company faced challenges in meeting financial expectations.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the company missing earnings expectations, which can lead to investor concern and potential market volatility.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.35,
+        111.72,
+        111.65,
+        112.56,
+        113.49,
+        113.26,
+        113.63
+      ],
+      "base_price": 111.44,
+      "next_price": 113.86,
+      "change_1d": 2.1716,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

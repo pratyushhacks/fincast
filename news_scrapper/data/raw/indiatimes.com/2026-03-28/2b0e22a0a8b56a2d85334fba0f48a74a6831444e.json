@@ -1,0 +1,25 @@
+{
+  "id": "2b0e22a0a8b56a2d85334fba0f48a74a6831444e",
+  "url": "https://telecom.economictimes.indiatimes.com/news/policy/asml-explores-partnerships-with-indian-companies-for-semiconductor-mission/129837668",
+  "site": "indiatimes.com",
+  "title": "ASML Explores Partnerships with Indian Companies for Semiconductor Mission, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:52.017260",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\2b0e22a0a8b56a2d85334fba0f48a74a6831444e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\2b0e22a0a8b56a2d85334fba0f48a74a6831444e.txt",
+  "word_count": 233,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2efb570e3528593e30bf986fcb5a7626a26b2253",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector"
+}

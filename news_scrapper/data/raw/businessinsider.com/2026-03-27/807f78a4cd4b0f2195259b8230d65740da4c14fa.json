@@ -1,0 +1,63 @@
+{
+  "id": "807f78a4cd4b0f2195259b8230d65740da4c14fa",
+  "url": "https://www.businessinsider.com/why-nvidia-ceo-jensen-huang-prefers-group-problem-solving-2026-3",
+  "site": "businessinsider.com",
+  "title": "Why Nvidia CEO Jensen Huang Prefers Group Problem-Solving - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:24.743040",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-27\\807f78a4cd4b0f2195259b8230d65740da4c14fa.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-27\\807f78a4cd4b0f2195259b8230d65740da4c14fa.txt",
+  "word_count": 441,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "0917498d0208d74f0a0041390b50df1f577d574b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia CEO Jensen Huang leads with a unique approach, avoiding one-on-one meetings with direct reports and instead addressing them collectively. He values group problem-solving and encourages open debate among his staff, including engineers with expertise in various areas.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights Nvidia's innovative leadership style and collaborative work environment, which are generally viewed positively in the context of corporate management and employee engagement.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

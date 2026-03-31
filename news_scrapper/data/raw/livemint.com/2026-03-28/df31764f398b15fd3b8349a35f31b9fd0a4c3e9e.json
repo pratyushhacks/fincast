@@ -1,0 +1,28 @@
+{
+  "id": "df31764f398b15fd3b8349a35f31b9fd0a4c3e9e",
+  "url": "https://www.livemint.com/market/fund-with-anthropic-stake-extends-drop-in-stunning-ipo-reversal-11774652844279.html",
+  "site": "livemint.com",
+  "title": "Fund With Anthropic Stake Extends Drop in Stunning IPO Reversal | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:15.148760",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\df31764f398b15fd3b8349a35f31b9fd0a4c3e9e.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\df31764f398b15fd3b8349a35f31b9fd0a4c3e9e.txt",
+  "word_count": 612,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "42993a9ec6345df70cef18881461ec0f731b93e7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Shares of the Fundrise Innovation Fund plummeted after a sharp decline, despite remaining high compared to the underlying value of its tech holdings. Other funds also experienced volatility amidst the trading frenzy for stakes in private tech companies.",
+  "sentiment": 2,
+  "sentiment_reason": "The article describes a negative market impact characterized by a significant drop in share prices and volatility, influenced by short-selling and trading restrictions."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "7ccd2dad99971687f80093d342ecc5e18cc30c18",
+  "url": "https://fortune.com/2026/03/25/will-there-be-recession-goldman-forecast-oil-price-inflation-economy/",
+  "site": "fortune.com",
+  "title": "Goldman raises recession odds to 30% on higher inflation, lower GDP outlook as oil prices surge | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:10.980341",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-26\\7ccd2dad99971687f80093d342ecc5e18cc30c18.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-26\\7ccd2dad99971687f80093d342ecc5e18cc30c18.txt",
+  "word_count": 675,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "b397b532a033a00c4274d9ab14b14871bf69be36",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Goldman Sachs raises inflation and growth forecasts due to surging oil prices from Strait of Hormuz disruptions, while Wall Street's base case remains slower growth, not a recession. The Fed is cautious, maintaining rates but open to future cuts.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to raised inflation and growth forecasts, along with cautious optimism from the Fed's balanced approach.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 634.09,
+      "change_1d": -1.7052,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 634.09,
+      "change_1d": -1.7052,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

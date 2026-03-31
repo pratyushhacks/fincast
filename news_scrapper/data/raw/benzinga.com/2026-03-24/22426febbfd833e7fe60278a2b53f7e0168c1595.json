@@ -1,0 +1,65 @@
+{
+  "id": "22426febbfd833e7fe60278a2b53f7e0168c1595",
+  "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51418167/gold-rout-sparks-surge-in-bear-etfs-as-traders-flip-short-on-miners",
+  "site": "benzinga.com",
+  "title": "Gold Rout Sparks Surge In Bear ETFs As Traders Flip Short On Miners - Direxion Daily Gold Miners Index Bear 2X ETF (ARCA:DUST), SPDR Gold Shares (ARCA:GLD)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:36.922620",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\22426febbfd833e7fe60278a2b53f7e0168c1595.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\22426febbfd833e7fe60278a2b53f7e0168c1595.txt",
+  "word_count": 374,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b4214d248a546dc370b6fd6c8e0f9a6ed5bc1ddc",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Gold stocks and inverse ETFs like DUST and JDST are gaining traction as gold prices fall, influenced by changing interest rate expectations and a shift in market sentiment. The Middle East conflict adds to the selling pressure on gold.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a negative market impact due to falling gold prices and changing interest rates, along with a bearish sentiment in the market as traders exit gold and mining stocks.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f11832445ad8ac69b929a11f181629f8e6086881",
+  "url": "https://economictimes.indiatimes.com/tech/startups/market-rout-drags-down-startup-stocks-lenskart-ather-bluestone-among-big-losers/articleshow/129750620.cms",
+  "site": "indiatimes.com",
+  "title": "Market rout drags down newly listed startup stocks; Lenskart, Ather, Bluestone among big losers - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:43.373690",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\f11832445ad8ac69b929a11f181629f8e6086881.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\f11832445ad8ac69b929a11f181629f8e6086881.txt",
+  "word_count": 359,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "02f349b1ef49c1d040b9c11c8dbfca1538b8d08e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

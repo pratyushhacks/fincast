@@ -1,0 +1,64 @@
+{
+  "id": "382646be22521c068de84c8696b33cc2a782cb42",
+  "url": "https://www.livemint.com/market/stock-market-news/usd-vs-inr-rupee-touches-record-low-of-93-60-can-it-further-depreciate-to-100-per-dollar-amid-us-iran-war-11774172851898.html",
+  "site": "livemint.com",
+  "title": "USD vs INR: Rupee touches record low of 93.60. Can it further depreciate to 100 per dollar amid US-Iran war? | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:25.312404",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\382646be22521c068de84c8696b33cc2a782cb42.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\382646be22521c068de84c8696b33cc2a782cb42.txt",
+  "word_count": 587,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "67cffa58bceb1ae2523fbf813472b4b9b826273e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The Indian rupee depreciated to over 93 against the US dollar, marking its sharpest decline in more than four years, due to factors like FII outflows, rising oil prices, and global cues. The rupee's depreciation is expected to continue in the near term.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as sharp currency depreciation, FII outflows, rising oil prices, and a hawkish stance from the US Federal Reserve, all contributing to a negative market sentiment.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

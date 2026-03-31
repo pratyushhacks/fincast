@@ -1,0 +1,15 @@
+{
+  "id": "19def230ab14d27169677a43da890f27441b7142",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/from-belt-and-road-to-belt-tightening-chinas-neighbours-get-cold-shoulder-on-energy/articleshow/129897780.cms",
+  "site": "indiatimes.com",
+  "title": "From Belt and Road to belt tightening: China's neighbours get cold shoulder on energy - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:38.108186",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\19def230ab14d27169677a43da890f27441b7142.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\19def230ab14d27169677a43da890f27441b7142.txt",
+  "word_count": 787,
+  "paywalled": false,
+  "dedup_hash": "cbd461d18d7528e5792531f84565b0c8e717d63a",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")"
+}

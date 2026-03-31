@@ -1,0 +1,63 @@
+{
+  "id": "39d1a77fe11dd1d46c08fe82aad44e36dacf3cc9",
+  "url": "https://www.thetimes.com/business/companies-markets/article/electric-car-byd-profits-china-3ms9r5p89",
+  "site": "thetimes.com",
+  "title": "Electric car giant BYD reveals first profits fall in four years",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:57.831404",
+  "language": null,
+  "html_path": "data\\raw\\thetimes.com\\2026-03-28\\39d1a77fe11dd1d46c08fe82aad44e36dacf3cc9.html",
+  "text_path": "data\\raw\\thetimes.com\\2026-03-28\\39d1a77fe11dd1d46c08fe82aad44e36dacf3cc9.txt",
+  "word_count": 493,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6b6da23b1d701b7090a1e7fccf07641bf05b17ed",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "BYD, China's largest electric carmaker, reported its first annual profit drop in four years due to weak sales and increased competition, leading to a significant reduction in staff numbers and a strategic shift towards overseas markets and technological upgrades.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates negative market impact due to the reported profit drop, weak sales growth, and increased competition affecting BYD's position in the electric vehicle industry.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.25,
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91
+      ],
+      "base_price": 29.62,
+      "next_price": 29.11,
+      "change_1d": -1.7218,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

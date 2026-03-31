@@ -1,0 +1,64 @@
+{
+  "id": "9561da639c61420b5241dea726de503ea49b1cd9",
+  "url": "https://www.theverge.com/tech/897228/samsung-plans-to-spend-73-billion-on-ai-chip-expansion",
+  "site": "theverge.com",
+  "title": "Samsung plans to spend $73 billion on AI chip expansion. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:08.889041",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-20\\9561da639c61420b5241dea726de503ea49b1cd9.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-20\\9561da639c61420b5241dea726de503ea49b1cd9.txt",
+  "word_count": 96,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "55ad3e64853787d1d53a2630a5b6568482ff6161",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Samsung plans a significant investment in AI chip expansion to increase production and research, aiming to surpass SK Hynix as Nvidia's dominant memory provider, driven by rising demand in advanced robotics.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive market impact due to Samsung's strategic investment and growth in a high-demand sector.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

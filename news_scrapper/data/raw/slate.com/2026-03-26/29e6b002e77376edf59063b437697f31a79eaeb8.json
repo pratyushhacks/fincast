@@ -1,0 +1,30 @@
+{
+  "id": "29e6b002e77376edf59063b437697f31a79eaeb8",
+  "url": "https://slate.com/technology/2026/03/ai-openai-sam-altman-disney-sora-shutdown.html",
+  "site": "slate.com",
+  "title": "A.I.: OpenAI’s shock move with Sora should make you very nervous about the economy.",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:34.484347",
+  "language": null,
+  "html_path": "data\\raw\\slate.com\\2026-03-26\\29e6b002e77376edf59063b437697f31a79eaeb8.html",
+  "text_path": "data\\raw\\slate.com\\2026-03-26\\29e6b002e77376edf59063b437697f31a79eaeb8.txt",
+  "word_count": 946,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "65531491aa2663923a794263b6c007e3be489584",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI is scaling back on several key initiatives, including shutting down its video-generation model, Sora, and winding down ChatGPT's video functionality. The company's pivot away from these projects, along with the termination of significant deals and commitments, suggests a troubling trend for the AI industry.",
+  "sentiment": 1,
+  "sentiment_reason": "The abrupt changes and cancellations of major projects and deals by OpenAI, a highly capitalized AI startup, indicate a negative impact on the market, reflecting instability and potential financial scrutiny ahead."
+}

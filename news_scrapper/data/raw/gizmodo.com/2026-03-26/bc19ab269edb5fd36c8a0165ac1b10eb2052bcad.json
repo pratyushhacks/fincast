@@ -1,0 +1,63 @@
+{
+  "id": "bc19ab269edb5fd36c8a0165ac1b10eb2052bcad",
+  "url": "https://gizmodo.com/star-trek-online-enterprise-bundle-documentary-trailer-2000737690",
+  "site": "gizmodo.com",
+  "title": "This 'Star Trek Online' Trailer Is Actually a Killer 'Enterprise' Documentary",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:32.849302",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-26\\bc19ab269edb5fd36c8a0165ac1b10eb2052bcad.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-26\\bc19ab269edb5fd36c8a0165ac1b10eb2052bcad.txt",
+  "word_count": 393,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "73ee53a28f42f0886d8aab7306316966eaf95838",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Star Trek Online introduces a faux documentary in its latest trailer, exploring the historical role of four Enterprise-era ships and their significance in the game's contemporary continuity. The trailer coincides with multiple real-world anniversaries, including the 60th of Star Trek, the 16th of Star Trek Online, and the 25th of Star Trek: Enterprise.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the innovative approach of the trailer, its clever framing of the game's continuity, and the celebration of Star Trek's anniversaries.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.39,
+      "change_1d": -1.61,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.31,
+      "change_1d": -1.1293,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

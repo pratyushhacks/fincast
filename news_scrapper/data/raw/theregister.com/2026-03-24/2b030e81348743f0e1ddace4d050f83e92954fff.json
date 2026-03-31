@@ -1,0 +1,30 @@
+{
+  "id": "2b030e81348743f0e1ddace4d050f83e92954fff",
+  "url": "https://www.theregister.com/2026/03/23/snowflake_ai_data_project_snowwork/",
+  "site": "theregister.com",
+  "title": "Snowflake's ongoing pitch: bring AI to data, not vice versa • The Register",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:21.302326",
+  "language": null,
+  "html_path": "data\\raw\\theregister.com\\2026-03-24\\2b030e81348743f0e1ddace4d050f83e92954fff.html",
+  "text_path": "data\\raw\\theregister.com\\2026-03-24\\2b030e81348743f0e1ddace4d050f83e92954fff.txt",
+  "word_count": 788,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "9ee3d4d85b285d5cae3942c1098446dbe3851f4a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Snowflake continues to expand its AI-focused platform with significant investments and strategic partnerships, aiming to centralize AI workloads on its data platform and attract more enterprise customers.",
+  "sentiment": 5,
+  "sentiment_reason": "The company's aggressive feature roadmap, investments in observability, and strategic partnerships indicate strong growth and a positive market impact, particularly in the AI and enterprise sectors."
+}

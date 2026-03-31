@@ -1,0 +1,54 @@
+{
+  "id": "171816e203fc1e471d6d6e537aecb64e97b8a6c0",
+  "url": "https://www.thehindubusinessline.com/markets/forex/rupee-breaches-95-level-against-us-dollar-for-first-time/article70802390.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Rupee breaches 95 per dollar, settles at 94.78 amid oil surge and global tensions - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:26.430141",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\171816e203fc1e471d6d6e537aecb64e97b8a6c0.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\171816e203fc1e471d6d6e537aecb64e97b8a6c0.txt",
+  "word_count": 592,
+  "paywalled": false,
+  "dedup_hash": "c1acd0bcc45331bac352225e8aae7fa44cae9684",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"dollar index\"",
+  "summary": "The rupee hit a record low due to geopolitical tensions and market volatility, influenced by the Iran crisis and global risk aversion. India's macroesic fundamentals are reportedly strong despite the currency's performance.",
+  "sentiment": 1,
+  "sentiment_reason": "The rupee's performance is negatively impacted by geopolitical uncertainties, escalating tensions in West Asia, and a global risk-off mood, leading to a strong dollar and weakening emerging market currencies like the rupee.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.58,
+        27.68,
+        27.56,
+        27.65,
+        27.7,
+        27.81,
+        27.84
+      ],
+      "base_price": 27.98,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

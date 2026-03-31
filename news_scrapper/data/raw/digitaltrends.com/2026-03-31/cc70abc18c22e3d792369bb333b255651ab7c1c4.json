@@ -1,0 +1,54 @@
+{
+  "id": "cc70abc18c22e3d792369bb333b255651ab7c1c4",
+  "url": "https://www.digitaltrends.com/social-media/social-media-restrictions-for-minors-are-gaining-steam-in-more-countries/",
+  "site": "digitaltrends.com",
+  "title": "Social media restrictions for minors are gaining steam in more countries - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:31.012752",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\cc70abc18c22e3d792369bb333b255651ab7c1c4.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\cc70abc18c22e3d792369bb333b255651ab7c1c4.txt",
+  "word_count": 448,
+  "paywalled": false,
+  "dedup_hash": "feca1af22f3bb6421baa19add992c794159cba86",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "The growing trend of parents creating social media accounts for their children has sparked a global debate, leading to potential stricter rules and legal actions against tech companies like Meta and Google. The concern is shifting from individual parenting anxieties to policy-making and legal precedents.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative implications of social media use by children and the resulting push for stricter regulations and legal actions, indicating a negative market impact due to growing concerns over safety and control.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

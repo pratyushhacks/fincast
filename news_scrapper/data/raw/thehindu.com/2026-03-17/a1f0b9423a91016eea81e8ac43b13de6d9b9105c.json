@@ -1,0 +1,66 @@
+{
+  "id": "a1f0b9423a91016eea81e8ac43b13de6d9b9105c",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-accuses-ysrcp-of-legal-terrorism-to-stall-investments-in-andhra-pradesh/article70750748.ece",
+  "site": "thehindu.com",
+  "title": "TDP accuses YSRCP of ‘legal terrorism’ to stall investments in Andhra Pradesh - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:20.074452",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-17\\a1f0b9423a91016eea81e8ac43b13de6d9b9105c.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-17\\a1f0b9423a91016eea81e8ac43b13de6d9b9105c.txt",
+  "word_count": 243,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2516de20c5bd7442348c18bca61e58a4b374c774",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "TDP accuses YSRCP of 'legal terrorism' against investments in Andhra Pradesh, including challenging land allotments for tech projects like Google's data centre, amid claims of political motives to hinder investment and growth.",
+  "sentiment": 2,
+  "sentiment_reason": "The article suggests negative market impact due to political actions by the YSRCP that could deter investments and slow down the development of the IT sector in Andhra Pradesh.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

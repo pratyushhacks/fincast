@@ -1,0 +1,26 @@
+{
+  "id": "eee3615752b31472ea74c46d42330f7cdc2b35a5",
+  "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-fall-after-worst-week-in-43-years-more-pain-or-time-to-buy-the-dip/articleshow/129743775.cms",
+  "site": "indiatimes.com",
+  "title": "Gold Price Crash: Yellow metal extends fall after worst week in 43 years. More pain or time to buy the dip? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:41.031975",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\eee3615752b31472ea74c46d42330f7cdc2b35a5.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\eee3615752b31472ea74c46d42330f7cdc2b35a5.txt",
+  "word_count": 812,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "d8200266e027d3ec7a2bef3040e5f3dfa0bbff66",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

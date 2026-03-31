@@ -1,0 +1,66 @@
+{
+  "id": "4abedb49794d6e542566bd241fe540b34655cc3a",
+  "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51485472/how-to-invest-in-spacex-before-the-ipo-floodgates-open",
+  "site": "benzinga.com",
+  "title": "How To Invest In SpaceX Before The IPO Floodgates Open - Alphabet (NASDAQ:GOOG), Alphabet (NASDAQ:GOOGL), EchoStar (NASDAQ:SATS)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:03.271000",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\4abedb49794d6e542566bd241fe540b34655cc3a.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\4abedb49794d6e542566bd241fe540b34655cc3a.txt",
+  "word_count": 383,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2850a8aa9903a7febbe07e32c8742a3893ab7906",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Investors are showing increased interest in SpaceX as it prepares for a potential IPO, with strategies ranging from direct investment to indirect exposure via public companies and funds.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses the surge in demand for SpaceX pre-IPO investments and the various investment strategies available, reflecting a positive sentiment due to the anticipation of a significant financial event and potential market growth.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

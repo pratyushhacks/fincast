@@ -1,0 +1,29 @@
+{
+  "id": "c126b2752bbd5497927d307a92dcd675ec4c340a",
+  "url": "https://www.techradar.com/pro/security/ai-is-becoming-the-line-item-openai-and-anthropic-are-big-winners-in-the-doubling-of-ai-spend-as-legacy-saas-face-an-existential-crisis",
+  "site": "techradar.com",
+  "title": "AI spend surges across enterprises as OpenAI and Anthropic dominate budgets while old SaaS providers struggle to survive | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:38.564581",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\c126b2752bbd5497927d307a92dcd675ec4c340a.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\c126b2752bbd5497927d307a92dcd675ec4c340a.txt",
+  "word_count": 500,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "1ed2fe02c6e980756a326cd6f444c8d6addb1ec5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "AI-native vendors are dominating enterprise software budgets with significant growth, while traditional SaaS tools are losing relevance. OpenAI and Anthropic are major beneficiaries of this shift, with a concentration of spend among a few vendors and higher pricing tied to AI capabilities.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive market impact due to the growth and dominance of AI-native vendors in the enterprise software market, despite the pressure from higher pricing and the decline of traditional SaaS tools."
+}

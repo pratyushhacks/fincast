@@ -1,0 +1,24 @@
+{
+  "id": "056a0e1d0f62e7debfc0b2d9cd0bb2340dd1645d",
+  "url": "https://economictimes.indiatimes.com/news/international/us/us-treasury-yields-fall-as-donald-trump-pauses-iran-strike-plans-why-10-year-2-year-and-30-year-yields-dropped-today/articleshow/129754566.cms",
+  "site": "indiatimes.com",
+  "title": "10 year treasury yield dropped today reason: US Treasury yields fall as Donald Trump pauses Iran strike plans: Why 10-Year, 2-Year and 30-Year yields dropped today - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:38.797765",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\056a0e1d0f62e7debfc0b2d9cd0bb2340dd1645d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\056a0e1d0f62e7debfc0b2d9cd0bb2340dd1645d.txt",
+  "word_count": 440,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a6bb40b12a256748b437decdfbb8353267b9ec80",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

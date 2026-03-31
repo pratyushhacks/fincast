@@ -1,0 +1,64 @@
+{
+  "id": "bbf2bf50110c16152e7088b8df2d1abe4d9f2c7f",
+  "url": "https://www.cnbc.com/2026/03/16/nvidia-shares-are-rising-before-its-big-ai-conference-heres-what-wall-street-expects-to-hear.html",
+  "site": "cnbc.com",
+  "title": "Nvidia shares are rising before its big AI conference. Here's what Wall Street expects to hear",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:46.940159",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-17\\bbf2bf50110c16152e7088b8df2d1abe4d9f2c7f.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-17\\bbf2bf50110c16152e7088b8df2d1abe4d9f2c7f.txt",
+  "word_count": 633,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "0dbc55f3b4da44485abd3ba2002dfb5200cbd6f1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia shares rise pre-AI conference, investors anticipate insights on AI spending, market share, and future products.",
+  "sentiment": 2,
+  "sentiment_reason": "Investors are cautiously optimistic, awaiting Jensen Huang's keynote for potential positive impact on Nvidia's stock due to the AI spending debate and future product pipeline disclosures.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

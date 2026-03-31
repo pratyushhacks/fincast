@@ -1,0 +1,54 @@
+{
+  "id": "122bf20366dc5a7e7b6a63b285ab451868f169da",
+  "url": "https://www.kiplinger.com/retirement/roth-iras/are-you-getting-vague-advice-about-roth-conversions",
+  "site": "kiplinger.com",
+  "title": "Are You Getting Vague Advice About Roth Conversions? | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:33.809918",
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-31\\122bf20366dc5a7e7b6a63b285ab451868f169da.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-31\\122bf20366dc5a7e7b6a63b285ab451868f169da.txt",
+  "word_count": 976,
+  "paywalled": false,
+  "dedup_hash": "7e4493147d78f98f5efeafddcd0954c8df74d182",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Intel OR INTC)",
+  "summary": "The article discusses the confusion and lack of clear direction among investors and advisers regarding Roth conversions, highlighting the complexities and potential financial impacts that are often overlooked in the decision-making process.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the issues of confusion, lack of clear direction, and the complexities involved in Roth conversions that can lead to significant financial implications for investors.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1,
+        43.13
+      ],
+      "base_price": 41.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

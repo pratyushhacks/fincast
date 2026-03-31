@@ -1,0 +1,64 @@
+{
+  "id": "b5969f45b35391ae88b8948fc0369ed948734e47",
+  "url": "https://www.digitaltrends.com/phones/android-17s-new-contact-picker-stops-apps-from-accessing-your-entire-address-book/",
+  "site": "digitaltrends.com",
+  "title": "Android 17’s new Contact Picker stops apps from accessing your entire contact list - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:23.175907",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-26\\b5969f45b35391ae88b8948fc0369ed948734e47.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-26\\b5969f45b35391ae88b8948fc0369ed948734e47.txt",
+  "word_count": 347,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e7d321085a78067dffcfb20633ec9e7c567158da",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google is enhancing privacy on Android 17 with a new Contact Picker feature, allowing users to selectively share contact details with apps, and reducing unnecessary access to the entire contact list. This update also encourages developers to adopt more precise data handling practices.",
+  "sentiment": 4,
+  "sentiment_reason": "The update represents a positive shift towards user privacy and data control, with a focus on limiting unnecessary data sharing and giving users more control over their information.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93
+      ],
+      "base_price": 280.92,
+      "next_price": 278.54,
+      "change_1d": -0.8472,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.16,
+      "change_1d": -1.1555,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

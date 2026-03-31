@@ -1,0 +1,15 @@
+{
+  "id": "210c4b8db110f626cbbd256b4a1d45b359840d4e",
+  "url": "https://economictimes.indiatimes.com/tech/technology/live-translate-with-headphones-google-expands-feature-to-more-countries-across-ios-android/articleshow/129864653.cms",
+  "site": "indiatimes.com",
+  "title": "Live Translate with Headphones: Google expands feature to more countries across iOS, Android - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:19.109046",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\210c4b8db110f626cbbd256b4a1d45b359840d4e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\210c4b8db110f626cbbd256b4a1d45b359840d4e.txt",
+  "word_count": 206,
+  "paywalled": false,
+  "dedup_hash": "0444070702e9b1dd9674c1d4345a4bdd59cedf3e",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Google OR GOOGL)"
+}

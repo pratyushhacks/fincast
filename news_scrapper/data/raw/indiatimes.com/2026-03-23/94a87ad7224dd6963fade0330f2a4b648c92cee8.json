@@ -1,0 +1,25 @@
+{
+  "id": "94a87ad7224dd6963fade0330f2a4b648c92cee8",
+  "url": "https://economictimes.indiatimes.com/news/defence/uk-nuclear-powered-submarine-in-arabian-sea-capable-of-striking-iran-if-conflict-escalates-report/articleshow/129727602.cms",
+  "site": "indiatimes.com",
+  "title": "UK nuclear-powered submarine in Arabian Sea, capable of striking Iran if conflict escalates: Report - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:07.373187",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\94a87ad7224dd6963fade0330f2a4b648c92cee8.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\94a87ad7224dd6963fade0330f2a4b648c92cee8.txt",
+  "word_count": 143,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "874fd5f8dc99672a443e8d259659e0c6a08bef04",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

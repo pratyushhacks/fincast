@@ -1,0 +1,25 @@
+{
+  "id": "88e52479944630f857281e44a99417151188b565",
+  "url": "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/apples-low-price-play-lifts-india-market-share/129743999",
+  "site": "indiatimes.com",
+  "title": "Apple's Strategic Price Cuts Propel Market Share Growth in India, ETRetail",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:01.497548",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\88e52479944630f857281e44a99417151188b565.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\88e52479944630f857281e44a99417151188b565.txt",
+  "word_count": 419,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "29276cdc90afb069882105097b77a821df0877db",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company"
+}

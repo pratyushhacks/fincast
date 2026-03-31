@@ -1,0 +1,65 @@
+{
+  "id": "6fbe2a0bec88d718478f7af56eaac4ca01fc654d",
+  "url": "https://www.thehindu.com/business/benchmark-indices-slip-2-as-crude-oil-prices-remain-high/article70742185.ece",
+  "site": "thehindu.com",
+  "title": "Benchmark indices slip 2% as crude oil prices remain high - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:47:09.395922",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-14\\6fbe2a0bec88d718478f7af56eaac4ca01fc654d.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-14\\6fbe2a0bec88d718478f7af56eaac4ca01fc654d.txt",
+  "word_count": 247,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a48360ccc224885210887d8bac40c815025ad840",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Benchmark indices dipped 2% due to sustained high crude oil prices, a low Indian rupee, and heavy selling by FIIs, affecting all sectoral indices broadly.",
+  "sentiment": 2,
+  "sentiment_reason": "The market impact is negative due to high crude oil prices, currency devaluation, and significant foreign fund outflows.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        51.24,
+        50.97,
+        50.31,
+        50.07,
+        49.8,
+        49.39,
+        48.58
+      ],
+      "base_price": 48.64,
+      "next_price": 49.05,
+      "change_1d": 0.8429,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        683.26,
+        679.45,
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25
+      ],
+      "base_price": 660.49,
+      "next_price": 667.21,
+      "change_1d": 1.0174,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

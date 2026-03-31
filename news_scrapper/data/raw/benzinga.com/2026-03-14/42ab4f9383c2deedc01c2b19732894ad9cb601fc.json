@@ -1,0 +1,65 @@
+{
+  "id": "42ab4f9383c2deedc01c2b19732894ad9cb601fc",
+  "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51257083/vivid-seats-analysts-cut-their-forecasts-after-q4-loss",
+  "site": "benzinga.com",
+  "title": "Vivid Seats Analysts Cut Their Forecasts After Q4 Loss - Vivid Seats (NASDAQ:SEAT)",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:18:45.195175",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-14\\42ab4f9383c2deedc01c2b19732894ad9cb601fc.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-14\\42ab4f9383c2deedc01c2b19732894ad9cb601fc.txt",
+  "word_count": 116,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a46755bdb2caac17f0117a1527ec6073c8cb4e90",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Google",
+  "gdelt_category": "company",
+  "summary": "Vivid Seats Inc. reported a net loss of $428.7M for Q4, with revenues down 37% YoY to $126.8M. Despite the loss, shares gained 4.4%. Analysts adjusted their price targets post-earnings.",
+  "sentiment": 2,
+  "sentiment_reason": "The company's significant loss and revenue decline, despite a gain in share price, indicate negative market sentiment due to poor financial performance.",
+  "price_changes": {
+    "Google": {
+      "ticker": "GOOGL",
+      "trend": [
+        302.92,
+        300.67,
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55
+      ],
+      "base_price": 302.28,
+      "next_price": 305.56,
+      "change_1d": 1.0851,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

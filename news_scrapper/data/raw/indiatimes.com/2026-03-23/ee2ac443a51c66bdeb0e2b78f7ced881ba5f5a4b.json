@@ -1,0 +1,26 @@
+{
+  "id": "ee2ac443a51c66bdeb0e2b78f7ced881ba5f5a4b",
+  "url": "https://economictimes.indiatimes.com/news/india/west-asia-conflict-pm-modi-calls-ministerial-meeting-to-review-energy-situation/articleshow/129730760.cms",
+  "site": "indiatimes.com",
+  "title": "West Asia conflict: PM Modi calls ministerial meeting to review energy situation - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:12.623824",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\ee2ac443a51c66bdeb0e2b78f7ced881ba5f5a4b.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\ee2ac443a51c66bdeb0e2b78f7ced881ba5f5a4b.txt",
+  "word_count": 303,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b203cd0aeda3a107ef1678520751152d9190502c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

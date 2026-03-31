@@ -1,0 +1,67 @@
+{
+  "id": "225245aec633e3272a3fc3fee948709e3a622401",
+  "url": "https://www.techradar.com/pro/so-much-of-the-work-is-going-to-be-done-by-agents-servicenow-ceo-says-graduate-unemployment-could-reach-30-percent-because-of-ai-agents",
+  "site": "techradar.com",
+  "title": "'So much of the work is going to be done by agents': ServiceNow CEO says graduate unemployment could reach 30% because of AI agents | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:17.623519",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\225245aec633e3272a3fc3fee948709e3a622401.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\225245aec633e3272a3fc3fee948709e3a622401.txt",
+  "word_count": 401,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "8997d19202a234750a9aaaf91edefcd717ef7b8c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "AI agents may cause graduate unemployment to reach 30%, affecting entry-level jobs in customer service, coding, and marketing, with companies like Palantir, Amazon, and ServiceNow leading the AI adoption and workforce impact.",
+  "sentiment": 2,
+  "sentiment_reason": "The article suggests a negative market impact due to rising graduate unemployment and AI replacing entry-level human workers, indicating recession fears and potential challenges for graduates.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74
+      ],
+      "base_price": 215.2,
+      "next_price": 209.87,
+      "change_1d": -2.4768,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

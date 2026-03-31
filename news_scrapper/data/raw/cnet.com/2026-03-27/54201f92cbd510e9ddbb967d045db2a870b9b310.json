@@ -1,0 +1,67 @@
+{
+  "id": "54201f92cbd510e9ddbb967d045db2a870b9b310",
+  "url": "https://www.cnet.com/tech/do-you-know-all-of-these-19-little-known-amazon-prime-benefits/",
+  "site": "cnet.com",
+  "title": "Do You Know All These 19 Little-Known Amazon Prime Benefits? - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:58.278051",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-27\\54201f92cbd510e9ddbb967d045db2a870b9b310.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-27\\54201f92cbd510e9ddbb967d045db2a870b9b310.txt",
+  "word_count": 2103,
+  "reading_time_minutes": 10,
+  "paywalled": false,
+  "dedup_hash": "162d19f9514fea2c461f8197390f88f8a04f073a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon Prime membership offers hidden benefits like access to premium TV channels and music, no-rush shipping rewards, and significant grocery discounts at Whole Foods, potentially saving members hundreds of dollars annually.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights positive aspects of Amazon Prime membership, such as substantial savings and exclusive deals, which are likely to have a positive impact on the market perception of the service.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

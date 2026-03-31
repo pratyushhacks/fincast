@@ -1,0 +1,66 @@
+{
+  "id": "9c2a729d556409719442ea824d336bb7fbcb6489",
+  "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-ongoing-chaos-can-bring-opportunity-in-next-month-says-expert-11774169068506.html",
+  "site": "livemint.com",
+  "title": "In a best-case scenario, the ongoing chaos can bring opportunity in next month, says expert | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:20.626185",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\9c2a729d556409719442ea824d336bb7fbcb6489.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\9c2a729d556409719442ea824d336bb7fbcb6489.txt",
+  "word_count": 758,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "23af81041501dfb593fec64bc0ebedbcd4f1ca1c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector",
+  "summary": "Indian equity markets face a reality check amid geopolitical tensions, with mid- and small-cap stocks corrected and volatility in metals sector. Despite near-term weakness, long-term opportunities are emerging with moderated valuations and selective buying in strong companies and sectors.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as geopolitical tensions, volatile global cues, and sector-specific challenges, but also mentions selective buying and long-term opportunities, indicating a predominantly negative sentiment with some positive aspects.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        149.55,
+        149.18,
+        150.39,
+        149.03,
+        146.54,
+        146.01,
+        144.74
+      ],
+      "base_price": 144.77,
+      "next_price": 144.79,
+      "change_1d": 0.0138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5779f36fc8f440468c1fd66f9928e3f6deac9454",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/fibocom-unveils-advanced-gnss-solutions-to-drive-future-connectivity-at-mwc-2026/129837852",
+  "site": "indiatimes.com",
+  "title": "Fibocom Unveils Advanced GNSS Solutions to Drive Future Connectivity at MWC 2026, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:05.240015",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\5779f36fc8f440468c1fd66f9928e3f6deac9454.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\5779f36fc8f440468c1fd66f9928e3f6deac9454.txt",
+  "word_count": 657,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "28a85c2639a926a156afe67ccd433dc28a0a8952",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector"
+}

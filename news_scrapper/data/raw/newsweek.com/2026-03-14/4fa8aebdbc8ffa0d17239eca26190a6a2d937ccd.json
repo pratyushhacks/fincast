@@ -1,0 +1,47 @@
+{
+  "id": "4fa8aebdbc8ffa0d17239eca26190a6a2d937ccd",
+  "url": "https://www.newsweek.com/gop-senator-issues-warning-to-trump-after-fresh-legal-blow-11676631",
+  "site": "newsweek.com",
+  "title": "GOP Senator Issues Warning to Trump After Fresh Legal Blow - Newsweek",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:56:18.661129",
+  "language": null,
+  "html_path": "data\\raw\\newsweek.com\\2026-03-14\\4fa8aebdbc8ffa0d17239eca26190a6a2d937ccd.html",
+  "text_path": "data\\raw\\newsweek.com\\2026-03-14\\4fa8aebdbc8ffa0d17239eca26190a6a2d937ccd.txt",
+  "word_count": 965,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "281d8975e72e3a3a411e54afcdbda7c5f123fd48",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Federal Reserve interest rates",
+  "gdelt_category": "macro",
+  "summary": "Senator Thom Tillis warns Trump after a judge quashes a subpoena against Federal Reserve chair Jerome Powell, potentially complicating Kevin Warsh's confirmation as his successor. Tillis criticizes the administration's legal actions as pressuring the Fed and undermining its independence.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to concerns over the independence of the Federal Reserve and the potential delay in confirming a new Fed chair amidst legal and political pressure.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

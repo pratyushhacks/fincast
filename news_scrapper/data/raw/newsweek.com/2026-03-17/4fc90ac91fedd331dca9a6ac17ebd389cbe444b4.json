@@ -1,0 +1,65 @@
+{
+  "id": "4fc90ac91fedd331dca9a6ac17ebd389cbe444b4",
+  "url": "https://www.newsweek.com/trump-putin-russia-ukraine-iran-11682126",
+  "site": "newsweek.com",
+  "title": "Trump Makes Putin's Point for Him - Newsweek",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:51.129252",
+  "language": null,
+  "html_path": "data\\raw\\newsweek.com\\2026-03-17\\4fc90ac91fedd331dca9a6ac17ebd389cbe444b4.html",
+  "text_path": "data\\raw\\newsweek.com\\2026-03-17\\4fc90ac91fedd331dca9a6ac17ebd389cbe444b4.txt",
+  "word_count": 1277,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "15227237dea9c7431c36698ce24c8bc9a4e1da72",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Trump draws moral equivalence between Russian intelligence-sharing with Iran and U.S. support for Ukraine, complicating relations and potentially involving powers in indirect confrontations across multiple theaters.",
+  "sentiment": 2,
+  "sentiment_reason": "The comments could exacerbate tensions and complicate U.S. relations with allies, reflecting warlike rhetoric and potential policy implications.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

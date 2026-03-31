@@ -1,0 +1,64 @@
+{
+  "id": "3f309df2e2b41352df35b26ca93aeb74f41112f9",
+  "url": "https://www.zdnet.com/article/lisen-retractable-car-charger-amazon-spring-sale-2026/",
+  "site": "zdnet.com",
+  "title": "This car charger is a must for long road trips - and it's cheap | ZDNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:45.072147",
+  "language": null,
+  "html_path": "data\\raw\\zdnet.com\\2026-03-28\\3f309df2e2b41352df35b26ca93aeb74f41112f9.html",
+  "text_path": "data\\raw\\zdnet.com\\2026-03-28\\3f309df2e2b41352df35b26ca93aeb74f41112f9.txt",
+  "word_count": 846,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "71238d0ee54b31c54858ea20e166f4d597f677fe",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon's Big Spring Sale is offering a 35% discount on the Lisen Retractable Car Charger, a product highly recommended and owned by the reviewer for its fast charging and convenience.",
+  "sentiment": 5,
+  "sentiment_reason": "The reviewer expresses a strong positive sentiment towards the charger, highlighting its benefits, ease of use, and personal satisfaction, hence the maximum score of 5.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

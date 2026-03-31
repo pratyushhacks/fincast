@@ -1,0 +1,64 @@
+{
+  "id": "f350c9669c699356e23c267494cea1ce90f9a82f",
+  "url": "https://www.theguardian.com/capture-more-with-samsung/ng-interactive/2026/mar/18/samsung-galaxy-s26-series-everyday-intelligence-refined",
+  "site": "theguardian.com",
+  "title": "Samsung Galaxy S26 Series: Everyday Intelligence, refined | Capture More With Samsung | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:04.129883",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-27\\f350c9669c699356e23c267494cea1ce90f9a82f.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-27\\f350c9669c699356e23c267494cea1ce90f9a82f.txt",
+  "word_count": 385,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6927f03d5fa8f65b8fd50cbd2a2fd81296afdcc1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "The Galaxy S26 Series boasts new features like Privacy Display, Galaxy AI, and Nightography, along with tools for photo editing and personalized search suggestions. However, some features have limitations and require additional setup or account logins.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of innovative features and tools with enhanced performance and personalization capabilities indicates a positive impact on the market.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

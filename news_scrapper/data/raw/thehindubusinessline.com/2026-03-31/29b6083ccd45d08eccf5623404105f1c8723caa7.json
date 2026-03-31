@@ -1,0 +1,18 @@
+{
+  "id": "29b6083ccd45d08eccf5623404105f1c8723caa7",
+  "url": "https://www.thehindubusinessline.com/info-tech/india-it-eyes-modest-q4-with-deal-pipelines-strong-spending-uneven/article70793268.ece",
+  "site": "thehindubusinessline.com",
+  "title": "India IT eyes modest Q4 with deal pipelines strong, spending uneven - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:53.013394",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\29b6083ccd45d08eccf5623404105f1c8723caa7.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\29b6083ccd45d08eccf5623404105f1c8723caa7.txt",
+  "word_count": 589,
+  "paywalled": false,
+  "dedup_hash": "437e9a72cec2964753ac7855df96c2b9e23307cf",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "India'ser IT sector anticipates modest growth in Q4FY26, driven by steady demand, healthy deal pipelines, and early AI opportunities, despite elongated decision cycles and uneven discretionary spending. Large-caps show flat to low single-digit growth, supported by margins and disciplined cost management.",
+  "sentiment": 3,
+  "sentiment_reason": "The market impact is neutral as the sector shows steady growth and resilience amid selective demand and ongoing digital initiatives, without major positive or negative disruptions."
+}

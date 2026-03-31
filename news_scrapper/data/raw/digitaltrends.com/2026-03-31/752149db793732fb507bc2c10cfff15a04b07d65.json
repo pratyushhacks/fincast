@@ -1,0 +1,54 @@
+{
+  "id": "752149db793732fb507bc2c10cfff15a04b07d65",
+  "url": "https://www.digitaltrends.com/computing/microsofts-copilot-cowork-arrives-with-smarter-ai-research-tools-to-spot-gaps-in-your-work/",
+  "site": "digitaltrends.com",
+  "title": "Microsoft’s Copilot Cowork arrives with smarter AI research tools to spot gaps in your work - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:45.101723",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\752149db793732fb507bc2c10cfff15a04b07d65.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\752149db793732fb507bc2c10cfff15a04b07d65.txt",
+  "word_count": 329,
+  "paywalled": false,
+  "dedup_hash": "402a2764e426ca71f9067a1d4c080c59e62dc4ec",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "Microsoft launched Copilot Cowork, an AI tool for handling tasks in Microsoft 365, and upgraded its Researcher tool with new features like Critique and Council. These enhancements aim to improve accuracy, quality, and efficiency in deep research and task management.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of Copilot Cowork and the Researcher tool upgrades are positive developments that enhance productivity and decision-making capabilities in the workplace.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

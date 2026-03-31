@@ -1,0 +1,66 @@
+{
+  "id": "0afea552037efe8216a377cb2bde17176a1c7be3",
+  "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+  "site": "techcrunch.com",
+  "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:16.977044",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-19\\0afea552037efe8216a377cb2bde17176a1c7be3.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-19\\0afea552037efe8216a377cb2bde17176a1c7be3.txt",
+  "word_count": 803,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "cea5eecda0480afa17c9f9296c27319c1eaafed4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Sequen secured $16M in Series A funding to provide real-time personalization technology to consumer companies, potentially replacing cookies and offering a less privacy-invasive alternative. The technology is based on large event models that generalize streams of events and human behavior, not relying on user identity.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents Sequen's funding and technology as a neutral development in the market, with potential implications for privacy and personalization in consumer apps.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

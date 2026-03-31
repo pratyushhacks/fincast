@@ -1,0 +1,65 @@
+{
+  "id": "37ef26531944bd32eb58805e1bb7af191591b038",
+  "url": "https://www.businessinsider.com/meta-ai-push-employee-goals-tool-adoption-2-026-3",
+  "site": "businessinsider.com",
+  "title": "Meta's AI Push Ties Employee Goals to AI Tool Adoption - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:50.810202",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-27\\37ef26531944bd32eb58805e1bb7af191591b038.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-27\\37ef26531944bd32eb58805e1bb7af191591b038.txt",
+  "word_count": 596,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "8a6dee99e0424bf6648d52be22ed0a571e691a86",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta aims to become an 'AI-native' company with goals for increased AI tool usage among engineers, including writing code predominantly with AI assistance and adopting AI tools for software changes. The company is also restructuring with a focus on AI.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses Meta's strategic shift towards AI integration and adoption, which is generally seen as a positive move for innovation and efficiency in the tech industry.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "d44bc79dcd4f437d58ddf4a61c76f8b839976db9",
+  "url": "https://www.thehindu.com/sci-tech/technology/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says/article70756602.ece",
+  "site": "thehindu.com",
+  "title": "Chinese authorities approve Nvidia's H200 AI chip sales, source says - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:00.820629",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-19\\d44bc79dcd4f437d58ddf4a61c76f8b839976db9.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-19\\d44bc79dcd4f437d58ddf4a61c76f8b839976db9.txt",
+  "word_count": 321,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "564553031df662f06040a617d4634afb31ec01d9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Chinese authorities have approved multiple companies to purchase H200 AI chips from Nvidia, signaling potential resumption of its H200 chip production. Preliminary approvals were granted to major Chinese tech companies and AI startups, although final regulatory conditions are still being finalized.",
+  "sentiment": 2,
+  "sentiment_reason": "The approval for Nvidia's H200 chip sales in China is negative due to the previous regulatory hurdles and production halts that affected the company's operations.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1921a6245b195e0d247938c52ae90f38b7b9ee91",
+  "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
+  "site": "theguardian.com",
+  "title": "Invisible datacentres and capricious chips: is UK’s AI bubble about to burst? | AI (artificial intelligence) | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:52:32.047260",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-14\\1921a6245b195e0d247938c52ae90f38b7b9ee91.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-14\\1921a6245b195e0d247938c52ae90f38b7b9ee91.txt",
+  "word_count": 1561,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "e00817a54e679d007105f98edf9dce7b70b22047",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "NVIDIA",
+  "gdelt_category": "company",
+  "summary": "OpenAI's major AI investment project in Texas faces financing and timeline issues, contributing to growing investor concerns over AI infrastructure. Key AI deals in the UK are found to be overstated, with delays and vague agreements, potentially impacting the country's AI capabilities and economy.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights significant problems and delays in AI infrastructure projects, causing negative sentiment due to investment risks and potential economic impact.",
+  "price_changes": {
+    "NVIDIA": {
+      "ticker": "NVDA",
+      "trend": [
+        183.03,
+        183.33,
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14
+      ],
+      "base_price": 180.25,
+      "next_price": 183.22,
+      "change_1d": 1.6477,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

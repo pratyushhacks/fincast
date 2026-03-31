@@ -1,0 +1,67 @@
+{
+  "id": "d01733d7716973e64457a92a68342a76eef5a44b",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2026/march-madness-may-be-on-tv-but-ai-is-taking-over-gameplay/",
+  "site": "pymnts.com",
+  "title": "March Madness May Be on TV, but AI Is Taking Over Gameplay",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:10.594440",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-27\\d01733d7716973e64457a92a68342a76eef5a44b.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-27\\d01733d7716973e64457a92a68342a76eef5a44b.txt",
+  "word_count": 710,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4961f487161cfac7ea034e7ff95e06664ab34385",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Artificial intelligence is transforming college sports through game strategy, recruiting, and athlete endorsement economics, with tools for real-time analytics, wearable sensors, and autonomous recruiting systems.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the positive impact of AI in enhancing performance preparation, talent acquisition, and financial aspects in college sports.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1
+      ],
+      "base_price": 43.13,
+      "next_price": 41.19,
+      "change_1d": -4.498,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

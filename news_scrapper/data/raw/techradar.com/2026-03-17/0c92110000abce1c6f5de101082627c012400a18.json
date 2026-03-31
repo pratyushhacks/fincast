@@ -1,0 +1,65 @@
+{
+  "id": "0c92110000abce1c6f5de101082627c012400a18",
+  "url": "https://www.techradar.com/pro/this-core-ultra-7-laptop-deal-for-professionals-with-a-2k-oled-120hz-display-is-gbp427-off-acer-swift-go-16-is-just-gbp722-with-a-code",
+  "site": "techradar.com",
+  "title": "Save £427 on the Core Ultra 7 laptop deal with this code | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:23.347025",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\0c92110000abce1c6f5de101082627c012400a18.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\0c92110000abce1c6f5de101082627c012400a18.txt",
+  "word_count": 319,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a3e8459aa05571bf82787e8841444c8d55b484a4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Acer's Swift Go 16-inch laptop is on sale for £722 with a code, featuring a 16-core Intel Core Ultra 7 processor, vibrant OLED display, fast SSD, and long battery life, suitable for portable power and creative tasks.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a positive laptop deal but includes a negative sentiment due to the context of a sale, which may imply a discount due to lower demand or previous sales issues.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        43.42,
+        45.58,
+        46.78,
+        47.98,
+        45.25,
+        45.77,
+        45.76
+      ],
+      "base_price": 44.06,
+      "next_price": 45.03,
+      "change_1d": 2.2015,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

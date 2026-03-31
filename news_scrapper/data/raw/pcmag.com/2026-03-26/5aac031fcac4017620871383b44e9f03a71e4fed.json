@@ -1,0 +1,65 @@
+{
+  "id": "5aac031fcac4017620871383b44e9f03a71e4fed",
+  "url": "https://www.pcmag.com/news/best-amazon-spring-sale-2026-deals-lenovo-laptops-desktops",
+  "site": "pcmag.com",
+  "title": "Mega Discounts on Top-Rated Lenovo PCs and Tablets at Amazon's Big Spring Sale | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:25.915690",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-26\\5aac031fcac4017620871383b44e9f03a71e4fed.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-26\\5aac031fcac4017620871383b44e9f03a71e4fed.txt",
+  "word_count": 1074,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "39c616dfb63a79a2ffd6b4555aff7cc3000f9b39",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Lenovo offers significant discounts on a variety of products including desktops, laptops, tablets, and gaming laptops during the Amazon Big Spring Sale, with some items featuring up to 40% off.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights major price reductions across a range of Lenovo products, indicating a strongly positive market impact due to the sale.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.42,
+      "change_1d": -1.542,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.57,
+      "change_1d": -1.084,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

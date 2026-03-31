@@ -1,0 +1,28 @@
+{
+  "id": "433fce4d7aef905cd375e3d0017488f76bfae806",
+  "url": "https://telecom.economictimes.indiatimes.com/news/internet/meta-acquires-ai-startup-dreamer-former-google-and-stripe-executives-join-forces/129768624",
+  "site": "indiatimes.com",
+  "title": "Meta Acquires AI Startup Dreamer: Former Google and Stripe Executives Join Forces, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:10.446416",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\433fce4d7aef905cd375e3d0017488f76bfae806.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\433fce4d7aef905cd375e3d0017488f76bfae806.txt",
+  "word_count": 638,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "889047b4cfc1704c37563ee5d4725a4af190f159",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

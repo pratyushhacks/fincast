@@ -1,0 +1,54 @@
+{
+  "id": "6cfca3b7d5863ce59d0fc31ab2cfae9f855d47af",
+  "url": "https://www.livemint.com/opinion/online-views/iran-war-splitting-ai-fortunes-labs-hyperscalers-chipmakers-nvidia-tsmc-openai-anthropic-11774727119280.html",
+  "site": "livemint.com",
+  "title": "The Iran war is splitting AI fortunes: Labs are less vulnerable than cost-hit hyperscalers and chipmakers | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:24.789139",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\6cfca3b7d5863ce59d0fc31ab2cfae9f855d47af.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\6cfca3b7d5863ce59d0fc31ab2cfae9f855d47af.txt",
+  "word_count": 58,
+  "paywalled": false,
+  "dedup_hash": "4a6623e713828754c265288fbef7869f36615ce9",
+  "scraper_version": "0.1",
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "summary": "Hyperscalers such as Amazon, Google, Microsoft, Meta, and Oracle face increased risk due to their heavy reliance on cheap, reliable energy, particularly natural gas, for their data centers. The ongoing Iran war is causing energy prices to rise, impacting these companies disproportionately.",
+  "sentiment": 2,
+  "sentiment_reason": "The rising energy costs due to the Iran war pose a negative impact on hyperscalers that depend on natural gas for a significant portion of their energy needs.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24,
+        167.52
+      ],
+      "base_price": 165.17,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

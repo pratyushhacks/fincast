@@ -1,0 +1,64 @@
+{
+  "id": "b01b593189ab0549d2bbb89a812ee5e66662ba36",
+  "url": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html",
+  "site": "cnbc.com",
+  "title": "China Development Forum welcomes U.S. execs revamping market push",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:50.103532",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-24\\b01b593189ab0549d2bbb89a812ee5e66662ba36.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-24\\b01b593189ab0549d2bbb89a812ee5e66662ba36.txt",
+  "word_count": 872,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "a45193aba9fb12a3eea65d7cdd488142de26bad1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "gdelt_category": "macro",
+  "summary": "Apple's CEO praised China's technological progress and clean energy initiatives, while Eli Lilly sees potential in China's market for its GLP-1 obesity drug. Despite ongoing U.S.-China tensions, global executives are investing in China, and some companies are benefiting from market recoveries and opportunities.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a generally positive outlook with mentions of technological progress, clean energy, and market recoveries, despite some underlying tensions and uncertainties.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59
+      ],
+      "base_price": 341.02,
+      "next_price": 345.25,
+      "change_1d": 1.2404,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

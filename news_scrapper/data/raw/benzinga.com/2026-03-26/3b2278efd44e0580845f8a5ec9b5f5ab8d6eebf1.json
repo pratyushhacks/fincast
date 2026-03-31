@@ -1,0 +1,65 @@
+{
+  "id": "3b2278efd44e0580845f8a5ec9b5f5ab8d6eebf1",
+  "url": "https://www.benzinga.com/markets/private-markets/26/03/51446309/blackstone-bain-brookfield-move-from-saas-to-halo-bets",
+  "site": "benzinga.com",
+  "title": "Blackstone, Bain, Brookfield Move From SaaS To 'HALO' Bets",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:05.569919",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\3b2278efd44e0580845f8a5ec9b5f5ab8d6eebf1.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\3b2278efd44e0580845f8a5ec9b5f5ab8d6eebf1.txt",
+  "word_count": 263,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "da28442dcec1c29d472b38105d05c77c57321a40",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Major private credit firms are shifting focus to 'Heavy Asset, Low Obsolescence (HALO) companies' due to lower tech disruption risk, while AI's impact on new-economy business models and capital-light companies is causing market concerns and investments in industrial and defense sectors.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of neutral and slightly negative sentiments due to the shift in investment strategy and concerns over AI's impact, but without major market disruptions or strong positive developments.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        35.38,
+        34.85,
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38
+      ],
+      "base_price": 33.29,
+      "next_price": 32.72,
+      "change_1d": -1.7122,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.03,
+      "change_1d": -0.7844,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

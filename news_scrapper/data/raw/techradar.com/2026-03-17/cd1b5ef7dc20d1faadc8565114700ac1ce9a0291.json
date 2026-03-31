@@ -1,0 +1,63 @@
+{
+  "id": "cd1b5ef7dc20d1faadc8565114700ac1ce9a0291",
+  "url": "https://www.techradar.com/pro/this-exceptional-5g-mobile-router-deal-is-your-last-chance-to-save-on-netgears-fast-business-travel-essential-in-amazons-spring-sale",
+  "site": "techradar.com",
+  "title": "Last chance to save on Netgear's superb 5G mobile router deal | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:16.947005",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\cd1b5ef7dc20d1faadc8565114700ac1ce9a0291.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\cd1b5ef7dc20d1faadc8565114700ac1ce9a0291.txt",
+  "word_count": 372,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c946716b5f03f5cc01908618d47e5f7567d71647",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Netgear Nighthawk M3 5G mobile router deal at £375 during Amazon's Spring Deal Days Sale, offering reliable and speedy connections for business travel or home security systems, with battery life of 8-10 hours for multiple device usage.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a positive deal on a Netgear router, but the mention of the sale and the need for quick action due to the deal's limited time frame introduces a slight negative sentiment related to urgency.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74
+      ],
+      "base_price": 215.2,
+      "next_price": 209.87,
+      "change_1d": -2.4768,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "b24181381a288f4b0560ffc3d738a408d4c5a782",
+  "url": "https://www.techradar.com/pro/we-are-going-to-push-the-limits-of-physics-in-compute-elon-musk-wants-texas-terafab-plant-to-produce-one-terawatt-of-computing-power-each-year-and-build-a-global-robot-population-using-tesla-and-spacex-tech",
+  "site": "techradar.com",
+  "title": "Musk wants a terawatt chip factory in Texas and a billion robots, yet the math behind it looks brutal | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:16.985478",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\b24181381a288f4b0560ffc3d738a408d4c5a782.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\b24181381a288f4b0560ffc3d738a408d4c5a782.txt",
+  "word_count": 528,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "25e13bd2964601c9e7ab7f99d09d82a2dc8df473",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Elon Musk unveils Terafab, a facility aiming to massively expand computing capacity with a recursive manufacturing process for chips, intended for both terrestrial and space applications, amidst concerns over feasibility and resource constraints.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a significant technological ambition with potential positive impacts on computing and space industries, but also includes concerns about feasibility and current market challenges.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.63,
+      "change_1d": -1.7414,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.23,
+      "change_1d": -1.1433,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

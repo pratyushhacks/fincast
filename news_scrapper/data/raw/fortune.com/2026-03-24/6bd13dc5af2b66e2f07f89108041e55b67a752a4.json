@@ -1,0 +1,64 @@
+{
+  "id": "6bd13dc5af2b66e2f07f89108041e55b67a752a4",
+  "url": "https://fortune.com/2026/03/23/bitcoin-climbs-as-trump-grants-five-days-for-iran-negotiations/",
+  "site": "fortune.com",
+  "title": "Bitcoin climbs as Trump grants five days for Iran negotiations | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:37.274899",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-24\\6bd13dc5af2b66e2f07f89108041e55b67a752a4.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-24\\6bd13dc5af2b66e2f07f89108041e55b67a752a4.txt",
+  "word_count": 404,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "35b75a877a02332af39d0f6bbb6d733cc4a3c0cb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Bitcoin and other cryptocurrencies rose amidst easing tensions between the U.S. and Iran, with hopes for a de-escalation in the Middle East influencing market sentiment. Smaller tokens like Ether and Solana also saw increases.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive market impact due to the potential for a diplomatic resolution between the U.S. and Iran, leading to a rally in risk assets and a stabilization in oil prices, which indirectly benefits the cryptocurrency market.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

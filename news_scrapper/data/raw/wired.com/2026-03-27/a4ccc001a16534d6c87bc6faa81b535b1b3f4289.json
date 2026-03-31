@@ -1,0 +1,28 @@
+{
+  "id": "a4ccc001a16534d6c87bc6faa81b535b1b3f4289",
+  "url": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
+  "site": "wired.com",
+  "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young | WIRED",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:12.867459",
+  "language": null,
+  "html_path": "data\\raw\\wired.com\\2026-03-27\\a4ccc001a16534d6c87bc6faa81b535b1b3f4289.html",
+  "text_path": "data\\raw\\wired.com\\2026-03-27\\a4ccc001a16534d6c87bc6faa81b535b1b3f4289.txt",
+  "word_count": 609,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "102b17d06561b1404eab3925c1ba08758f8ef382",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Lisa Ann, a former adult performer, has partnered with OhChat to create a digital twin of herself, allowing users to generate explicit content. The platform also hosts other creators and has competitors in the market.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the adult industry's shift towards AI and the controversial topic of digital twins, which includes fears around deepfakes and consent, indicating a negative sentiment."
+}

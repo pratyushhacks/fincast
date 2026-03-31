@@ -1,0 +1,54 @@
+{
+  "id": "8630dd3ca645ad329f9cbf5b474528c642fa6e23",
+  "url": "https://www.scmp.com/news/china/diplomacy/article/3348238/asean-countries-warned-against-exploiting-us-china-tensions-short-term-gain",
+  "site": "scmp.com",
+  "title": "Asean countries warned against exploiting US-China tensions for short-term gain | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:37.259710",
+  "html_path": "data\\raw\\scmp.com\\2026-03-31\\8630dd3ca645ad329f9cbf5b474528c642fa6e23.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-31\\8630dd3ca645ad329f9cbf5b474528c642fa6e23.txt",
+  "word_count": 207,
+  "paywalled": false,
+  "dedup_hash": "8a0e51cf13915c20f95f24c3e0db5180abd098ea",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "summary": "A Chinese political scientist warns Southeast Asian countries against using China-US tensions for short-term gains, as it may lead to unintended consequences. Both China and the US increase naval presence in the South China Sea, complicating regional dynamics.",
+  "sentiment": 2,
+  "sentiment_reason": "The cautionary advice and the escalating tensions between China and the US suggest negative market impact due to potential geopolitical instability and its effect on regional trade.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25,
+        328.85,
+        323.48
+      ],
+      "base_price": 309.79,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

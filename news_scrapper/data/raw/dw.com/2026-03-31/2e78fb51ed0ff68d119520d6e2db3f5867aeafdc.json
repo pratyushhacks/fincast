@@ -1,0 +1,54 @@
+{
+  "id": "2e78fb51ed0ff68d119520d6e2db3f5867aeafdc",
+  "url": "https://www.dw.com/en/indonesia-rolls-out-social-media-ban-for-under-16s/a-76574803",
+  "site": "dw.com",
+  "title": "Indonesia rolls out social media ban for under-16s",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:37.935051",
+  "html_path": "data\\raw\\dw.com\\2026-03-31\\2e78fb51ed0ff68d119520d6e2db3f5867aeafdc.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-31\\2e78fb51ed0ff68d119520d6e2db3f5867aeafdc.txt",
+  "word_count": 618,
+  "paywalled": false,
+  "dedup_hash": "bffc3c23ade758b194aec76c5f4bc7ccc10283d5",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Indonesia introduces a social media ban for children under 16 to protect them from online harms, following Australia's precedent. The measure targets high-risk platforms and aims to safeguard the mental health of young users.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the focus on youth safety issues and the implication of potential harm caused by social media usage.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

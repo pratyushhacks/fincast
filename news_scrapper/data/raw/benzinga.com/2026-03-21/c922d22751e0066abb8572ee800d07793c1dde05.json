@@ -1,0 +1,66 @@
+{
+  "id": "c922d22751e0066abb8572ee800d07793c1dde05",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51373035/howard-lutnick-says-greatest-innovators-are-all-right-here-while-meeting-elon-musk-jensen-huang-and-",
+  "site": "benzinga.com",
+  "title": "Howard Lutnick Says Greatest Innovators 'Are All Right Here' While Meeting Elon Musk, Jensen Huang And Sundar Pichai - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:31.311622",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\c922d22751e0066abb8572ee800d07793c1dde05.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\c922d22751e0066abb8572ee800d07793c1dde05.txt",
+  "word_count": 273,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "8a5a24283bf160e52e2b422d396715914eb6f8e1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "U.S. Secretary of Commerce highlights the country's leadership in innovation with top tech leaders, while Nvidia, Alphabet, and Tesla show strong financial performance and growth potential.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive news about U.S. innovation leadership and strong financial results from major tech companies, indicating a positive market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

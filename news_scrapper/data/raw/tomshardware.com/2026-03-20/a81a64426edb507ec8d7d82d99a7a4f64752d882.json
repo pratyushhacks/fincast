@@ -1,0 +1,63 @@
+{
+  "id": "a81a64426edb507ec8d7d82d99a7a4f64752d882",
+  "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-powerhouse-alienware-4k-gaming-pc-with-an-rtx-5080-and-64gb-ddr5-ram-epic-pre-built-also-includes-a-huge-4tb-ssd-and-a-24-core-intel-cpu-for-high-end-performance",
+  "site": "tomshardware.com",
+  "title": "Save $800 on this powerhouse Alienware 4K gaming PC with an RTX 5080 and 64GB DDR5 RAM — epic pre-built also includes a huge 4TB SSD and a 24-core Intel CPU for high-end performance | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:55.037918",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-20\\a81a64426edb507ec8d7d82d99a7a4f64752d882.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-20\\a81a64426edb507ec8d7d82d99a7a4f64752d882.txt",
+  "word_count": 735,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "e0c25cef63b905733eeb7936d65820c1c339c2c6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The Alienware Aurora ACT1250 gaming PC offers a significant discount on a high-spec pre-built system, featuring an RTX 5080 GPU and a powerful Intel Core CPU, with ample storage and RAM for future-proofing.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights a major breakthrough in the form of a highly discounted, powerful gaming PC with cutting-edge components, appealing to both gamers and tech enthusiasts.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        47.98,
+        45.25,
+        45.77,
+        45.76,
+        44.06,
+        45.03,
+        46.18
+      ],
+      "base_price": 43.87,
+      "next_price": 44.01,
+      "change_1d": 0.3191,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

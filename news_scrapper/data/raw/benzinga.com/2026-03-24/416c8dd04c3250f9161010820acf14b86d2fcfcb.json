@@ -1,0 +1,64 @@
+{
+  "id": "416c8dd04c3250f9161010820acf14b86d2fcfcb",
+  "url": "https://www.benzinga.com/insights/news/26/03/51407948/heres-how-much-you-would-have-made-owning-tesla-stock-in-the-last-10-years",
+  "site": "benzinga.com",
+  "title": "Here's How Much You Would Have Made Owning Tesla Stock In The Last 10 Years - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:10.981341",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\416c8dd04c3250f9161010820acf14b86d2fcfcb.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\416c8dd04c3250f9161010820acf14b86d2fcfcb.txt",
+  "word_count": 162,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4faabb63a8b5b91b744b94f30e00609f77326a30",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tesla has significantly outperformed the market with a 25.53% annualized return over the past decade, and a current market cap of $1.44 trillion. An investment of $1000 in Tesla from 10 years ago would be worth $24,829.67 today.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights Tesla's strong performance and significant growth over a decade, which is indicative of a strongly positive market impact.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        391.2,
+        395.56,
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85
+      ],
+      "base_price": 383.03,
+      "next_price": 385.95,
+      "change_1d": 0.7623,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

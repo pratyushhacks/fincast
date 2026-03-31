@@ -1,0 +1,64 @@
+{
+  "id": "98d5c7c83a216bdfa38554e7928b842d8e2bf796",
+  "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+  "site": "techcrunch.com",
+  "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:44:59.281549",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-19\\98d5c7c83a216bdfa38554e7928b842d8e2bf796.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-19\\98d5c7c83a216bdfa38554e7928b842d8e2bf796.txt",
+  "word_count": 711,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "c22d5be7ba79eef429f10141157054d138f0ee53",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia is expanding its influence in the tech industry by growing its networking business, which now rivals its chip business in revenue. This division is crucial for AI and data center operations, and despite its success, it remains under-recognized compared to Nvidia's other segments.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a significant growth in Nvidia's networking business, which is impressive and positive for the company's diversification and market positioning, but it also highlights the lack of attention compared to other segments, which gives it a neutral sentiment.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

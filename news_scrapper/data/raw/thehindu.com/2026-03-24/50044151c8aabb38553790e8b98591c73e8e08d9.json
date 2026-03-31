@@ -1,0 +1,64 @@
+{
+  "id": "50044151c8aabb38553790e8b98591c73e8e08d9",
+  "url": "https://www.thehindu.com/education/digital-finance-boom-is-transforming-the-future-of-business-education/article70765194.ece",
+  "site": "thehindu.com",
+  "title": "Digital finance boom is transforming the future of business education - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:32.506798",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-24\\50044151c8aabb38553790e8b98591c73e8e08d9.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-24\\50044151c8aabb38553790e8b98591c73e8e08d9.txt",
+  "word_count": 661,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "12e5018c74427ef51665715c24a040159f129d0e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "India's financial sector is rapidly integrating AI and FinTech, transforming both the industry and management education, with a focus on compliance, resilience, and digital infrastructure, and facing a growing demand for professionals skilled in both finance and technology.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses the positive growth and innovation in India's financial sector, particularly the successful adoption of the UPI model and the integration of AI in financial services, which is seen as a major advancement and opportunity.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

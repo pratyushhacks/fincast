@@ -1,0 +1,29 @@
+{
+  "id": "a362c2c9d3b34b93a3eca7bb13f4149f458580cb",
+  "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-might-not-be-using-the-model-you-think-and-its-also-hiding-others-in-settings",
+  "site": "techradar.com",
+  "title": "ChatGPT might not be using the model you think — and it’s also hiding others in settings | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:03.262185",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-21\\a362c2c9d3b34b93a3eca7bb13f4149f458580cb.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-21\\a362c2c9d3b34b93a3eca7bb13f4149f458580cb.txt",
+  "word_count": 804,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "befe9f653c992bc2aa2065b9531e9d2baef6b02b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "ChatGPT now presents a simplified model selection interface with three modes (Instant, Thinking, Pro) that may not guarantee consistent model usage, potentially leading to varied user experiences.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses concerns about unpredictability and the potential for slower responses due to model switching, which could lead to negative user experiences."
+}

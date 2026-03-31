@@ -1,0 +1,66 @@
+{
+  "id": "0bba68472b27f4da310b0f75d2b7dd2f6385adfc",
+  "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-gift-nifty-50-us-iran-war-usd-vs-inr-gold-silver-rates-india-vix-stocks-to-buy-or-sell-11773625214035.html",
+  "site": "livemint.com",
+  "title": "Stock market today: Trade setup for Gift Nifty, US-Iran war, USD vs INR to gold, silver rates — 6 stocks to buy or sell | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:50.369535",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-17\\0bba68472b27f4da310b0f75d2b7dd2f6385adfc.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-17\\0bba68472b27f4da310b0f75d2b7dd2f6385adfc.txt",
+  "word_count": 1102,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "40735b82d943ed07ec918cdcea9882ad19c27538",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "Indian stock market ended last week under significant corrective pressure amid deteriorating global risk sentiment, rising crude oil prices, and persistent selling by foreign institutional investors. The US-Iran war intensified, triggering broad-based profit-taking across sectors. Gold and silver prices fell amidst geopolitical tensions. Domestic buying interest partially absorbed foreign selling pressure, with Gift Nifty trading green and Asian markets mixed.",
+  "sentiment": 2,
+  "sentiment_reason": "The market sentiment is negative due to the intensified US-Iran war, rising oil prices, and selling pressure from foreign institutional investors, despite some domestic buying support.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.47,
+        27.46,
+        27.45,
+        27.55,
+        27.68,
+        27.89,
+        27.73
+      ],
+      "base_price": 27.68,
+      "next_price": 27.85,
+      "change_1d": 0.6142,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

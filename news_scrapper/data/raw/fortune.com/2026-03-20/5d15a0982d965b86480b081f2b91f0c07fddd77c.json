@@ -1,0 +1,63 @@
+{
+  "id": "5d15a0982d965b86480b081f2b91f0c07fddd77c",
+  "url": "https://fortune.com/article/price-of-oil-03-19-2026/",
+  "site": "fortune.com",
+  "title": "Current price of oil as of March 19, 2026 | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:44.603046",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-20\\5d15a0982d965b86480b081f2b91f0c07fddd77c.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-20\\5d15a0982d965b86480b081f2b91f0c07fddd77c.txt",
+  "word_count": 947,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "7a8b64e33c2aac97a441c87a598a9b6d43c749c4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Oil prices have surged to $113.71 per barrel, influenced by global demand and supply factors, with historical volatility and significant impact on gas prices.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a sharp increase in oil prices and their potential negative impact on gas prices, indicating a negative market sentiment due to fears of rising costs and economic implications.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36
+      ],
+      "base_price": 121.43,
+      "next_price": 110.56,
+      "change_1d": -8.9517,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

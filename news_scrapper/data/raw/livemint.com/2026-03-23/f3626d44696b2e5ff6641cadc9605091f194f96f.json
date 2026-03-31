@@ -1,0 +1,63 @@
+{
+  "id": "f3626d44696b2e5ff6641cadc9605091f194f96f",
+  "url": "https://www.livemint.com/opinion/online-views/crude-proposal-us-rig-oil-prices-short-seller-high-fuel-money-treasury-federal-reserve-petroleum-11773912752960.html",
+  "site": "livemint.com",
+  "title": "Crude proposal: The US shouldn’t try to rig oil prices by intervening as a short seller | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:26.023454",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\f3626d44696b2e5ff6641cadc9605091f194f96f.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\f3626d44696b2e5ff6641cadc9605091f194f96f.txt",
+  "word_count": 84,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "15d9660874da157a1263c8f86367a2d8806b1002",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Treasury Secretary Scott Mnuchin was not convinced by President Trump's tweet about intervening in oil markets and did not rule out such action. The uncertainty led to mixed reactions among oil traders.",
+  "sentiment": 2,
+  "sentiment_reason": "The uncertainty and lack of clear direction from the Treasury Secretary regarding an intervention in the oil markets led to negative market sentiment due to fears of potential market manipulation and its impact on oil prices.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

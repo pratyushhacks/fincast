@@ -1,0 +1,63 @@
+{
+  "id": "8b063d546388b1f117b8cd64edb4eb4c165b3b2c",
+  "url": "https://www.bbc.com/news/live/ckg1w1jp8kjt",
+  "site": "bbc.com",
+  "title": "Trump urges UK and others to send ships to help secure Strait of Hormuz after Iranian attacks - live updates - BBC News",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:21:10.076342",
+  "language": null,
+  "html_path": "data\\raw\\bbc.com\\2026-03-14\\8b063d546388b1f117b8cd64edb4eb4c165b3b2c.html",
+  "text_path": "data\\raw\\bbc.com\\2026-03-14\\8b063d546388b1f117b8cd64edb4eb4c165b3b2c.txt",
+  "word_count": 344,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d4beeef2d293a61702526f67678ea0758d074197",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Google",
+  "gdelt_category": "company",
+  "summary": "Israeli air strikes in Lebanon, worsened by Iranian attacks, continue amidst significant civilian casualties and displacement. Pressure mounts for direct talks, but Hezbollah remains outside the negotiation table, continuing its resistance.",
+  "sentiment": 2,
+  "sentiment_reason": "The ongoing conflict and civilian casualties from the strikes contribute to negative market sentiment.",
+  "price_changes": {
+    "Google": {
+      "ticker": "GOOGL",
+      "trend": [
+        302.92,
+        300.67,
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55
+      ],
+      "base_price": 302.28,
+      "next_price": 305.56,
+      "change_1d": 1.0851,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

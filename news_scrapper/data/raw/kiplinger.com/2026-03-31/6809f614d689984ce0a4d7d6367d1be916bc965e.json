@@ -1,0 +1,54 @@
+{
+  "id": "6809f614d689984ce0a4d7d6367d1be916bc965e",
+  "url": "https://www.kiplinger.com/personal-finance/gen-z-big-money-mistakes-and-how-to-fix-them",
+  "site": "kiplinger.com",
+  "title": "Gen Z's Biggest Money Mistakes (and Small Wins That Fix Them) | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:34.570284",
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-31\\6809f614d689984ce0a4d7d6367d1be916bc965e.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-31\\6809f614d689984ce0a4d7d6367d1be916bc965e.txt",
+  "word_count": 1204,
+  "paywalled": false,
+  "dedup_hash": "8616d717aa94e498c7c023b6fe946ee2c581b5bf",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Intel OR INTC)",
+  "summary": "The article emphasizes the importance of establishing good financial habits in one's 20s, focusing on budgeting, emergency savings, and avoiding common money mistakes that can have long-term consequences.",
+  "sentiment": 4,
+  "sentiment_reason": "The article provides positive guidance on how to improve financial habits and stresses the significance of early financial planning, which is likely to have a beneficial impact on readers' financial futures.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1,
+        43.13
+      ],
+      "base_price": 41.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

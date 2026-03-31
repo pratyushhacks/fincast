@@ -1,0 +1,65 @@
+{
+  "id": "bfa445b1883e1f70b2243b81598903638af66ab5",
+  "url": "https://www.livemint.com/market/commodities/gold-silver-price-today-in-delhi-mumbai-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-21-march-11774145865999.html",
+  "site": "livemint.com",
+  "title": "Gold, silver rate today: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver on 22 March | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:26.869665",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\bfa445b1883e1f70b2243b81598903638af66ab5.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\bfa445b1883e1f70b2243b81598903638af66ab5.txt",
+  "word_count": 602,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "601d0510d895a651e4194e7472f64ffc7efa7e5a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"US inflation\"",
+  "gdelt_category": "macro",
+  "summary": "Gold and silver prices fell today, marking their worst weekly declines in over a month. This decline is attributed to traders' concerns over rising crude oil prices and ongoing conflict in the Middle East.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to the decline in precious metals prices and the associated worries about inflation and interest rates.",
+  "price_changes": {
+    "\"US inflation\"": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

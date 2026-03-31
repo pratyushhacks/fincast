@@ -1,0 +1,64 @@
+{
+  "id": "a495d7a3b3794cb569dee2045fdc96071592ee62",
+  "url": "https://www.pcmag.com/news/apple-eyed-purchase-of-halide-ios-app-to-make-iphone-camera-better",
+  "site": "pcmag.com",
+  "title": "Apple Eyed Purchase of Halide iOS App to Make iPhone Camera Better | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:28:56.186267",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-23\\a495d7a3b3794cb569dee2045fdc96071592ee62.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-23\\a495d7a3b3794cb569dee2045fdc96071592ee62.txt",
+  "word_count": 455,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e68967863a4685f0833826628cc54ced4ba407a7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple faced a lawsuit over alleged theft of confidential information by a designer who was hired instead of acquiring a competing camera app company. The designer is accused of misusing company funds for personal expenses.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a negative situation involving a lawsuit and allegations of misconduct, which can create uncertainty and potentially harm Apple's reputation.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96,
+        247.99
+      ],
+      "base_price": 251.49,
+      "next_price": 251.64,
+      "change_1d": 0.0596,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

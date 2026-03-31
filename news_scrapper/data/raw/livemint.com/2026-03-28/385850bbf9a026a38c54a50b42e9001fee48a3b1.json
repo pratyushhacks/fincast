@@ -1,0 +1,65 @@
+{
+  "id": "385850bbf9a026a38c54a50b42e9001fee48a3b1",
+  "url": "https://www.livemint.com/market/stock-market-news/goldman-sachs-downgrades-indian-equities-cuts-nifty-50-target-to-25-900-amid-us-iran-war-led-oil-price-rally-11774586039305.html",
+  "site": "livemint.com",
+  "title": "Goldman Sachs downgrades Indian equities; cuts Nifty 50 target to 25,900 amid US-Iran war-led oil price rally | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:10.397987",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\385850bbf9a026a38c54a50b42e9001fee48a3b1.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\385850bbf9a026a38c54a50b42e9001fee48a3b1.txt",
+  "word_count": 684,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "62ab5343b63077793b423bb52ea50964fb1b17ad",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Goldman Sachs downgraded Indian equities due to expected earnings downgrade cycle from sustained rise in energy prices amid the US-Iran war, with a forecasted negative impact on India's macro outlook and earnings growth.",
+  "sentiment": 2,
+  "sentiment_reason": "The downgrade and forecasted negative earnings growth, coupled with concerns over the potential adverse impact of the US-Iran tensions, indicate a negative market sentiment.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        121.67,
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26
+      ],
+      "base_price": 124.2,
+      "next_price": 129.83,
+      "change_1d": 4.533,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

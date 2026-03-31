@@ -1,0 +1,65 @@
+{
+  "id": "0b10047cf886708b8c10ba0b43932f4f6df3b729",
+  "url": "https://www.pcmag.com/news/best-amazon-spring-sale-2026-laptops-desktops-gaming-deals-day-3",
+  "site": "pcmag.com",
+  "title": "We Uncovered Massive Laptop and Desktop Deals From Lenovo, Dell, Apple and More at Amazon's Big Spring Sale | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:28.114231",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-28\\0b10047cf886708b8c10ba0b43932f4f6df3b729.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-28\\0b10047cf886708b8c10ba0b43932f4f6df3b729.txt",
+  "word_count": 1677,
+  "reading_time_minutes": 8,
+  "paywalled": false,
+  "dedup_hash": "c363afbdb22b03ae320bd4ece18fada48f8aa48d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Amazon is offering significant discounts on a variety of laptops, including the 2025 MacBook Air with enhanced specs, HP EliteBook 6 G1 with a high RAM capacity, Asus ROG Strix G18 with a large display and gaming performance, and Lenovo Legion 5i with a midrange gaming configuration. These deals are attracting attention for their substantial price reductions and improved features.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights major price cuts and enhanced features across various high-end laptops, which are generally perceived as positive news for consumers and the market.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

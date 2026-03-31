@@ -1,0 +1,25 @@
+{
+  "id": "9d4676b557d7ced7a915a6e37ee55ad1247be97c",
+  "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-proposal-under-consideration-on-merger-of-psu-banks-mos-finance/articleshow/129753545.cms",
+  "site": "indiatimes.com",
+  "title": "No proposal under consideration on merger of PSU banks: MoS Finance - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:47.791948",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\9d4676b557d7ced7a915a6e37ee55ad1247be97c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\9d4676b557d7ced7a915a6e37ee55ad1247be97c.txt",
+  "word_count": 711,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "c9ecba242dcc9e8d10b2e35b576852e7baaf680b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro"
+}

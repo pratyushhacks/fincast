@@ -1,0 +1,66 @@
+{
+  "id": "297e397831e0a23906fe6f5ba1a76dffc3bb7eb0",
+  "url": "https://www.benzinga.com/markets/equities/26/03/51474052/gene-munster-predicts-crazy-innovation-will-continue-to-drive-big-tech-over-next-decade-here-are",
+  "site": "benzinga.com",
+  "title": "Gene Munster Predicts 'Crazy Innovation' Will Continue To Drive Big Tech Over Next Decade: Here Are His Top Picks - Apple (NASDAQ:AAPL), Amazon.com (NASDAQ:AMZN)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:30.194567",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\297e397831e0a23906fe6f5ba1a76dffc3bb7eb0.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\297e397831e0a23906fe6f5ba1a76dffc3bb7eb0.txt",
+  "word_count": 371,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4656030465a0d16cb7f8a7d1d6a41db730ab1bd7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Munster remains bullish on Big Tech, especially on companies like Alphabet and Apple, despite some investors moving away from Big Tech stocks. He anticipates significant benefits for these companies from AI innovation over the next 5-10 years.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights Munster's positive outlook on Big Tech's future, particularly regarding AI innovation and the potential for these companies to outperform due to their unique abilities and investments in AI.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

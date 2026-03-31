@@ -1,0 +1,63 @@
+{
+  "id": "e40375f5d3cf8ed0d5a542882a1b8bb69f34efc3",
+  "url": "https://www.thehindu.com/news/national/sc-gives-centre-four-week-leeway-to-respond-to-petition-on-airfare-hike-says-govt-handling-bigger-problems-now/article70776298.ece",
+  "site": "thehindu.com",
+  "title": "Supreme Court gives Centre four-week leeway to respond to petition on airfare hike, says govt. handling ‘bigger problems now’ - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:33.781209",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-24\\e40375f5d3cf8ed0d5a542882a1b8bb69f34efc3.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-24\\e40375f5d3cf8ed0d5a542882a1b8bb69f34efc3.txt",
+  "word_count": 480,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ae94e3ddc79a08f47ce38d08f3b1c9fc5b1d7222",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The Supreme Court granted the government a four-week extension to respond to a petition regarding airfare hikes and cancellations, citing evolving international situations possibly linked to the Iran-Israel conflict. The petition also highlighted issues with fare transparency and the need for regulatory intervention in the civil aviation sector.",
+  "sentiment": 2,
+  "sentiment_reason": "The mention of the Supreme Court's decision to delay the case due to 'evolving international situations' and the reference to the ongoing Iran-Israel conflict implies negative market impact due to potential instability and uncertainty.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

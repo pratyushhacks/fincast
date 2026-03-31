@@ -1,0 +1,64 @@
+{
+  "id": "db12b14ebd04a474bc835842e9933bb8823c8984",
+  "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+  "site": "techcrunch.com",
+  "title": "Meta reportedly considering layoffs that could affect 20% of the company | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:00:18.432892",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-14\\db12b14ebd04a474bc835842e9933bb8823c8984.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-14\\db12b14ebd04a474bc835842e9933bb8823c8984.txt",
+  "word_count": 162,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "525ede6a99303387aa8b2a4bf548d4ef459ab178",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Meta considers layoffs affecting 20% workforce to offset AI spending and automation impacts, amid speculation and previous large-scale cuts.",
+  "sentiment": 2,
+  "sentiment_reason": "The article suggests a negative market impact due to potential layoffs and the company's need to manage AI-related expenses and automation effects.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

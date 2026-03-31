@@ -1,0 +1,64 @@
+{
+  "id": "1d008945ebb8d89bb3f037b2cdc6a8ee412609e7",
+  "url": "https://www.thehindubusinessline.com/money-and-banking/govt-may-consider-ofs-option-for-raising-public-float-in-idbi-bank/article70772015.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Govt may consider OFS option for raising public float in IDBI Bank - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:22.784673",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-23\\1d008945ebb8d89bb3f037b2cdc6a8ee412609e7.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-23\\1d008945ebb8d89bb3f037b2cdc6a8ee412609e7.txt",
+  "word_count": 514,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "688a2aaaf37824d0c6f0f7c96b799004a09126c0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The government may sell a stake in IDBI Bank to increase public shareholding, following a failed attempt to divest a majority stake held jointly by the government and LIC. The sale aims to expand the public float and facilitate fair valuation.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses a potential positive move for IDBI Bank's valuation and market transparency through the strategic sale of government stakes.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83
+      ],
+      "base_price": 49.27,
+      "next_price": 49.28,
+      "change_1d": 0.0203,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

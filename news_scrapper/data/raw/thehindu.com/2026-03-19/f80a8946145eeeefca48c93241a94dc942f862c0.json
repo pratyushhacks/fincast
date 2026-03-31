@@ -1,0 +1,65 @@
+{
+  "id": "f80a8946145eeeefca48c93241a94dc942f862c0",
+  "url": "https://www.thehindu.com/sci-tech/technology/amazon-ceo-sees-ai-doubling-prior-aws-sales-projections-to-600-billion-by-2036/article70756604.ece",
+  "site": "thehindu.com",
+  "title": "Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:23.150080",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-19\\f80a8946145eeeefca48c93241a94dc942f862c0.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-19\\f80a8946145eeeefca48c93241a94dc942f862c0.txt",
+  "word_count": 439,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2bee1ee43f12bff244f3976c3b590b49f769fe85",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon's CEO projects AI could double the cloud unit's sales to $600B annually by 2036. Despite significant capital expenditures on AI, shares rose slightly.",
+  "sentiment": 4,
+  "sentiment_reason": "The projection of doubling AWS sales due to AI is a positive outlook, indicating strong growth potential and confidence in the AI's impact on the business.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87
+      ],
+      "base_price": 208.76,
+      "next_price": 205.37,
+      "change_1d": -1.6239,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

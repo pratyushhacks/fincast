@@ -1,0 +1,26 @@
+{
+  "id": "d3a60fb450d6e89d7c2151266784816aaab79f5d",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-gold-no-longer-a-safe-haven-whats-dragging-the-yellow-metal-down/articleshow/129815739.cms",
+  "site": "indiatimes.com",
+  "title": "US Stock Market | Gold no longer a safe haven? What’s dragging the yellow metal down - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:29.226636",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\d3a60fb450d6e89d7c2151266784816aaab79f5d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\d3a60fb450d6e89d7c2151266784816aaab79f5d.txt",
+  "word_count": 602,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "ff78a4151e5371f0c6670d129accbb6f9031397c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

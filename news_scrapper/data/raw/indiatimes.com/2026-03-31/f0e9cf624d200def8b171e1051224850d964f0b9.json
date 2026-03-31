@@ -1,0 +1,15 @@
+{
+  "id": "f0e9cf624d200def8b171e1051224850d964f0b9",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/meta-to-launch-innovative-ai-glasses-designed-for-prescription-wearers/129897684",
+  "site": "indiatimes.com",
+  "title": "Meta AI Glasses: Meta to Launch Innovative AI Glasses Designed for Prescription Wearers, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:09.492250",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\f0e9cf624d200def8b171e1051224850d964f0b9.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\f0e9cf624d200def8b171e1051224850d964f0b9.txt",
+  "word_count": 319,
+  "paywalled": false,
+  "dedup_hash": "b78fac1ad13b321e0563e516e038df88ea0162b4",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

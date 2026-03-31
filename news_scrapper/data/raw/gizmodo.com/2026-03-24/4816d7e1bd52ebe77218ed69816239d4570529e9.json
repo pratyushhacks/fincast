@@ -1,0 +1,64 @@
+{
+  "id": "4816d7e1bd52ebe77218ed69816239d4570529e9",
+  "url": "https://gizmodo.com/playstation-6-may-rely-on-ai-more-than-any-console-before-before-it-2000737105",
+  "site": "gizmodo.com",
+  "title": "The Next PlayStation May Rely on AI More Than Any Console Before Before It",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:56.513329",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-24\\4816d7e1bd52ebe77218ed69816239d4570529e9.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-24\\4816d7e1bd52ebe77218ed69816239d4570529e9.txt",
+  "word_count": 675,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "f30bc73a11b50b6dc38245c65f7f2a403dbf2424",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "The PlayStation Pro's new upscaling technology, PSSR, is enhancing image quality for several big games, and while it may not significantly impact titles not reconfigured for PSSR, it is indicative of future hardware capabilities. PlayStation's use of AI and upscaling technology in gaming is also tied to AMD's latest PC graphics card technology.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses the positive impact of PlayStation's upscaling technology on image quality and its potential to match monitor refresh rates, despite some drawbacks like increased latency and graphical artifacts.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

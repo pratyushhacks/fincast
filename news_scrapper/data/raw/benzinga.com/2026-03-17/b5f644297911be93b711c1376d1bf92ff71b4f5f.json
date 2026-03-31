@@ -1,0 +1,66 @@
+{
+  "id": "b5f644297911be93b711c1376d1bf92ff71b4f5f",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51275938/whats-going-on-with-rivian-stock-monday",
+  "site": "benzinga.com",
+  "title": "What's Going On With Rivian Stock Monday - Rivian Automotive (NASDAQ:RIVN)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:12.823090",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\b5f644297911be93b711c1376d1bf92ff71b4f5f.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\b5f644297911be93b711c1376d1bf92ff71b4f5f.txt",
+  "word_count": 337,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "82e71029d701167e593d5f40c9c729f4d81592ff",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Rivian stock sees rebound after analyst upgrade, with a significant price increase following a rating change from TD Cowen. The company projects substantial U.S. demand for the R2 model, despite macro challenges including a loss in 2025 and the end of the federal EV tax credit. The R2's launch at SXSW is a key catalyst for the stock's performance.",
+  "sentiment": 4,
+  "sentiment_reason": "The upgrade and positive demand projections for Rivian's R2 model contribute to a strong market reaction, despite the company's recent financial losses and the end of a federal tax incentive.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56
+      ],
+      "base_price": 399.27,
+      "next_price": 392.78,
+      "change_1d": -1.6255,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

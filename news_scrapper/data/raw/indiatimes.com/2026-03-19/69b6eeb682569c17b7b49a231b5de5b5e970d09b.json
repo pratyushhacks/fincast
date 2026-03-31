@@ -1,0 +1,27 @@
+{
+  "id": "69b6eeb682569c17b7b49a231b5de5b5e970d09b",
+  "url": "https://economictimes.indiatimes.com/ai/ai-insights/mind-the-capital-gap-beyond-indias-ai-summit-moment/articleshow/129649938.cms",
+  "site": "indiatimes.com",
+  "title": "Mind the capital gap: Beyond India’s AI summit moment - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:43.566453",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\69b6eeb682569c17b7b49a231b5de5b5e970d09b.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\69b6eeb682569c17b7b49a231b5de5b5e970d09b.txt",
+  "word_count": 1008,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "f7ee3cfe71d981887923a75b269fd0f7d4e0f2a9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

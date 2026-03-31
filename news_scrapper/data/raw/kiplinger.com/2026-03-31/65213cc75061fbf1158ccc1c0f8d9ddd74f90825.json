@@ -1,0 +1,54 @@
+{
+  "id": "65213cc75061fbf1158ccc1c0f8d9ddd74f90825",
+  "url": "https://www.kiplinger.com/politics/warfare-revolution-how-the-military-uses-ai",
+  "site": "kiplinger.com",
+  "title": "Warfare Revolution: How The Military Uses AI | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:14.347072",
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-31\\65213cc75061fbf1158ccc1c0f8d9ddd74f90825.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-31\\65213cc75061fbf1158ccc1c0f8d9ddd74f90825.txt",
+  "word_count": 1859,
+  "paywalled": false,
+  "dedup_hash": "45cb53a9af406ae024b2cd8843651d0658893c23",
+  "scraper_version": "0.1",
+  "gdelt_query": "cloud computing",
+  "summary": "The U.S. military is rapidly integrating AI technologies to gain a competitive edge in the global AI arms race, with significant investments and aggressive strategies to deploy AI in defense systems against adversaries like China.",
+  "sentiment": 4,
+  "sentiment_reason": "The deployment of AI in military applications and the aggressive investment in AI technology by the U.S. military and tech companies indicate a positive market impact with potential for strategic advantage.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47,
+        109.92,
+        106.0
+      ],
+      "base_price": 105.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

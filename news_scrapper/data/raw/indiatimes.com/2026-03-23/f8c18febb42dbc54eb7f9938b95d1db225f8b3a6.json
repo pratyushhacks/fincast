@@ -1,0 +1,24 @@
+{
+  "id": "f8c18febb42dbc54eb7f9938b95d1db225f8b3a6",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/rocket-fire-from-lebanon-kills-one-in-north-israel-emergency-unit/articleshow/129729919.cms",
+  "site": "indiatimes.com",
+  "title": "Rocket fire from Lebanon kills one in north Israel: Emergency unit - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:06.381020",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\f8c18febb42dbc54eb7f9938b95d1db225f8b3a6.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\f8c18febb42dbc54eb7f9938b95d1db225f8b3a6.txt",
+  "word_count": 218,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1c5b6ecafe360868aa45a02477dddf8a530f82f5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

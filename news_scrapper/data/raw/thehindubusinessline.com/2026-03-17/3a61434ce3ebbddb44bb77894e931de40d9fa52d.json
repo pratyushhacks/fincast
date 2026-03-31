@@ -1,0 +1,65 @@
+{
+  "id": "3a61434ce3ebbddb44bb77894e931de40d9fa52d",
+  "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/the-ai-tsunami-that-is-engulfing-d2c-startups/article70747510.ece",
+  "site": "thehindubusinessline.com",
+  "title": "The AI tsunami that is engulfing D2C startups - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:18.566972",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\3a61434ce3ebbddb44bb77894e931de40d9fa52d.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\3a61434ce3ebbddb44bb77894e931de40d9fa52d.txt",
+  "word_count": 449,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e68b2e4c125026e850cd01d093ada92f027d4ac3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "AI disrupts D2C startups by answering direct search queries, reducing reliance on website clicks, and potentially ordering products without user interaction, impacting companies built on search traffic.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of AI on direct-to-consumer startups that rely on search traffic, leading to declining search traffic and the need for business model adaptation.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

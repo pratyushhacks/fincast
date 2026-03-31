@@ -1,0 +1,54 @@
+{
+  "id": "e3578f52ec384cab4dd6b42b2825f1a788d4fc3d",
+  "url": "https://www.forbes.com/sites/sabbirrangwala/2026/03/30/moving-laser-beams-in-data--centersat-the-speed-of-light/",
+  "site": "forbes.com",
+  "title": "Moving Laser Beams in Data  Centers - At The Speed Of Light",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:15.455675",
+  "html_path": "data\\raw\\forbes.com\\2026-03-31\\e3578f52ec384cab4dd6b42b2825f1a788d4fc3d.html",
+  "text_path": "data\\raw\\forbes.com\\2026-03-31\\e3578f52ec384cab4dd6b42b2825f1a788d4fc3d.txt",
+  "word_count": 1779,
+  "paywalled": false,
+  "dedup_hash": "d3be930603c15dd25382de334e2495ee1aba9548",
+  "scraper_version": "0.1",
+  "gdelt_query": "cloud computing",
+  "summary": "The article discusses the evolution of telephone switching technology and the growth of data center construction to meet the demands of increasing data traffic, AI needs, and hyperscale data center requirements.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive developments in technology and infrastructure growth, highlighting advancements in data center construction and AI applications.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47,
+        109.92,
+        106.0
+      ],
+      "base_price": 105.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

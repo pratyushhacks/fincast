@@ -1,0 +1,24 @@
+{
+  "id": "67d0dd182f40e4017329821dcfd1ae072d4a11a1",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/beijing-tells-us-to-stop-hyping-china-threat-theory/articleshow/129674166.cms",
+  "site": "indiatimes.com",
+  "title": "Beijing tells US to stop hyping 'China threat theory' - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:52.413665",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\67d0dd182f40e4017329821dcfd1ae072d4a11a1.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\67d0dd182f40e4017329821dcfd1ae072d4a11a1.txt",
+  "word_count": 78,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "051272ffb51e6e9933af72069d72eccbfa5d7608",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

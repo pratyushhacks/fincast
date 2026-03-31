@@ -1,0 +1,54 @@
+{
+  "id": "7408cbc4a997c96fe533e540b4ffb2ac082e23bd",
+  "url": "https://www.businessinsider.com/xai-cofounder-ross-nordeen-leaves-musk-preps-spacex-ipo-2026-3",
+  "site": "businessinsider.com",
+  "title": "Last XAI Cofounder, Ross Nordeen, Leaves As Musk Preps for SpaceX IPO - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:50.234027",
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-31\\7408cbc4a997c96fe533e540b4ffb2ac082e23bd.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-31\\7408cbc4a997c96fe533e540b4ffb2ac082e23bd.txt",
+  "word_count": 549,
+  "paywalled": false,
+  "dedup_hash": "3ca26f710e8fd7bedd600c46d4648a2ea0a3011e",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "Elon Musk's original xAI cofounder team has been reduced as Musk reorganizes the company ahead of a significant SpaceX IPO, with multiple leadership changes and restructurings affecting key projects.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to leadership instability and the departure of key personnel amidst a major company reorganization and upcoming high-profile IPO.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

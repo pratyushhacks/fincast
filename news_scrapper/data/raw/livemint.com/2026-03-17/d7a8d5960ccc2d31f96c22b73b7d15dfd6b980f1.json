@@ -1,0 +1,45 @@
+{
+  "id": "d7a8d5960ccc2d31f96c22b73b7d15dfd6b980f1",
+  "url": "https://www.livemint.com/opinion/online-views/china-openclaw-lethal-trifecta-ai-agents-agentic-artificial-intelligence-business-11773389326077.html",
+  "site": "livemint.com",
+  "title": "China has curbed the use of OpenClaw and the ‘lethal trifecta’ of AI agents explains why | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:29.247004",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-17\\d7a8d5960ccc2d31f96c22b73b7d15dfd6b980f1.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-17\\d7a8d5960ccc2d31f96c22b73b7d15dfd6b980f1.txt",
+  "word_count": 81,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "80c2705cbbbadb9b27b5d41b04c8b923a7fc60bf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "China limits OpenClaw use; 'lethal trifecta' of AI with data access, untrusted content, and external communication discussed.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a technology issue related to AI, which could imply potential regulatory concerns or security risks, hence the negative market impact.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

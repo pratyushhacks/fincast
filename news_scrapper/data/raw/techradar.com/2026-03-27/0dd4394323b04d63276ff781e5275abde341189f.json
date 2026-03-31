@@ -1,0 +1,64 @@
+{
+  "id": "0dd4394323b04d63276ff781e5275abde341189f",
+  "url": "https://www.techradar.com/gaming/these-three-cheap-gaming-headsets-are-great-options-if-youre-on-a-budget-trust-me-i-review-these-for-a-living",
+  "site": "techradar.com",
+  "title": "These three cheap gaming headsets are great options if you're on a budget — trust me, I review these for a living | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:59.118049",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-27\\0dd4394323b04d63276ff781e5275abde341189f.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-27\\0dd4394323b04d63276ff781e5275abde341189f.txt",
+  "word_count": 375,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e577e1afe8d6e416af436298d9ad6caa2526c196",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The article highlights three discounted gaming headsets from SteelSeries, HyperX, and Razer, all under $100, with the SteelSeries Arctis Nova 1 being the recommended choice for a cheap gaming headset.",
+  "sentiment": 5,
+  "sentiment_reason": "The sentiment is strongly positive due to the headsets being discounted, of high quality, and recommended for their value for money.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

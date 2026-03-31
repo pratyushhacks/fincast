@@ -1,0 +1,67 @@
+{
+  "id": "b7d926e7cab04fae3974cf041c518b1dafe876f0",
+  "url": "https://www.theguardian.com/technology/2026/mar/14/meta-and-google-trial-are-infinite-scroll-and-autoplay-creating-addicts",
+  "site": "theguardian.com",
+  "title": "Meta and Google trial: are infinite scroll and autoplay creating addicts? | Technology | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:00:58.000887",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-14\\b7d926e7cab04fae3974cf041c518b1dafe876f0.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-14\\b7d926e7cab04fae3974cf041c518b1dafe876f0.txt",
+  "word_count": 705,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4c0946678b05246a1fcb591258906689b7f02e3d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Meta and Google trial: addictive features like infinite scroll, autoplay, and notifications potentially harmful to young users, akin to tobacco cases, with internal concerns about 'reward tolerance' among users.",
+  "sentiment": 2,
+  "sentiment_reason": "The trial highlights concerns over social media features potentially leading to addictive behaviors, particularly in children, drawing parallels to the harm caused by tobacco companies, thus carrying a negative sentiment due to the implications of potential harm and addiction.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

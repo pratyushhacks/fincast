@@ -1,0 +1,54 @@
+{
+  "id": "fa499644cf6ae28a80ef28f0ebe43e2d6109d4cc",
+  "url": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
+  "site": "cnbc.com",
+  "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:11.945210",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\fa499644cf6ae28a80ef28f0ebe43e2d6109d4cc.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\fa499644cf6ae28a80ef28f0ebe43e2d6109d4cc.txt",
+  "word_count": 365,
+  "paywalled": false,
+  "dedup_hash": "e114f1121c7b4d4d9a6a4c961cda2919bfc15b9e",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Bill Ackman sees current market dislocation as an attractive entry point for high-quality companies, despite volatility and economic uncertainty. He highlights U.S. mortgage giants Fannie Mae and Freddie Mac as undervalued opportunities with potential for outsized returns.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook on investment opportunities amidst market volatility, focusing on the potential for high returns from undervalued companies.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "6fa5f0daf3c0143c35e177758ba8af9640d3fe78",
+  "url": "https://www.theregister.com/2026/03/23/maui_linux_avalonia/",
+  "site": "theregister.com",
+  "title": "Avalonia bolts Linux and WebAssembly onto .NET MAUI • The Register",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:03.865762",
+  "language": null,
+  "html_path": "data\\raw\\theregister.com\\2026-03-24\\6fa5f0daf3c0143c35e177758ba8af9640d3fe78.html",
+  "text_path": "data\\raw\\theregister.com\\2026-03-24\\6fa5f0daf3c0143c35e177758ba8af9640d3fe78.txt",
+  "word_count": 589,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6ac3582bcaa78fe8ebaaf607af6f7f9eb91e5455",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "AvaloniaUI previewed MAUI support for Linux and WebAssembly, but low adoption and bugs may limit its uptake. Avalonia's approach differs from MAUI's native API usage, potentially affecting developer choices and platform consistency.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights concerns over low adoption and persistent bugs of MAUI, which could lead to negative market impact due to potential developer hesitation and the need for alternative solutions.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0
+      ],
+      "base_price": 372.74,
+      "next_price": 371.04,
+      "change_1d": -0.4561,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

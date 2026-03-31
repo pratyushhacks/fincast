@@ -1,0 +1,66 @@
+{
+  "id": "df116f9350b421bd45e355f4e0972e7aa7bc6771",
+  "url": "https://www.pcmag.com/opinions/ive-tested-dozens-of-tvs-best-65-inch-under-1000-amazon-big-spring-sale",
+  "site": "pcmag.com",
+  "title": "I've Tested Dozens of TVs. This Is the Best 65-Inch Display Under $1,000 During Amazon's Spring Sale | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:44.424123",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-28\\df116f9350b421bd45e355f4e0972e7aa7bc6771.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-28\\df116f9350b421bd45e355f4e0972e7aa7bc6771.txt",
+  "word_count": 760,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "741d1006090ecb77b87ded10547c8a89894ae889",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Hisense offers significant discounts on its high-end 65-inch mini-LED TV and 75-inch budget big-screen TV during the Amazon Big Spring Sale, with prices dropping to under $1,000 and $600 respectively.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights major price reductions on popular TV models, indicating a strongly positive market impact due to the sale.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

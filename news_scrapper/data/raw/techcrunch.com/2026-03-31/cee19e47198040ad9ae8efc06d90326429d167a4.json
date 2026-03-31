@@ -1,0 +1,18 @@
+{
+  "id": "cee19e47198040ad9ae8efc06d90326429d167a4",
+  "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+  "site": "techcrunch.com",
+  "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:39.015521",
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-31\\cee19e47198040ad9ae8efc06d90326429d167a4.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-31\\cee19e47198040ad9ae8efc06d90326429d167a4.txt",
+  "word_count": 190,
+  "paywalled": false,
+  "dedup_hash": "38de3bedb3c5ef35e11c61c3b0c2c7da71dc2b55",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Elon Musk and Mark Zuckerberg had a warming relationship by early 2025, as evidenced by their text exchanges discussing government efficiency and potential collaboration on OpenAI. Zuckerberg showed support for Musk's initiatives but did not commit to joining his bid for OpenAI.",
+  "sentiment": 3,
+  "sentiment_reason": "The text reflects neutral market impact as it involves discussions between two tech leaders without immediate implications for the market or their companies."
+}

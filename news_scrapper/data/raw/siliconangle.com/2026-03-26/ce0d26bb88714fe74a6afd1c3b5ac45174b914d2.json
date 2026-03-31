@@ -1,0 +1,66 @@
+{
+  "id": "ce0d26bb88714fe74a6afd1c3b5ac45174b914d2",
+  "url": "https://siliconangle.com/2026/03/25/platform-engineering-essential-age-ai-agents-kubeconeu/",
+  "site": "siliconangle.com",
+  "title": "Platform engineering is essential in the age of AI agents - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:45.016049",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-26\\ce0d26bb88714fe74a6afd1c3b5ac45174b914d2.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-26\\ce0d26bb88714fe74a6afd1c3b5ac45174b914d2.txt",
+  "word_count": 769,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "a6569f96e5a3101fc9f83530e27187566ef92d01",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Spotify's Backstage platform engineering tool is highlighted as a crucial system for modern engineering teams, especially in the context of AI and agent-driven work environments. The tool has significantly reduced developer workload and is instrumental in large-scale automated code changes.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents Backstage as a highly efficient and widely adopted tool that has measurably improved developer productivity and is essential for future-proofing engineering practices in an AI-driven world.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47
+      ],
+      "base_price": 109.92,
+      "next_price": 106.57,
+      "change_1d": -3.0477,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.16,
+      "change_1d": -0.7642,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

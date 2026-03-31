@@ -1,0 +1,65 @@
+{
+  "id": "9cffaa42fc427db26ee0c9b2d1d2436f9af1ee5a",
+  "url": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
+  "site": "zdnet.com",
+  "title": "Nvidia's 'ChatGPT moment' for self-driving cars, and other key AI announcements at GTC 2026 | ZDNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:49.221522",
+  "language": null,
+  "html_path": "data\\raw\\zdnet.com\\2026-03-17\\9cffaa42fc427db26ee0c9b2d1d2436f9af1ee5a.html",
+  "text_path": "data\\raw\\zdnet.com\\2026-03-17\\9cffaa42fc427db26ee0c9b2d1d2436f9af1ee5a.txt",
+  "word_count": 1243,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "0d0495fe037569a0d6838a4eb3ae2b4f476d38f9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia releases new models for autonomous robots and cars, including Cosmos 3, Isaac GR00T N1.7, and Alpamayo 1.5, aiming to enhance physical AI navigation and autonomous vehicle technology. Uber plans to deploy Nvidia-powered robotaxis globally by 2027. Nvidia also showcases a robot Olaf at GTC, indicating potential for lifelike robotic characters in theme parks like Disney World.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents significant advancements in AI and autonomous vehicle technology, which are generally positive for the tech industry, but the mention of Uber's future plans and the current reliance on physical AI could imply ongoing challenges and uncertainties.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

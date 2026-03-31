@@ -1,0 +1,63 @@
+{
+  "id": "324060c5b23ffdf91790b0b87aa53ce2480578b4",
+  "url": "https://www.cnet.com/tech/services-and-software/download-ios-26-4-iphone/",
+  "site": "cnet.com",
+  "title": "You Can Download iOS 26.4 on Your iPhone Right Now - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:54.173868",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-26\\324060c5b23ffdf91790b0b87aa53ce2480578b4.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-26\\324060c5b23ffdf91790b0b87aa53ce2480578b4.txt",
+  "word_count": 540,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2683c1cffebfeac2072e2b536c90f792f07591da",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple released iOS 26.4, adding features like encrypted RCS messaging, AI-generated playlists in Apple Music, and video support in Apple Podcasts. It's part of Apple's ongoing development and expansion of features, privacy, and security.",
+  "sentiment": 4,
+  "sentiment_reason": "The update includes positive features like encrypted messaging, AI playlist generation, and video support in podcasts, indicating a positive market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.34,
+      "change_1d": 0.1779,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.1,
+      "change_1d": -1.1659,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

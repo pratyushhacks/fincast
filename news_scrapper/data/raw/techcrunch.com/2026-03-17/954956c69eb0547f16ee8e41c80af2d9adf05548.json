@@ -1,0 +1,64 @@
+{
+  "id": "954956c69eb0547f16ee8e41c80af2d9adf05548",
+  "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+  "site": "techcrunch.com",
+  "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:54.905955",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-17\\954956c69eb0547f16ee8e41c80af2d9adf05548.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-17\\954956c69eb0547f16ee8e41c80af2d9adf05548.txt",
+  "word_count": 217,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "415479b11c3378f9fda848e39e2229e5fe93d46d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Frore Systems, an eight-year-old semiconductor startup, raised a $143 million Series D at a $1.64B valuation, becoming a unicorn. Founded by former Qualcomm engineers, Frore specializes in liquid-cooling systems for chips, initially for phones and other fanless electronics. The company's tech was inspired by Nvidia's needs for AI chips, leading to products compatible with Nvidia, Qualcomm, and AMD. Frore's growth is part of a larger trend in AI semiconductor investments, with other companies like Positron and Recursive Intelligence also achieving significant valuations.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a successful funding round and the company's strategic positioning in a growing AI semiconductor market, but it also implies a reliance on the needs of established tech giants like Nvidia, which could be seen as a negative aspect in terms of market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

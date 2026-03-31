@@ -1,0 +1,63 @@
+{
+  "id": "c4b245ccf072ed8424ef7d5a6463419e5e643f19",
+  "url": "https://www.channelnewsasia.com/world/trump-nato-cowards-lack-support-iran-war-6007176",
+  "site": "channelnewsasia.com",
+  "title": "Trump calls NATO 'cowards' over lack of support in Iran war - CNA",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:28.559660",
+  "language": null,
+  "html_path": "data\\raw\\channelnewsasia.com\\2026-03-21\\c4b245ccf072ed8424ef7d5a6463419e5e643f19.html",
+  "text_path": "data\\raw\\channelnewsasia.com\\2026-03-21\\c4b245ccf072ed8424ef7d5a6463419e5e643f19.txt",
+  "word_count": 183,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c5de1a2fb971c23a628ea748fe8aecad1663407f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "President Trump criticizes NATO allies for not supporting the US-Israel war against Iran and accuses them of being 'cowards' for not wanting to join the fight despite the high oil prices. He also calls for their assistance in securing the safety of shipping through the Strait of Hormuz.",
+  "sentiment": 1,
+  "sentiment_reason": "The sentiment is strongly negative due to the President's accusatory and confrontational language towards NATO allies, calling them 'cowards' and criticizing their lack of support and cooperation in a geopolitical conflict.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36
+      ],
+      "base_price": 121.43,
+      "next_price": 110.56,
+      "change_1d": -8.9517,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

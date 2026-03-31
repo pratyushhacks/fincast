@@ -1,0 +1,27 @@
+{
+  "id": "c2acdaf56a0493b857b42632e7994c67d3bdd5c8",
+  "url": "https://economictimes.indiatimes.com/tech/technology/super-micro-sued-by-shareholders-over-china-related-criminal-case-against-co-founder-others/articleshow/129814878.cms",
+  "site": "indiatimes.com",
+  "title": "Super Micro sued by shareholders over China-related criminal case against co-founder, others - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:25.597520",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\c2acdaf56a0493b857b42632e7994c67d3bdd5c8.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\c2acdaf56a0493b857b42632e7994c67d3bdd5c8.txt",
+  "word_count": 299,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7db254a8cee902ae02728954810e499844c2a39e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

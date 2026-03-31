@@ -1,0 +1,66 @@
+{
+  "id": "687f004387a9b9b9c5c1bb3aa61a50e73c7971c2",
+  "url": "https://fortune.com/2026/03/26/inside-metas-chaotic-ai-boomtown-in-rural-louisiana/",
+  "site": "fortune.com",
+  "title": "Meta's $27 billion AI data center in Louisiana Is reshaping a rural community | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:54.139121",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-27\\687f004387a9b9b9c5c1bb3aa61a50e73c7971c2.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-27\\687f004387a9b9b9c5c1bb3aa61a50e73c7971c2.txt",
+  "word_count": 1356,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "e5742b60e54f815102a3696fbe8d2b4eec0c024e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta's Hyperion AI data center project in northeast Louisiana is vast and transformative, causing local disruptions and headaches, but also seen as a potential economic opportunity for the region.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights negative aspects such as local disruptions, complaints from residents, and the political concerns raised by the data center boom.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

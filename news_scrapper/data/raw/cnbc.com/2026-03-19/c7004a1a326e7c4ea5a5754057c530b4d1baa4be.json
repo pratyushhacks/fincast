@@ -1,0 +1,65 @@
+{
+  "id": "c7004a1a326e7c4ea5a5754057c530b4d1baa4be",
+  "url": "https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html",
+  "site": "cnbc.com",
+  "title": "Meta's Manus launches desktop app to bring its AI agent onto personal devices",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:15.510278",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-19\\c7004a1a326e7c4ea5a5754057c530b4d1baa4be.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-19\\c7004a1a326e7c4ea5a5754057c530b4d1baa4be.txt",
+  "word_count": 459,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "b0e5b562420536aab975ef70932697255712cd9f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta acquired AI startup Manus to integrate its autonomous agent technology across its platforms, including launching a desktop app for its agent to work directly on personal devices, amidst Chinese technology control investigations.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a strategic acquisition and expansion of AI capabilities, which is generally positive, but it is tempered by the ongoing investigation into the acquisition and potential security concerns associated with AI agents accessing local devices.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

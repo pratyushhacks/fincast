@@ -1,0 +1,65 @@
+{
+  "id": "f58b16795107efe6c8ce13db678f1c42529aa392",
+  "url": "https://gizmodo.com/project-hail-mary-sequel-updates-andy-weir-2000738555",
+  "site": "gizmodo.com",
+  "title": "Could There Be a 'Project Hail Mary' Sequel?",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:00.396615",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-27\\f58b16795107efe6c8ce13db678f1c42529aa392.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-27\\f58b16795107efe6c8ce13db678f1c42529aa392.txt",
+  "word_count": 480,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7d78d904f703595089881a97ade5a6a1068e1841",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Project Hail Mary is a box office success, with Amazon MGM Studios eager for a sequel, but the original author, Andy Weir, has not yet decided to write a follow-up. The film leaves some story elements unresolved, including the fate of two other astronauts.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive market impact due to the movie's success and the anticipation for a sequel, despite the uncertainty surrounding the author's involvement and unresolved plot points.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

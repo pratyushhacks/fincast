@@ -1,0 +1,63 @@
+{
+  "id": "0e70477ccdb1dc65785181f4bcb9a3d38c7114c0",
+  "url": "https://www.livemint.com/economy/crude-oil-prices-india-energy-infrastructure-west-asia-conflict-south-pars-gas-field-india-imports-11773883877219.html",
+  "site": "livemint.com",
+  "title": "Oil surges 4% as Iran-Qatar energy hubs hit, fears of wider supply shock rise | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:45.678595",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-20\\0e70477ccdb1dc65785181f4bcb9a3d38c7114c0.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-20\\0e70477ccdb1dc65785181f4bcb9a3d38c7114c0.txt",
+  "word_count": 433,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "00b69a3c18a02a89c1ac893e1f3c478484878dbf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Crude oil prices surged due to recent attacks on energy infrastructure in West Asia, with significant implications for global supply and import-dependent economies like India. The US has attempted to mitigate the situation with a general license for certain transactions involving Venezuela's state oil company.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as surging oil prices due to geopolitical tensions and supply disruptions, which could lead to negative economic consequences for import-dependent countries.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36
+      ],
+      "base_price": 121.43,
+      "next_price": 110.56,
+      "change_1d": -8.9517,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "4be0121d9f1f8c1d1d3c8e74738bc7ca70ee50ea",
+  "url": "https://www.livemint.com/market/commodities/oil-prices-surge-4-after-houthi-attack-on-israel-head-for-third-straight-monthly-gain-what-s-the-near-term-outlook-11774849308608.html",
+  "site": "livemint.com",
+  "title": "Oil prices surge 4% after Houthi attack on Israel, head for third straight monthly gain. What’s the near-term outlook? | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:53.667100",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\4be0121d9f1f8c1d1d3c8e74738bc7ca70ee50ea.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\4be0121d9f1f8c1d1d3c8e74738bc7ca70ee50ea.txt",
+  "word_count": 707,
+  "paywalled": false,
+  "dedup_hash": "bedc1b2d6110a5e91450faa347d27af692e55229",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "Houthi missile strikes on Israel and US troop deployment escalate tensions, disrupting global markets and driving up oil prices. Iran's involvement and geopolitical maneuvers add to market volatility.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts due to geopolitical tensions and potential disruptions in oil supply, causing fears of inflation and economic slowdown.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

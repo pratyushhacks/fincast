@@ -1,0 +1,54 @@
+{
+  "id": "3b30158175f7c1afe502792aeb19935282032ec7",
+  "url": "https://www.scmp.com/economy/global-economy/article/3348425/how-hormuz-attacks-stoke-oil-shock-fears-and-memories-1970s-stagflation",
+  "site": "scmp.com",
+  "title": "How the Hormuz attacks stoke oil-shock fears and memories of 1970s stagflation | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:48.797786",
+  "html_path": "data\\raw\\scmp.com\\2026-03-31\\3b30158175f7c1afe502792aeb19935282032ec7.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-31\\3b30158175f7c1afe502792aeb19935282032ec7.txt",
+  "word_count": 265,
+  "paywalled": false,
+  "dedup_hash": "62120cdcff84b1b7305a8eaa4e60c1ca7b8197e2",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"US inflation\"",
+  "summary": "Oil prices surge due to US-Israel conflict disrupting shipping through the Strait of Hormuz, reminiscent of the 1970s oil shocks that led to stagflation. Concerns arise over potential severe economic impacts.",
+  "sentiment": 1,
+  "sentiment_reason": "The current situation is causing strong negative sentiment due to the potential for a major oil crisis and its historical association with severe stagflation.",
+  "price_changes": {
+    "\"US inflation\"": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

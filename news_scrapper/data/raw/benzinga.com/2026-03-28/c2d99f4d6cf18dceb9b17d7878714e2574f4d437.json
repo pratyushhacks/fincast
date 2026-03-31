@@ -1,0 +1,65 @@
+{
+  "id": "c2d99f4d6cf18dceb9b17d7878714e2574f4d437",
+  "url": "https://www.benzinga.com/Opinion/26/03/51519800/is-trump-deadline-extension-a-red-flag-china-strikes-at-a-preoccupied-us-turkey-sells-gold",
+  "site": "benzinga.com",
+  "title": "Is Trump's Deadline Extension A Red Flag? China Strikes At A Preoccupied US; Turkey Sells Gold - Apple (NASDAQ:AAPL)",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:28.872688",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-28\\c2d99f4d6cf18dceb9b17d7878714e2574f4d437.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-28\\c2d99f4d6cf18dceb9b17d7878714e2574f4d437.txt",
+  "word_count": 330,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "30cd4857dcc3da34d4693c459810b29a57fa7a96",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Japan's Finance Minister hints at potential yen intervention, impacting carry trade and gold sales by Turkey, while Bitcoin faces selling pressure. Early money flows in key stocks and Momo gurus' gold expertise are also highlighted.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market indicators such as potential currency intervention, carry trade impact, and Bitcoin selling pressure, along with neutral news about money flows in stocks.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

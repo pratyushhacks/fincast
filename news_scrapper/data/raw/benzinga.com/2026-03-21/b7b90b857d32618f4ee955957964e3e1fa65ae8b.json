@@ -1,0 +1,28 @@
+{
+  "id": "b7b90b857d32618f4ee955957964e3e1fa65ae8b",
+  "url": "https://www.benzinga.com/crypto/cryptocurrency/26/03/51383756/eightcos-90m-openai-bet-brings-tom-lee-to-board-but-stock-cant-break-1",
+  "site": "benzinga.com",
+  "title": "Eightco's $90M OpenAI Bet Brings Tom Lee To Board But Stock Can't Break $1 - Eightco Holdings (NASDAQ:ORBS)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:02.403229",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\b7b90b857d32618f4ee955957964e3e1fa65ae8b.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\b7b90b857d32618f4ee955957964e3e1fa65ae8b.txt",
+  "word_count": 355,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2fd026233dfe26b209bf7063f12e326c12459d34",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Eightco, a significant holder of OpenAI tokens and a major investor in AI and blockchain companies, faces a severe market downturn with its stock losing 98% of its value and trading within a tight range.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a sharp stock price decline and extremely low volatility, indicating a strong negative market impact."
+}

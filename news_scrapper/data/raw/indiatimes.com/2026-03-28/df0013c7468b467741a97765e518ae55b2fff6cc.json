@@ -1,0 +1,25 @@
+{
+  "id": "df0013c7468b467741a97765e518ae55b2fff6cc",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/newsom-criticizes-musks-ev-strategy-blames-trump-for-energy-decline/129838197",
+  "site": "indiatimes.com",
+  "title": "Newsom Criticizes Musk's EV Strategy, Blames Trump for Energy Decline, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:39.951943",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\df0013c7468b467741a97765e518ae55b2fff6cc.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\df0013c7468b467741a97765e518ae55b2fff6cc.txt",
+  "word_count": 380,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ce85591e82a9d7879303860262d82dfea09eb34c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company"
+}

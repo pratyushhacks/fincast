@@ -1,0 +1,65 @@
+{
+  "id": "0d6f14b13ec13947f33c69a30800defe16cf4b4c",
+  "url": "https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026",
+  "site": "theverge.com",
+  "title": "We handpicked the 24 best Big Spring Sale deals under $50 | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:44.900917",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-28\\0d6f14b13ec13947f33c69a30800defe16cf4b4c.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-28\\0d6f14b13ec13947f33c69a30800defe16cf4b4c.txt",
+  "word_count": 172,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1a0e9fefe23145dc772c247a88b17e98267818c6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon is hosting a spring sales event with many retailers matching deals on gadgets priced at $50 or less, offering a variety of products across core categories.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights a major sales event with multiple retailers participating, indicating a positive impact on consumer spending and market activity.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

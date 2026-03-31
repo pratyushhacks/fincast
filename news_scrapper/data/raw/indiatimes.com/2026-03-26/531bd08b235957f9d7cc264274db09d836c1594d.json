@@ -1,0 +1,25 @@
+{
+  "id": "531bd08b235957f9d7cc264274db09d836c1594d",
+  "url": "https://economictimes.indiatimes.com/markets/forex/currency-markets-drift-as-traders-sceptical-of-us-efforts-to-end-iran-war/articleshow/129789666.cms",
+  "site": "indiatimes.com",
+  "title": "Currency markets drift as traders sceptical of US efforts to end Iran war - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:12.275910",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\531bd08b235957f9d7cc264274db09d836c1594d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\531bd08b235957f9d7cc264274db09d836c1594d.txt",
+  "word_count": 438,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "cdaa48ff5d999a88acb3bd20fc51e0bfc39c491c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

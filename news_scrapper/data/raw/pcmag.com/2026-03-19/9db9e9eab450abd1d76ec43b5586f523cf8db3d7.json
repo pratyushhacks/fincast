@@ -1,0 +1,65 @@
+{
+  "id": "9db9e9eab450abd1d76ec43b5586f523cf8db3d7",
+  "url": "https://www.pcmag.com/explainers/its-time-to-stop-using-face-id-heres-why",
+  "site": "pcmag.com",
+  "title": "It's Time to Stop Using Face ID. Here's Why | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:35.433940",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-19\\9db9e9eab450abd1d76ec43b5586f523cf8db3d7.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-19\\9db9e9eab450abd1d76ec43b5586f523cf8db3d7.txt",
+  "word_count": 1308,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "4bce5be3adb59940c752c48e7f45f6174dd76dcb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "The article advises against using biometric features like Face ID or fingerprint scans due to privacy concerns and potential government access, suggesting passcodes as an alternative for those at higher risk of surveillance.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to privacy risks associated with biometric data and the potential for government access, despite the convenience of biometric features.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "e0c50ef88f694e6402ba42408efbf3ecae9a6ad4",
+  "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/03/51271411/iran-war-sp500-bear-market-oil-shock-goldman-sachs-history",
+  "site": "benzinga.com",
+  "title": "Iran War and S&P 500: Could Oil Shock Cause Bear Market? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:46.846637",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\e0c50ef88f694e6402ba42408efbf3ecae9a6ad4.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\e0c50ef88f694e6402ba42408efbf3ecae9a6ad4.txt",
+  "word_count": 515,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "82351628154485f78a8099158415614d87dcccdf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Oil crisis linked to S&P 500 performance; historical oil shocks show prolonged market damage, not quick recovery; current Iran crisis compares to Ukraine war in magnitude, but potential for temporary disruption exists; Goldman maintains S&P 500 target amidst adverse scenarios.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the potential negative impact of the Iran crisis on the S&P 500, referencing historical oil shocks that led to significant market declines, but also notes the possibility of a temporary disruption and recovery.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

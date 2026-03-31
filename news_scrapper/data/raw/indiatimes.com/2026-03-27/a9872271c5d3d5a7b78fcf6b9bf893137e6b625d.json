@@ -1,0 +1,27 @@
+{
+  "id": "a9872271c5d3d5a7b78fcf6b9bf893137e6b625d",
+  "url": "https://economictimes.indiatimes.com/mf/analysis/less-than-half-equity-mutual-funds-offer-positive-returns-in-fy26-were-they-a-part-of-your-portfolio/articleshow/129815574.cms",
+  "site": "indiatimes.com",
+  "title": "Less than half equity mutual funds offer positive returns in FY26. Were they a part of your portfolio? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:23.216663",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\a9872271c5d3d5a7b78fcf6b9bf893137e6b625d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\a9872271c5d3d5a7b78fcf6b9bf893137e6b625d.txt",
+  "word_count": 1159,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "4f9926ebbe0ac0034e70fc6f104f9ff607ec896f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

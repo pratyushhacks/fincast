@@ -1,0 +1,64 @@
+{
+  "id": "b748c234968d82dae09a0b54e11a13a30545b03f",
+  "url": "https://www.businesstimes.com.sg/international/asean/external-shocks-cloud-vietnams-market-re-rating-path-despite-ftse-upgrade-catalyst",
+  "site": "businesstimes.com.sg",
+  "title": "External shocks cloud Vietnam's market rerating path despite FTSE upgrade catalyst - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:25.498286",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\b748c234968d82dae09a0b54e11a13a30545b03f.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\b748c234968d82dae09a0b54e11a13a30545b03f.txt",
+  "word_count": 1145,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "77605e580928ff07abcc15a797ccbbd77a3f407a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Vietnam's equity market faces volatility due to oil-driven inflation, currency pressure, and geopolitical risks, despite potential FTSE Russell upgrade and structural reforms. Brokerage shares suffer from selling pressure amidst foreign outflows.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights negative factors such as geopolitical risks, oil-driven inflation, currency pressure, and foreign outflows, which overshadow the positive prospect of an FTSE Russell upgrade.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.9,
+      "change_1d": -0.8045,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.9,
+      "change_1d": -0.8045,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

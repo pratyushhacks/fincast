@@ -1,0 +1,64 @@
+{
+  "id": "9c20af20f6dc1facff24eb410f68a45e0857bb45",
+  "url": "https://www.benzinga.com/personal-finance/management/26/03/51257378/the-average-person-wants-passive-income-but-keeps-thinking-about-money-the-same-way-start-by-unlearning-everything",
+  "site": "benzinga.com",
+  "title": "The Average Person Wants Passive Income, But Keeps Thinking About Money The Same Way. 'Start By Unlearning Everything'",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:17:25.200601",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-14\\9c20af20f6dc1facff24eb410f68a45e0857bb45.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-14\\9c20af20f6dc1facff24eb410f68a45e0857bb45.txt",
+  "word_count": 674,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "3c008f95d9ef075af4b2bb3be66f31b6f463661d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Google",
+  "gdelt_category": "company",
+  "summary": "Passive income often starts with regular income, requiring years of effort, saving, and investing. Common sources include real estate, investments, and business income, with patience being key as these income streams take time to grow.",
+  "sentiment": 2,
+  "sentiment_reason": "The discussion emphasizes the long-term effort and patience required to build passive income, highlighting the misunderstanding of instant wealth, which aligns with negative market sentiment due to the implied need for consistent work and delayed gratification.",
+  "price_changes": {
+    "Google": {
+      "ticker": "GOOGL",
+      "trend": [
+        302.92,
+        300.67,
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55
+      ],
+      "base_price": 302.28,
+      "next_price": 305.56,
+      "change_1d": 1.0851,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "d1160151ae94bda5071985057d6c73d407a5452b",
+  "url": "https://www.insidermonkey.com/blog/is-marvell-technology-mrvl-one-of-the-high-growth-semiconductor-stocks-to-buy-1727131/",
+  "site": "insidermonkey.com",
+  "title": "Is Marvell Technology (MRVL) One of the High Growth Semiconductor Stocks to Buy? - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:05.497461",
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-31\\d1160151ae94bda5071985057d6c73d407a5452b.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-31\\d1160151ae94bda5071985057d6c73d407a5452b.txt",
+  "word_count": 828,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "gdelt_query": "semiconductor",
+  "summary": "Amazon's CEO highlights generative AI as a transformative technology, while billionaires invest in AI for major societal impacts. An under-valued company is pivotal to this AI revolution, according to insiders.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents a strongly positive outlook on the impact of generative AI and the investments made by major figures in the tech industry, indicating a significant market opportunity and transformative potential.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25,
+        328.85,
+        323.48
+      ],
+      "base_price": 309.79,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

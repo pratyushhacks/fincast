@@ -1,0 +1,27 @@
+{
+  "id": "e7ba114c58f833a094995f7d714405454f0f32fe",
+  "url": "https://www.euronews.com/next/2026/03/18/anthropic-and-openai-are-hiring-weapons-specialists-to-prevent-catastrophic-misuse",
+  "site": "euronews.com",
+  "title": "Anthropic and OpenAI are hiring  weapons specialists to prevent ‘catastrophic misuse’ | Euronews",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:40.388642",
+  "language": null,
+  "html_path": "data\\raw\\euronews.com\\2026-03-19\\e7ba114c58f833a094995f7d714405454f0f32fe.html",
+  "text_path": "data\\raw\\euronews.com\\2026-03-19\\e7ba114c58f833a094995f7d714405454f0f32fe.txt",
+  "word_count": 378,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7d0584f6a27e233bdb403180c66e8176cc4abb85",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Anthropic and OpenAI are hiring weapons specialists to prevent misuse of their AI technology, amidst legal and contractual challenges with the US government.",
+  "sentiment": 2,
+  "sentiment_reason": "The hiring of weapons specialists and the ongoing legal disputes with the government indicate potential reputational risks and concerns over the use of AI in sensitive areas, contributing to a negative market sentiment."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "1ff540a15074c35da3fe55439acb2c4c5db99169",
+  "url": "https://www.upi.com/Top_News/World-News/2026/03/30/OCI-Holdings-polysilicon-factory/6221774868423/",
+  "site": "upi.com",
+  "title": "Korea’s OCI secures $125 million investment from IFC of World Bank - UPI.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:00.296791",
+  "html_path": "data\\raw\\upi.com\\2026-03-31\\1ff540a15074c35da3fe55439acb2c4c5db99169.html",
+  "text_path": "data\\raw\\upi.com\\2026-03-31\\1ff540a15074c35da3fe55439acb2c4c5db99169.txt",
+  "word_count": 302,
+  "paywalled": false,
+  "dedup_hash": "807473425a79a4019c97b61050865cbe74fe6897",
+  "scraper_version": "0.1",
+  "gdelt_query": "semiconductor",
+  "summary": "OCI Holdings' Malaysian subsidiary secured a $125 million investment from the International Finance Corp. for a polysilicon factory, marking a significant achievement and commitment to sustainability. The facility aims to produce semiconductor-grade polysilicon with higher purity levels.",
+  "sentiment": 4,
+  "sentiment_reason": "The investment and the project's focus on sustainable practices and high-purity polysilicon production indicate a positive market impact, as it suggests growth and innovation in the semiconductor industry.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25,
+        328.85,
+        323.48
+      ],
+      "base_price": 309.79,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

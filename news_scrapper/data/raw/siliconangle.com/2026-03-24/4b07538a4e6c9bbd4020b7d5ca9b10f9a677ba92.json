@@ -1,0 +1,66 @@
+{
+  "id": "4b07538a4e6c9bbd4020b7d5ca9b10f9a677ba92",
+  "url": "https://siliconangle.com/2026/03/23/ai-storage-infrastructure-becomes-critical-ai-era-nvidiagtcai/",
+  "site": "siliconangle.com",
+  "title": "AI storage infrastructure becomes critical in AI era - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:55.467272",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-24\\4b07538a4e6c9bbd4020b7d5ca9b10f9a677ba92.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-24\\4b07538a4e6c9bbd4020b7d5ca9b10f9a677ba92.txt",
+  "word_count": 724,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "e20676a053cf8ac867ad8253a1959f4a109e2974",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "AI storage infrastructure is increasingly crucial in AI systems evolution, with a focus on denser, more efficient storage solutions to handle larger data volumes for insights. Partnerships and technological advancements are key to improving cost-effectiveness and energy efficiency.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses positive developments in AI storage infrastructure, such as advancements in storage density and cost-effectiveness, which are crucial for the evolution of AI systems.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

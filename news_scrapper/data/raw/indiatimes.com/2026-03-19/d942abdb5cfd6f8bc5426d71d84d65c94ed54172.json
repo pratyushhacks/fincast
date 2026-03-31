@@ -1,0 +1,24 @@
+{
+  "id": "d942abdb5cfd6f8bc5426d71d84d65c94ed54172",
+  "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-retreats-from-six-week-high-ahead-of-fed-rate-decision/articleshow/129668442.cms",
+  "site": "indiatimes.com",
+  "title": "Bitcoin retreats from six-week high ahead of Fed rate decision - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:46:00.763405",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\d942abdb5cfd6f8bc5426d71d84d65c94ed54172.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\d942abdb5cfd6f8bc5426d71d84d65c94ed54172.txt",
+  "word_count": 186,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c0a2e086165dafbb11fec2c6a9677347eec2b734",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

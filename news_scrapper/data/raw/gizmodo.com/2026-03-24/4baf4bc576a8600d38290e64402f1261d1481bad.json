@@ -1,0 +1,64 @@
+{
+  "id": "4baf4bc576a8600d38290e64402f1261d1481bad",
+  "url": "https://gizmodo.com/jbl-flip-7-bluetooth-speaker-drops-below-the-old-flip-6-price-in-amazons-spring-sale-2000736670",
+  "site": "gizmodo.com",
+  "title": "JBL Flip 7 Bluetooth Speaker Drops Below the Old Flip 6 Price in Amazonâs Spring Sale",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:51.234654",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-24\\4baf4bc576a8600d38290e64402f1261d1481bad.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-24\\4baf4bc576a8600d38290e64402f1261d1481bad.txt",
+  "word_count": 486,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9f0f45df0e54e8d9905a09c1e2a5fc0cceb428fa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The JBL Flip 7 Portable Bluetooth Speaker is highlighted for its superior sound quality, durability, and innovative features such as waterproofing, drop protection, and the ability to sync multiple speakers. It is currently available for $110 on Amazon.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents the JBL Flip 7 with strong positive features such as enhanced durability, superior sound output, and unique features that set it apart from competitors, indicating a market impact that is strongly positive.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14
+      ],
+      "base_price": 207.24,
+      "next_price": 211.71,
+      "change_1d": 2.1569,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

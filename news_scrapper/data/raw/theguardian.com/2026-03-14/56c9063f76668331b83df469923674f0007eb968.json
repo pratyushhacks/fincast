@@ -1,0 +1,65 @@
+{
+  "id": "56c9063f76668331b83df469923674f0007eb968",
+  "url": "https://www.theguardian.com/technology/2026/mar/14/tiktok-trump-administration-10bn",
+  "site": "theguardian.com",
+  "title": "Trump administration to be paid $10bn for brokering TikTok deal | TikTok | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:23:02.370101",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-14\\56c9063f76668331b83df469923674f0007eb968.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-14\\56c9063f76668331b83df469923674f0007eb968.txt",
+  "word_count": 403,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "682485a83a6fd2bd6f26d8672fb7e482d7b34d3a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Intel",
+  "gdelt_category": "company",
+  "summary": "Trump administration to receive $10bn fee for facilitating TikTok deal amid national security concerns over Chinese ownership, amidst unusual government involvement in private sector transactions.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the unusual government transaction and national security implications of the TikTok deal.",
+  "price_changes": {
+    "Intel": {
+      "ticker": "INTC",
+      "trend": [
+        45.58,
+        45.95,
+        43.42,
+        45.58,
+        46.78,
+        47.98,
+        45.25
+      ],
+      "base_price": 45.77,
+      "next_price": 45.76,
+      "change_1d": -0.0218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

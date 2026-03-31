@@ -1,0 +1,24 @@
+{
+  "id": "e7c70dfb04570ee1bbddbe811d92b728e03fb226",
+  "url": "https://telecom.economictimes.indiatimes.com/news/industry/ai-native-networks-essential-for-5g-growth-and-revenue-models-insights-from-industry-leaders-at-et5gcongress/129697638",
+  "site": "indiatimes.com",
+  "title": "AI-Native Networks Essential for 5G Growth and Revenue Models: Insights from Industry Leaders at #ET5GCongress, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:12.349663",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\e7c70dfb04570ee1bbddbe811d92b728e03fb226.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\e7c70dfb04570ee1bbddbe811d92b728e03fb226.txt",
+  "word_count": 549,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "04703cc15f64543bcd996f04d934f12ddbb8e121",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector"
+}

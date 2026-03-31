@@ -1,0 +1,64 @@
+{
+  "id": "f50bc2161e602f6f3907beb2f2dbaabc586bbb0c",
+  "url": "https://www.livemint.com/market/stock-market-news/nbfc-stock-under-rs-50-to-be-in-focus-on-monday-after-this-rating-update-on-commercial-papers-worth-rs-540-crore-11774023268238.html",
+  "site": "livemint.com",
+  "title": "NBFC stock under  ₹50 to be in focus on Monday after this rating update on commercial papers worth  ₹540 crore | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:18.477182",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-21\\f50bc2161e602f6f3907beb2f2dbaabc586bbb0c.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-21\\f50bc2161e602f6f3907beb2f2dbaabc586bbb0c.txt",
+  "word_count": 479,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c0278821995477d9aec9e26523594ae8d747e5e4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Paisalo Digital received a fresh credit rating update for its commercial paper issuance, with a BWR A1+ rating for ₹540 crore and a BWR AA/Stable rating for ₹1,500 crore NCDs. The company also successfully raised USD 15 million through an ECB transaction.",
+  "sentiment": 4,
+  "sentiment_reason": "The company's strong credit ratings and successful fundraising through an ECB transaction indicate positive market sentiment and potential for growth.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

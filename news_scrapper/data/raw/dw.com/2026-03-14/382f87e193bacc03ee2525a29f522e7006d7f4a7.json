@@ -1,0 +1,47 @@
+{
+  "id": "382f87e193bacc03ee2525a29f522e7006d7f4a7",
+  "url": "https://www.dw.com/en/us-judge-quashes-subpoenas-in-dojs-federal-reserve-case/a-76356448",
+  "site": "dw.com",
+  "title": "US: Judge quashes subpoenas in DoJ's Federal Reserve case",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:56:21.880244",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-14\\382f87e193bacc03ee2525a29f522e7006d7f4a7.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-14\\382f87e193bacc03ee2525a29f522e7006d7f4a7.txt",
+  "word_count": 759,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "77c292fe7c6193cc03900b818b44801e35de6f15",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Federal Reserve interest rates",
+  "gdelt_category": "macro",
+  "summary": "US Federal Judge quashes subpoenas in DoJ's investigation into Fed cost overruns, ruling it politically motivated with no merit, amidst ongoing tension between Trump, the DoJ, and Fed Chair Powell.",
+  "sentiment": 2,
+  "sentiment_reason": "The ruling reflects negative market impact due to the ongoing political pressure and intimidation surrounding the Federal Reserve's independence and interest rate decisions.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

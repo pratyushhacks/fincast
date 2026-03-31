@@ -1,0 +1,64 @@
+{
+  "id": "e9040ef7ccd42bf18150c9c23f4007a3dff59df0",
+  "url": "https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable",
+  "site": "theverge.com",
+  "title": "Windows 11 is finally getting a movable taskbar | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:42.706330",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-21\\e9040ef7ccd42bf18150c9c23f4007a3dff59df0.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-21\\e9040ef7ccd42bf18150c9c23f4007a3dff59df0.txt",
+  "word_count": 262,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c59588106331d3bc8098c3885225df176f9d78d4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Microsoft is reintroducing the ability to move the Windows taskbar to the top or sides of the screen in response to user feedback and criticism of Windows 11's performance and user experience. This change, along with other improvements, will be available to Windows Insiders and later rolled out to all Windows 11 users.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the article discusses Microsoft's response to criticism with improvements and additions to the Windows 11 user experience, such as the movable taskbar and other requested features.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        404.88,
+        401.86,
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02
+      ],
+      "base_price": 381.87,
+      "next_price": 383.0,
+      "change_1d": 0.2959,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

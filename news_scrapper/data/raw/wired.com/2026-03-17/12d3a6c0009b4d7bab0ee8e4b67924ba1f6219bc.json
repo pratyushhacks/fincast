@@ -1,0 +1,64 @@
+{
+  "id": "12d3a6c0009b4d7bab0ee8e4b67924ba1f6219bc",
+  "url": "https://www.wired.com/story/amazon-spring-sale-2026/",
+  "site": "wired.com",
+  "title": "These 15 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  (2026) | WIRED",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:15.089285",
+  "language": null,
+  "html_path": "data\\raw\\wired.com\\2026-03-17\\12d3a6c0009b4d7bab0ee8e4b67924ba1f6219bc.html",
+  "text_path": "data\\raw\\wired.com\\2026-03-17\\12d3a6c0009b4d7bab0ee8e4b67924ba1f6219bc.txt",
+  "word_count": 216,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d2eaf4b4555454aa7b4e5d7b97fb7a0923a6ccfb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon Spring Sale offers thousands of deals, including discounts on Sonos Roam 2, a top-rated portable smart speaker with Bluetooth pairing, IP67 dust and water resistance, and up to 10 hours of battery life.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a tech sale event with mixed deals, which may cause cautious optimism due to the presence of discounts but also concerns over potential junk deals.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74
+      ],
+      "base_price": 215.2,
+      "next_price": 209.87,
+      "change_1d": -2.4768,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "32bd67e83bc8452125f125f907387ba35c1f0cc7",
+  "url": "https://www.kiplinger.com/investing/stocks/dow-dives-793-points-as-rate-hike-odds-rise-stock-market-today",
+  "site": "kiplinger.com",
+  "title": "Dow Dives 793 Points as Rate-Hike Odds Rise: Stock Market Today | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:31.274584",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-28\\32bd67e83bc8452125f125f907387ba35c1f0cc7.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-28\\32bd67e83bc8452125f125f907387ba35c1f0cc7.txt",
+  "word_count": 801,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "a7ab209e04ace7702923a5027fdee9627fd48815",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Stocks fell due to rising oil prices and geopolitical tensions, with consumer sentiment affected by higher gas prices and inflation expectations.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as stock losses, rising oil prices, and negative consumer sentiment due to increased gas prices and inflation expectations.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97
+      ],
+      "base_price": 356.77,
+      "next_price": 358.96,
+      "change_1d": 0.6138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

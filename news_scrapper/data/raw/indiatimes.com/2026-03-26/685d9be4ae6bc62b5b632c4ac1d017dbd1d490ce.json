@@ -1,0 +1,26 @@
+{
+  "id": "685d9be4ae6bc62b5b632c4ac1d017dbd1d490ce",
+  "url": "https://economictimes.indiatimes.com/news/international/us/google-users-alert-how-to-claim-your-share-of-the-5-million-google-play-auto-renew-settlement-see-whos-eligible-and-how-much-youll-get/articleshow/129786114.cms",
+  "site": "indiatimes.com",
+  "title": "Google auto-renewal settlement payout explained: Google users alert: How to claim your share of the $5 million Google Play auto-renew settlement – see who’s eligible and how much you’ll get - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:19.989769",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\685d9be4ae6bc62b5b632c4ac1d017dbd1d490ce.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\685d9be4ae6bc62b5b632c4ac1d017dbd1d490ce.txt",
+  "word_count": 392,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4bbc55b43c39ea0501c14987036eb8b1c42ff2c2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

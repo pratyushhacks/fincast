@@ -1,0 +1,64 @@
+{
+  "id": "9197e59b4d74f3638b10f9221b4f1401ed138790",
+  "url": "https://www.cnbc.com/2026/03/27/nvidia-is-in-a-deep-correction-and-super-cheap-how-to-trade-a-bounce-it-with-options.html",
+  "site": "cnbc.com",
+  "title": "Nvidia is in a deep correction and super cheap. How to trade a bounce with options",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:22.234504",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-28\\9197e59b4d74f3638b10f9221b4f1401ed138790.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-28\\9197e59b4d74f3638b10f9221b4f1401ed138790.txt",
+  "word_count": 376,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0b91a780cceff15292e3fff2f0b1170992f2aaad",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's stock has significantly dropped due to the impact of the Iranian conflict on global equity markets, prompting investors to consider options for a potential long position as markets recover.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a negative market impact due to profit-taking and the Iranian conflict affecting Big Tech stocks, with a specific mention of Nvidia's decline and the anticipation of a market rally.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9c0dbdb0000c1a27a1d458dbdced5eafc1ee61c4",
+  "url": "https://telecom.economictimes.indiatimes.com/news/internet/us-judge-reduces-lawyers-fees-by-over-100-million-in-google-privacy-settlement/129857667",
+  "site": "indiatimes.com",
+  "title": "Google Privacy Case: US Judge Reduces Lawyers' Fees by Over $100 Million in Google Privacy Settlement, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:17.042757",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\9c0dbdb0000c1a27a1d458dbdced5eafc1ee61c4.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\9c0dbdb0000c1a27a1d458dbdced5eafc1ee61c4.txt",
+  "word_count": 364,
+  "paywalled": false,
+  "dedup_hash": "0d93f0ff29be7f8a4c04e21570d4aba41cb69db7",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Google OR GOOGL)"
+}

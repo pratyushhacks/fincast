@@ -1,0 +1,28 @@
+{
+  "id": "8c3ec52232bc5e2e273102ba6a799f5a9f02412f",
+  "url": "https://telecom.economictimes.indiatimes.com/news/industry/supreme-court-rules-in-favor-of-cox-communications-over-music-copyright-infringement/129814626",
+  "site": "indiatimes.com",
+  "title": "Supreme Court Rules in Favor of Cox Communications Over Music Copyright Infringement, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:49.927137",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\8c3ec52232bc5e2e273102ba6a799f5a9f02412f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\8c3ec52232bc5e2e273102ba6a799f5a9f02412f.txt",
+  "word_count": 454,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a134197728e13003c5fecbff4cddeb7b8c2a89d5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company"
+}

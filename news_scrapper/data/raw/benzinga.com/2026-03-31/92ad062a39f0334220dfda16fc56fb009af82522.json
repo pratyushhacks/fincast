@@ -1,0 +1,54 @@
+{
+  "id": "92ad062a39f0334220dfda16fc56fb009af82522",
+  "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51556193/ackmans-bold-call-sends-fannie-mae-stock-soaring-40-and-these-etfs-could-be-smarter-plays",
+  "site": "benzinga.com",
+  "title": "Ackman’s Call Sends Fannie Mae Stock Soaring 40%; These ETFs Could Gain - Federal Home Loan (OTC:FMCC), F - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:41.633723",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\92ad062a39f0334220dfda16fc56fb009af82522.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\92ad062a39f0334220dfda16fc56fb009af82522.txt",
+  "word_count": 273,
+  "paywalled": false,
+  "dedup_hash": "3b765e193cf01f611caad6c0d681a074170c6223",
+  "scraper_version": "0.1",
+  "gdelt_query": "financial sector",
+  "summary": "MBB stock and mortgage-backed securities (MBS) are highlighted as potential investment opportunities due to the possible exit from conservatorship, which could tighten mortgage spreads and increase MBS value. Housing ETFs and financial sector exposure to mortgages may also benefit from policy changes and market stabilization.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook on mortgage-backed securities, housing equities, and financial sector ETFs as beneficiaries of the Fannie–Freddie revival, suggesting a market shift conducive to investment opportunities.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34,
+        49.05,
+        47.81
+      ],
+      "base_price": 48.36,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

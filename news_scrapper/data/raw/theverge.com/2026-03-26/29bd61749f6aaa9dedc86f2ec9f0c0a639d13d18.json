@@ -1,0 +1,64 @@
+{
+  "id": "29bd61749f6aaa9dedc86f2ec9f0c0a639d13d18",
+  "url": "https://www.theverge.com/tech/900182/amazon-now-owns-a-humanoid-robot-company",
+  "site": "theverge.com",
+  "title": "Amazon now owns a humanoid robot company. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:30.100689",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-26\\29bd61749f6aaa9dedc86f2ec9f0c0a639d13d18.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-26\\29bd61749f6aaa9dedc86f2ec9f0c0a639d13d18.txt",
+  "word_count": 96,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e4e917a0610284b3be89f365cc7f3bef4f709b3c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon acquired a humanoid robot company, Fauna, and its staff, with intentions to integrate robotics into its operations. However, there's no immediate deployment of the robot Sprout.",
+  "sentiment": 3,
+  "sentiment_reason": "The acquisition of a robot company by Amazon is neutral news as it doesn't directly indicate a market impact but shows a strategic move in the tech industry.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 200.87,
+      "change_1d": -3.2138,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.37,
+      "change_1d": -1.1189,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

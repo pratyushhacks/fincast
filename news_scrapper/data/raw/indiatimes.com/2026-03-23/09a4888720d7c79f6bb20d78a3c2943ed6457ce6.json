@@ -1,0 +1,25 @@
+{
+  "id": "09a4888720d7c79f6bb20d78a3c2943ed6457ce6",
+  "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/mg-motor-bets-on-non-metros-as-70-of-windsor-ev-sales-come-from-smaller-cities/articleshow/129728355.cms",
+  "site": "indiatimes.com",
+  "title": "MG Motor bets on non-metros as 70% of Windsor EV sales come from smaller cities - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:19.025499",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\09a4888720d7c79f6bb20d78a3c2943ed6457ce6.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\09a4888720d7c79f6bb20d78a3c2943ed6457ce6.txt",
+  "word_count": 322,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "917b84c593dddb791ad2e7d0af13e7ff0fa1688a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

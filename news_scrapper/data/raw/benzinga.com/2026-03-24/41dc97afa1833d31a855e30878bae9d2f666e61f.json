@@ -1,0 +1,63 @@
+{
+  "id": "41dc97afa1833d31a855e30878bae9d2f666e61f",
+  "url": "https://www.benzinga.com/news/26/03/51417948/apple-to-320-here-are-10-top-analyst-forecasts-for-monday",
+  "site": "benzinga.com",
+  "title": "Apple To $320? Here Are 10 Top Analyst Forecasts For Monday - Apple (NASDAQ:AAPL), Strive (NASDAQ:ASST)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:00.258503",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\41dc97afa1833d31a855e30878bae9d2f666e61f.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\41dc97afa1833d31a855e30878bae9d2f666e61f.txt",
+  "word_count": 77,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cc171bed270f9e9cce332ce3490584d2d3bcb094",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google"
+  ],
+  "matched_industries": [
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Top Wall Street analysts updated their ratings on major companies. The article serves as a reference for those considering investment in stocks like AAPL.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about analyst rating changes without indicating any significant positive or negative market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49
+      ],
+      "base_price": 251.64,
+      "next_price": 252.62,
+      "change_1d": 0.3894,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

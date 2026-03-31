@@ -1,0 +1,18 @@
+{
+  "id": "3cad0ec98c0244080cd6c6cf4ee388c5f3394715",
+  "url": "https://www.pymnts.com/apple/2026/apple-centering-ai-plans-on-app-store-and-hardware/",
+  "site": "pymnts.com",
+  "title": "Apple Centering AI Plans on App Store and Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:42.670036",
+  "html_path": "data\\raw\\pymnts.com\\2026-03-31\\3cad0ec98c0244080cd6c6cf4ee388c5f3394715.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-31\\3cad0ec98c0244080cd6c6cf4ee388c5f3394715.txt",
+  "word_count": 441,
+  "paywalled": false,
+  "dedup_hash": "ed914026e170001e982412cfac1192a4cfa18cc6",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Apple is conceding the AI race, focusing on app-like strategies for AI usage through installed apps, rather than competing directly with rivals in advanced AI models and features. This approach leverages its hardware dominance.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to Apple's strategic shift away from direct competition in AI innovation, potentially impacting its market position and growth in the AI sector."
+}

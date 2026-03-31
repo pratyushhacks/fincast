@@ -1,0 +1,64 @@
+{
+  "id": "a6c98945f9416b7646fbf0b5a54a4ded3418dd73",
+  "url": "https://www.benzinga.com/markets/earnings/26/03/51349738/chinas-e-commerce-wars-are-crushing-alibabas-profits",
+  "site": "benzinga.com",
+  "title": "China's E-Commerce Wars Are Crushing Alibaba's Profits - Alibaba Gr Hldgs (NYSE:BABA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:29.265238",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-20\\a6c98945f9416b7646fbf0b5a54a4ded3418dd73.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-20\\a6c98945f9416b7646fbf0b5a54a4ded3418dd73.txt",
+  "word_count": 718,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "236dea831471be159527fb078be96e6de131554e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Alibaba's revenue grew by 2% year-over-year to $40.73 billion, but missed analyst estimates and saw a decline in adjusted net income and EBITA due to investments and operational changes. Quick commerce business expanded, and Alibaba's cloud segment saw strong AI-driven growth.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of positive and negative aspects, with growth in certain segments and investments for future gains, but also misses estimates and declines in income, leading to a neutral market impact.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.35,
+        111.72,
+        111.65,
+        112.56,
+        113.49,
+        113.26,
+        113.63
+      ],
+      "base_price": 111.44,
+      "next_price": 113.86,
+      "change_1d": 2.1716,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

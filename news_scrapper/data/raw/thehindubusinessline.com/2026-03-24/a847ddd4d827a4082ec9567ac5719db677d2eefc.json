@@ -1,0 +1,64 @@
+{
+  "id": "a847ddd4d827a4082ec9567ac5719db677d2eefc",
+  "url": "https://www.thehindubusinessline.com/markets/gold/energy-led-inflation-worries-drag-gold-silver-prices-lower/article70776036.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Energy-led inflation worries drag gold, silver prices lower - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:41.479949",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\a847ddd4d827a4082ec9567ac5719db677d2eefc.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\a847ddd4d827a4082ec9567ac5719db677d2eefc.txt",
+  "word_count": 446,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "65599a627b745addbec38697b89b277a5048fcd7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"US inflation\"",
+  "gdelt_category": "macro",
+  "summary": "Gold and silver prices have significantly declined due to a global sell-off, influenced by the US-Iran conflict, high energy prices, and a hawkish stance from the US Fed, despite ongoing geopolitical tensions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as a sharp decline in gold and silver prices, fears of inflation, and the influence of geopolitical events on financial markets, indicating a negative sentiment.",
+  "price_changes": {
+    "\"US inflation\"": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

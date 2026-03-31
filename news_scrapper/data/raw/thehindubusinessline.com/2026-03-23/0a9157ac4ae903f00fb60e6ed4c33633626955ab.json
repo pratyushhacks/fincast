@@ -1,0 +1,65 @@
+{
+  "id": "0a9157ac4ae903f00fb60e6ed4c33633626955ab",
+  "url": "https://www.thehindubusinessline.com/markets/gold/gold-is-heading-for-its-worst-week-in-over-40-years-heres-why/article70771708.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Gold is heading for its worst week in over 40 years. Here’s why - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:30.489122",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-23\\0a9157ac4ae903f00fb60e6ed4c33633626955ab.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-23\\0a9157ac4ae903f00fb60e6ed4c33633626955ab.txt",
+  "word_count": 511,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ddac65626653dcba77fbc5cb5bb11de4fa738f27",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "Gold prices have suffered a significant decline due to a combination of profit-taking, geopolitical tensions, and market corrections, despite remaining higher for the year.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a major weekly loss in gold prices, geopolitical tensions affecting the market, and a negative outlook due to profit-taking and technical selling signals.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.68,
+        27.89,
+        27.73,
+        27.68,
+        27.85,
+        27.58,
+        27.68
+      ],
+      "base_price": 27.56,
+      "next_price": 27.65,
+      "change_1d": 0.3266,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a31a6076cb660ce37c5ccfc013933c4fabfeaf00",
+  "url": "https://www.scmp.com/tech/article/3348311/what-makes-yuanjie-chinese-optical-chip-star-and-hong-kong-ipo-candidate-stand-out",
+  "site": "scmp.com",
+  "title": "What makes Yuanjie – a Chinese optical chip star and Hong Kong IPO candidate – stand out? | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:55.277164",
+  "html_path": "data\\raw\\scmp.com\\2026-03-31\\a31a6076cb660ce37c5ccfc013933c4fabfeaf00.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-31\\a31a6076cb660ce37c5ccfc013933c4fabfeaf00.txt",
+  "word_count": 267,
+  "paywalled": false,
+  "dedup_hash": "a8ff801d6c8f7a2aee369854b0970b501552b2a3",
+  "scraper_version": "0.1",
+  "gdelt_query": "artificial intelligence market",
+  "summary": "Yuanjie Semiconductor Technology's shares have surged nearly ninefold due to its role in the AI infrastructure boom, aiming for a Hong Kong listing. It now has a significant market capitalization and ranks second among mainland-listed companies.",
+  "sentiment": 5,
+  "sentiment_reason": "The company's substantial share price increase and market capitalization growth, driven by its strategic positioning in the AI and optical communications industry, reflect a strongly positive market impact.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38,
+        33.29,
+        32.46
+      ],
+      "base_price": 31.99,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dcab7fb7a58bcbb780eb14147926305afc8a97d9",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/low-us-weekly-unemployment-claims-point-to-stable-labor-market/articleshow/129828382.cms",
+  "site": "indiatimes.com",
+  "title": "Low US weekly unemployment claims point to stable labor market - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:30.463329",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\dcab7fb7a58bcbb780eb14147926305afc8a97d9.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\dcab7fb7a58bcbb780eb14147926305afc8a97d9.txt",
+  "word_count": 657,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "bfb262560177af29b3633ef17cf394f35c7aa6a9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

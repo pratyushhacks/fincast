@@ -1,0 +1,67 @@
+{
+  "id": "fa3da5896472b49b9181facfb40af9199bae46c6",
+  "url": "https://www.techradar.com/computing/windows/microsoft-exec-promises-big-changes-for-windows-11-will-come-this-month-and-every-month-this-year-but-temper-your-expectations",
+  "site": "techradar.com",
+  "title": "Microsoft exec promises big changes for Windows 11 will come 'this month and every month this year' — but don't get too excited | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:02.372099",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\fa3da5896472b49b9181facfb40af9199bae46c6.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\fa3da5896472b49b9181facfb40af9199bae46c6.txt",
+  "word_count": 645,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "98ae2f4e0571ca2865006efa34a7f5dae0eb78b8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Microsoft is initiating immediate testing for Windows 11 upgrades, including major changes like the taskbar and Bluetooth improvements, with monthly updates planned throughout the year.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights proactive steps by Microsoft to improve Windows 11 with regular updates, which is generally perceived as a positive move for users and the market.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04
+      ],
+      "base_price": 365.97,
+      "next_price": 359.94,
+      "change_1d": -1.6477,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.29,
+      "change_1d": -1.1328,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

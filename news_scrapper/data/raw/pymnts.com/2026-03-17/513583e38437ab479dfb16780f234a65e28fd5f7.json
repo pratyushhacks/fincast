@@ -1,0 +1,46 @@
+{
+  "id": "513583e38437ab479dfb16780f234a65e28fd5f7",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-plans-10-billion-in-partnerships-with-pe-firms/",
+  "site": "pymnts.com",
+  "title": "OpenAI Plans $10 Billion in Partnerships With PE Firms",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:26.230427",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-17\\513583e38437ab479dfb16780f234a65e28fd5f7.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-17\\513583e38437ab479dfb16780f234a65e28fd5f7.txt",
+  "word_count": 444,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9f868887e7da21752d5f10c0185b4a2864e94580",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI plans $10 billion in partnerships with PE firms to distribute its enterprise products among the firms' clients, potentially accelerating corporate AI adoption and benefiting PE firms with early access to OpenAI’s tools.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a significant business move by OpenAI that could influence the enterprise AI market and corporate AI adoption, but it does not contain strong negative or positive market impacts such as war, crisis, or major breakthroughs.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

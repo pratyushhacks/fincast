@@ -1,0 +1,65 @@
+{
+  "id": "8913132f89b8c0f1644083fb6a0e0e48ef9cec4d",
+  "url": "https://www.benzinga.com/markets/prediction-markets/26/03/51418051/gold-taps-4100-and-dollar-emerges-as-ultimate-crisis-safe-haven-says-td-securities-str",
+  "site": "benzinga.com",
+  "title": "Gold Taps $4,100 And Dollar Emerges As Ultimate Crisis Safe Haven, Says TD Securities Strategist - SPDR Gold Shares (ARCA:GLD)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:45.543464",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\8913132f89b8c0f1644083fb6a0e0e48ef9cec4d.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\8913132f89b8c0f1644083fb6a0e0e48ef9cec4d.txt",
+  "word_count": 307,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "8eb92cb824556230e8b85ce12350c2e923977707",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro",
+  "summary": "Gold prices plummeted to a low of $4,100 amidst geopolitical tensions, erasing gains from the previous year and facing increased odds of further decline. The conflict has influenced oil prices, impacting inflation and rate-cut expectations, while the dollar strengthens, challenging gold's status as a safe haven.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a strong negative market impact due to geopolitical tensions causing a sell-off in gold, increased odds of a rate hike, and a strengthening dollar.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        86.54,
+        87.21,
+        87.45,
+        86.96,
+        87.49,
+        85.83,
+        86.39
+      ],
+      "base_price": 86.01,
+      "next_price": 86.84,
+      "change_1d": 0.965,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

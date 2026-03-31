@@ -1,0 +1,54 @@
+{
+  "id": "12e87f70ff50756a6cb9cb41116c1e4ed7072fc4",
+  "url": "https://fortune.com/2026/03/30/markets-react-iran-war-oil-price-keeps-going-higher/",
+  "site": "fortune.com",
+  "title": "S&P set for another loss following worst week since Iran War began as oil keeps climbing | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:21.301409",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\12e87f70ff50756a6cb9cb41116c1e4ed7072fc4.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\12e87f70ff50756a6cb9cb41116c1e4ed7072fc4.txt",
+  "word_count": 714,
+  "paywalled": false,
+  "dedup_hash": "fa068d7e98832bd4bb5df2a8fcbfb4f84cba6c8f",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\"",
+  "summary": "U.S. stocks fluctuate amidst rising oil prices and uncertainty over the Iran conflict, with the S&P 500 experiencing a correction and investors cautious due to potential inflation and economic impact.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as stock market volatility, corrections, and concerns over inflation due to the ongoing war and oil price fluctuations.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11,
+        85.64
+      ],
+      "base_price": 86.78,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

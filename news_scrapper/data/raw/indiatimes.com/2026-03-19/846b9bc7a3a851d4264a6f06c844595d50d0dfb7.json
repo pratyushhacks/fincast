@@ -1,0 +1,26 @@
+{
+  "id": "846b9bc7a3a851d4264a6f06c844595d50d0dfb7",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-falls-768-points-sp-nasdaq-drop-over-1-3-as-fed-holds-interest-rate/articleshow/129657990.cms",
+  "site": "indiatimes.com",
+  "title": "US stock market: Dow Jones falls 768 points, S&P, Nasdaq drop over 1.3% as Fed holds interest rate - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:46:00.741398",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\846b9bc7a3a851d4264a6f06c844595d50d0dfb7.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\846b9bc7a3a851d4264a6f06c844595d50d0dfb7.txt",
+  "word_count": 586,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "1d2939e7d1de6db8784fa501afcf3b237bd23b60",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

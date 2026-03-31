@@ -1,0 +1,65 @@
+{
+  "id": "6016eba61b733cdb91ef5a02c593254c4fc00f26",
+  "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-flat-after-biggest-weekly-decline-in-over-40-years-silver-price-near-68-11774226399129.html",
+  "site": "livemint.com",
+  "title": "Gold, silver rates today: Precious metals crash as tension rises in the US-Iran war, yellow metal below $4,500 | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:38.677191",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-24\\6016eba61b733cdb91ef5a02c593254c4fc00f26.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-24\\6016eba61b733cdb91ef5a02c593254c4fc00f26.txt",
+  "word_count": 553,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c718fc50e90faaf535385fc14bd43356f9158d23",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Gold and silver prices fell due to escalating Middle East tensions, rising oil prices, and a stronger US dollar, with gold hitting its worst week since 1983 and silver experiencing a sharp correction.",
+  "sentiment": 2,
+  "sentiment_reason": "The negative market impact is driven by geopolitical tensions, rising oil prices, and a stronger dollar, which dampen expectations of interest rate cuts and make dollar-denominated bullion less attractive.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

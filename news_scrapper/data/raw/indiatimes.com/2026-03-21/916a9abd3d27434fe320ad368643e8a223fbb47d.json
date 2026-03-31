@@ -1,0 +1,26 @@
+{
+  "id": "916a9abd3d27434fe320ad368643e8a223fbb47d",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/83-bse-500-stocks-suffer-losses-amid-iran-israel-war-101-slump-in-double-digits-up-to-35-do-you-own-any/articleshow/129692609.cms",
+  "site": "indiatimes.com",
+  "title": "83% of BSE 500 stocks plunge up to 35% amid Mideast war. Do you own any? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:16.762883",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\916a9abd3d27434fe320ad368643e8a223fbb47d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\916a9abd3d27434fe320ad368643e8a223fbb47d.txt",
+  "word_count": 793,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "50549b1248002fa09457dad7a46d93a96b026a97",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector"
+}

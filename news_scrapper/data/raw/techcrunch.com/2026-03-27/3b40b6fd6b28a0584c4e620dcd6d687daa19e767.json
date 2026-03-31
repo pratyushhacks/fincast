@@ -1,0 +1,65 @@
+{
+  "id": "3b40b6fd6b28a0584c4e620dcd6d687daa19e767",
+  "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+  "site": "techcrunch.com",
+  "title": "The least surprising chapter of the Manus story is what's happening right now | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:53.827689",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-27\\3b40b6fd6b28a0584c4e620dcd6d687daa19e767.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-27\\3b40b6fd6b28a0584c4e620dcd6d687daa19e767.txt",
+  "word_count": 595,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "1144776cfb21a6f792d8707bca08e41b34e0e7b2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Manus, an AI startup, relocated to Singapore and was acquired by Meta for $2 billion, amidst China's intense competition in AI development and its crackdown on companies operating outside its jurisdiction.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses China's aggressive stance on AI development and its crackdown on companies like Manus that attempt to operate outside its control, which indicates negative market impact due to regulatory fears and potential loss of talent and IP.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

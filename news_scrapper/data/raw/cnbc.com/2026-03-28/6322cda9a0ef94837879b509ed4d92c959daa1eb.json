@@ -1,0 +1,65 @@
+{
+  "id": "6322cda9a0ef94837879b509ed4d92c959daa1eb",
+  "url": "https://www.cnbc.com/2026/03/27/chinas-byd-sees-first-profit-drop-since-2021.html",
+  "site": "cnbc.com",
+  "title": "China's BYD sees first profit drop since 2021",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:39.480605",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-28\\6322cda9a0ef94837879b509ed4d92c959daa1eb.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-28\\6322cda9a0ef94837879b509ed4d92c959daa1eb.txt",
+  "word_count": 569,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "46347d505a10a56417398c38cab1a3adbe064b03",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "BYD's annual sales reached a record $116 billion, surpassing Tesla, but faced a profit decline for the first time since 2021 due to intense competition and market pressures. The company's sales are losing momentum with a 36% year-on-year decline in January-February sales.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights a negative aspect with the profit decline and the intense competition in the market, despite the record sales.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

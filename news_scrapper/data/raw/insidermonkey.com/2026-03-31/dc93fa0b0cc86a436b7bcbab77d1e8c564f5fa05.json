@@ -1,0 +1,54 @@
+{
+  "id": "dc93fa0b0cc86a436b7bcbab77d1e8c564f5fa05",
+  "url": "https://www.insidermonkey.com/blog/11-high-growth-healthcare-stocks-to-buy-now-1725555/",
+  "site": "insidermonkey.com",
+  "title": "11 High Growth Healthcare Stocks to Buy Now - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:30.938450",
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-31\\dc93fa0b0cc86a436b7bcbab77d1e8c564f5fa05.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-31\\dc93fa0b0cc86a436b7bcbab77d1e8c564f5fa05.txt",
+  "word_count": 828,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "gdelt_query": "healthcare stocks",
+  "summary": "Amazon's CEO highlights generative AI as a transformative technology, while billionaires invest in AI for major societal impacts. An under-valued company is pivotal to this AI revolution, according to insiders.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents a strongly positive outlook on the impact of generative AI and the investments made by major figures in the tech industry, indicating a significant market opportunity and transformative potential.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        146.01,
+        144.74,
+        144.77,
+        144.79,
+        146.24,
+        145.74,
+        143.26
+      ],
+      "base_price": 143.82,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

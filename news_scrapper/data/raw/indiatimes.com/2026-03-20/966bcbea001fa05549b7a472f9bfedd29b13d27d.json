@@ -1,0 +1,25 @@
+{
+  "id": "966bcbea001fa05549b7a472f9bfedd29b13d27d",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-to-open-gap-down-on-friday-amid-oil-price-surge-continued-fii-outflows-check-range/articleshow/129680942.cms",
+  "site": "indiatimes.com",
+  "title": "Rupee to open gap-down on Friday amid oil price surge, continued FII outflows. Check range - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:46.484652",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\966bcbea001fa05549b7a472f9bfedd29b13d27d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\966bcbea001fa05549b7a472f9bfedd29b13d27d.txt",
+  "word_count": 476,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2e3c8dfbc7123e1a4acc77824be4511aa469a6e4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

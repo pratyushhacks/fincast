@@ -1,0 +1,54 @@
+{
+  "id": "4a10d88f7cd7c25fffb85d144ff6a55361ac5d4b",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51529026/weekend-round-up-tesla-triumphs-amid-ev-sales-slump-ford-faces-recall-woes-and-byd-plays-the-bond-ca",
+  "site": "benzinga.com",
+  "title": "Weekend Round-Up: Tesla Triumphs Amid EV Sales Slump, Ford Faces Recall Woes And BYD Plays The Bond Card  - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:43.243075",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\4a10d88f7cd7c25fffb85d144ff6a55361ac5d4b.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\4a10d88f7cd7c25fffb85d144ff6a55361ac5d4b.txt",
+  "word_count": 363,
+  "paywalled": false,
+  "dedup_hash": "ab63296613d95c9ad2477cc06be255492c655984",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "Tesla outperforms in EV sales despite a slump, Ford faces recalls over software issues, GM benefits from falling crude prices, and BYD challenges Tesla with a unique European campaign.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of neutral news, with Tesla's strong performance and GM's positive outlook due to lower oil prices, balanced by Ford's recall issues.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

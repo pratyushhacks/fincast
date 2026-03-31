@@ -1,0 +1,18 @@
+{
+  "id": "776cafc7702232a7cb4fdcdce39843ec5df7a589",
+  "url": "https://www.businessinsider.com/ai-industry-super-pac-wins-congressional-primaries-2026-3",
+  "site": "businessinsider.com",
+  "title": "AI-Industry Super PACs Are Mostly Winning so Far - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:57.273418",
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-31\\776cafc7702232a7cb4fdcdce39843ec5df7a589.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-31\\776cafc7702232a7cb4fdcdce39843ec5df7a589.txt",
+  "word_count": 772,
+  "paywalled": false,
+  "dedup_hash": "86b7ed4c470d4932326fc426938c0ac4fd48b08c",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Leading the Future and Public First super PACs spent significant funds in congressional primaries, largely supporting candidates favorable to AI industry interests. Their investment mostly paid off with candidates advancing, indicating a strong industry influence on AI-related political races.",
+  "sentiment": 4,
+  "sentiment_reason": "The AI industry's strategic investment in elections to support candidates favorable to their interests resulted in a positive market impact, as evidenced by the success of their preferred candidates in the primaries."
+}

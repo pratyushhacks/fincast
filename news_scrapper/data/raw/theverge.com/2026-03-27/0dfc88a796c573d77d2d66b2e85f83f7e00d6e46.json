@@ -1,0 +1,64 @@
+{
+  "id": "0dfc88a796c573d77d2d66b2e85f83f7e00d6e46",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/901313/googles-turboquant-algorithm-aims-to-slash-ai-memory-usage",
+  "site": "theverge.com",
+  "title": "Google’s TurboQuant algorithm aims to slash AI memory usage. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:06.870827",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-27\\0dfc88a796c573d77d2d66b2e85f83f7e00d6e46.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-27\\0dfc88a796c573d77d2d66b2e85f83f7e00d6e46.txt",
+  "word_count": 77,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "114061e557a02e47a9afc763b8a3676f3f5d89cd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google's TurboQuant algorithm significantly reduces AI memory usage without compromising accuracy. This advancement could have implications for the efficiency of large language models.",
+  "sentiment": 4,
+  "sentiment_reason": "The development of a more efficient algorithm for AI memory usage is generally seen as a positive advancement in technology, indicating innovation and potential cost savings.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

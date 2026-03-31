@@ -1,0 +1,24 @@
+{
+  "id": "a16260125e4ccb5384543b2367c92b3f22d73683",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/apple-wins-ruling-against-masimo-to-avoid-import-ban-on-redesigned-apple-watches/129690504",
+  "site": "indiatimes.com",
+  "title": "Apple Wins Ruling Against Masimo to Avoid Import Ban on Redesigned Apple Watches, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:39.383472",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\a16260125e4ccb5384543b2367c92b3f22d73683.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\a16260125e4ccb5384543b2367c92b3f22d73683.txt",
+  "word_count": 404,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c2c64460c7700877ed06d5de36bb8f8c3bee6643",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company"
+}

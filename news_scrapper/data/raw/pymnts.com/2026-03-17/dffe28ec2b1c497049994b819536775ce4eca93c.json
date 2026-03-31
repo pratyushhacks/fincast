@@ -1,0 +1,67 @@
+{
+  "id": "dffe28ec2b1c497049994b819536775ce4eca93c",
+  "url": "https://www.pymnts.com/meta/2026/meta-weighs-widespread-layoffs-as-ai-spending-grows/",
+  "site": "pymnts.com",
+  "title": "Meta Weighs Widespread Layoffs as AI Spending Grows",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:04.550074",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-17\\dffe28ec2b1c497049994b819536775ce4eca93c.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-17\\dffe28ec2b1c497049994b819536775ce4eca93c.txt",
+  "word_count": 429,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "036d42fa3cd008cc52373fba841052c32451090e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Meta considers large-scale layoffs to balance AI infrastructure spending and aims for efficiency gains from AI-assisted workers.",
+  "sentiment": 2,
+  "sentiment_reason": "The article suggests potential negative market impact due to anticipated layoffs and the company's significant investment in AI infrastructure without a clear revenue stream.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        408.96,
+        409.41,
+        405.76,
+        404.88,
+        401.86,
+        395.55,
+        399.95
+      ],
+      "base_price": 399.41,
+      "next_price": 391.79,
+      "change_1d": -1.9078,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

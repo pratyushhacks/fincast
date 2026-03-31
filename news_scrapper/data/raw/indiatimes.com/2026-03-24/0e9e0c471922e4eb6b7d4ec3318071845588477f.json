@@ -1,0 +1,26 @@
+{
+  "id": "0e9e0c471922e4eb6b7d4ec3318071845588477f",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-cash-is-king-investors-flee-stocks-park-billions-in-cash-aamid-oil-shock-and-inflation-fears/articleshow/129743680.cms",
+  "site": "indiatimes.com",
+  "title": "Global Market | Cash is King: Investors flee stocks, park billions in cash Aamid oil shock and inflation fears - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:42.815995",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\0e9e0c471922e4eb6b7d4ec3318071845588477f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\0e9e0c471922e4eb6b7d4ec3318071845588477f.txt",
+  "word_count": 486,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "74b88b855c17517dcf4227a1d2bf4920ee344014",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "46797ac7df58a6ba1b5350e345ccc0fea6bd8718",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51530684/meta-plans-prescription-ray-ban-smart-glasses-push",
+  "site": "benzinga.com",
+  "title": "Meta Reportedly Plans To Expand Smart Glasses Push With New Prescription Ray-Ban Models, Targeting Billions Of Everyday Eyewear Users - Apple (NASDAQ:AAPL), Essilorluxottica (OTC:ESLOF)",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:03.787582",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\46797ac7df58a6ba1b5350e345ccc0fea6bd8718.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\46797ac7df58a6ba1b5350e345ccc0fea6bd8718.txt",
+  "word_count": 266,
+  "paywalled": false,
+  "dedup_hash": "0d6ef647684b89689e59831682c668d8e4e51fca",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta Platforms, Inc. plans to launch two new Ray-Ban smart glasses for prescription users next week, aiming to tap into the vision correction market. The company's earnings report exceeded expectations, but its stock is currently trending downward.",
+  "sentiment": 3,
+  "sentiment_reason": "The launch of new products in a growing market segment is neutral to positive, but the downward trend in stock price and negative market news sentiment reflect a neutral overall market impact.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "0a8974159cec03714aa17637ddd8be5d79c84066",
+  "url": "https://www.techradar.com/pro/even-the-most-advanced-ai-models-fail-more-often-than-you-think-on-structured-outputs-raising-doubts-about-the-effectiveness-of-coding-assistants",
+  "site": "techradar.com",
+  "title": "Top AI coding assistants fail one in four tasks, revealing serious gaps between hype and actual performance reliability | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:16.297737",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-23\\0a8974159cec03714aa17637ddd8be5d79c84066.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-23\\0a8974159cec03714aa17637ddd8be5d79c84066.txt",
+  "word_count": 513,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f6fb1a090fbb0462af414298bbfc0b5c4f84b02e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "AI coding assistants, including advanced proprietary and open source models, struggle with structured-output tasks, with failure rates of one in four and average accuracies of 75% and 65% respectively, indicating significant room for improvement.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights issues such as high failure rates and moderate accuracy in AI coding assistants, which can lead to negative implications for their adoption in professional development environments."
+}

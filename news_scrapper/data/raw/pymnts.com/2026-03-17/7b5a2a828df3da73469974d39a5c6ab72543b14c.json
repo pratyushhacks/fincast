@@ -1,0 +1,46 @@
+{
+  "id": "7b5a2a828df3da73469974d39a5c6ab72543b14c",
+  "url": "https://www.pymnts.com/news/ecommerce/2026/shopify-bets-big-on-agentic-ai/",
+  "site": "pymnts.com",
+  "title": "Shopify Bets Big on Agentic AI",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:28.185406",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-17\\7b5a2a828df3da73469974d39a5c6ab72543b14c.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-17\\7b5a2a828df3da73469974d39a5c6ab72543b14c.txt",
+  "word_count": 413,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6ae2c298d181b386ef8b71f1f8142ebed7a178ef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Shopify's head, Harley Finkelstein, discusses the potential of agentic AI as a new shopping tool at the Upfront Summit, highlighting its ability to personalize shopping experiences and improve efficiency for both merchants and consumers. Finkelstein also mentions Shopify's Sidekick AI for merchants and the industry's shift towards agent-mediated checkout.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the mention of a 'new era of commerce' that implies significant change and potential disruption in the retail industry, which can be associated with uncertainty and the fear of a 'war' or 'crisis' in traditional commerce models.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

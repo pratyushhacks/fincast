@@ -1,0 +1,49 @@
+{
+  "id": "3218e310ccea83082bbc5af0a5ab9046832b7e67",
+  "url": "https://www.thetimes.com/business/companies-markets/article/tech-bros-dilemma-in-california-fight-the-5-percent-wealth-tax-or-flee-0hzhh5j00",
+  "site": "thetimes.com",
+  "title": "Tech bros’ dilemma in California: fight the 5% wealth tax or flee?",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:26:45.732572",
+  "language": null,
+  "html_path": "data\\raw\\thetimes.com\\2026-03-14\\3218e310ccea83082bbc5af0a5ab9046832b7e67.html",
+  "text_path": "data\\raw\\thetimes.com\\2026-03-14\\3218e310ccea83082bbc5af0a5ab9046832b7e67.txt",
+  "word_count": 1336,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "cf786638ffa0d7ddc8a3df081a8e3eea8415db19",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "Anthropic",
+  "gdelt_category": "company",
+  "summary": "California billionaires face a dilemma over a proposed 5% one-time wealth tax amidst mid-term elections, sparking a societal conflict over patriotism, asset retention, and potential relocation.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the conflict and uncertainty surrounding the wealth tax and its implications for the state's billionaires.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

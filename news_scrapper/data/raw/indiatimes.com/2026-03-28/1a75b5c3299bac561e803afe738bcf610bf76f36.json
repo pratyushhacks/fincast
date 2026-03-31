@@ -1,0 +1,25 @@
+{
+  "id": "1a75b5c3299bac561e803afe738bcf610bf76f36",
+  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-crosses-94/1-mark-for-the-first-time-ends-at-94-81/-amid-volatile-crude-prices-due-to-us-iran-war/articleshow/129851183.cms",
+  "site": "indiatimes.com",
+  "title": "Rupee crosses 94/$1 mark for the first time, ends at 94.81/$ amid volatile crude prices due to US-Iran war - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:10.178984",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\1a75b5c3299bac561e803afe738bcf610bf76f36.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\1a75b5c3299bac561e803afe738bcf610bf76f36.txt",
+  "word_count": 405,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "fc5b3fcebf291c23a9760e1e7f3455276b87d589",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

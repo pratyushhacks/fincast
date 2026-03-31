@@ -1,0 +1,64 @@
+{
+  "id": "5621690b16977362701d702a519f09df7355033b",
+  "url": "https://www.theatlantic.com/newsletters/2026/03/trump-markets-decision-making-iran/686526/",
+  "site": "theatlantic.com",
+  "title": "What the Markets Tell Trump - The Atlantic",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:18.315623",
+  "language": null,
+  "html_path": "data\\raw\\theatlantic.com\\2026-03-26\\5621690b16977362701d702a519f09df7355033b.html",
+  "text_path": "data\\raw\\theatlantic.com\\2026-03-26\\5621690b16977362701d702a519f09df7355033b.txt",
+  "word_count": 1280,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "ccb6381f5c460d47831f75e8b947cd47c691a2b1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro",
+  "summary": "Donald Trump's fluctuating stance on military actions and economic threats towards Iran, including ultimatums and potential energy infrastructure destruction, has created uncertainty, influencing oil prices and market speculation.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of the uncertainty surrounding Trump's threats and ultimatums, which has led to market fears and volatility, hence a negative sentiment score.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        87.45,
+        86.96,
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84
+      ],
+      "base_price": 86.11,
+      "next_price": 85.88,
+      "change_1d": -0.2671,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.09,
+      "change_1d": -0.7751,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

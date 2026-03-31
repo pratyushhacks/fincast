@@ -1,0 +1,64 @@
+{
+  "id": "edfa9e00ad87bb4000d85cd9a614d898ad63c9a7",
+  "url": "https://www.livemint.com/technology/gadgets/samsung-galaxy-a37-a57-confirmed-to-launch-in-india-on-25-march-expected-price-specs-and-more-11774143600987.html",
+  "site": "livemint.com",
+  "title": "Samsung Galaxy A37, A57 confirmed to launch in India on 25 March: Expected price, specs and more | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:23.055917",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\edfa9e00ad87bb4000d85cd9a614d898ad63c9a7.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\edfa9e00ad87bb4000d85cd9a614d898ad63c9a7.txt",
+  "word_count": 321,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7e9d41527e641ce00fac562308bcc2c022064f54",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Samsung will launch the Galaxy A37 and A57 in India and other global markets on 25 March. The devices are expected to have a 6.7-inch Super AMOLED display, Exynos processors, and a similar camera setup as their predecessors. However, due to a memory chip shortage, these models will be around 16-20% costlier.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents mostly positive news with the launch of new smartphone models and their features, despite the slight negative aspect of increased prices due to a chip shortage.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        35.59,
+        34.83,
+        35.39,
+        35.38,
+        34.85,
+        34.88,
+        33.6
+      ],
+      "base_price": 34.24,
+      "next_price": 33.82,
+      "change_1d": -1.2266,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

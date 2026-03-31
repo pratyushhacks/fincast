@@ -1,0 +1,47 @@
+{
+  "id": "b122c088dd82f06db4a048a1b9ec316bb22f6243",
+  "url": "https://www.insidermonkey.com/blog/lennar-corporation-nyselen-q1-2026-earnings-call-transcript-1716201/",
+  "site": "insidermonkey.com",
+  "title": "Lennar Corporation (NYSE:LEN) Q1 2026 Earnings Call Transcript - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:08:05.356972",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-14\\b122c088dd82f06db4a048a1b9ec316bb22f6243.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-14\\b122c088dd82f06db4a048a1b9ec316bb22f6243.txt",
+  "word_count": 10601,
+  "reading_time_minutes": 53,
+  "paywalled": false,
+  "dedup_hash": "dcc0abf0c9a5f2ef93f615e655e9f65617cf5257",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "trade war tariffs technology",
+  "gdelt_category": "macro",
+  "summary": "Lennar Corporation's Q1 2026 earnings call discusses the company's performance and future outlook amidst strategic changes and leadership transitions, with a focus on the impact of macroeconomic factors and the absence of a key executive.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the mention of the trauma of leadership transition and the inherent risks and uncertainties associated with forward-looking statements.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

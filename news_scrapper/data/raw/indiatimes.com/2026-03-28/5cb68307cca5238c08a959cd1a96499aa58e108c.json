@@ -1,0 +1,25 @@
+{
+  "id": "5cb68307cca5238c08a959cd1a96499aa58e108c",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/globalfoundries-takes-legal-action-against-tower-semiconductor-for-patent-infringement/129837887",
+  "site": "indiatimes.com",
+  "title": "GlobalFoundries Takes Legal Action Against Tower Semiconductor for Patent Infringement, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:50.786747",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\5cb68307cca5238c08a959cd1a96499aa58e108c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\5cb68307cca5238c08a959cd1a96499aa58e108c.txt",
+  "word_count": 288,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "37221dffba6f624159fcaef5e9f01f0e27cfedf3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company"
+}

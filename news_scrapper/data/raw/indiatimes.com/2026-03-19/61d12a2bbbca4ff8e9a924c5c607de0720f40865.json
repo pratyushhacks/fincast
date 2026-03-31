@@ -1,0 +1,27 @@
+{
+  "id": "61d12a2bbbca4ff8e9a924c5c607de0720f40865",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-report/articleshow/129660739.cms",
+  "site": "indiatimes.com",
+  "title": "US Stocks: Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal: Report - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:24.366722",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\61d12a2bbbca4ff8e9a924c5c607de0720f40865.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\61d12a2bbbca4ff8e9a924c5c607de0720f40865.txt",
+  "word_count": 300,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fbb7eba30055ecd80bec23eedbd8bdd15423cc42",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "7fb7c4113cccc87c8580eef2a8e753374bacfc15",
+  "url": "https://www.livemint.com/global/the-playbook-that-elon-musk-relies-on-to-make-his-wild-ideas-work-11774663487093.html",
+  "site": "livemint.com",
+  "title": "The playbook that Elon Musk relies on to make his wild ideas work | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:49.576500",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\7fb7c4113cccc87c8580eef2a8e753374bacfc15.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\7fb7c4113cccc87c8580eef2a8e753374bacfc15.txt",
+  "word_count": 52,
+  "paywalled": false,
+  "dedup_hash": "fa88d6a40465ff52c2c973f24804ec9762463c27",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "The Terafab technology promises to surpass the current production capabilities of all existing chip fabrication plants. However, its complexity and the competitive nature of the industry pose significant challenges for companies like car manufacturers or rocket makers.",
+  "sentiment": 3,
+  "sentiment_reason": "The statement presents a neutral market impact as it introduces a potentially transformative technology but also highlights the risks and challenges associated with its adoption in unfamiliar industries.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "91dc980e407e609b52c74a396b1f3d4a8e650846",
+  "url": "https://www.techradar.com/seasonal-sales/these-cheap-ps5-games-offer-hundreds-of-hours-of-entertainment-and-start-at-less-than-eight-bucks",
+  "site": "techradar.com",
+  "title": "These cheap PS5 games offer hundreds of hours of entertainment and start at less than eight bucks | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:29.563762",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\91dc980e407e609b52c74a396b1f3d4a8e650846.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\91dc980e407e609b52c74a396b1f3d4a8e650846.txt",
+  "word_count": 158,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "5c0fc6faf823e598478116f78c035b5bd1de1ec9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon has launched its Big Spring Sale with significant discounts on various products, including popular video games like Sonic Superstars and Anno 117: Pax Romana, and RPG Dragon Age: The Veilguard.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights major game price reductions and promotional sales, which are strongly positive for consumers and retailers alike.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 201.05,
+      "change_1d": -3.1271,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.23,
+      "change_1d": -1.1433,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

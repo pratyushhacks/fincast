@@ -1,0 +1,27 @@
+{
+  "id": "4df3480d118e9c70ef7759871e35bcd5c459a5f0",
+  "url": "https://telecom.economictimes.indiatimes.com/news/industry/jio-platforms-ipo-major-investors-to-sell-4-billion-stake/129814470",
+  "site": "indiatimes.com",
+  "title": "Jio Platforms IPO: Major Investors to Sell $4 Billion Stake, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:54.858219",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\4df3480d118e9c70ef7759871e35bcd5c459a5f0.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\4df3480d118e9c70ef7759871e35bcd5c459a5f0.txt",
+  "word_count": 579,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "fbe638f9ac1d368e5f67983ec11db516019756ed",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "6827e5bd6a5a7a0285ef06af4cb4c2983ea0e2e6",
+  "url": "https://www.thehindubusinessline.com/opinion/the-global-economys-many-chokepoints/article70803999.ece",
+  "site": "thehindubusinessline.com",
+  "title": "The global economy’s many chokepoints - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:36.254447",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\6827e5bd6a5a7a0285ef06af4cb4c2983ea0e2e6.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\6827e5bd6a5a7a0285ef06af4cb4c2983ea0e2e6.txt",
+  "word_count": 1019,
+  "paywalled": false,
+  "dedup_hash": "1ce074900d4bc8f77fcecf0d22f2cf10d729a7d3",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "summary": "Iran's closure of the Strait of Hormuz and the 2021 Suez Canal blockage highlight vulnerabilities in global supply chains, particularly in critical trade passages and concentrated supply markets like semiconductors. The reliance on few suppliers for essential components like microcontrollers and rare earths poses risks to global industries.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of supply chain vulnerabilities and geopolitical actions on global markets, focusing on the risks and disruptions caused by single points of failure and market concentration.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25,
+        328.85,
+        323.48
+      ],
+      "base_price": 309.79,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

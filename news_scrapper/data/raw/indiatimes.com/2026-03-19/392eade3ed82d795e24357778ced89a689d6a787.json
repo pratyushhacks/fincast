@@ -1,0 +1,25 @@
+{
+  "id": "392eade3ed82d795e24357778ced89a689d6a787",
+  "url": "https://economictimes.indiatimes.com/magazines/panache/ura-enters-india-with-oura-ring-4-reveals-how-the-country-sleeps/articleshow/129657483.cms",
+  "site": "indiatimes.com",
+  "title": "ŌURA enters India with Oura Ring 4, reveals how the country sleeps - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:28.437462",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\392eade3ed82d795e24357778ced89a689d6a787.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\392eade3ed82d795e24357778ced89a689d6a787.txt",
+  "word_count": 523,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "d9eab23ca84b0a97758339b59f675f0351ac0e80",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company"
+}

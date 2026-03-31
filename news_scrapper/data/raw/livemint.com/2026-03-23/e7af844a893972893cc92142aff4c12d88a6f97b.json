@@ -1,0 +1,63 @@
+{
+  "id": "e7af844a893972893cc92142aff4c12d88a6f97b",
+  "url": "https://www.livemint.com/auto-news/twowheeler-margin-pressure-price-hike-west-asia-war-input-inflation-11774168831756.html",
+  "site": "livemint.com",
+  "title": "Electric two-wheeler firms brace for subsidy exit, war-hit to costs | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:18.783476",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\e7af844a893972893cc92142aff4c12d88a6f97b.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\e7af844a893972893cc92142aff4c12d88a6f97b.txt",
+  "word_count": 70,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "904a11eb85346f4d0b8cb54860a969fa125239a9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "India'ser top two-wheeler makers face margin and demand pressure due to rising commodity costs from the West Asia war and upcoming EV subsidy withdrawal, potentially leading to price increases or slowed EV adoption.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative impacts such as margin pressure, demand concerns, and the potential need for price increases due to external factors like the West Asia war and policy changes.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.41,
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32,
+        29.32
+      ],
+      "base_price": 30.23,
+      "next_price": 30.43,
+      "change_1d": 0.6616,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

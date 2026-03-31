@@ -1,0 +1,64 @@
+{
+  "id": "b39056feb020c921d6ac87fb65a533fdbadc0c32",
+  "url": "https://www.scmp.com/news/hong-kong/article/3347605/no-funding-cuts-hong-kong-arts-groups-next-3-years-agency-chief-pledges",
+  "site": "scmp.com",
+  "title": "No funding cuts to Hong Kong arts groups for next 3 years, agency chief pledges | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:32.557359",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-24\\b39056feb020c921d6ac87fb65a533fdbadc0c32.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-24\\b39056feb020c921d6ac87fb65a533fdbadc0c32.txt",
+  "word_count": 216,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1966f9f5cf9e7912df5599f8940da0b7a1e4f638",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Hong Kong's arts funding body commits to maintaining financial support for arts groups and artists for the next three years despite tightening public finances and required spending cuts. The council plans to optimize the use of public funds internally.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the context of required spending cuts and the pressure on government bodies to reduce expenditure, despite the council's commitment to support the arts sector.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

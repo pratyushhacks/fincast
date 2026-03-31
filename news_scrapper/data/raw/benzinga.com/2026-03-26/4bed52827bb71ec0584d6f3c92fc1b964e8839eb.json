@@ -1,0 +1,65 @@
+{
+  "id": "4bed52827bb71ec0584d6f3c92fc1b964e8839eb",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51438754/why-marathon-petroleum-stock-is-breaking-out-to-fresh-all-time-highs-today",
+  "site": "benzinga.com",
+  "title": "Why Marathon Petroleum Stock Is Breaking Out To Fresh All-Time Highs Today - Marathon Petroleum (NYSE:MPC)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:22.870661",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\4bed52827bb71ec0584d6f3c92fc1b964e8839eb.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\4bed52827bb71ec0584d6f3c92fc1b964e8839eb.txt",
+  "word_count": 500,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "038d4a51a5e7f36ac4b16799ad3d9f2c8b4c8c63",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Iran's escalated geopolitical tensions and threats have revived market-relevant risks in energy markets, particularly impacting refining margins and fuel demand. Marathon Petroleum, a major downstream energy company, has seen a positive market impact due to these developments, with its stock reaching new all-time highs amidst a strong bullish trend.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive sentiment due to the support for Marathon Petroleum's core refining business amidst war risk and geopolitical tensions, which have led to stronger crack spreads and improved fuel demand.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.0,
+      "change_1d": -0.789,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.0,
+      "change_1d": -0.789,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

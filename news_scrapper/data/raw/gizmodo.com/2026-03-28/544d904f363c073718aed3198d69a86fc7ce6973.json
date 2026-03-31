@@ -1,0 +1,28 @@
+{
+  "id": "544d904f363c073718aed3198d69a86fc7ce6973",
+  "url": "https://gizmodo.com/anthropic-and-openai-just-gave-us-a-glimpse-into-the-future-of-model-pricing-2000739173",
+  "site": "gizmodo.com",
+  "title": "Anthropic and OpenAI Just Gave Us a Glimpse Into the Future of Model Pricing",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:15.619912",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-28\\544d904f363c073718aed3198d69a86fc7ce6973.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-28\\544d904f363c073718aed3198d69a86fc7ce6973.txt",
+  "word_count": 474,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "71ffe491c5124d51a6fc3bf5dab802502942271f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Anthropic is limiting usage during peak hours, potentially losing customers to OpenAI, which has removed usage caps for its Codex platform.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses potential customer loss due to usage caps and the competitive move by OpenAI to remove those caps, indicating negative market impact."
+}

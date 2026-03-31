@@ -1,0 +1,64 @@
+{
+  "id": "3b95ca945811f7b84920bbc42be48d61e6617ff5",
+  "url": "https://www.thehindu.com/business/markets/rupee-slumps-50-paise-to-settle-at-fresh-record-low-of-9403-against-us-dollar/article70775292.ece",
+  "site": "thehindu.com",
+  "title": "Rupee slumps 50 paise to settle at fresh record low of 94.03 against U.S. dollar - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:46.970717",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-24\\3b95ca945811f7b84920bbc42be48d61e6617ff5.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-24\\3b95ca945811f7b84920bbc42be48d61e6617ff5.txt",
+  "word_count": 388,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fa83e0affc638d949a8dd0ff8d8777ed2d2e4f73",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "The Indian rupee breached the 94-mark against the U.S. dollar, settling at 94.03, due to escalating global crude prices, geopolitical tensions, and foreign fund outflows. The domestic equity markets also suffered significant losses.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates negative market impact due to the rupee's depreciation, escalating crude oil prices, and substantial outflows from the domestic equity markets.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.89,
+        27.73,
+        27.68,
+        27.85,
+        27.58,
+        27.68,
+        27.56
+      ],
+      "base_price": 27.65,
+      "next_price": 27.7,
+      "change_1d": 0.1808,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

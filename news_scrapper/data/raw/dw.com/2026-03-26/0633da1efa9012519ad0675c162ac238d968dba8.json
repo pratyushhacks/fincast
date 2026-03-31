@@ -1,0 +1,65 @@
+{
+  "id": "0633da1efa9012519ad0675c162ac238d968dba8",
+  "url": "https://www.dw.com/en/iran-war-puts-south-asias-gulf-remittances-at-risk/a-76513989",
+  "site": "dw.com",
+  "title": "Iran war puts South Asia's Gulf remittances at risk",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:24.860604",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-26\\0633da1efa9012519ad0675c162ac238d968dba8.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-26\\0633da1efa9012519ad0675c162ac238d968dba8.txt",
+  "word_count": 977,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "c9ba94f8268c668707cf5d2a61a753476356b160",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "The ongoing Iran war, marked by drone and missile attacks on Gulf states, threatens the safety of South Asian migrant workers and disrupts oil and gas transit, potentially leading to economic challenges for their home countries due to reduced remittances and increased energy costs.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of the war on migrant workers' safety and the potential economic consequences for their home countries due to disrupted remittances and energy markets.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.1,
+      "change_1d": -0.7735,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.1,
+      "change_1d": -0.7735,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

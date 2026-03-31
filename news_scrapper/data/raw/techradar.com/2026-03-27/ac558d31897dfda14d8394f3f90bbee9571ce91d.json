@@ -1,0 +1,64 @@
+{
+  "id": "ac558d31897dfda14d8394f3f90bbee9571ce91d",
+  "url": "https://www.techradar.com/tablets/ipad/need-a-new-apple-pencil-here-are-7-cheap-alternatives-to-boost-your-ipad-creativity-tried-and-tested-by-experts",
+  "site": "techradar.com",
+  "title": "Need a new Apple Pencil? Here are 7 cheap alternatives to boost your iPad creativity, tried and tested by experts | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:31.935308",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-27\\ac558d31897dfda14d8394f3f90bbee9571ce91d.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-27\\ac558d31897dfda14d8394f3f90bbee9571ce91d.txt",
+  "word_count": 263,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6229db2719170e0ce2d7148e2270db489dbe5f37",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "The article reviews various Apple Pencil alternatives that offer similar features to the official Apple Pencil at a lower price, and provides a guide for compatibility with different iPad models.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive sentiment as it highlights the availability of quality alternatives to the Apple Pencil, which can enhance the user experience without the need for the original product.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

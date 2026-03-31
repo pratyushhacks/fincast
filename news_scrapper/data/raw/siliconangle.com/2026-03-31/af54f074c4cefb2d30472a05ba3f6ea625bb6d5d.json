@@ -1,0 +1,54 @@
+{
+  "id": "af54f074c4cefb2d30472a05ba3f6ea625bb6d5d",
+  "url": "https://siliconangle.com/2026/03/30/microsoft-accelerates-agentic-automation-copilot-cowork-complex-workflows/",
+  "site": "siliconangle.com",
+  "title": "Microsoft accelerates agentic automation with Copilot Cowork for complex workflows - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:51.950139",
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-31\\af54f074c4cefb2d30472a05ba3f6ea625bb6d5d.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-31\\af54f074c4cefb2d30472a05ba3f6ea625bb6d5d.txt",
+  "word_count": 836,
+  "paywalled": false,
+  "dedup_hash": "66adfd64dfc77eba343cceab5d8bdfd6992b8680",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "Microsoft Corp. announced Copilot Cowork, an AI tool within Microsoft 365 for autonomous task handling, aiming to improve efficiency by delegating complex workflows. It integrates with GPT and Claude models for enhanced functionality.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of Copilot Cowork represents a positive step towards AI-driven productivity tools, offering a significant improvement in handling multistep tasks autonomously.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

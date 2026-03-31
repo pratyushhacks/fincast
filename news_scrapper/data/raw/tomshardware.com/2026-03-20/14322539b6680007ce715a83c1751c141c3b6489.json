@@ -1,0 +1,64 @@
+{
+  "id": "14322539b6680007ce715a83c1751c141c3b6489",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-and-samsung-ink-memory-supply-memorandum-for-epyc-and-instinct-products-unprecedented-deal-also-includes-scope-for-foundry-partnership",
+  "site": "tomshardware.com",
+  "title": "AMD and Samsung ink memory supply memorandum for EPYC and Instinct products — unprecedented deal also includes scope for foundry partnership | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:14.439646",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-20\\14322539b6680007ce715a83c1751c141c3b6489.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-20\\14322539b6680007ce715a83c1751c141c3b6489.txt",
+  "word_count": 588,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9b9ed72ebe4ca5162be2b43b675c0d51554cccce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "AMD and Samsung signed an MOU for strategic memory supply for AMD's next-generation CPU and AI accelerator products, potentially opening the door for a foundry partnership. This aims to secure memory for AI systems and compete against Nvidia.",
+  "sentiment": 4,
+  "sentiment_reason": "The agreement is positive as it ensures a steady memory supply for AMD's AI systems and could lead to a beneficial foundry partnership.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

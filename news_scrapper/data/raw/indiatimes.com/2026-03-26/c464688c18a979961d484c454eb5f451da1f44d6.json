@@ -1,0 +1,25 @@
+{
+  "id": "c464688c18a979961d484c454eb5f451da1f44d6",
+  "url": "https://economictimes.indiatimes.com/tech/technology/arm-jumps-as-new-ai-chip-to-drive-billions-in-annual-revenue/articleshow/129797978.cms",
+  "site": "indiatimes.com",
+  "title": "Arm jumps as new AI chip to drive billions in annual revenue - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:49.166478",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\c464688c18a979961d484c454eb5f451da1f44d6.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\c464688c18a979961d484c454eb5f451da1f44d6.txt",
+  "word_count": 285,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "59960e7b92976db62cb18a76d3b0018345220d7f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

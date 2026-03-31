@@ -1,0 +1,67 @@
+{
+  "id": "b1d7fe3a37e4e9f42e1ddb199cedcb6970bcb681",
+  "url": "https://www.dw.com/en/meta-hit-with-375-million-fine-in-child-exploitation-case/a-76515470",
+  "site": "dw.com",
+  "title": "Meta hit with $375 million fine in child exploitation case",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:08.081006",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-26\\b1d7fe3a37e4e9f42e1ddb199cedcb6970bcb681.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-26\\b1d7fe3a37e4e9f42e1ddb199cedcb6970bcb681.txt",
+  "word_count": 627,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "862126ca189960d8123af5df13c0b88442040457",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "New Mexico jury holds Meta liable in child safety lawsuit, finding it harmed children's mental health and concealed exploitation knowledge, ordering a $375 million fine.",
+  "sentiment": 1,
+  "sentiment_reason": "The article discusses a jury's finding against Meta on child exploitation claims and a significant fine, indicating a strongly negative market impact.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        622.66,
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89
+      ],
+      "base_price": 547.54,
+      "next_price": 529.71,
+      "change_1d": -3.2564,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.22,
+      "change_1d": -1.145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "710f7dc431cb8138636d13d6d66e2a47eaea9298",
+  "url": "https://www.techradar.com/computing/macbooks/afterpay-day-has-delivered-the-first-real-macbook-neo-discount-save-au50-on-all-4-colours",
+  "site": "techradar.com",
+  "title": "Afterpay Day has delivered the first real MacBook Neo discount — save AU$50 on all 4 colours | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:40.543690",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-21\\710f7dc431cb8138636d13d6d66e2a47eaea9298.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-21\\710f7dc431cb8138636d13d6d66e2a47eaea9298.txt",
+  "word_count": 403,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6316be8c3b10efc767f3e9bb6a993e28c59b7c18",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple launches MacBook Neo, a budget-friendly laptop with premium materials and improved repairability, offering a competitive alternative to Mac mini and MacBook Air. It comes with a variety of configurations and discounts, making it a strong contender in the budget laptop market.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents the MacBook Neo in a positive light, highlighting its competitive pricing, premium features, and repairability, which are appealing to consumers looking for a budget laptop.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96
+      ],
+      "base_price": 247.99,
+      "next_price": 251.49,
+      "change_1d": 1.4113,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

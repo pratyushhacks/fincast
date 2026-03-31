@@ -1,0 +1,64 @@
+{
+  "id": "79e5f1036cf2326133befb9edfa5ad6e53af563c",
+  "url": "https://www.benzinga.com/news/politics/26/03/51522550/wti-crude-2-year-treasury-yield-real-threat-22v-research-2026",
+  "site": "benzinga.com",
+  "title": "Oil Shock Hit, But The 2-Year Treasury Yield Is The Real Threat - iShares 1-3 Year Treasury Bond ETF (NASDAQ:SHY), United States Oil Fund (ARCA:USO)",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:08.024583",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-28\\79e5f1036cf2326133befb9edfa5ad6e53af563c.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-28\\79e5f1036cf2326133befb9edfa5ad6e53af563c.txt",
+  "word_count": 505,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c085421532cdd6a260dca10986baf830fecd07d3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The article discusses a significant discrepancy in the bond market, particularly focusing on the underpricing of the 2-Year Treasury yield compared to the surge in oil prices. It suggests that while oil is currently in the spotlight, the bond market, especially the 2-Year yield, poses a more substantial threat to the market's stability.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the implications of the underpriced 2-Year Treasury yield, which could lead to higher mortgage and credit card rates, and the potential collapse of the 'Fed cuts in 2026' thesis, alongside the pressure on rate-sensitive sectors.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

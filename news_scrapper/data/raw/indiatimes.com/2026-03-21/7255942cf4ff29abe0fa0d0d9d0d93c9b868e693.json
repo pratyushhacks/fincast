@@ -1,0 +1,24 @@
+{
+  "id": "7255942cf4ff29abe0fa0d0d9d0d93c9b868e693",
+  "url": "https://economictimes.indiatimes.com/news/defence/iran-military-threatens-to-hunt-down-us-israeli-officials-even-on-vacation/articleshow/129701933.cms",
+  "site": "indiatimes.com",
+  "title": "Iran military threatens to hunt down US, Israeli officials even on vacation - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:58.015552",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\7255942cf4ff29abe0fa0d0d9d0d93c9b868e693.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\7255942cf4ff29abe0fa0d0d9d0d93c9b868e693.txt",
+  "word_count": 90,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "498ccc494363aef5ff2c3e73a3faff4bb374c547",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

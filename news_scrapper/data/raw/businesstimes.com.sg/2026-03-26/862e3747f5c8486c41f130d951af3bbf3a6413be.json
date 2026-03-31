@@ -1,0 +1,65 @@
+{
+  "id": "862e3747f5c8486c41f130d951af3bbf3a6413be",
+  "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asian-stocks-pare-gains-oil-edges-tuesday",
+  "site": "businesstimes.com.sg",
+  "title": "Asian stocks pare gains, oil edges up on Tuesday - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:22.324883",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\862e3747f5c8486c41f130d951af3bbf3a6413be.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\862e3747f5c8486c41f130d951af3bbf3a6413be.txt",
+  "word_count": 624,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "16febb835cd80667d3e8f5407c82849d72d52524",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "Asian stocks retracted gains amidst geopolitical tensions and potential escalation in the Middle East, with the Strait of Hormuz remaining largely closed, impacting oil and LNG flows. Gold prices continued a slump, and there was a shift in US policy towards Iran.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as geopolitical tensions, potential escalation in the Middle East, and the slump in gold prices, which are all contributing to negative market sentiment.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.68,
+        27.85,
+        27.58,
+        27.68,
+        27.56,
+        27.65,
+        27.7
+      ],
+      "base_price": 27.81,
+      "next_price": 27.81,
+      "change_1d": 0.0,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.9,
+      "change_1d": -0.8045,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

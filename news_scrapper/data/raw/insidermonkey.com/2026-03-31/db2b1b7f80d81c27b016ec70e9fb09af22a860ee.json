@@ -1,0 +1,54 @@
+{
+  "id": "db2b1b7f80d81c27b016ec70e9fb09af22a860ee",
+  "url": "https://www.insidermonkey.com/blog/ubs-lowers-pt-on-microsoft-msft-maintains-a-buy-rating-1727191/",
+  "site": "insidermonkey.com",
+  "title": "UBS Lowers PT on Microsoft (MSFT), Maintains a Buy Rating - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:41.559079",
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-31\\db2b1b7f80d81c27b016ec70e9fb09af22a860ee.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-31\\db2b1b7f80d81c27b016ec70e9fb09af22a860ee.txt",
+  "word_count": 828,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "Amazon's CEO highlights generative AI as a transformative technology, while billionaires invest in AI for major societal impacts. An under-valued company is pivotal to this AI revolution, according to insiders.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents a strongly positive outlook on the impact of generative AI and the investments made by major figures in the tech industry, indicating a significant market opportunity and transformative potential.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

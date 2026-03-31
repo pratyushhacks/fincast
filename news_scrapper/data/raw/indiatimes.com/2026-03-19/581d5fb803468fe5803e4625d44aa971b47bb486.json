@@ -1,0 +1,24 @@
+{
+  "id": "581d5fb803468fe5803e4625d44aa971b47bb486",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/pepsico-india-launches-dedicated-ev-green-corridor/129669684",
+  "site": "indiatimes.com",
+  "title": "PepsiCo India launches dedicated 'EV Green Corridor', ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:47.939009",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\581d5fb803468fe5803e4625d44aa971b47bb486.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\581d5fb803468fe5803e4625d44aa971b47bb486.txt",
+  "word_count": 337,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "5deec124377d58a4267666cb6440924c0bfffae0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

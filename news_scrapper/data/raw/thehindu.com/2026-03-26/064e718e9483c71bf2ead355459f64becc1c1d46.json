@@ -1,0 +1,64 @@
+{
+  "id": "064e718e9483c71bf2ead355459f64becc1c1d46",
+  "url": "https://www.thehindu.com/sci-tech/technology/microsoft-president-says-building-data-centres-requires-trust-of-us-communities/article70782488.ece",
+  "site": "thehindu.com",
+  "title": "Microsoft president says building data centres requires trust of US communities - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:05.031657",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-26\\064e718e9483c71bf2ead355459f64becc1c1d46.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-26\\064e718e9483c71bf2ead355459f64becc1c1d46.txt",
+  "word_count": 170,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "776958813d65debeedcb6a185405c88fcc0b90cb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Big Tech data centers' expansion is increasing electricity demand and power bills, causing local communities to protest due to concerns over rising power prices, water impact, and pollution.",
+  "sentiment": 2,
+  "sentiment_reason": "The article focuses on the negative impact of data centers on local communities and the environment, with concerns over rising power prices and pollution contributing to a negative market sentiment.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04
+      ],
+      "base_price": 365.97,
+      "next_price": 359.92,
+      "change_1d": -1.6531,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.4,
+      "change_1d": -1.1136,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

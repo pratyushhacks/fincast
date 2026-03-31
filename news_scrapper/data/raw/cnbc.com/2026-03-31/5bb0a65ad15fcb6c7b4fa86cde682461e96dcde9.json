@@ -1,0 +1,54 @@
+{
+  "id": "5bb0a65ad15fcb6c7b4fa86cde682461e96dcde9",
+  "url": "https://www.cnbc.com/2026/03/30/recession-economy-trump-white-house-economist.html",
+  "site": "cnbc.com",
+  "title": "What really causes recessions: former top Trump White House economist",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:15.762520",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\5bb0a65ad15fcb6c7b4fa86cde682461e96dcde9.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\5bb0a65ad15fcb6c7b4fa86cde682461e96dcde9.txt",
+  "word_count": 1193,
+  "paywalled": false,
+  "dedup_hash": "99b3e8edee3816900aa247cfcab18df2e66fed79",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"US recession\"",
+  "summary": "The U.S. economy's resilience and the unpredictability of recessions are highlighted, with a focus on the role of energy and potential impacts of global events like the war in Iran.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral perspective on the economy's current state and the inherent unpredictability of recessions, without clear indications of immediate negative or positive market impact.",
+  "price_changes": {
+    "\"US recession\"": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

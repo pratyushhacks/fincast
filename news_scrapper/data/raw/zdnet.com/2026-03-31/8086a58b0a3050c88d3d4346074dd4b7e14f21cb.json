@@ -1,0 +1,54 @@
+{
+  "id": "8086a58b0a3050c88d3d4346074dd4b7e14f21cb",
+  "url": "https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/",
+  "site": "zdnet.com",
+  "title": "What Google's TurboQuant can and can't do for AI's spiraling cost | ZDNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:19.832216",
+  "html_path": "data\\raw\\zdnet.com\\2026-03-31\\8086a58b0a3050c88d3d4346074dd4b7e14f21cb.html",
+  "text_path": "data\\raw\\zdnet.com\\2026-03-31\\8086a58b0a3050c88d3d4346074dd4b7e14f21cb.txt",
+  "word_count": 1415,
+  "paywalled": false,
+  "dedup_hash": "8237102708e2ea7e65f962d5bf6702bad3faf4a2",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Google OR GOOGL)",
+  "summary": "Google's TurboQuant aims to reduce AI memory usage by employing quantization techniques, specifically targeting the key-value cache, a major memory consumer in AI operations. This innovation is expected to make AI more efficient and accessible by lowering inference costs.",
+  "sentiment": 4,
+  "sentiment_reason": "TurboQuant represents a positive development in the AI industry by potentially reducing costs and making AI more efficient through memory usage optimization.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92,
+        274.34
+      ],
+      "base_price": 273.5,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

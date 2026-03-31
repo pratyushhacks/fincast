@@ -1,0 +1,65 @@
+{
+  "id": "7ad8064bd61738dc2e345ce9e9c4deb5c4435d4a",
+  "url": "https://www.benzinga.com/insights/movers/26/03/51420875/12-industrials-stocks-moving-in-mondays-after-market-session",
+  "site": "benzinga.com",
+  "title": "12 Industrials Stocks Moving In Monday's After-Market Session - DevvStream (NASDAQ:DEVS), Elong Power Holding (NASDAQ:ELPW)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:14.445915",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\7ad8064bd61738dc2e345ce9e9c4deb5c4435d4a.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\7ad8064bd61738dc2e345ce9e9c4deb5c4435d4a.txt",
+  "word_count": 51,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "55ad01b1cb122cf5672860d062ed901886a366f1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "The article provides a neutral update on market news and data without specific details on gains, losses, or significant financial events.",
+  "sentiment": 3,
+  "sentiment_reason": "The text is routine news with no clear market impact, indicating a neutral sentiment.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        302.28,
+        305.56,
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06
+      ],
+      "base_price": 290.44,
+      "next_price": 290.93,
+      "change_1d": 0.1687,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

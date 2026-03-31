@@ -1,0 +1,66 @@
+{
+  "id": "02fe747232006268398b9f626bc66f1823baafe5",
+  "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51285934/tesla-us-sales-down-26-january-5-automakers-ev-growth",
+  "site": "benzinga.com",
+  "title": "Tesla US Sales Sank 26% In January, But 5 Automakers Enjoyed EV Growth - General Motors (NYSE:GM), Stellantis (NYSE:STLA), Toyota Motor (NYSE:TM), Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:12.172872",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\02fe747232006268398b9f626bc66f1823baafe5.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\02fe747232006268398b9f626bc66f1823baafe5.txt",
+  "word_count": 320,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3e86b0fa7c222cb211ff208cee8075280e1d2e5e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "January saw a significant 26% sales decline for Tesla in the U.S., marking a trend of decreasing EV sales since the expiration of the federal tax credit. However, other automakers like GM, Stellantis, Toyota, and Tesla itself (excluding Tesla's U.S. sales) experienced growth in EV sales.",
+  "sentiment": 2,
+  "sentiment_reason": "The expiration of the federal EV tax credit and the subsequent sales decline for Tesla, along with the general downward trend in EV sales, contribute to a negative market impact.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56
+      ],
+      "base_price": 399.27,
+      "next_price": 392.78,
+      "change_1d": -1.6255,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

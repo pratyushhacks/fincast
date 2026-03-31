@@ -1,0 +1,65 @@
+{
+  "id": "a0f883598591dd92b9542b1fd4ad4b89f55e7aab",
+  "url": "https://www.thehindu.com/life-and-style/motoring/mercedes-benz-cla-250-plus-electric-intelligence/article70740939.ece",
+  "site": "thehindu.com",
+  "title": "Mercedes-Benz CLA 250+: A new era of luxury electric sedans - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:53:12.398035",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-14\\a0f883598591dd92b9542b1fd4ad4b89f55e7aab.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-14\\a0f883598591dd92b9542b1fd4ad4b89f55e7aab.txt",
+  "word_count": 1876,
+  "reading_time_minutes": 9,
+  "paywalled": false,
+  "dedup_hash": "7df678131fa33fd7e505ed5103b3345095b64fa1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "NVIDIA",
+  "gdelt_category": "company",
+  "summary": "The all-electic Mercedes-Benz CLA 250+ with EQ Technology signals a turning point for the brand, blending advanced electric engineering, AI, and futuristic design. It's a blueprint for Mercedes' next generation vehicles, with a focus on luxury and technology, and has a significant aerodynamic efficiency.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a new luxury electric sedan with advanced features and design, which is generally positive news for the automotive industry and specifically for Mercedes-Benz, but without strong indicators of immediate market-moving impact.",
+  "price_changes": {
+    "NVIDIA": {
+      "ticker": "NVDA",
+      "trend": [
+        183.03,
+        183.33,
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14
+      ],
+      "base_price": 180.25,
+      "next_price": 183.22,
+      "change_1d": 1.6477,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

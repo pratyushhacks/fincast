@@ -1,0 +1,66 @@
+{
+  "id": "cd40d673a9078fb382983dc5f400032040121d45",
+  "url": "https://www.upi.com/Top_News/World-News/2026/03/20/3-indicted-for-smuggling-AI-capable-Nvidia-chips-to-China/9721774021211/",
+  "site": "upi.com",
+  "title": "3 indicted for smuggling AI-capable Nvidia chips to China - UPI.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:33.097991",
+  "language": null,
+  "html_path": "data\\raw\\upi.com\\2026-03-21\\cd40d673a9078fb382983dc5f400032040121d45.html",
+  "text_path": "data\\raw\\upi.com\\2026-03-21\\cd40d673a9078fb382983dc5f400032040121d45.txt",
+  "word_count": 667,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "d238347ff0af93cc8ed702bb66aa5620c8f87a15",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Three individuals charged with smuggling U.S. AI technology into China, violating export controls, leading to Supermicro's share and contractor termination.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a criminal activity involving smuggling and violation of export controls, which negatively impacts the company's reputation and share value.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

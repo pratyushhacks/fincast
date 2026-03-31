@@ -1,0 +1,66 @@
+{
+  "id": "12feaadf61d48616814713cad218b2e5a2cf8573",
+  "url": "https://www.straitstimes.com/business/companies-markets/arm-to-sell-its-own-chips-eyeing-sales-goal-of-us15-billion",
+  "site": "straitstimes.com",
+  "title": "Arm Holdings to sell its own chips, eyeing sales goal of $19.2 billion | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:43.250316",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-26\\12feaadf61d48616814713cad218b2e5a2cf8573.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-26\\12feaadf61d48616814713cad218b2e5a2cf8573.txt",
+  "word_count": 1002,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "6b513604d4702cbbb3931f1e44f969bbf56159fa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Arm Holdings will start selling its own chips, expected to generate about US$15 billion annually within five years, with Taiwan Semiconductor Manufacturing Company producing them. This move is anticipated to significantly boost Arm's total sales and profits.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights a major strategic shift for Arm Holdings towards self-production of chips, aiming for substantial growth and profitability, which is a strong positive development for the company.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68
+      ],
+      "base_price": 171.24,
+      "next_price": 168.64,
+      "change_1d": -1.5183,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.22,
+      "change_1d": -1.145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "541e23143f6f3488874b053808a3c5d4b26531b1",
+  "url": "https://www.cnbc.com/2026/03/18/cnbc-daily-open-iran-retaliates-in-revenge-attacks.html",
+  "site": "cnbc.com",
+  "title": "CNBC Daily Open: Iran retaliates in 'revenge' attacks",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:05.095876",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-19\\541e23143f6f3488874b053808a3c5d4b26531b1.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-19\\541e23143f6f3488874b053808a3c5d4b26531b1.txt",
+  "word_count": 512,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e34f8f8db9de83a0d79cf92a37db320e5e9b7c43",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Iran retaliates against U.S. assets in Middle East and Israel following the killing of its security chief, amidst ongoing tensions. The market reacts with cautious optimism as Asian markets rally, despite the complex mix of geopolitical and economic factors at play.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses geopolitical tensions and their immediate market impact, with a focus on the reluctance to engage in full-scale war and the muted market reaction to the ongoing conflict.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

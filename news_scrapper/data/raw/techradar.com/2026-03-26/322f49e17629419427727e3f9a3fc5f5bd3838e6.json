@@ -1,0 +1,30 @@
+{
+  "id": "322f49e17629419427727e3f9a3fc5f5bd3838e6",
+  "url": "https://www.techradar.com/pro/shopping-in-chatgpt-is-about-to-get-a-lot-more-interactive-users-promised-improved-speed-relevance-and-product-coverage",
+  "site": "techradar.com",
+  "title": "Shopping in ChatGPT is about to get a lot more interactive – users promised 'improved speed, relevance and product coverage' | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:37.666543",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\322f49e17629419427727e3f9a3fc5f5bd3838e6.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\322f49e17629419427727e3f9a3fc5f5bd3838e6.txt",
+  "word_count": 408,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7f085b905b6c369c315157be2f54c37a8a258b0b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI is enhancing ChatGPT to facilitate product discovery and comparisons, but scaling back Instant Checkout due to user preference for conventional buying journeys. Walmart and other merchants can still integrate closely with ChatGPT for loyalty and payments.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral market impact as it discusses both the introduction of a new feature for product discovery and the scaling back of Instant Checkout, without indicating a strong positive or negative market reaction."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "35e92948d3addc496816e6fa658e5ce54fc06e41",
+  "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-falls-5-silver-dips-12-in-a-week-amid-strong-dollar-inflation-concerns/129691780",
+  "site": "indiatimes.com",
+  "title": "Gold and Silver Prices Plunge Amid Strong Dollar and Inflation Fears - India Update, ETRetail",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:25.357080",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\35e92948d3addc496816e6fa658e5ce54fc06e41.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\35e92948d3addc496816e6fa658e5ce54fc06e41.txt",
+  "word_count": 366,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "9847257c0dfe5fdfefb5b1cd3dd3b40355ac2538",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a63db7d994ea1ce880e750e7d06510b2c6b58186",
+  "url": "https://www.cnbc.com/2026/03/28/a-little-known-travel-stock-surged-on-earnings-wall-street-says-buy.html",
+  "site": "cnbc.com",
+  "title": "A little-known travel stock surged on earnings. Wall Street says buy",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:54.742705",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\a63db7d994ea1ce880e750e7d06510b2c6b58186.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\a63db7d994ea1ce880e750e7d06510b2c6b58186.txt",
+  "word_count": 508,
+  "paywalled": false,
+  "dedup_hash": "29bb2b1692e3ccf4302ec5f294fa9c99a83f592a",
+  "scraper_version": "0.1",
+  "gdelt_query": "artificial intelligence market",
+  "summary": "Navan's stock surged due to strong earnings and the company's effective use of AI in travel management, leading to optimistic analyst recommendations and significant share price increase.",
+  "sentiment": 5,
+  "sentiment_reason": "The positive market reaction is driven by Navan's earnings beat, strong sales execution, and the strategic use of AI, which analysts believe positions the company for durable growth and outperformance of peers.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38,
+        33.29,
+        32.46
+      ],
+      "base_price": 31.99,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

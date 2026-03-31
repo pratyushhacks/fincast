@@ -1,0 +1,66 @@
+{
+  "id": "67d55692cebc9c125cebbd11c1ed26be564a1c74",
+  "url": "https://thenextweb.com:443/news/uber-founder-travis-kalanick-launches-robotics-company-atoms",
+  "site": "thenextweb.com",
+  "title": "Uber founder Travis Kalanick launches robotics company Atoms",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:07:46.479869",
+  "language": null,
+  "html_path": "data\\raw\\thenextweb.com\\2026-03-14\\67d55692cebc9c125cebbd11c1ed26be564a1c74.html",
+  "text_path": "data\\raw\\thenextweb.com\\2026-03-14\\67d55692cebc9c125cebbd11c1ed26be564a1c74.txt",
+  "word_count": 553,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "381705fed730ead66da60e410b04976625a945ef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Tesla",
+  "gdelt_category": "company",
+  "summary": "Uber founder Travis Kalanick launches Atoms, a stealth robotics venture that built specialized industrial robots for various sectors, including food service and mining. Atoms, previously City Storage Systems, is shifting focus from food infrastructure to robotics platform, with a core product thesis of a 'wheelbase for robots'. Kalanick's company is also on the verge of acquiring Pronto, an autonomous vehicle startup.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the stealth period and the need to obscure the company's activities, which could imply underlying issues or strategic maneuvers in a competitive industry.",
+  "price_changes": {
+    "Tesla": {
+      "ticker": "TSLA",
+      "trend": [
+        405.94,
+        405.55,
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01
+      ],
+      "base_price": 391.2,
+      "next_price": 395.56,
+      "change_1d": 1.1145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "63aa726fb9d095ceb8248f85909deff9b24ada13",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-to-keep-a-track-of-west-asia-war-crude-oil-prices-in-holiday-shortened-week-analysts/articleshow/129878363.cms",
+  "site": "indiatimes.com",
+  "title": "Investors to keep a track of West Asia war, crude oil prices in holiday-shortened week: Analysts - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:07.835243",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\63aa726fb9d095ceb8248f85909deff9b24ada13.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\63aa726fb9d095ceb8248f85909deff9b24ada13.txt",
+  "word_count": 384,
+  "paywalled": false,
+  "dedup_hash": "bfb235e497ca78a3e597cc4369a0eff9abde6531",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\""
+}

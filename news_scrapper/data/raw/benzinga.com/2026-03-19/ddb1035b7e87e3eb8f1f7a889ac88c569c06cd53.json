@@ -1,0 +1,65 @@
+{
+  "id": "ddb1035b7e87e3eb8f1f7a889ac88c569c06cd53",
+  "url": "https://www.benzinga.com/markets/equities/26/03/51338135/nvidia-exxon-power-stock-market-with-split-personality",
+  "site": "benzinga.com",
+  "title": "Nvidia, Exxon Power A Stock Market With Split Personality - Chevron (NYSE:CVX), Marathon Petroleum (NYSE:MPC), NVIDIA (NASDAQ:NVDA), Exxon Mobil (NYSE:XOM)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:05.677546",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\ddb1035b7e87e3eb8f1f7a889ac88c569c06cd53.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\ddb1035b7e87e3eb8f1f7a889ac88c569c06cd53.txt",
+  "word_count": 521,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "4dbef760681dbd01525c58b1e9c315167f05a75f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's leadership suggests investor confidence in AI despite rising oil prices and inflation, while Exxon's performance indicates a market leaning towards commodity scarcity and higher profits for producers.",
+  "sentiment": 2,
+  "sentiment_reason": "The market shows mixed signals with technology stocks providing support amidst rising oil prices and inflation concerns, reflecting a negative sentiment due to the conflicting trends.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

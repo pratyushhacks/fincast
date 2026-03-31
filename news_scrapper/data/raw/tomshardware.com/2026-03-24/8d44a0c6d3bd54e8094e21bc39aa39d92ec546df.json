@@ -1,0 +1,64 @@
+{
+  "id": "8d44a0c6d3bd54e8094e21bc39aa39d92ec546df",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amds-enterprise-cpu-and-gpu-roadmap-venice-verano-zen-6-helios-and-cdna",
+  "site": "tomshardware.com",
+  "title": "AMD's Enterprise CPU and GPU roadmap: Venice, Verano, Zen 6, Helios, and CDNA | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:56.098708",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-24\\8d44a0c6d3bd54e8094e21bc39aa39d92ec546df.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-24\\8d44a0c6d3bd54e8094e21bc39aa39d92ec546df.txt",
+  "word_count": 1875,
+  "reading_time_minutes": 9,
+  "paywalled": false,
+  "dedup_hash": "30cbb47d8bc1fc1d6685df144c0e3d026fa2fc92",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "AMD significantly expanded its market share in the data center CPU market from less than 1% in 2017 to nearly 29% by late 2025, and is planning to introduce a new line of high-core-count processors and advanced memory modules in 2026.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights AMD's major market growth and technological advancements, including a significant increase in market share and the introduction of cutting-edge processors and memory modules.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

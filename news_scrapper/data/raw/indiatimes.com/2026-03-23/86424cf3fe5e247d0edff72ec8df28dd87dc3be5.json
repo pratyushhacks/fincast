@@ -1,0 +1,26 @@
+{
+  "id": "86424cf3fe5e247d0edff72ec8df28dd87dc3be5",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/garena-free-fire-max-redeem-codes-for-march-22-2026-unlock-10-rewards-now/articleshow/129728142.cms",
+  "site": "indiatimes.com",
+  "title": "Garena Free Fire Max Redeem Codes for March 22, 2026: Unlock 10+ rewards now - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:28:58.538424",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\86424cf3fe5e247d0edff72ec8df28dd87dc3be5.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\86424cf3fe5e247d0edff72ec8df28dd87dc3be5.txt",
+  "word_count": 179,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "dad039ef19ce2da1fb385bf83b6151409ed0003f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company"
+}

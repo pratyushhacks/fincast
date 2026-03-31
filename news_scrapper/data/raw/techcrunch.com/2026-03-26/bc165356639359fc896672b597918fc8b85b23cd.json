@@ -1,0 +1,65 @@
+{
+  "id": "bc165356639359fc896672b597918fc8b85b23cd",
+  "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+  "site": "techcrunch.com",
+  "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:21.139881",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-26\\bc165356639359fc896672b597918fc8b85b23cd.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-26\\bc165356639359fc896672b597918fc8b85b23cd.txt",
+  "word_count": 441,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e4962b6a44eddfcf2326bd09cdd644515366ee25",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Agile Robots partners with Google DeepMind to integrate AI foundation models into its robots for various industrial use cases, aiming to transform entire industries with autonomous production systems. This move is part of a growing trend of robotic partnerships advancing AI technology.",
+  "sentiment": 4,
+  "sentiment_reason": "The partnership indicates a positive development in the robotics industry, with potential for significant advancements in autonomous systems and AI integration.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93
+      ],
+      "base_price": 280.92,
+      "next_price": 278.93,
+      "change_1d": -0.7084,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.28,
+      "change_1d": -1.1346,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

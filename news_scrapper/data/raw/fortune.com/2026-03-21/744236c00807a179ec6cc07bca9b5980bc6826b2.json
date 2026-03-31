@@ -1,0 +1,65 @@
+{
+  "id": "744236c00807a179ec6cc07bca9b5980bc6826b2",
+  "url": "https://fortune.com/2026/03/20/mark-zuckerbergs-roommate-olympian-vc-exec-celebrity-businesses-samyr-laine/",
+  "site": "fortune.com",
+  "title": "Meet Mark Zuckerberg’s college roommate, an Olympian-turned-VC exec who invests in celeb businesses | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:48.200749",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-21\\744236c00807a179ec6cc07bca9b5980bc6826b2.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-21\\744236c00807a179ec6cc07bca9b5980bc6826b2.txt",
+  "word_count": 955,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "3426a88677d1c97c658eed21307dd197120f89dd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Samyr Lainé, from sharing a dorm with Mark Zuckerberg to representing Haiti in the Olympics and co-founding a venture capital firm, has had a diverse career impacting sports, entertainment, and business. He has leveraged his experiences in these fields to build successful ventures and advise on celebrity branding.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights Lainé's successful career in various fields including sports, entertainment, and business, with a focus on his achievements and contributions to building celebrity brands.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68,
+        606.7
+      ],
+      "base_price": 593.66,
+      "next_price": 604.06,
+      "change_1d": 1.7518,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

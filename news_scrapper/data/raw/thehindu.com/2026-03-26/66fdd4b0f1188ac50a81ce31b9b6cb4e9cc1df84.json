@@ -1,0 +1,64 @@
+{
+  "id": "66fdd4b0f1188ac50a81ce31b9b6cb4e9cc1df84",
+  "url": "https://www.thehindu.com/sci-tech/technology/amazon-says-aws-bahrain-region-disrupted-following-drone-activity/article70782518.ece",
+  "site": "thehindu.com",
+  "title": "Amazon says AWS' Bahrain region 'disrupted' following drone activity - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:46.732733",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-26\\66fdd4b0f1188ac50a81ce31b9b6cb4e9cc1df84.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-26\\66fdd4b0f1188ac50a81ce31b9b6cb4e9cc1df84.txt",
+  "word_count": 389,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "46ef451dd428a4914b4bf56182e0069f81e7f11f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Amazon's AWS region in Bahrain is disrupted due to drone activity amid the U.S.-Israeli war on Iran, marking the second time in a month its operations have been affected by the conflict.",
+  "sentiment": 2,
+  "sentiment_reason": "The disruption of a critical cloud computing unit due to ongoing conflict and military action indicates negative market impact due to potential operational and profit implications.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47
+      ],
+      "base_price": 109.92,
+      "next_price": 106.55,
+      "change_1d": -3.0659,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.24,
+      "change_1d": -0.7518,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

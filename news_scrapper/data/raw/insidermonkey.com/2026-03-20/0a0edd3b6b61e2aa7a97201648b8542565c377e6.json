@@ -1,0 +1,28 @@
+{
+  "id": "0a0edd3b6b61e2aa7a97201648b8542565c377e6",
+  "url": "https://www.insidermonkey.com/blog/beyond-stocks-how-investors-are-diversifying-in-a-changing-market-1720579/",
+  "site": "insidermonkey.com",
+  "title": "Beyond Stocks: How Investors Are Diversifying in a Changing Market - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:57.710541",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-20\\0a0edd3b6b61e2aa7a97201648b8542565c377e6.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-20\\0a0edd3b6b61e2aa7a97201648b8542565c377e6.txt",
+  "word_count": 1188,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "7a557b9bbf2891569c6611427d09652edffb3a91",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "The article discusses the shift in investment strategies from traditional equities and bonds to a more diversified approach that includes alternative assets like commodities, real estate, private equity, and digital assets. It highlights the increasing role of data in portfolio construction and the growing accessibility of digital assets.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the article talks about the expansion of investment strategies, the adoption of data-driven allocation, and the growing accessibility and integration of digital assets into portfolios."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9641ed9ddf4980ce79168ffcd4c0b3c6be9efe1f",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-stocks-dive-in-asia-brent-crude-heads-for-record-monthly-rise/articleshow/129889477.cms",
+  "site": "indiatimes.com",
+  "title": "Global Market Today | Stocks dive in Asia, brent crude heads for record monthly rise - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:23.814538",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\9641ed9ddf4980ce79168ffcd4c0b3c6be9efe1f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\9641ed9ddf4980ce79168ffcd4c0b3c6be9efe1f.txt",
+  "word_count": 714,
+  "paywalled": false,
+  "dedup_hash": "4e64a95a2985cf662917c733ecaef886aa5a08d9",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\""
+}

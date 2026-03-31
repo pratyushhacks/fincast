@@ -1,0 +1,63 @@
+{
+  "id": "e26539a738b330fb271b3c066b3d5c40e1242c89",
+  "url": "https://www.livemint.com/news/india/petrol-diesel-prices-on-27-march-after-fuel-excise-cut-check-fuel-rates-today-in-delhi-mumbai-bengaluru-others-11774575662790.html",
+  "site": "livemint.com",
+  "title": "Petrol, diesel prices on 27 March after fuel excise cut — Check fuel rates today in Delhi, Mumbai, Bengaluru, others | Today News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:11.914263",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\e26539a738b330fb271b3c066b3d5c40e1242c89.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\e26539a738b330fb271b3c066b3d5c40e1242c89.txt",
+  "word_count": 410,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7d7cf2ea6ba7832e6b26600c3b5c4d653dc91a17",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro",
+  "summary": "The central government cut excise duty on petrol and diesel, but Oil Marketing Companies (OMCs) are still facing losses due to the ongoing Middle East conflict and rising international oil benchmarks. Nayara Energy raised fuel prices to offset these costs, while the Indian rupee hit a record low against the US dollar.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents negative market impact due to the ongoing Middle East conflict causing volatility in the oil market, Oil Marketing Companies' losses, and the depreciation of the Indian rupee.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        86.96,
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11
+      ],
+      "base_price": 85.64,
+      "next_price": 86.78,
+      "change_1d": 1.3312,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

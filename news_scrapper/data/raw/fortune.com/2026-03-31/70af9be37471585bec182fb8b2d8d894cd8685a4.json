@@ -1,0 +1,18 @@
+{
+  "id": "70af9be37471585bec182fb8b2d8d894cd8685a4",
+  "url": "https://fortune.com/2026/03/29/gen-z-high-school-dropout-gabriel-petersson-openai-researcher-six-figures-advice-for-young-people-silicon-valley-jobs/",
+  "site": "fortune.com",
+  "title": "High school dropout makes six figures at OpenAI and shares his Silicon Valley strategy for Gen Z | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:41.080516",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\70af9be37471585bec182fb8b2d8d894cd8685a4.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\70af9be37471585bec182fb8b2d8d894cd8685a4.txt",
+  "word_count": 807,
+  "paywalled": false,
+  "dedup_hash": "50e5efb690c3f5740875ffe0531ec8894e9561a1",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "A 22-year-old Swedish dropout landed a role at OpenAI and Silicon Valley startups by proving his skills and knowledge directly to companies, rather than competing with traditional credentials.",
+  "sentiment": 5,
+  "sentiment_reason": "The individual's unique approach to job hunting and his success in securing positions at prestigious companies without a traditional degree demonstrates a strongly positive market impact."
+}

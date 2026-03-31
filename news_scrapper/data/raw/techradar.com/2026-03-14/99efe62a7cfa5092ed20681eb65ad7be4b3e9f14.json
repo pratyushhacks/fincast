@@ -1,0 +1,64 @@
+{
+  "id": "99efe62a7cfa5092ed20681eb65ad7be4b3e9f14",
+  "url": "https://www.techradar.com/computing/macbooks/the-macbook-neo-is-the-best-budget-laptop-you-can-buy-and-amazons-already-offering-a-small-price-cut",
+  "site": "techradar.com",
+  "title": "The MacBook Neo is 'the best budget laptop you can buy' — and Amazon's already offering a small price cut | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:55:23.008348",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-14\\99efe62a7cfa5092ed20681eb65ad7be4b3e9f14.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-14\\99efe62a7cfa5092ed20681eb65ad7be4b3e9f14.txt",
+  "word_count": 369,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3c17486606c27c099eec188a1a4d370d819dfbd9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Apple",
+  "gdelt_category": "company",
+  "summary": "Apple's new budget laptop, the MacBook Neo, priced at £600, is making waves with a small price cut by Amazon to £569. It offers good performance with the A19 chipset, suitable for everyday tasks, and is well-built with a quality display, despite not being the cheapest nor the most powerful laptop.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the context of a price cut and the implied competition with other tech retailers, suggesting a potential market disruption but also indicating that the price may still be a barrier for some consumers.",
+  "price_changes": {
+    "Apple": {
+      "ticker": "AAPL",
+      "trend": [
+        262.52,
+        260.29,
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76
+      ],
+      "base_price": 250.12,
+      "next_price": 252.82,
+      "change_1d": 1.0795,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

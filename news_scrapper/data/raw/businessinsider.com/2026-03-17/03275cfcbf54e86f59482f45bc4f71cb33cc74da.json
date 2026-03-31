@@ -1,0 +1,69 @@
+{
+  "id": "03275cfcbf54e86f59482f45bc4f71cb33cc74da",
+  "url": "https://www.businessinsider.com/march-madness-for-stocks-bracket-vote-magnificent-7-picks-market-2026-3",
+  "site": "businessinsider.com",
+  "title": "March Madness for Stocks: Vote in BI's Elite 8 Tournament Bracket - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:02.377105",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-17\\03275cfcbf54e86f59482f45bc4f71cb33cc74da.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-17\\03275cfcbf54e86f59482f45bc4f71cb33cc74da.txt",
+  "word_count": 394,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0ca81a758ed0785a22a1b5540ef1508196fee723",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "March Madness for Stocks: AI-driven tech stocks dominate as Nvidia, Apple, Tesla, Microsoft, Amazon, Alphabet, and Meta vie for supremacy in the AI market. Voting opens for the top contenders in the AI sector, with unique narratives and market impacts at stake.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the competition among leading tech companies in the AI sector, which carries a negative sentiment due to the uncertainty and potential market volatility it implies.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        408.96,
+        409.41,
+        405.76,
+        404.88,
+        401.86,
+        395.55,
+        399.95
+      ],
+      "base_price": 399.41,
+      "next_price": 391.79,
+      "change_1d": -1.9078,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

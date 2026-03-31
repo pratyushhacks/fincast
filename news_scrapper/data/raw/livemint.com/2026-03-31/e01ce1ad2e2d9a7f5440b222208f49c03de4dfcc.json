@@ -1,0 +1,54 @@
+{
+  "id": "e01ce1ad2e2d9a7f5440b222208f49c03de4dfcc",
+  "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-iran-war-nikkei-kospi-slump-to-oil-price-10-things-that-changed-for-indian-stock-market-over-weekend-11774800816033.html",
+  "site": "livemint.com",
+  "title": "From Gift Nifty, Iran war, Nikkei, Kospi slump to oil price: 10 things that changed for Indian stock market over weekend | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:06.339629",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\e01ce1ad2e2d9a7f5440b222208f49c03de4dfcc.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\e01ce1ad2e2d9a7f5440b222208f49c03de4dfcc.txt",
+  "word_count": 721,
+  "paywalled": false,
+  "dedup_hash": "5f9022d5a4375d7b88e2438e7a1d5e78d38a2657",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "Indian stock indices Sensex and Nifty 50 are expected to decline due to the ongoing US-Iran conflict, which has escalated crude oil prices and inflation concerns, affecting global markets and triggering a sell-off in Asian and US markets.",
+  "sentiment": 1,
+  "sentiment_reason": "The prolonged US-Iran conflict and its impact on global crude oil prices and inflation are causing strong negative sentiment in the market, reflected by significant losses in stock indices.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

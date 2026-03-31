@@ -1,0 +1,64 @@
+{
+  "id": "651bca5a9b8895b80dc20e1be1a4de1246c41877",
+  "url": "https://www.benzinga.com/news/politics/26/03/51260644/dow-futures-rise-while-oil-hovers-near-100-trump-warns-nato-of-very-bad-future-if-allies-dont-help-reopen-strait-of-hormuz",
+  "site": "benzinga.com",
+  "title": "Dow Futures Rise While Oil Hovers Near $100: Trump Warns NATO Of 'Very Bad' Future If Allies Don't Help Reopen Strait Of Hormuz",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:50.424433",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\651bca5a9b8895b80dc20e1be1a4de1246c41877.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\651bca5a9b8895b80dc20e1be1a4de1246c41877.txt",
+  "word_count": 465,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "d6df69991ba0e08c44f93de593d58c0a39e82438",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "U.S. stock futures rise amid oil price volatility due to tensions in the Strait of Hormuz, with potential impacts on global supply and geopolitical responses.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses rising stock futures and oil prices amid geopolitical tensions and threats of military action, which indicates negative market sentiment due to potential supply disruptions and regional instability.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.47,
+        27.46,
+        27.45,
+        27.55,
+        27.68,
+        27.89,
+        27.73
+      ],
+      "base_price": 27.68,
+      "next_price": 27.85,
+      "change_1d": 0.6142,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

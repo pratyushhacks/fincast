@@ -1,0 +1,66 @@
+{
+  "id": "13b137edf960693949f2abde0356a73358544de3",
+  "url": "https://www.livemint.com/companies/meta-hires-former-google-stripe-executives-behind-ai-startup-dreamer-11774290835310.html",
+  "site": "livemint.com",
+  "title": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:06.269711",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-24\\13b137edf960693949f2abde0356a73358544de3.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-24\\13b137edf960693949f2abde0356a73358544de3.txt",
+  "word_count": 434,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "cdec7657673cfbba7afb8610e0f48bd4d960f175",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta Platforms Inc. acquires Dreamer, an AI startup, to bolster its AI agent technology, despite key founders and team members leaving the company.",
+  "sentiment": 4,
+  "sentiment_reason": "The acquisition of Dreamer, an AI startup, indicates Meta's continued investment and development in AI technology, which is generally perceived as a positive move for the company's growth and innovation.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        613.18,
+        627.45,
+        622.66,
+        615.68,
+        606.7,
+        593.66,
+        604.06
+      ],
+      "base_price": 592.92,
+      "next_price": 594.89,
+      "change_1d": 0.3323,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

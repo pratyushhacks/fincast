@@ -1,0 +1,25 @@
+{
+  "id": "549e384fcb9455fd4e903151f4b4b1c1f0c71e27",
+  "url": "https://economictimes.indiatimes.com/news/defence/iran-us-israel-war-day-24-live-news-trumps-hormuz-deadline-for-iran-expires-today-aramco-ceo-cancels-us-energy-meet-amid-crisis/articleshow/129741342.cms",
+  "site": "indiatimes.com",
+  "title": "Iran War Day 24 Live News: Trump postpones Hormuz deadline for Iran; Tehran denies talks with US - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:48.157481",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\549e384fcb9455fd4e903151f4b4b1c1f0c71e27.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\549e384fcb9455fd4e903151f4b4b1c1f0c71e27.txt",
+  "word_count": 975,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "72e77a6a0cd169231cee81e0ab61b3e64ebf1bbf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro"
+}

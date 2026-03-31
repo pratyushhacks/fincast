@@ -1,0 +1,69 @@
+{
+  "id": "2f720ea3a7384e62fa2a608c287f71b938a2d7d8",
+  "url": "https://www.techradar.com/pro/20-years-of-amazon-s3",
+  "site": "techradar.com",
+  "title": "'It’s ironic, because what we were trying to do, store data on the internet - and do it really, really well - was not so simple': Celebrating 20 years of Amazon S3 | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:11:37.140712",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-14\\2f720ea3a7384e62fa2a608c287f71b938a2d7d8.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-14\\2f720ea3a7384e62fa2a608c287f71b938a2d7d8.txt",
+  "word_count": 631,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "010bc2ec75f5a7921239da954e2b91b7f8cd3f1f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Amazon",
+  "gdelt_category": "company",
+  "summary": "Amazon S3, a flagship product of Amazon since its launch 20 years ago, remains a cornerstone of cloud storage for enterprises globally. Its simplicity, scalability, and flexibility have made it a powerful tool for businesses to store and manage vast amounts of unstructured data across billions of buckets, each with a unique key, despite facing stiff competition in the cloud storage market.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about Amazon S3's continued success and its fundamental features that contribute to its market position, without indicating a strong negative or positive market impact.",
+  "price_changes": {
+    "Amazon": {
+      "ticker": "AMZN",
+      "trend": [
+        216.82,
+        218.94,
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53
+      ],
+      "base_price": 207.67,
+      "next_price": 211.74,
+      "change_1d": 1.9598,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

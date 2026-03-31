@@ -1,0 +1,54 @@
+{
+  "id": "d38f97e0b950ce7f77d51fad1f424f5fd72eff71",
+  "url": "https://www.thehindu.com/business/markets/stock-markets-slump-in-early-trade-as-west-asia-war-enters-fifth-week/article70801744.ece",
+  "site": "thehindu.com",
+  "title": "Stock markets slump in early trade as West Asia war enters fifth week - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:02.365036",
+  "html_path": "data\\raw\\thehindu.com\\2026-03-31\\d38f97e0b950ce7f77d51fad1f424f5fd72eff71.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-31\\d38f97e0b950ce7f77d51fad1f424f5fd72eff71.txt",
+  "word_count": 353,
+  "paywalled": false,
+  "dedup_hash": "df9a08fce2bff93f078722bc5b60b405f94bece2",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "Indian benchmark indices Sensex and Nifty fell sharply due to ongoing war in West Asia, escalating geopolitical tensions, and rising crude oil prices. FIIs offloaded equities worth ₹4,367.30 crore, marking the worst monthly outflow.",
+  "sentiment": 1,
+  "sentiment_reason": "The market impact is strongly negative due to war-related geopolitical tensions and surging crude oil prices causing significant losses in Indian equities and foreign investment outflows.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

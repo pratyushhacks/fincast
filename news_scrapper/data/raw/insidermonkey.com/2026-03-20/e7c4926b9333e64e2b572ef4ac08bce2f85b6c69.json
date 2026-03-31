@@ -1,0 +1,65 @@
+{
+  "id": "e7c4926b9333e64e2b572ef4ac08bce2f85b6c69",
+  "url": "https://www.insidermonkey.com/blog/why-more-retirees-are-allocating-5-10-to-angel-investing-on-top-of-dividend-stocks-1720522/",
+  "site": "insidermonkey.com",
+  "title": "Why More Retirees Are Allocating 5% – 10% to Angel Investing On Top of Dividend Stocks - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:33.050715",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-20\\e7c4926b9333e64e2b572ef4ac08bce2f85b6c69.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-20\\e7c4926b9333e64e2b572ef4ac08bce2f85b6c69.txt",
+  "word_count": 1071,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "7d779b9ae3a7d384ce0043d0967a584405926a21",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector",
+  "summary": "Retirees are increasingly allocating a portion of their portfolios to angel investing to complement dividend-paying stocks for diversification and long-term growth. Angel investing involves investing in early-stage startups in exchange for equity ownership.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive sentiment as it discusses the strategic addition of angel investing to traditional dividend-focused retirement portfolios, highlighting its potential for diversification and long-term growth.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        152.22,
+        149.55,
+        149.18,
+        150.39,
+        149.03,
+        146.54,
+        146.01
+      ],
+      "base_price": 144.74,
+      "next_price": 144.77,
+      "change_1d": 0.0207,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

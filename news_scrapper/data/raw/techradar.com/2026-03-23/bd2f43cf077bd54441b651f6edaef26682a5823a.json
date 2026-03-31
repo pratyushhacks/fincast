@@ -1,0 +1,65 @@
+{
+  "id": "bd2f43cf077bd54441b651f6edaef26682a5823a",
+  "url": "https://www.techradar.com/how-to-watch/tv-shows/celebrity-bake-off-2026-season-9-free-stream",
+  "site": "techradar.com",
+  "title": "How to watch Celebrity Bake Off 2026 season 9 for FREE – stream baking show | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:05.129661",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-23\\bd2f43cf077bd54441b651f6edaef26682a5823a.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-23\\bd2f43cf077bd54441b651f6edaef26682a5823a.txt",
+  "word_count": 1055,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "a7ce6c8127a34e53358ca23f5d1daa2770c6b0bb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Celebrity Bake Off 2026 is a charity event with famous UK faces baking for various causes, including honoring unusual sleeping places. The show features a mix of returning and new celebrities, including Molly-Mae Hague and Rose Ayling-Ellis, and is hosted by Alison Hammond and Noel Fielding.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive event focused on charity and celebrity participation, with no negative market impacts mentioned.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76,
+        205.37
+      ],
+      "base_price": 210.14,
+      "next_price": 207.24,
+      "change_1d": -1.38,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

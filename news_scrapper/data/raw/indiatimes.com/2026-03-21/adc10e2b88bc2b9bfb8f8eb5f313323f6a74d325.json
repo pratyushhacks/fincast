@@ -1,0 +1,27 @@
+{
+  "id": "adc10e2b88bc2b9bfb8f8eb5f313323f6a74d325",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/whatsapp-usernames-like-instagram-coming-soon-when-can-you-expect-it-and-how-does-it-affect-your-number-based-contacts/articleshow/129692983.cms",
+  "site": "indiatimes.com",
+  "title": "WhatsApp usernames like Instagram coming soon; When can you expect it and how does it affect your number-based contacts? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:47.825290",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\adc10e2b88bc2b9bfb8f8eb5f313323f6a74d325.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\adc10e2b88bc2b9bfb8f8eb5f313323f6a74d325.txt",
+  "word_count": 524,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "42b78f512f05d6b769e2a3a814d4eb8f7b3497ff",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

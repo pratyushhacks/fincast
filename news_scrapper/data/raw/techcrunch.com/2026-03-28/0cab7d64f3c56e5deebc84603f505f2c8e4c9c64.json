@@ -1,0 +1,63 @@
+{
+  "id": "0cab7d64f3c56e5deebc84603f505f2c8e4c9c64",
+  "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+  "site": "techcrunch.com",
+  "title": "VCs are betting billions on AI's next wave, so why is OpenAI killing Sora? | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:39.753230",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-28\\0cab7d64f3c56e5deebc84603f505f2c8e4c9c64.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-28\\0cab7d64f3c56e5deebc84603f505f2c8e4c9c64.txt",
+  "word_count": 162,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c55407b425e4f39a0f9997c4950a0f659c24c94f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "An 82-year-old woman declined a $26 million offer for her land for a data center, amidst AI companies facing real-world pushback and increased accountability from courts. Drone startups are gaining traction in the AI sector.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to the Kentucky woman's refusal of a significant offer and the challenges AI companies are facing, such as real-world pushback and increased accountability.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

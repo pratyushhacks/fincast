@@ -1,0 +1,66 @@
+{
+  "id": "8fceb8cef9587b131e177950a6283ecfa9d9a8b4",
+  "url": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
+  "site": "techcrunch.com",
+  "title": "Meta decides not to shut down Horizon Worlds on VR after all | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:23.500981",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-20\\8fceb8cef9587b131e177950a6283ecfa9d9a8b4.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-20\\8fceb8cef9587b131e177950a6283ecfa9d9a8b4.txt",
+  "word_count": 606,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "7d96d3e668103ec09c7ef4feab5c61f975c908a7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta decides to keep Horizon Worlds on VR support for Quest headsets, shifting focus to mobile due to better market fit. However, the company's Reality Labs division has faced significant financial losses and potential layoffs.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Meta's financial struggles and the scaling back of its Vision Pro headset, indicating negative market impact due to challenges in making virtual reality compelling.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68,
+        606.7
+      ],
+      "base_price": 593.66,
+      "next_price": 604.06,
+      "change_1d": 1.7518,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

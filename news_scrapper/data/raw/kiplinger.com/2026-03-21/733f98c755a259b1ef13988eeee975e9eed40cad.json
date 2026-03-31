@@ -1,0 +1,65 @@
+{
+  "id": "733f98c755a259b1ef13988eeee975e9eed40cad",
+  "url": "https://www.kiplinger.com/investing/stocks/dow-logs-worst-weekly-losing-streak-since-2023-stock-market-today",
+  "site": "kiplinger.com",
+  "title": "Dow Logs Worst Weekly Losing Streak Since 2023: Stock Market Today | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:30.353665",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-21\\733f98c755a259b1ef13988eeee975e9eed40cad.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-21\\733f98c755a259b1ef13988eeee975e9eed40cad.txt",
+  "word_count": 734,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "2f29096e286f92ed0934f5de1639c9b1a8485b24",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Stocks fell due to concerns over Middle East developments, higher oil prices, and a China chip-smuggling scandal involving Super Micro Computer, with significant impacts on the Dow, S&P 500, and Nasdaq.",
+  "sentiment": 2,
+  "sentiment_reason": "The negative market sentiment is driven by the combination of geopolitical tensions, rising inflation due to increased energy costs, and the serious allegations against Super Micro Computer, which led to a significant stock price drop.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

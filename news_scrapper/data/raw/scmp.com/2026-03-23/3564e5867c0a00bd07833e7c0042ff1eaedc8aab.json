@@ -1,0 +1,64 @@
+{
+  "id": "3564e5867c0a00bd07833e7c0042ff1eaedc8aab",
+  "url": "https://www.scmp.com/business/article/3347469/potential-rate-cut-pause-geopolitical-tensions-may-cloud-hong-kong-property-recovery",
+  "site": "scmp.com",
+  "title": "Potential rate cut pause, geopolitical tensions may cloud Hong Kong property recovery | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:24.667736",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-23\\3564e5867c0a00bd07833e7c0042ff1eaedc8aab.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-23\\3564e5867c0a00bd07833e7c0042ff1eaedc8aab.txt",
+  "word_count": 197,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a4b86613033927ba16d10bb0fa9cf8d59192f768",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Hongkonger Katie Chan's potential property purchase may be delayed due to a slower reduction in interest rates, with the Hibor currently at 2.02%, and a general wait-and-see approach among homebuyers due to rising geopolitical uncertainties.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the impact of rising interest rates and geopolitical uncertainties on the property market and homebuyers' decisions.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

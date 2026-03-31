@@ -1,0 +1,15 @@
+{
+  "id": "2f5f73542eeea37ce46cc38d66266a1474c75058",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51538010/taiwan-semiconductor-anchors-explosive-320-billion-chip-boom-in-2025",
+  "site": "benzinga.com",
+  "title": "What's Going On With Taiwan Semiconductor Stock Monday? - Taiwan Semiconductor (NYSE:TSM) - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:59.249786",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\2f5f73542eeea37ce46cc38d66266a1474c75058.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\2f5f73542eeea37ce46cc38d66266a1474c75058.txt",
+  "word_count": 287,
+  "paywalled": false,
+  "dedup_hash": "390b2c5e82b398ba698aec99a67a724072e4282a",
+  "scraper_version": "0.1",
+  "gdelt_query": "semiconductor"
+}

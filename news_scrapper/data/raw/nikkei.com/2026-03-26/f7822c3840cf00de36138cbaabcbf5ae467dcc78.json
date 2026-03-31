@@ -1,0 +1,65 @@
+{
+  "id": "f7822c3840cf00de36138cbaabcbf5ae467dcc78",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/arm-unveils-new-ai-chip-expecting-billions-in-added-revenue",
+  "site": "nikkei.com",
+  "title": "Arm unveils new AI chip, expecting billions in added revenue - Nikkei Asia",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:33.996258",
+  "language": null,
+  "html_path": "data\\raw\\nikkei.com\\2026-03-26\\f7822c3840cf00de36138cbaabcbf5ae467dcc78.html",
+  "text_path": "data\\raw\\nikkei.com\\2026-03-26\\f7822c3840cf00de36138cbaabcbf5ae467dcc78.txt",
+  "word_count": 420,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9f7b9a4e71811d7f0e958d0b049e4b8506bbceac",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Arm Holdings announced a new artificial intelligence data center chip, the AGI CPU, which is expected to generate billions in revenue and represents a strategic shift for the company. The chip will be used in agentic AI systems and has attracted key partners like Meta Platforms. However, despite the initial positive market reaction, Arm's stock fell by 1.5% after the announcement.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the announcement of a new chip that could significantly increase Arm's revenue and its strategic importance in the AI market, despite the slight immediate negative reaction in the stock market.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.41,
+      "change_1d": -1.5646,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.62,
+      "change_1d": -1.0753,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "3741c48712efba6ebbb04a53c29973e02fbbfa69",
+  "url": "https://www.businessinsider.com/elon-musk-pitched-mark-zuckerberg-on-bid-for-openai-ip-2026-3",
+  "site": "businessinsider.com",
+  "title": "Musk Pitched Zuckerberg in on His 2025 Bid for OpenAI, Per Court Docs - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:27.897175",
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-31\\3741c48712efba6ebbb04a53c29973e02fbbfa69.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-31\\3741c48712efba6ebbb04a53c29973e02fbbfa69.txt",
+  "word_count": 550,
+  "paywalled": false,
+  "dedup_hash": "be242b0dc0a877d96659a4e3373cb92ea516fe7e",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Elon Musk engaged in discussions with Mark Zuckerberg regarding potential bids for OpenAI's intellectual property and faced legal challenges in his lawsuit against OpenAI's CEO over the company's direction. Additionally, there were unsolicited acquisition bids and discussions about content takedowns related to Musk's other ventures.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Musk's legal challenges and unsolicited acquisition bids, which reflect negative market impact due to potential disruptions in the tech industry and uncertainty surrounding OpenAI's future.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

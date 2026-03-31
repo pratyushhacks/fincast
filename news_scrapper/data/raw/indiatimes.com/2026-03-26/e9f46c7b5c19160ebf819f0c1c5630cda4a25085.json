@@ -1,0 +1,25 @@
+{
+  "id": "e9f46c7b5c19160ebf819f0c1c5630cda4a25085",
+  "url": "https://economictimes.indiatimes.com/tech/technology/amazon-says-awss-bahrain-region-disrupted-following-drone-activity/articleshow/129767469.cms",
+  "site": "indiatimes.com",
+  "title": "Amazon says AWS's Bahrain region 'disrupted' following drone activity - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:29.375433",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\e9f46c7b5c19160ebf819f0c1c5630cda4a25085.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\e9f46c7b5c19160ebf819f0c1c5630cda4a25085.txt",
+  "word_count": 359,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e0f2f846c8631383c7842b61f1588b73fc685885",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company"
+}

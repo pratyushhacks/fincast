@@ -1,0 +1,54 @@
+{
+  "id": "5ac018bf6410c75324c10eb0be3a003b2a79cad7",
+  "url": "https://www.thehindubusinessline.com/markets/markets-plunge-as-crude-tops-108-rupee-hits-948-fiis-dump-114-lakh-crore-in-march/article70801710.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Markets plunge as crude tops $108, Rupee hits 94.8; FIIs dump ₹1.14 lakh crore in March - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:39.146833",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\5ac018bf6410c75324c10eb0be3a003b2a79cad7.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\5ac018bf6410c75324c10eb0be3a003b2a79cad7.txt",
+  "word_count": 683,
+  "paywalled": false,
+  "dedup_hash": "0cea3fb65bff43542bdad1882c4cf01831fd1abc",
+  "scraper_version": "0.1",
+  "gdelt_query": "healthcare stocks",
+  "summary": "Indian markets faced a significant downturn due to escalating West Asia tensions, surging crude oil prices, a weak rupee, and substantial foreign fund outflows. Brent and WTI crude oil prices saw notable increases, exacerbating the situation.",
+  "sentiment": 1,
+  "sentiment_reason": "The market sentiment is strongly negative due to the combination of geopolitical tensions, high crude oil prices, currency volatility, and aggressive foreign fund outflows, all of which contribute to a risk-off mood and potential inflationary pressures on the Indian economy.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        146.01,
+        144.74,
+        144.77,
+        144.79,
+        146.24,
+        145.74,
+        143.26
+      ],
+      "base_price": 143.82,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "6f7f516db990a619f52897259bfd3dedbf3bcae6",
+  "url": "https://www.dw.com/sr/paradoks-u-nema%C4%8Dkoj-masovna-otpu%C5%A1tanja-iako-privreda-ja%C4%8Da/a-76282384",
+  "site": "dw.com",
+  "title": "Paradoks u Nemačkoj – masovna otpuštanja iako privreda jača",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:48:28.561583",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-14\\6f7f516db990a619f52897259bfd3dedbf3bcae6.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-14\\6f7f516db990a619f52897259bfd3dedbf3bcae6.txt",
+  "word_count": 587,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6bd33b8a70f517c759f3ef8a314dae965c9bdde4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta"
+  ],
+  "matched_industries": [
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Nemačko je više privredno, automatizacija i veštačka inteligencija prometjuju radu i postavljuju na tržištu. Nemački tehnološki razvoj u automobilskoj i mašinskoj industriji ostavljuju se konkurenti. Nezaposlenost se smanjuje, veštačka inteligencija se poputju u poslovanju.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative sentiment due to the increase in unemployment and the automation replacing jobs in key industries.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        37.13,
+        36.58,
+        36.09,
+        36.09,
+        36.28,
+        36.3,
+        35.59
+      ],
+      "base_price": 34.83,
+      "next_price": 35.39,
+      "change_1d": 1.6078,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        683.26,
+        679.45,
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25
+      ],
+      "base_price": 660.49,
+      "next_price": 667.21,
+      "change_1d": 1.0174,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

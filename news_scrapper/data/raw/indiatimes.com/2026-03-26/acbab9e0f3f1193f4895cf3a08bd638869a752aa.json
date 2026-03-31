@@ -1,0 +1,25 @@
+{
+  "id": "acbab9e0f3f1193f4895cf3a08bd638869a752aa",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/iran-war-fuel-crisis-gives-electric-cars-a-long-term-boost-russell/129790335",
+  "site": "indiatimes.com",
+  "title": "Iran War Fuel Crisis: Iran War Fuels Switch to Electric Cars in Asia, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:55.955461",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\acbab9e0f3f1193f4895cf3a08bd638869a752aa.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\acbab9e0f3f1193f4895cf3a08bd638869a752aa.txt",
+  "word_count": 909,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "050d8670b082351a053d6b0e9c5989666b5d8481",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

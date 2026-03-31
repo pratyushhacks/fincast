@@ -1,0 +1,65 @@
+{
+  "id": "5fe597ff755ebf09c9a398e9a6d7c42f9d4cc5cb",
+  "url": "https://www.thehindubusinessline.com/markets/fiis-dump-56883-crore-in-first-half-of-march-as-crude-geopolitics-rattle-dalal-street/article70748645.ece",
+  "site": "thehindubusinessline.com",
+  "title": "FIIs dump ₹56,883 crore in first half of March as crude, geopolitics rattle Dalal Street - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:38.687569",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\5fe597ff755ebf09c9a398e9a6d7c42f9d4cc5cb.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\5fe597ff755ebf09c9a398e9a6d7c42f9d4cc5cb.txt",
+  "word_count": 770,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "6ba9d78bbcd5f1e89ceab9b41dc2d34d4540c8ef",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector",
+  "summary": "FIIs sell ₹56,883 crore; crude oil prices surge; rupee at record low; equities hit support levels; sustained FII selling anticipated; pharma and FMCG as safe havens.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a market impacted by heavy foreign institutional selling, surging crude oil prices, a record-weak rupee, and sustained market weakness due to ongoing war uncertainty.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        152.07,
+        153.63,
+        152.52,
+        152.22,
+        149.55,
+        149.18,
+        150.39
+      ],
+      "base_price": 149.03,
+      "next_price": 146.54,
+      "change_1d": -1.6708,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

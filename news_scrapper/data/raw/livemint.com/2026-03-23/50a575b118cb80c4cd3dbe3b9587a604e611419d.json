@@ -1,0 +1,64 @@
+{
+  "id": "50a575b118cb80c4cd3dbe3b9587a604e611419d",
+  "url": "https://www.livemint.com/market/fannie-freddie-place-large-bids-for-mortgage-backed-securities-11774227616570.html",
+  "site": "livemint.com",
+  "title": "Fannie, Freddie Place Large Bids for Mortgage-Backed Securities | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:30.413868",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\50a575b118cb80c4cd3dbe3b9587a604e611419d.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\50a575b118cb80c4cd3dbe3b9587a604e611419d.txt",
+  "word_count": 390,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "054a5727e3ce9f7be7d866b5b61cccef3f926569",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro",
+  "summary": "Fannie Mae and Freddie Mac have increased their purchases of mortgage-backed securities amidst market volatility and wider bond spreads, following a directive from President Trump. This move is aimed at supporting housing affordability despite the ongoing conflict in the Middle East.",
+  "sentiment": 4,
+  "sentiment_reason": "The action by Fannie Mae and Freddie Mac to buy mortgage-backed securities is a positive move to support the housing market and potentially lower mortgage rates, despite the negative market conditions.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        86.97,
+        86.54,
+        87.21,
+        87.45,
+        86.96,
+        87.49,
+        85.83
+      ],
+      "base_price": 86.39,
+      "next_price": 86.01,
+      "change_1d": -0.4399,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

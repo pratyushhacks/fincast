@@ -1,0 +1,25 @@
+{
+  "id": "c50001f245e9e7135b915cc5d1143f49ef7cfe74",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-launches-privacy-focussed-ai-tool-forge-to-target-enterprise-clients/articleshow/129648479.cms",
+  "site": "indiatimes.com",
+  "title": "Mistral AI launches privacy-focussed AI tool Forge to target enterprise clients - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:04.510887",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\c50001f245e9e7135b915cc5d1143f49ef7cfe74.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\c50001f245e9e7135b915cc5d1143f49ef7cfe74.txt",
+  "word_count": 277,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a807ece207890a8902c674dc81285d89979fa1fa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

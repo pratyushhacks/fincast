@@ -1,0 +1,64 @@
+{
+  "id": "02d72dd914e8ba37fcef0d1e7de0a000957170d1",
+  "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/cmpdi-ipo-review-subscribe-or-avoid-central-mine-planning-design-institute-ipo/article70761424.ece",
+  "site": "thehindubusinessline.com",
+  "title": "CMPDI IPO Review: Subscribe to Central Mine Planning & Design Institute Issue? - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:49:02.737267",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\02d72dd914e8ba37fcef0d1e7de0a000957170d1.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-20\\02d72dd914e8ba37fcef0d1e7de0a000957170d1.txt",
+  "word_count": 1917,
+  "reading_time_minutes": 9,
+  "paywalled": false,
+  "dedup_hash": "7f892ff1f391ae118edf0854f05c9b0bedfb6083",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Central Mine Planning & Design Institute (CMPDI), a government-linked mining consultancy, is launching an IPO with a valuation of ₹1,837.84 crore, offering up to 10.71 crore shares. The IPO is seen as a strategic move to improve governance and transparency, and it comes amidst a backdrop of geopolitical tensions affecting global energy markets.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the strong valuation relative to peers, the company's technical expertise, and the strategic government push for improved governance and transparency in listed subsidiaries.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

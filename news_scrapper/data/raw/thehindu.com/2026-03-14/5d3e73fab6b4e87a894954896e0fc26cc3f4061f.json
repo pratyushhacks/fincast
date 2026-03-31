@@ -1,0 +1,64 @@
+{
+  "id": "5d3e73fab6b4e87a894954896e0fc26cc3f4061f",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/tidco-backs-two-home-grown-startups-invests-25-crore-in-each/article70743974.ece",
+  "site": "thehindu.com",
+  "title": "TIDCO backs two home-grown startups, invests ₹25 crore in each - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:37:18.411094",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-14\\5d3e73fab6b4e87a894954896e0fc26cc3f4061f.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-14\\5d3e73fab6b4e87a894954896e0fc26cc3f4061f.txt",
+  "word_count": 396,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b111f6983cd6005d26e0f1d2586525c2b468d1b1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Tamil Nadu’s Industries Minister backs two startups with ₹25 crore each under TIDCO's investment policy, focusing on home-grown tech in sectors like electric vehicles.",
+  "sentiment": 3,
+  "sentiment_reason": "The announcement is neutral market impact as it's routine news about government investment in startups.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        31.39,
+        30.73,
+        30.16,
+        30.71,
+        31.01,
+        31.21,
+        30.41
+      ],
+      "base_price": 30.14,
+      "next_price": 30.7,
+      "change_1d": 1.858,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        683.26,
+        679.45,
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25
+      ],
+      "base_price": 660.49,
+      "next_price": 667.21,
+      "change_1d": 1.0174,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

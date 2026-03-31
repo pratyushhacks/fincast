@@ -1,0 +1,64 @@
+{
+  "id": "a57161fc215f9d212d6a69ffa198a6ab3d9e91fb",
+  "url": "https://siliconangle.com/2026/03/16/nvidia-introduces-platform-large-scale-ai-training-inference/",
+  "site": "siliconangle.com",
+  "title": "Nvidia introduces platform for large-scale AI training and inference - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:53.594817",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-17\\a57161fc215f9d212d6a69ffa198a6ab3d9e91fb.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-17\\a57161fc215f9d212d6a69ffa198a6ab3d9e91fb.txt",
+  "word_count": 774,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4110a0ad5eb75bd6d60d7be7e525c26cf7bd234f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia announces Dynamo 1.0, an open-source platform for large-scale AI inference, to address complex generative workloads and expand AI software market share.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement reflects a negative sentiment due to the implied pressure to keep up with the rapidly advancing AI complexity and the need for efficient software solutions.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1953cb35b96cee9afa6850946fb6d98357155951",
+  "url": "https://www.livemint.com/market/commodities/gold-prices-crash-20-from-record-high-enter-bear-territory-can-they-slip-below-4000ounce-11774264455685.html",
+  "site": "livemint.com",
+  "title": "Gold prices crash 20% from record high, enter bear territory: Can they slip below $4,000/ounce? | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:36.555981",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-24\\1953cb35b96cee9afa6850946fb6d98357155951.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-24\\1953cb35b96cee9afa6850946fb6d98357155951.txt",
+  "word_count": 771,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "30387ed505a02ab52af71cda9002ac91ad090351",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Gold prices have significantly declined due to rising inflation fears, higher crude oil prices, and a potential prolonged high-interest rate environment influenced by the ongoing war in the Middle East. The market is also experiencing a dollar liquidity squeeze, further impacting gold prices.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the factors causing gold prices to fall, such as inflation fears, higher crude oil prices, and the potential for continued high-interest rates.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

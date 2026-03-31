@@ -1,0 +1,66 @@
+{
+  "id": "02c45ee5256261330640f54b3fdbf927afa82db6",
+  "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
+  "site": "cnbc.com",
+  "title": "Private credit's cracks spark a new tug of war with Wall Street banks",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:06.595542",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-28\\02c45ee5256261330640f54b3fdbf927afa82db6.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-28\\02c45ee5256261330640f54b3fdbf927afa82db6.txt",
+  "word_count": 871,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "4023926a65c7c96026c09afa3f692be59d8fb99c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Banks are poised to regain market share from private credit lenders due to easing rules and their own recovery, while private credit faces challenges from past aggressive lending practices and rising investor demand for liquidity.",
+  "sentiment": 4,
+  "sentiment_reason": "The article indicates a positive shift for banks as they are expected to regain market share and benefit from regulatory changes, despite some challenges faced by private credit lenders.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

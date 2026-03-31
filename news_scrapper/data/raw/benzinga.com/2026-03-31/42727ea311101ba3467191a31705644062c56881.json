@@ -1,0 +1,54 @@
+{
+  "id": "42727ea311101ba3467191a31705644062c56881",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51531247/gary-black-says-tsla-has-underperformed-nasdaq-for-5-years-because-it-has-never-lived-up-to-unsupervised-fsd-hype-tsla-still-has-only-9-robotaxis",
+  "site": "benzinga.com",
+  "title": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised FSD Hype: 'TSLA Still Has Only 9 Robotaxis' - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:40.449466",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\42727ea311101ba3467191a31705644062c56881.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\42727ea311101ba3467191a31705644062c56881.txt",
+  "word_count": 209,
+  "paywalled": false,
+  "dedup_hash": "ce859c2795a2e8cd68dd9bbdc15b527f426f8897",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "Tesla's autonomous driving claims and FSD system under NHTSA investigation, coupled with a lack of marketing, negatively impact the company's image and stock performance.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights concerns over Tesla's actual progress in autonomous driving technology and the potential recall affecting millions of vehicles, along with criticism of the company's marketing strategy, leading to negative market sentiment.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

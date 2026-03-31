@@ -1,0 +1,54 @@
+{
+  "id": "611d00342910ad781bdebabe0964c8a645aba66d",
+  "url": "https://www.cnbc.com/2026/03/30/jim-cramer-this-sell-off-is-creating-buying-opportunities.html",
+  "site": "cnbc.com",
+  "title": "Jim Cramer: This sell-off is creating buying opportunities",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:27.356794",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\611d00342910ad781bdebabe0964c8a645aba66d.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\611d00342910ad781bdebabe0964c8a645aba66d.txt",
+  "word_count": 356,
+  "paywalled": false,
+  "dedup_hash": "65e1aa25361a6caec0d5e286c76b1d248df6e590",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Jim Cramer advises against selling high-quality stocks driven by fear, highlighting disconnects in tech stock movements and AI's role in cybersecurity. He criticizes the overreaction to Meta's legal issues and encourages buying CrowdStrike or Meta.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents negative market impact due to fear-driven selling and overreaction to legal issues, despite underlying business fundamentals and insider confidence.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

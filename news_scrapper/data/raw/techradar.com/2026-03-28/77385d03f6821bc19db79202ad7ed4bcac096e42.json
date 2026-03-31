@@ -1,0 +1,65 @@
+{
+  "id": "77385d03f6821bc19db79202ad7ed4bcac096e42",
+  "url": "https://www.techradar.com/pro/security/english-learning-app-used-by-sony-and-paramount-put-millions-of-users-at-risk",
+  "site": "techradar.com",
+  "title": "English learning app used by Sony and Paramount put millions of users at risk | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:48.693029",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\77385d03f6821bc19db79202ad7ed4bcac096e42.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\77385d03f6821bc19db79202ad7ed4bcac096e42.txt",
+  "word_count": 430,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "eab4ed4af8f7402075f1a673139ae9b478f18da6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "An English learning app, Abceed, exposed 46 million files including 10TB of private user data, potentially aiding cybercriminals in voice cloning and phishing campaigns.",
+  "sentiment": 1,
+  "sentiment_reason": "The article discusses a significant data breach involving sensitive user data and the potential misuse of voice recordings for cybercrimes, which indicates a strongly negative market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

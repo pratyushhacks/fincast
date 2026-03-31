@@ -1,0 +1,15 @@
+{
+  "id": "00fd5ca514d8a11a7becb6f425922433ab6cac83",
+  "url": "https://economictimes.indiatimes.com/news/international/business/a-riskier-mideast-will-drive-big-oil-toward-new-frontiers/articleshow/129894023.cms",
+  "site": "indiatimes.com",
+  "title": "A riskier Mideast will drive Big Oil toward new frontiers - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:32.308954",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\00fd5ca514d8a11a7becb6f425922433ab6cac83.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\00fd5ca514d8a11a7becb6f425922433ab6cac83.txt",
+  "word_count": 879,
+  "paywalled": false,
+  "dedup_hash": "f3c3c1ba79887cca4e1ff6a1da83b0639b2ac022",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"geopolitical risk\""
+}

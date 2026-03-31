@@ -1,0 +1,28 @@
+{
+  "id": "7fb4bcb5443488e7e4b29dde57ccbd5e9fe29698",
+  "url": "https://www.independent.co.uk/news/world/americas/disney-ceo-openai-fortnite-epic-b2945799.html",
+  "site": "independent.co.uk",
+  "title": "Disney’s new CEO faces three major disasters in his first week on the job | The Independent",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:40.676381",
+  "language": null,
+  "html_path": "data\\raw\\independent.co.uk\\2026-03-26\\7fb4bcb5443488e7e4b29dde57ccbd5e9fe29698.html",
+  "text_path": "data\\raw\\independent.co.uk\\2026-03-26\\7fb4bcb5443488e7e4b29dde57ccbd5e9fe29698.txt",
+  "word_count": 705,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "eb3be0903fcf5ebb536d78494ad8b3322bb6ad4d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Josh D’Amaro's tenure as CEO of Disney is marred by significant setbacks in technology initiatives with Epic Games and OpenAI, compounded by controversies in the company's television division, affecting Disney's market position.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights major technology initiatives failing and a controversial domestic incident involving a cast member, both of which contribute to negative market sentiment and fears of reputational damage and financial impact."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "d99b6ebd9a586fc2b462311fc69284df88c25b66",
+  "url": "https://www.investing.com/analysis/will-ai-really-destroy-americas-job-market-200676645",
+  "site": "investing.com",
+  "title": "Will AI Really Destroy America’s Job Market? | Investing.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:14:03.207945",
+  "language": null,
+  "html_path": "data\\raw\\investing.com\\2026-03-14\\d99b6ebd9a586fc2b462311fc69284df88c25b66.html",
+  "text_path": "data\\raw\\investing.com\\2026-03-14\\d99b6ebd9a586fc2b462311fc69284df88c25b66.txt",
+  "word_count": 739,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "41ce8f30c49c67e1ee3d9ffb84abcfa9f0eff540",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "Amazon",
+  "gdelt_category": "company",
+  "summary": "Recent reports and data show mixed signals in the job market, with some sectors experiencing job losses while others remain stable or grow. The fear of AI-driven job displacement is present, but historical trends and current data suggest the economy can absorb shifts in employment.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the reported job losses and the fear of AI impacting employment, but it's mitigated by the historical trend of job creation and the lack of consistency in the data suggesting a broader economic picture.",
+  "price_changes": {
+    "Amazon": {
+      "ticker": "AMZN",
+      "trend": [
+        216.82,
+        218.94,
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53
+      ],
+      "base_price": 207.67,
+      "next_price": 211.74,
+      "change_1d": 1.9598,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

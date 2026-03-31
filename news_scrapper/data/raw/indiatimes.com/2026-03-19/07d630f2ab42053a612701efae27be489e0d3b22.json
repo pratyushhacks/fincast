@@ -1,0 +1,25 @@
+{
+  "id": "07d630f2ab42053a612701efae27be489e0d3b22",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/tim-cook-addresses-resignation-rumors-apple-ceo-reaffirms-commitment-amid-50th-anniversary/129650805",
+  "site": "indiatimes.com",
+  "title": "Tim Cook Addresses Resignation Rumors: Apple CEO Reaffirms Commitment Amid 50th Anniversary, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:11.457428",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\07d630f2ab42053a612701efae27be489e0d3b22.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\07d630f2ab42053a612701efae27be489e0d3b22.txt",
+  "word_count": 375,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1bba654575aa02d5a9e03643cba60959912da7c7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company"
+}

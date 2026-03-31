@@ -1,0 +1,65 @@
+{
+  "id": "a4d6a6af5700423881389d176038b405d488c7d2",
+  "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51376673/top-wall-street-forecasters-revamp-core-main-expectations-ahead-of-q4-earnings",
+  "site": "benzinga.com",
+  "title": "Top Wall Street Forecasters Revamp Core & Main Expectations Ahead Of Q4 Earnings - Core & Main (NYSE:CNM)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:00.863978",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\a4d6a6af5700423881389d176038b405d488c7d2.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\a4d6a6af5700423881389d176038b405d488c7d2.txt",
+  "word_count": 195,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "5f31acf6378fe5d1854f77ec78708aefdac769df",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Core & Main, Inc. is set to release its Q4 earnings report, expected to show a per-share profit of 42 cents and quarterly revenue of $1.6 million. The company also recently completed the acquisition of Pioneer Supply. Meanwhile, its stock price slightly decreased by 0.4% to close at $47.50.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about earnings release and acquisition, with no strong indicators of negative or positive market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69,
+        307.13
+      ],
+      "base_price": 301.0,
+      "next_price": 302.06,
+      "change_1d": 0.3522,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

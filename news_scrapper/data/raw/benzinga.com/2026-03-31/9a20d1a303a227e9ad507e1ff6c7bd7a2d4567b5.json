@@ -1,0 +1,54 @@
+{
+  "id": "9a20d1a303a227e9ad507e1ff6c7bd7a2d4567b5",
+  "url": "https://www.benzinga.com/markets/equities/26/03/51530217/oil-surges-dow-futures-slide-as-trump-talks-taking-iran-oil",
+  "site": "benzinga.com",
+  "title": "Brent Crude Surges Above $115, Dow Futures Slide By 249 Points — Trump Says His 'Favorite' Thing To Do Wo - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:27.098553",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\9a20d1a303a227e9ad507e1ff6c7bd7a2d4567b5.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\9a20d1a303a227e9ad507e1ff6c7bd7a2d4567b5.txt",
+  "word_count": 367,
+  "paywalled": false,
+  "dedup_hash": "8746705bd59fa5de339ffa6b2d50a77d4066f0df",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"dollar index\"",
+  "summary": "Global markets react negatively to heightened tensions between the U.S. and Iran, with oil prices surge and equity futures decline. Diplomatic efforts are underway, but risks remain high.",
+  "sentiment": 2,
+  "sentiment_reason": "The market sentiment is negative due to the escalating conflict and its impact on oil prices and equity futures, coupled with the uncertainty surrounding diplomatic talks.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.58,
+        27.68,
+        27.56,
+        27.65,
+        27.7,
+        27.81,
+        27.84
+      ],
+      "base_price": 27.98,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

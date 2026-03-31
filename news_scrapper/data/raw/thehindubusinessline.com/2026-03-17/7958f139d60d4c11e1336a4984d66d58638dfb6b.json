@@ -1,0 +1,64 @@
+{
+  "id": "7958f139d60d4c11e1336a4984d66d58638dfb6b",
+  "url": "https://www.thehindubusinessline.com/companies/ola-electric-seeks-rs-2000-crore-through-stake-sale-in-battery-unit-oct/article70749439.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Ola Electric plans Rs 2,000 crore stake sale in battery arm Ola Cell Technologies - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:36.284251",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\7958f139d60d4c11e1336a4984d66d58638dfb6b.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\7958f139d60d4c11e1336a4984d66d58638dfb6b.txt",
+  "word_count": 451,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f395516c0b89369664d3709cbeb51e45b51e61c9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Ola Electric plans to raise up to Rs 2,000 crore by selling a stake in its battery subsidiary Ola Cell Technologies, which operates a lithium-ion cell gigafactory in Tamil Nadu. The stake sale is part of Ola's efforts to restructure operations and shore up its balance sheet. The gigafactory marks a significant step toward localizing battery cell manufacturing in India and supports energy storage products across industries. Ola's innovation in battery technology and deployment in vehicles are also highlighted.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a routine business development with a focus on Ola's strategic move to raise funds and localize battery manufacturing, which is neutral in terms of immediate market impact.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.16,
+        30.71,
+        31.01,
+        31.21,
+        30.41,
+        30.14,
+        30.7
+      ],
+      "base_price": 30.81,
+      "next_price": 30.25,
+      "change_1d": -1.8176,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

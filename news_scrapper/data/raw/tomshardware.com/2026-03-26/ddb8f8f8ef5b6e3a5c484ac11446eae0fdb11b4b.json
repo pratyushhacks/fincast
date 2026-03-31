@@ -1,0 +1,64 @@
+{
+  "id": "ddb8f8f8ef5b6e3a5c484ac11446eae0fdb11b4b",
+  "url": "https://www.tomshardware.com/pc-components/the-best-amazon-big-spring-sale-tech-deals-2026-featuring-the-best-prices-on-the-latest-gaming-pcs-gpus-laptops-monitors-peripherals-and-more",
+  "site": "tomshardware.com",
+  "title": "The best Amazon Big Spring Sale tech deals 2026 — featuring the best prices on the latest gaming PCs, GPUs, laptops, monitors, peripherals, and more | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:28.410743",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-26\\ddb8f8f8ef5b6e3a5c484ac11446eae0fdb11b4b.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-26\\ddb8f8f8ef5b6e3a5c484ac11446eae0fdb11b4b.txt",
+  "word_count": 351,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b46910e25d7e2756fed6de3bdf35d68ea3d486cf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the Amazon Big Spring Sale, highlighting the best deals on various tech items including PC components, GPUs, and peripherals amidst challenges like scarcity, price hikes, and tariffs. It also mentions the AI crunch rollout affecting memory capacity.",
+  "sentiment": 4,
+  "sentiment_reason": "The article is positive as it focuses on finding the best deals during the sale event, despite the mentioned challenges.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 200.86,
+      "change_1d": -3.2187,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.39,
+      "change_1d": -1.1154,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

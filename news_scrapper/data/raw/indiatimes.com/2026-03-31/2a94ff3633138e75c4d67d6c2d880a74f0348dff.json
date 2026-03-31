@@ -1,0 +1,15 @@
+{
+  "id": "2a94ff3633138e75c4d67d6c2d880a74f0348dff",
+  "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/mar/28/satet-front/mkts-drown-in-red-seare-bleeds-bears-maul-st/articleshow/129854634.cms",
+  "site": "indiatimes.com",
+  "title": "Markets Drown in Red Sea: Rupee Bleeds, Bears Maul St - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:05.363295",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\2a94ff3633138e75c4d67d6c2d880a74f0348dff.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\2a94ff3633138e75c4d67d6c2d880a74f0348dff.txt",
+  "word_count": 356,
+  "paywalled": false,
+  "dedup_hash": "24a66e59d6a79a9f50c5419813d132d5e00bbb09",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\""
+}

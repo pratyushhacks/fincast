@@ -1,0 +1,66 @@
+{
+  "id": "44abec222b9e00dc79c9d9701150ae33d113cdd8",
+  "url": "https://www.businessinsider.com/openai-founder-andrej-karpathy-chores-dobby-ai-claw-2026-3",
+  "site": "businessinsider.com",
+  "title": "Andrej Karpathy Says He Uses an AI Agent to Control His Pool - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:28:52.759500",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-23\\44abec222b9e00dc79c9d9701150ae33d113cdd8.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-23\\44abec222b9e00dc79c9d9701150ae33d113cdd8.txt",
+  "word_count": 421,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a3c6681bed7901516a13113782983667c8aa8f18",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Andrej Karpathy, a former Tesla and OpenAI engineer, uses an AI system named 'Dobby' to automate household tasks and control devices such as lights, HVAC, and security systems. The system also assists with tracking deliveries and managing multiple apps on his phone.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the positive use of AI in automating daily tasks and improving home management, which is a strong market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7
+      ],
+      "base_price": 175.64,
+      "next_price": 175.2,
+      "change_1d": -0.2505,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

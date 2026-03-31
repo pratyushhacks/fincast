@@ -1,0 +1,54 @@
+{
+  "id": "09a9d8122140e3f4c0920e698c3d3ee7b53c9162",
+  "url": "https://www.thehindu.com/news/national/government-revises-pm-e-drive-scheme-sets-new-deadlines-for-e-scooters-e-rickshaws/article70795591.ece",
+  "site": "thehindu.com",
+  "title": "Government revises PM e-DRIVE scheme, sets new deadlines for e-scooters, e-rickshaws - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:18.631561",
+  "html_path": "data\\raw\\thehindu.com\\2026-03-31\\09a9d8122140e3f4c0920e698c3d3ee7b53c9162.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-31\\09a9d8122140e3f4c0920e698c3d3ee7b53c9162.txt",
+  "word_count": 263,
+  "paywalled": false,
+  "dedup_hash": "7a571eca91eb7f9c10f9f732ba5ba451089eaddd",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles",
+  "summary": "The Indian government has updated the PM E-DRIVE scheme, setting new deadlines and price caps for e-scooters and e-rickshaws, with a total fund limit of ₹10,900 crore. The scheme's support for registered electric vehicles has a cap.",
+  "sentiment": 3,
+  "sentiment_reason": "The revision of the scheme's guidelines and the introduction of caps on incentives and funding are neutral to the market as they represent routine policy updates without immediate significant positive or negative impacts.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91,
+        29.62
+      ],
+      "base_price": 29.11,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

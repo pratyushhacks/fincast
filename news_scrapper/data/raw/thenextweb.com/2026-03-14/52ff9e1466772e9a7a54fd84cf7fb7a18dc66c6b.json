@@ -1,0 +1,65 @@
+{
+  "id": "52ff9e1466772e9a7a54fd84cf7fb7a18dc66c6b",
+  "url": "https://thenextweb.com:443/news/elon-musk-is-tearing-xai-down-to-build-it-back-up",
+  "site": "thenextweb.com",
+  "title": "Elon Musk is tearing xAI down to build it back up. Again.",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:05:56.555486",
+  "language": null,
+  "html_path": "data\\raw\\thenextweb.com\\2026-03-14\\52ff9e1466772e9a7a54fd84cf7fb7a18dc66c6b.html",
+  "text_path": "data\\raw\\thenextweb.com\\2026-03-14\\52ff9e1466772e9a7a54fd84cf7fb7a18dc66c6b.txt",
+  "word_count": 604,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "13037f619a10cd36b71991278c6e03cb0c5d5bce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Tesla",
+  "gdelt_category": "company",
+  "summary": "Elon Musk's xAI loses co-founders, staff, and trails in coding benchmarks, prompting a rebuild. Despite investments from SpaceX and Tesla, internal issues and competition affect morale and performance.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative sentiment due to the company's struggles with staff departures, underperformance in coding benchmarks, and the impact of Musk's management style.",
+  "price_changes": {
+    "Tesla": {
+      "ticker": "TSLA",
+      "trend": [
+        405.94,
+        405.55,
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01
+      ],
+      "base_price": 391.2,
+      "next_price": 395.56,
+      "change_1d": 1.1145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

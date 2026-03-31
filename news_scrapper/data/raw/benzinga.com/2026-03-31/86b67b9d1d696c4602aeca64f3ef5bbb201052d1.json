@@ -1,0 +1,18 @@
+{
+  "id": "86b67b9d1d696c4602aeca64f3ef5bbb201052d1",
+  "url": "https://www.benzinga.com/markets/large-cap/26/03/51548176/disney-leverages-legacy-ip-with-comixit-webtoons-as-stock-struggles",
+  "site": "benzinga.com",
+  "title": "Disney Leverages Legacy IP With Comixit Webtoons As Stock Struggles - Walt Disney (NYSE:DIS) - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:49.354062",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\86b67b9d1d696c4602aeca64f3ef5bbb201052d1.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\86b67b9d1d696c4602aeca64f3ef5bbb201052d1.txt",
+  "word_count": 386,
+  "paywalled": false,
+  "dedup_hash": "3abb5e5d6ff4437a23b14712901d59991c624ab0",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Walt Disney is expanding into digital and content formats through a partnership with Comixit, while facing technical challenges with its stock trading below significant moving averages and oversold conditions. The company's next major catalyst is the upcoming earnings report.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates negative sentiment due to Disney's stock trading below moving averages and oversold conditions, despite the positive news of the new partnership and digital expansion."
+}

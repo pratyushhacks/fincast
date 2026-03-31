@@ -1,0 +1,28 @@
+{
+  "id": "97cabb160d9965d17157bc130ce35499718b2826",
+  "url": "https://telecom.economictimes.indiatimes.com/news/internet/italy-investigates-quantum-computing-market-dynamics-amidst-global-tech-concerns/129645893",
+  "site": "indiatimes.com",
+  "title": "Quantum Computing Sector: Italy Investigates Quantum Computing Market Dynamics Amidst Global Tech Concerns, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:45.934304",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\97cabb160d9965d17157bc130ce35499718b2826.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\97cabb160d9965d17157bc130ce35499718b2826.txt",
+  "word_count": 299,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e6994067c695f7ef515a9c344f74d413fdd325dc",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector"
+}

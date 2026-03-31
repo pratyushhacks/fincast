@@ -1,0 +1,25 @@
+{
+  "id": "43762488a40de23a99be22cde99b54cdab08d9ea",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-falls-asian-stocks-rise-on-iran-de-escalation-hopes/articleshow/129789384.cms",
+  "site": "indiatimes.com",
+  "title": "Global Market Today: Oil falls, Asian stocks rise on Iran de-escalation hopes - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:23.065856",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\43762488a40de23a99be22cde99b54cdab08d9ea.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\43762488a40de23a99be22cde99b54cdab08d9ea.txt",
+  "word_count": 650,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "65e2336d63067777efc88b8bb6a1c8a0e6fada86",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro"
+}

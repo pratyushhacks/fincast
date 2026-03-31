@@ -1,0 +1,66 @@
+{
+  "id": "a0648d58870ff8463b536bc938754ffd978920ef",
+  "url": "https://fortune.com/2026/03/18/kosa-kids-act-app-store-accountability-act-minors-age-verification/",
+  "site": "fortune.com",
+  "title": "Social media companies are scrambling to verify minors online. Congress just made it a lot more complicated | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:18.899917",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-19\\a0648d58870ff8463b536bc938754ffd978920ef.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-19\\a0648d58870ff8463b536bc938754ffd978920ef.txt",
+  "word_count": 892,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "71b79a590ec29287a85f09eaa454ce6879aca819",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Congress has taken significant steps towards child online safety with new legislation targeting social media companies' handling of minors. The App Store Accountability Act and the Kids Online Safety Act introduce stringent requirements for age verification and parental controls. Meanwhile, the unanimous passing of Children’s Online Privacy Protection Act (COPPA) 2.0 in the Senate reflects a bipartisan effort to enhance child protection online. However, the industry faces increased pressure to comply with these new regulations amidst ongoing legal and social challenges.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the increased regulatory burden on social media companies and the complexity added by overlapping state laws, which could lead to operational challenges and potential legal disputes.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

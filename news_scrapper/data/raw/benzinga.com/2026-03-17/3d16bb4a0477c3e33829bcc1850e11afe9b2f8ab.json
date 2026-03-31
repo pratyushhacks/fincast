@@ -1,0 +1,65 @@
+{
+  "id": "3d16bb4a0477c3e33829bcc1850e11afe9b2f8ab",
+  "url": "https://www.benzinga.com/opinion/26/03/51278971/perfect-stocks-portfolio-march-2026-edition",
+  "site": "benzinga.com",
+  "title": "Perfect Stocks Portfolio: March 2026 Edition - Assured Guaranty (NYSE:AGO), Anhui Conch Cement Co (OTC:AHCHY)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:32.251895",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\3d16bb4a0477c3e33829bcc1850e11afe9b2f8ab.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\3d16bb4a0477c3e33829bcc1850e11afe9b2f8ab.txt",
+  "word_count": 2464,
+  "reading_time_minutes": 12,
+  "paywalled": false,
+  "dedup_hash": "b275e61c85ff403d3054a9e750d694df33375be6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "In March 2026, markets are influenced by rising energy prices due to Middle East tensions, uncertain trade policies, and increased fiscal spending in various regions. Europe's economy expands modestly with governments investing in infrastructure and industrial policy. The UK's growth is slower, and energy costs pose a significant risk.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is affected by geopolitical tensions and energy costs, with a cautious outlook due to potential impacts on manufacturing and consumer spending.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        323.31,
+        336.16,
+        338.6,
+        341.88,
+        329.99,
+        331.12,
+        337.62
+      ],
+      "base_price": 340.25,
+      "next_price": 338.29,
+      "change_1d": -0.576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

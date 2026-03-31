@@ -1,0 +1,27 @@
+{
+  "id": "30e3486bb5c8e59b7507d6c8f6ca15b26ffe5440",
+  "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+  "site": "arstechnica.com",
+  "title": "OpenAI is acquiring open source Python tool-maker Astral - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:55.966078",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-20\\30e3486bb5c8e59b7507d6c8f6ca15b26ffe5440.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-20\\30e3486bb5c8e59b7507d6c8f6ca15b26ffe5440.txt",
+  "word_count": 273,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "68c216aec3d1f0fcce52c36f7c55f6143b5e70c1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI acquired Astral, the company behind popular Python development tools, to integrate with its Codex team and accelerate work on Codex. OpenAI will continue supporting Astral's open source projects post-acquisition.",
+  "sentiment": 4,
+  "sentiment_reason": "The acquisition is a positive move for OpenAI as it integrates with its Codex team and continues to support the Python ecosystem, indicating growth and expansion in the AI-powered coding assistants market."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "52b5822b5307fd21c45cdab69b2d596debd3ac4d",
+  "url": "https://www.thehindubusinessline.com/economy/surge-in-crude-prices-could-raise-global-inflation-by-60-bps-cut-growth-by-up-to-04-pp-in-2026-gita-gopinath/article70748659.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Surge in crude prices could raise global inflation by 60 bps, cut growth by up to 0.4 pp in 2026: Gita Gopinath - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:47.134222",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\52b5822b5307fd21c45cdab69b2d596debd3ac4d.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\52b5822b5307fd21c45cdab69b2d596debd3ac4d.txt",
+  "word_count": 393,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c6ed7b3e791863d4591216abcc33553eb36d709b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Crude oil price surge due to US-Iran conflict could slow global growth by 0.3-0.4pp in 2026, with inflation rising by 60bps if prices average $85/barrel, affecting global energy markets and economies.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of rising crude oil prices on global economic growth and inflation due to geopolitical tensions and supply disruptions.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.77,
+        104.33,
+        105.86,
+        108.05,
+        118.39,
+        119.89,
+        115.03
+      ],
+      "base_price": 118.84,
+      "next_price": 121.67,
+      "change_1d": 2.3814,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

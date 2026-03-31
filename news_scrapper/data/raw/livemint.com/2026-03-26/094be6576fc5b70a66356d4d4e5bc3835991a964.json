@@ -1,0 +1,65 @@
+{
+  "id": "094be6576fc5b70a66356d4d4e5bc3835991a964",
+  "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-amid-signs-of-de-escalation-in-us-iran-war-comex-gold-above-4-600-oz-silver-price-jumps-7-11774399176189.html",
+  "site": "livemint.com",
+  "title": "Gold, silver rates today: Amid signs of de-escalation in US-Iran war, COMEX gold above $4,600/oz, silver price jumps 7% | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:23.092863",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-26\\094be6576fc5b70a66356d4d4e5bc3835991a964.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-26\\094be6576fc5b70a66356d4d4e5bc3835991a964.txt",
+  "word_count": 641,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "29e01282ed6204bd6d24e7c36d4900815c00d3f7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Gold and silver prices surged due to a diplomatic resolution prospect with Iran and continued conflict, with geopolitical tensions influencing market volatility and inflation risks.",
+  "sentiment": 4,
+  "sentiment_reason": "The positive movement in gold and silver prices is attributed to the potential for peace talks and a diplomatic resolution, despite ongoing conflict and inflation risks.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.2,
+      "change_1d": -0.758,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.2,
+      "change_1d": -0.758,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

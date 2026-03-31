@@ -1,0 +1,28 @@
+{
+  "id": "3bb32f98be29caa9989aa195d31dceb1ac1071d6",
+  "url": "https://fortune.com/2026/03/19/ceo-patreon-jack-conte-influencers-content-creators-ai-openai-anthropic-copyright-fair-use-lawsuits/",
+  "site": "fortune.com",
+  "title": "The CEO of Patreon blasts AI companies for the ‘bogus excuse’ they’re using to not pay artists | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:56.196769",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-20\\3bb32f98be29caa9989aa195d31dceb1ac1071d6.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-20\\3bb32f98be29caa9989aa195d31dceb1ac1071d6.txt",
+  "word_count": 894,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "59ec2c1701fa93baac3d8c499821f1f6f3599a08",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Patreon's CEO criticizes AI companies for using creators' work without permission and for allegedly exploiting a 'fair use' loophole, while striking significant deals with major corporations.",
+  "sentiment": 1,
+  "sentiment_reason": "The article presents a strong negative sentiment due to the criticism of AI companies' practices and the perceived unfair treatment of smaller creators."
+}

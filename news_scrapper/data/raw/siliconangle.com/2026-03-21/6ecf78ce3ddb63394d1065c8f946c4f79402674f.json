@@ -1,0 +1,65 @@
+{
+  "id": "6ecf78ce3ddb63394d1065c8f946c4f79402674f",
+  "url": "https://siliconangle.com/2026/03/20/enterprise-data-transformation-faces-ai-reality-check-nvidiagtcai/",
+  "site": "siliconangle.com",
+  "title": "Enterprise data transformation faces an AI reality check - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:32.400583",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-21\\6ecf78ce3ddb63394d1065c8f946c4f79402674f.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-21\\6ecf78ce3ddb63394d1065c8f946c4f79402674f.txt",
+  "word_count": 679,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "53bb25e7dd9e8f0b77f918ea44c729056f4b08e9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Companies are focusing on enterprise data transformation for AI, with a Dell-Elastic partnership aiming to solve data retrieval and governance challenges. The collaboration emphasizes the importance of maintaining control over sensitive enterprise data for on-premises AI deployments.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses a strategic partnership and technological advancements that enable better data management and security for AI, which are positive developments for enterprise AI initiatives.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

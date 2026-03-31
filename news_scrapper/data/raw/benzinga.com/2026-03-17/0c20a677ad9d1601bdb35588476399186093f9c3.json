@@ -1,0 +1,47 @@
+{
+  "id": "0c20a677ad9d1601bdb35588476399186093f9c3",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51279153/elon-musk-says-spacex-will-far-exceed-google-deepmind-in-ai",
+  "site": "benzinga.com",
+  "title": "Musk Says SpaceX Could Surpass DeepMind In AI - Alphabet (NASDAQ:GOOG), Alphabet (NASDAQ:GOOGL)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:27.068149",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\0c20a677ad9d1601bdb35588476399186093f9c3.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\0c20a677ad9d1601bdb35588476399186093f9c3.txt",
+  "word_count": 241,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a119c881390d33e8c178a0f6bdb8f951d94aabd0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "SpaceX, led by Musk, could potentially expand its AI capabilities beyond rockets and satellites, hinting at a broader AI competition that includes tech infrastructure builders like itself, alongside traditional AI labs such as DeepMind and Alphabet's AI division.",
+  "sentiment": 2,
+  "sentiment_reason": "The statement suggests a negative sentiment due to the implication of a widening AI competition that could disrupt the current dominance of established AI research labs.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

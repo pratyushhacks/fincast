@@ -1,0 +1,65 @@
+{
+  "id": "dfce7ee675f15951f9ad83004b75c1320d5b93f9",
+  "url": "https://www.techradar.com/pro/weve-unified-apples-strongest-business-offerings-into-one-simple-secure-platform-apple-business-will-now-offer-mdm-upgraded-icloud-storage-and-more-plus-the-option-to-put-ads-in-maps",
+  "site": "techradar.com",
+  "title": "We’ve unified Apple’s strongest business offerings into one simple, secure platform': Apple Business will now offer MDM, upgraded iCloud storage and more — plus the option to put ads in Maps | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:54.369890",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\dfce7ee675f15951f9ad83004b75c1320d5b93f9.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\dfce7ee675f15951f9ad83004b75c1320d5b93f9.txt",
+  "word_count": 427,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c52a6f35803184abc95539786d63e5f2424ffbdd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple Business, launching on April 14, 2026, will combine device management, advertising, and online presence management into one platform, offering free services for businesses in the US and Canada. It includes features like managed Apple accounts, zero-touch deployment, and ad creation within Maps.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of a comprehensive platform that simplifies device management and offers new advertising capabilities is generally positive for businesses using Apple services.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.13,
+      "change_1d": 0.0949,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.29,
+      "change_1d": -1.1328,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

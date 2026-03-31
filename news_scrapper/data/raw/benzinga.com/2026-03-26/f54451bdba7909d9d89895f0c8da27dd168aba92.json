@@ -1,0 +1,67 @@
+{
+  "id": "f54451bdba7909d9d89895f0c8da27dd168aba92",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51423476/bernie-sanders-calls-on-jeff-bezos-to-testify-before-congress-slams-declaration-of-war-against-worki",
+  "site": "benzinga.com",
+  "title": "Bernie Sanders Calls On Jeff Bezos To Testify Before Congress—Slams 'Declaration Of War' Against Working Class: '…Millions Lose Their Jobs' - Amazon.com (NASDAQ:AMZN)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:28.989130",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\f54451bdba7909d9d89895f0c8da27dd168aba92.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\f54451bdba7909d9d89895f0c8da27dd168aba92.txt",
+  "word_count": 267,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "43e68c6347e399021c60ec8fe721480226d266a8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Senator Bernie Sanders has urged Jeff Bezos to testify before Congress regarding his plan to replace factory workers with robots, framing it as a 'declaration of war' against the working class. Sanders questions the impact on millions of workers and their livelihoods, as well as the benefits of this technology for working families.",
+  "sentiment": 1,
+  "sentiment_reason": "The sentiment is strongly negative due to the implications of mass unemployment and the portrayal of Bezos's actions as a direct attack on the working class.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 201.27,
+      "change_1d": -3.0211,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.23,
+      "change_1d": -1.1433,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

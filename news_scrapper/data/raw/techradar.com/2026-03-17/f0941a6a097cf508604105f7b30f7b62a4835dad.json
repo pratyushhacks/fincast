@@ -1,0 +1,66 @@
+{
+  "id": "f0941a6a097cf508604105f7b30f7b62a4835dad",
+  "url": "https://www.techradar.com/live/news/amazon-australia-big-smile-sale-2026-top-deals",
+  "site": "techradar.com",
+  "title": "Like a truffle pig for deals, I've sniffed out the top 60+ discounts in Amazon's new Big Smile Sale | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:16.253669",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\f0941a6a097cf508604105f7b30f7b62a4835dad.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\f0941a6a097cf508604105f7b30f7b62a4835dad.txt",
+  "word_count": 1966,
+  "reading_time_minutes": 9,
+  "paywalled": false,
+  "dedup_hash": "d54aaa3e03c3838ec0b151ff8c77bbeacfa53975",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon's sale event offers significant discounts on tech and household items, including a notable price drop on the Philips Series 9000 shaver. Additionally, Breville presents a deal on its Barista Express Impress coffee machine, which, despite requiring some manual effort, promises quality cafe-style coffee.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a sale event with discounts on tech and household items, which is neutral to slightly negative due to the implied need for effort in using some of the discounted items.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74
+      ],
+      "base_price": 215.2,
+      "next_price": 209.87,
+      "change_1d": -2.4768,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

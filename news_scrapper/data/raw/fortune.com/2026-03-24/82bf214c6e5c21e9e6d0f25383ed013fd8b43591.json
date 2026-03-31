@@ -1,0 +1,64 @@
+{
+  "id": "82bf214c6e5c21e9e6d0f25383ed013fd8b43591",
+  "url": "https://fortune.com/article/current-refi-mortgage-rates-03-23-2026/",
+  "site": "fortune.com",
+  "title": "Current refi mortgage rates report for March 23, 2026 | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:41.947105",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-24\\82bf214c6e5c21e9e6d0f25383ed013fd8b43591.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-24\\82bf214c6e5c21e9e6d0f25383ed013fd8b43591.txt",
+  "word_count": 1139,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "4c2b3e5ae074c1e1ee717fbaac97a3278941ef21",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The article discusses the current average refinance rate for a 30-year fixed-rate home loan and factors affecting homeowners' decisions to refinance, including market conditions and potential benefits of refinancing.",
+  "sentiment": 3,
+  "sentiment_reason": "The article provides neutral information about the current state of mortgage refinancing rates and the considerations homeowners face without expressing a strongly negative or positive outlook.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a41431366fab6b2a86cc97b3e88286c3146bad79",
+  "url": "https://www.upi.com/Top_News/World-News/2026/03/16/concerns-stagflation/5651773635320/",
+  "site": "upi.com",
+  "title": "Editorial: Oil, currency surge raises stagflation fears in South Korea - UPI.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:47.958366",
+  "language": null,
+  "html_path": "data\\raw\\upi.com\\2026-03-17\\a41431366fab6b2a86cc97b3e88286c3146bad79.html",
+  "text_path": "data\\raw\\upi.com\\2026-03-17\\a41431366fab6b2a86cc97b3e88286c3146bad79.txt",
+  "word_count": 677,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "abd3d08d683b7474c346418134806e64309f4063",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "South Korea faces stagflation fears due to sharp rises in oil prices and currency devaluation amid Middle East conflict, threatening economic growth and prompting emergency policy responses.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of rising oil prices and currency devaluation on South Korea's economy, leading to stagflation fears and potential policy interventions.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.77,
+        104.33,
+        105.86,
+        108.05,
+        118.39,
+        119.89,
+        115.03
+      ],
+      "base_price": 118.84,
+      "next_price": 121.67,
+      "change_1d": 2.3814,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

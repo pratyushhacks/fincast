@@ -1,0 +1,64 @@
+{
+  "id": "45d4313d54df0994114bc7798ada2300a97860d8",
+  "url": "https://www.livemint.com/technology/tech-news/what-is-vibe-coding-who-coined-the-word-why-are-sundar-pichai-sridhar-vembu-debating-over-it-11774155356948.html",
+  "site": "livemint.com",
+  "title": "What is Vibe Coding? Who coined the word? Why are Sundar Pichai, Sridhar Vembu debating over it? | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:07.584724",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-23\\45d4313d54df0994114bc7798ada2300a97860d8.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-23\\45d4313d54df0994114bc7798ada2300a97860d8.txt",
+  "word_count": 597,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f53b83e7b0c0a901cbf9682688806643e0dfb918",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Vibe coding, a method of software development using AI to generate code from natural language prompts, is gaining popularity among tech leaders and is seen as a way to simplify coding. However, some critics argue it oversimplifies coding.",
+  "sentiment": 3,
+  "sentiment_reason": "The sentiment is neutral as vibe coding is presented as a new trend with both positive aspects (simplification and enjoyment of coding) and a critique (oversimplification of coding), without clear indication of strong market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69,
+        307.13,
+        301.0
+      ],
+      "base_price": 302.06,
+      "next_price": 290.44,
+      "change_1d": -3.8469,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

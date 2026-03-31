@@ -1,0 +1,65 @@
+{
+  "id": "a59e58e6bc29163c76a0302f7914a09b566821b5",
+  "url": "https://www.zdnet.com/article/acer-swift-16-ai-2026-review/",
+  "site": "zdnet.com",
+  "title": "Acer's new Swift laptop proves you can have too much of a good thing | ZDNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:31.439768",
+  "language": null,
+  "html_path": "data\\raw\\zdnet.com\\2026-03-26\\a59e58e6bc29163c76a0302f7914a09b566821b5.html",
+  "text_path": "data\\raw\\zdnet.com\\2026-03-26\\a59e58e6bc29163c76a0302f7914a09b566821b5.txt",
+  "word_count": 1344,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "6783376a5b3db95db7c919b0b07614b521c42c46",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The 2026 Acer Swift 16 AI features a large haptic trackpad that doubles as a drawing surface, with a gorgeous display and a long-lasting battery. However, it has poor webcam quality and larger trackpad usability issues.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of positive features like the large haptic trackpad and long battery life, but also negative aspects such as poor webcam quality and usability issues with the larger trackpad, leading to a neutral market impact.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.48,
+      "change_1d": -1.4059,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.57,
+      "change_1d": -1.084,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

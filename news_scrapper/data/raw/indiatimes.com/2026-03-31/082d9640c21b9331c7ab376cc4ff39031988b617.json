@@ -1,0 +1,15 @@
+{
+  "id": "082d9640c21b9331c7ab376cc4ff39031988b617",
+  "url": "https://economictimes.indiatimes.com/news/economy/indicators/every-10-rise-in-crude-may-add-60-bps-to-indias-inflation-careedge-global/articleshow/129897938.cms",
+  "site": "indiatimes.com",
+  "title": "Every $10 rise in crude may add 60 bps to India's inflation: CareEdge Global - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:58.849913",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\082d9640c21b9331c7ab376cc4ff39031988b617.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\082d9640c21b9331c7ab376cc4ff39031988b617.txt",
+  "word_count": 481,
+  "paywalled": false,
+  "dedup_hash": "568650b26acf76b413bd4da2c0820967d3188859",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\""
+}

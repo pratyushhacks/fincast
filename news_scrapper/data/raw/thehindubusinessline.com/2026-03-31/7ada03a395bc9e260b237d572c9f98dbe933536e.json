@@ -1,0 +1,54 @@
+{
+  "id": "7ada03a395bc9e260b237d572c9f98dbe933536e",
+  "url": "https://www.thehindubusinessline.com/markets/gold/silver-jumps-7000-gold-rises-3700-on-wedding-season-demand/article70803184.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Silver jumps ₹7,000, gold rises ₹3,700 on wedding season demand - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:25.931911",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\7ada03a395bc9e260b237d572c9f98dbe933536e.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\7ada03a395bc9e260b237d572c9f98dbe933536e.txt",
+  "word_count": 386,
+  "paywalled": false,
+  "dedup_hash": "867483fc5173c4b7c97122c77990cd426ba5362c",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\"",
+  "summary": "Precious metal prices saw a rebound with silver and gold prices increasing due to fresh buying by jewellers and supportive global trends, despite significant monthly losses.",
+  "sentiment": 4,
+  "sentiment_reason": "The market impact is positive due to the recovery in prices driven by physical buying and global trends, despite the context of steep losses this month.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        87.49,
+        85.83,
+        86.39,
+        86.01,
+        86.84,
+        86.11,
+        85.64
+      ],
+      "base_price": 86.78,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

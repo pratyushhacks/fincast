@@ -1,0 +1,64 @@
+{
+  "id": "e42d92d3b0cf5f6147fcbe0e04218593c45b1f6a",
+  "url": "https://www.scmp.com/business/markets/article/3347593/global-investors-pivot-stability-china-amid-turmoil-milken-forum-speakers",
+  "site": "scmp.com",
+  "title": "Global investors pivot to ‘stability’ of China amid turmoil: Milken forum speakers | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:47.514606",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-24\\e42d92d3b0cf5f6147fcbe0e04218593c45b1f6a.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-24\\e42d92d3b0cf5f6147fcbe0e04218593c45b1f6a.txt",
+  "word_count": 250,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "51c53359f09b59ff04f39a917d7dcb947685ea1f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Chinese insurers reassessing US exposure due to geopolitical instability, with a revival in investor interest in China's technological advances post-Covid-19.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights positive developments such as China's stability, technological advancement, and revived investor interest, despite some concerns about geopolitical reliability.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

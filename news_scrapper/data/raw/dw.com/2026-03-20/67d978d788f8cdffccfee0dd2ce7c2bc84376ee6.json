@@ -1,0 +1,64 @@
+{
+  "id": "67d978d788f8cdffccfee0dd2ce7c2bc84376ee6",
+  "url": "https://www.dw.com/en/iran-war-helium-semiconductor-industry-chips-oil-qatar-us-evs-smartphones/a-76380869",
+  "site": "dw.com",
+  "title": "Iran war triggers helium shortage, hits semiconductor supply",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:47.343847",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-20\\67d978d788f8cdffccfee0dd2ce7c2bc84376ee6.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-20\\67d978d788f8cdffccfee0dd2ce7c2bc84376ee6.txt",
+  "word_count": 993,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "d0b3668a8a87b075274f2f4effd75ae7f5b4276c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "The war in Iran has disrupted helium supplies, crucial for semiconductor manufacturing, leading to potential shortfalls and impacts on electronics manufacturers and datacenter plans.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of the war on helium supply, which is essential for chipmakers, indicating a negative market impact due to potential production slowdowns and shortages.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "068dccc0cba5d7cabb17b8da5581207ecc4ad239",
+  "url": "https://www.pcmag.com/opinions/apples-best-smartwatch-100-off-deal-amazon-big-spring-sale-2026",
+  "site": "pcmag.com",
+  "title": "Snag Apple’s Best Smartwatch for $100 Off at Amazon Big Spring Sale | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:29.532507",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-28\\068dccc0cba5d7cabb17b8da5581207ecc4ad239.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-28\\068dccc0cba5d7cabb17b8da5581207ecc4ad239.txt",
+  "word_count": 591,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "8c83542a0c31120889f7db879463ab3f43c0db0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Amazon offers the Apple Watch Series 11 at a heavily discounted price of $299, marking the lowest price ever for the model. This deal is significant for those looking to upgrade their smartwatches, especially considering the comprehensive features of the Series 11.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive sentiment due to the significant discount on a popular product, which is appealing to consumers looking to upgrade their smartwatches.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e0e743edd380279de84e16b58acc25bb66120e9f",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-accel-hcltech-in-talks-to-invest-in-sarvams-250-mn-round-at-1-5-bn-valuation-report/articleshow/129777138.cms",
+  "site": "indiatimes.com",
+  "title": "Sarvam AI in talks to raise $250-300 million from Nvidia, Accel, HCLTech - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:40.527838",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\e0e743edd380279de84e16b58acc25bb66120e9f.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\e0e743edd380279de84e16b58acc25bb66120e9f.txt",
+  "word_count": 431,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "1f3a2da58079a3a478c1efeee5278e40f76629d0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

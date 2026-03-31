@@ -1,0 +1,68 @@
+{
+  "id": "ff914cf0dfb4bc4b22354ecefb9a775d2c24b919",
+  "url": "https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html",
+  "site": "cnbc.com",
+  "title": "Big Tech looks to carbon credits amid AI race; Microsoft leads",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:01.684558",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-17\\ff914cf0dfb4bc4b22354ecefb9a775d2c24b919.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-17\\ff914cf0dfb4bc4b22354ecefb9a775d2c24b919.txt",
+  "word_count": 1009,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "fcfb0f0444b910205580b43e969d2ff14bd5c0ab",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Big Tech increases carbon credit purchases amid AI expansion, with commitments to net-zero emissions amidst energy-intensive AI development. Microsoft leads in annual carbon credit reporting, while others face scrutiny over the genuineness of emissions reductions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to concerns over the effectiveness and transparency of carbon credit purchases amidst rapid AI growth and net-zero commitments.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        408.96,
+        409.41,
+        405.76,
+        404.88,
+        401.86,
+        395.55,
+        399.95
+      ],
+      "base_price": 399.41,
+      "next_price": 391.79,
+      "change_1d": -1.9078,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

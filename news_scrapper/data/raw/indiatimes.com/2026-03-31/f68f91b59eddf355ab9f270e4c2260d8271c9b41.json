@@ -1,0 +1,15 @@
+{
+  "id": "f68f91b59eddf355ab9f270e4c2260d8271c9b41",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-price-today-march-30-check-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-and-other-cities-amid-west-asia-crisis/articleshow/129890322.cms",
+  "site": "indiatimes.com",
+  "title": "Petrol, Diesel price today (March 30):  Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities amid West Asia crisis - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:08.903650",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\f68f91b59eddf355ab9f270e4c2260d8271c9b41.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\f68f91b59eddf355ab9f270e4c2260d8271c9b41.txt",
+  "word_count": 404,
+  "paywalled": false,
+  "dedup_hash": "e814abeb9f4fe65bbba12d04823495c68a74a0b6",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\""
+}

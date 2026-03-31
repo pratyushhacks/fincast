@@ -1,0 +1,24 @@
+{
+  "id": "7b032690ae2a769ac452486f0a88683ff4dda74d",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/huaweis-ai-chip-gains-momentum-with-bytedance-and-alibaba-orders/129845069",
+  "site": "indiatimes.com",
+  "title": "Huawei AI Chip 950PR: Huawei's AI Chip Gains Momentum with ByteDance and Alibaba Orders, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:22.511591",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\7b032690ae2a769ac452486f0a88683ff4dda74d.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\7b032690ae2a769ac452486f0a88683ff4dda74d.txt",
+  "word_count": 538,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f02b6b82629f687731a0739fc11f3cb5a0db506b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

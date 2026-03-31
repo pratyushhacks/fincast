@@ -1,0 +1,65 @@
+{
+  "id": "06fd781fd4fe3737cf500dadf6fe3efe27e6f81e",
+  "url": "https://www.newsweek.com/biotech-stocks-and-longevity-investing-trends-to-track-11712174",
+  "site": "newsweek.com",
+  "title": "Biotech Stocks and Longevity Investing: Trends To Track - Newsweek",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:32.004682",
+  "language": null,
+  "html_path": "data\\raw\\newsweek.com\\2026-03-24\\06fd781fd4fe3737cf500dadf6fe3efe27e6f81e.html",
+  "text_path": "data\\raw\\newsweek.com\\2026-03-24\\06fd781fd4fe3737cf500dadf6fe3efe27e6f81e.txt",
+  "word_count": 1567,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "87c99582bfe17664c4596b8c90107f43f1c72036",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector",
+  "summary": "Biotech stocks had a significant rebound in 2025, outperforming major indexes and driven by increased private investment, FDA approvals, and M&A activity amidst a patent cliff and an aging population. Big pharma's acquisitions of biotech companies also contributed to the sector's growth.",
+  "sentiment": 5,
+  "sentiment_reason": "The article describes a strong and positive performance in the biotech sector with multiple indicators of growth and investment, suggesting a robust and thriving market.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        149.18,
+        150.39,
+        149.03,
+        146.54,
+        146.01,
+        144.74,
+        144.77
+      ],
+      "base_price": 144.79,
+      "next_price": 146.24,
+      "change_1d": 1.0015,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

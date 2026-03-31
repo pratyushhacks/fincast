@@ -1,0 +1,30 @@
+{
+  "id": "443a4985c73ab609332cafb79364c667371af6e4",
+  "url": "https://www.businessinsider.com/tech-memo-interview-atoms-bits-eclipse-joe-fath-2026-3",
+  "site": "businessinsider.com",
+  "title": "Tech Memo Interview: Talking 'Atoms' and 'Bits' With Eclipse's Joe Fath - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:04.344016",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-21\\443a4985c73ab609332cafb79364c667371af6e4.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-21\\443a4985c73ab609332cafb79364c667371af6e4.txt",
+  "word_count": 908,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "b6b71b978d9b6e7aa63ad062bb6183a07fa7b1b0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "The article discusses the shift in the business landscape due to AI's impact on both digital and physical industries, with a focus on how AI is changing the dynamics of capital intensity and scalability in physical industries compared to digital ones.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the article highlights the benefits of AI in physical industries, such as faster, cheaper, and less capital-intensive operations leading to better returns."
+}

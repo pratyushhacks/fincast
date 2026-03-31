@@ -1,0 +1,65 @@
+{
+  "id": "bb66b53ed06323a332c967d814fd8de95fb77ba2",
+  "url": "https://fortune.com/article/current-mortgage-rates-03-23-2026/",
+  "site": "fortune.com",
+  "title": "Mortgage rates today, March 23, 2026 | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:37.909938",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-24\\bb66b53ed06323a332c967d814fd8de95fb77ba2.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-24\\bb66b53ed06323a332c967d814fd8de95fb77ba2.txt",
+  "word_count": 1232,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "434ca73346c5d39ef1e213d2887fe1b199656dcf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Mortgage rates for 30-year and 15-year loans have increased slightly, with the 30-year conventional mortgage rate going up by about 3 basis points and the 15-year conventional mortgage rate increasing by about 10 basis points.",
+  "sentiment": 2,
+  "sentiment_reason": "The increase in mortgage rates, particularly the 10 basis points increase for the 15-year mortgage, indicates negative sentiment as it suggests rising costs for borrowers and potential impact on the housing market.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

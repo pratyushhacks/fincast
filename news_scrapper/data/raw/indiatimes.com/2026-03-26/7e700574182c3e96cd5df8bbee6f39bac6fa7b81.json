@@ -1,0 +1,25 @@
+{
+  "id": "7e700574182c3e96cd5df8bbee6f39bac6fa7b81",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-likely-to-hold-rates-steady-longer-amid-inflation-and-geopolitical-risks/articleshow/129791210.cms",
+  "site": "indiatimes.com",
+  "title": "US Stock Market | Fed likely to hold rates steady longer amid inflation and geopolitical risks - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:07.041468",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\7e700574182c3e96cd5df8bbee6f39bac6fa7b81.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\7e700574182c3e96cd5df8bbee6f39bac6fa7b81.txt",
+  "word_count": 345,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "eb5d01ba16f43773c6cd0a1ca63664a6f80003a7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

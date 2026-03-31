@@ -1,0 +1,48 @@
+{
+  "id": "e92f6e866d0d7702bcf1ea2ab186ee78a8cc938d",
+  "url": "https://www.euronews.com/business/2026/03/14/how-ai-will-reshape-work-anthropic-identifies-the-most-exposed-jobs",
+  "site": "euronews.com",
+  "title": "How AI will reshape work: Anthropic identifies the most exposed jobs | Euronews",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:26:34.571627",
+  "language": null,
+  "html_path": "data\\raw\\euronews.com\\2026-03-14\\e92f6e866d0d7702bcf1ea2ab186ee78a8cc938d.html",
+  "text_path": "data\\raw\\euronews.com\\2026-03-14\\e92f6e866d0d7702bcf1ea2ab186ee78a8cc938d.txt",
+  "word_count": 705,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "df0584ca39d74dec2d75ead13a26599c7ad94992",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "Anthropic",
+  "gdelt_category": "company",
+  "summary": "Anthropic's report shows high theoretical AI capability in professions like computer, math, business, and finance, with over 90% potential. Observed AI usage is significant in these areas too, indicating a strong displacement risk. Other sectors like transportation and agriculture have lower theoretical AI coverage, suggesting less AI penetration potential.",
+  "sentiment": 2,
+  "sentiment_reason": "The report indicates a high risk of AI displacement in certain professions due to both high theoretical capability and observed AI usage, reflecting negative market impacts due to potential job displacement.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

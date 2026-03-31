@@ -1,0 +1,54 @@
+{
+  "id": "1b18db3ac4ec6fd675fd60ec553636e531045bbd",
+  "url": "https://www.thehindubusinessline.com/economy/pm-e-drive-extends-ev-incentives-for-two-wheelers-till-july-2026-e-rickshaws-gain-till-2028/article70794255.ece",
+  "site": "thehindubusinessline.com",
+  "title": "PM E-DRIVE extends EV incentives for two-wheelers till July 2026; e-rickshaws gain till 2028 - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:29.695421",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\1b18db3ac4ec6fd675fd60ec553636e531045bbd.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\1b18db3ac4ec6fd675fd60ec553636e531045bbd.txt",
+  "word_count": 651,
+  "paywalled": false,
+  "dedup_hash": "a0ab1a2ef0943d97e446591f23e8f0a12034ad6f",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles",
+  "summary": "India's electric two- and three-wheeler makers react positively to the extension of the PM E-DRIVE scheme until March 2028, despite a clear distinction in incentives between the two segments. The policy reset has led to a surge in demand and aggressive pre-buying campaigns by manufacturers.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the extension of the incentive scheme, which supports the growth of the electric three-wheeler segment and encourages manufacturers to move towards a more self-sustaining model, despite the 'registration cliff' for two-wheelers.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91,
+        29.62
+      ],
+      "base_price": 29.11,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

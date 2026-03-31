@@ -1,0 +1,59 @@
+{
+  "id": "df2f48bbc485a1a2a8caa4bbf02ce87af3dd117d",
+  "url": "https://www.livemint.com/global/oil-industry-warns-trump-administration-fuel-crunch-will-likely-worsen-11773624294087.html",
+  "site": "livemint.com",
+  "title": "Oil industry warns Trump administration fuel crunch will likely worsen | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:48.801454",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-17\\df2f48bbc485a1a2a8caa4bbf02ce87af3dd117d.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-17\\df2f48bbc485a1a2a8caa4bbf02ce87af3dd117d.txt",
+  "word_count": 89,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1b47c3f18a94134d0e5907a7bc72be69d4a65c45",
+  "scraper_version": "0.1",
+  "matched_companies": [],
+  "matched_industries": [],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "U.S. oil industry warns of fuel crunch, long-term consumer impact, and cycle of booms/busts affecting crude prices and production.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative long-term impact of high oil prices on consumers and the industry's cycle of booms and busts, indicating a negative market impact.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.77,
+        104.33,
+        105.86,
+        108.05,
+        118.39,
+        119.89,
+        115.03
+      ],
+      "base_price": 118.84,
+      "next_price": 121.67,
+      "change_1d": 2.3814,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

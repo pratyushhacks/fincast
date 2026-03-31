@@ -1,0 +1,64 @@
+{
+  "id": "5a09d95703599f7735c0cb862e492b04505cf046",
+  "url": "https://www.digitaltrends.com/phones/chrome-on-iphone-is-putting-gemini-front-and-center-in-your-browsing/",
+  "site": "digitaltrends.com",
+  "title": "Chrome on iPhone is putting Gemini front and center in your browsing - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:05.195779",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-23\\5a09d95703599f7735c0cb862e492b04505cf046.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-23\\5a09d95703599f7735c0cb862e492b04505cf046.txt",
+  "word_count": 293,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d55a843542df23cd88f38320d8355afc2650bc49",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google is integrating its AI assistant, Gemini, deeper into Chrome, making it a built-in, contextually aware tool for quick access to AI-powered features. This update is currently in experimental stages and not widely available yet.",
+  "sentiment": 4,
+  "sentiment_reason": "The integration of AI into Chrome and the development of a contextually aware assistant are seen as positive advancements for user experience and functionality.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69,
+        307.13,
+        301.0
+      ],
+      "base_price": 302.06,
+      "next_price": 290.44,
+      "change_1d": -3.8469,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

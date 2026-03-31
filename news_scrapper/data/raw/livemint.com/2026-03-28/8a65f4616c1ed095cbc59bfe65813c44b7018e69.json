@@ -1,0 +1,64 @@
+{
+  "id": "8a65f4616c1ed095cbc59bfe65813c44b7018e69",
+  "url": "https://www.livemint.com/market/stock-market-news/rupee-slips-to-record-low-of-94-15-against-us-dollar-on-israel-iran-war-worries-11774582414288.html",
+  "site": "livemint.com",
+  "title": "Fresh low! Rupee extends slide, hits 94.56 per US dollar for first time | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:12.547642",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\8a65f4616c1ed095cbc59bfe65813c44b7018e69.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\8a65f4616c1ed095cbc59bfe65813c44b7018e69.txt",
+  "word_count": 630,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "d8447443209579176d1d605b052f5da57ed7dd3b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "The Indian rupee reached a new low against the dollar due to the ongoing Middle East conflict, which has caused global oil prices to surge and increased market uncertainty. However, India has been granted temporary passage through the Strait of Hormuz by Iran, providing some relief.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of the Middle East conflict on the Indian rupee due to rising oil prices and market uncertainty, despite a slight positive note regarding India's temporary passage through the Strait of Hormuz.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.85,
+        27.58,
+        27.68,
+        27.56,
+        27.65,
+        27.7,
+        27.81
+      ],
+      "base_price": 27.84,
+      "next_price": 27.98,
+      "change_1d": 0.5029,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

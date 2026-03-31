@@ -1,0 +1,54 @@
+{
+  "id": "e905fe8baa719595c138a3ef7e9bebb476a2a3af",
+  "url": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
+  "site": "cnbc.com",
+  "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:03.925985",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\e905fe8baa719595c138a3ef7e9bebb476a2a3af.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\e905fe8baa719595c138a3ef7e9bebb476a2a3af.txt",
+  "word_count": 300,
+  "paywalled": false,
+  "dedup_hash": "f869be3e62d779b25f339d77eb82445696861f60",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Federal Reserve Governor Stephen Miran advocates for lower interest rates, despite the current energy price spike and inflation concerns. His dissenting views contrast with the Fed's current stance, as he believes rates could be reduced gradually over a year. Meanwhile, the nomination of former Fed Governor Kevin Warsh faces delays in the Senate Banking Committee, potentially impacting future monetary policy direction.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to concerns over inflation and the potential for a rate cut, which could be interpreted as a response to economic pressures, despite the Fed's current rate hike stance.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

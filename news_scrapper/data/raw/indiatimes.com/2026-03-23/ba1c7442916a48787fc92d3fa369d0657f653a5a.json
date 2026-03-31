@@ -1,0 +1,24 @@
+{
+  "id": "ba1c7442916a48787fc92d3fa369d0657f653a5a",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/kerala-samrudhi-sm-47-lottery-result-out-today-22-03-2026-check-1-crore-prize-winner-and-complete-list-here/articleshow/129729848.cms",
+  "site": "indiatimes.com",
+  "title": "Kerala Samrudhi SM-47  lottery result out today, 22-03-2026; Check ₹1 crore prize winner and complete list here - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:08.364375",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\ba1c7442916a48787fc92d3fa369d0657f653a5a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\ba1c7442916a48787fc92d3fa369d0657f653a5a.txt",
+  "word_count": 656,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "a37e7c462336d78a4f992426dea6baeb21025169",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

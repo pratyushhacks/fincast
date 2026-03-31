@@ -1,0 +1,66 @@
+{
+  "id": "4e7e2da5d8c997b9d597af0fa331aea89f6371b1",
+  "url": "https://www.livemint.com/ai/artificial-intelligence/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-meta-ceo-11774222692882.html",
+  "site": "livemint.com",
+  "title": "Mark Zuckerberg is building an AI agent to help him be Meta CEO | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:06.624645",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-24\\4e7e2da5d8c997b9d597af0fa331aea89f6371b1.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-24\\4e7e2da5d8c997b9d597af0fa331aea89f6371b1.txt",
+  "word_count": 859,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "b0a74144364be38a0cdf6d7a73869ce60c3918b8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta Platforms' CEO, Mark Zuckerberg, is developing a personal AI agent to assist with his job and accelerate work processes within the company, which is also integrating AI tools into its operations and employees' performance reviews.",
+  "sentiment": 4,
+  "sentiment_reason": "The development of a personal AI agent and the integration of AI tools across the company are indicative of a positive move towards innovation and efficiency, which is generally seen as beneficial for the company's competitve edge.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        613.18,
+        627.45,
+        622.66,
+        615.68,
+        606.7,
+        593.66,
+        604.06
+      ],
+      "base_price": 592.92,
+      "next_price": 594.89,
+      "change_1d": 0.3323,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

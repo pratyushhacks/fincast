@@ -1,0 +1,15 @@
+{
+  "id": "cc6cf1014b2d36c7fc4014731a2e59c91b559d7e",
+  "url": "https://economictimes.indiatimes.com/news/international/us/jpmorgan-chase-pushes-ai-use-for-engineers-links-performance-ratings-to-productivity/articleshow/129910026.cms",
+  "site": "indiatimes.com",
+  "title": "JPMorgan Chase AI: JPMorgan Chase pushes AI use for engineers, links performance ratings to productivity - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:50.168728",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\cc6cf1014b2d36c7fc4014731a2e59c91b559d7e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\cc6cf1014b2d36c7fc4014731a2e59c91b559d7e.txt",
+  "word_count": 378,
+  "paywalled": false,
+  "dedup_hash": "279e449ad667650315a0f3aaaa6dba026cc0d2e5",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\""
+}

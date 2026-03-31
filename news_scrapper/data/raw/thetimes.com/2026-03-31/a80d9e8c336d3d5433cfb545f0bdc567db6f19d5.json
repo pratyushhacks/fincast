@@ -1,0 +1,15 @@
+{
+  "id": "a80d9e8c336d3d5433cfb545f0bdc567db6f19d5",
+  "url": "https://www.thetimes.com/uk/social-media/article/social-media-addiction-trial-lawsuit-meta-google-qgqpxx0gk",
+  "site": "thetimes.com",
+  "title": "Classroom brawls and self-harm: why schools are suing social media",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:33.001328",
+  "html_path": "data\\raw\\thetimes.com\\2026-03-31\\a80d9e8c336d3d5433cfb545f0bdc567db6f19d5.html",
+  "text_path": "data\\raw\\thetimes.com\\2026-03-31\\a80d9e8c336d3d5433cfb545f0bdc567db6f19d5.txt",
+  "word_count": 1463,
+  "paywalled": false,
+  "dedup_hash": "0f5c9806706064c0c6e4579719dee897ec26c513",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

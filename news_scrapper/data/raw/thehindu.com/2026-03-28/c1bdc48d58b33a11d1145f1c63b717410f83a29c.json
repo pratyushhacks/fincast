@@ -1,0 +1,64 @@
+{
+  "id": "c1bdc48d58b33a11d1145f1c63b717410f83a29c",
+  "url": "https://www.thehindu.com/sci-tech/technology/apple-plans-to-open-siri-to-rival-ai-services-report/article70791053.ece",
+  "site": "thehindu.com",
+  "title": "Apple plans to open Siri to rival AI services: Report - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:29.050057",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-28\\c1bdc48d58b33a11d1145f1c63b717410f83a29c.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-28\\c1bdc48d58b33a11d1145f1c63b717410f83a29c.txt",
+  "word_count": 232,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4d7c90901c68d9e818ba9125f64410dd9b81d1ea",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple plans to integrate its Siri voice assistant with third-party AI services, marking a significant shift in its AI strategy and potentially generating more revenue. This move is expected as part of Apple’s iOS 27 update.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive development as it shows Apple's strategic move to expand its AI capabilities and revenue streams by integrating with third-party AI services.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "091af8464d0b10ec126290e5e35874eea0b4b973",
+  "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-unveils-new-chip-design-meet-surging-demand-ai",
+  "site": "businesstimes.com.sg",
+  "title": "Alibaba unveils new chip design to meet surging demand for AI - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:29.952484",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\091af8464d0b10ec126290e5e35874eea0b4b973.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\091af8464d0b10ec126290e5e35874eea0b4b973.txt",
+  "word_count": 314,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "5a7bcc22e7ca39c7080f13e7213e064749a1b49e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Alibaba launches a new RISC-V based CPU for AI computing amidst geopolitical tensions, competing with Nvidia and Huawei, and expanding its AI technology offerings.",
+  "sentiment": 4,
+  "sentiment_reason": "The launch of a new AI chip and the company's strategic positioning in the AI market amidst geopolitical tensions indicate a positive development for Alibaba and its competitors.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.31,
+      "change_1d": -1.7914,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.08,
+      "change_1d": -1.1694,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

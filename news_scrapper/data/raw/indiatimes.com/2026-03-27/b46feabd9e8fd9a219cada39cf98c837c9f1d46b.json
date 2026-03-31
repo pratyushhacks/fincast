@@ -1,0 +1,26 @@
+{
+  "id": "b46feabd9e8fd9a219cada39cf98c837c9f1d46b",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms",
+  "site": "indiatimes.com",
+  "title": "US stocks: Apple plans to open Siri to rival AI services, Bloomberg News reports - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:31.749919",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\b46feabd9e8fd9a219cada39cf98c837c9f1d46b.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\b46feabd9e8fd9a219cada39cf98c837c9f1d46b.txt",
+  "word_count": 216,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "255501b883c281b009d57bf2feffeef61fc1f0f8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company"
+}

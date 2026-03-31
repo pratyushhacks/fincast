@@ -1,0 +1,65 @@
+{
+  "id": "70ac471b9cb139e044536909c2223953c1ebbab4",
+  "url": "https://www.theregister.com/2026/03/18/darksword_exploit_kit_steals_iphone/",
+  "site": "theregister.com",
+  "title": "Snoops plant info-stealing malware on iPhones, Google warns • The Register",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:39.665210",
+  "language": null,
+  "html_path": "data\\raw\\theregister.com\\2026-03-19\\70ac471b9cb139e044536909c2223953c1ebbab4.html",
+  "text_path": "data\\raw\\theregister.com\\2026-03-19\\70ac471b9cb139e044536909c2223953c1ebbab4.txt",
+  "word_count": 810,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "4c28afeeb19585bc539df18af7914baf8e79ddfa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "A sophisticated exploit kit named DarkSword is being used to target iPhone users, stealing sensitive data through multiple backdoors. This exploit, which has been active since at least November 2025, has been utilized by various groups, including suspected nation-state actors.",
+  "sentiment": 2,
+  "sentiment_reason": "The discovery of DarkSword and its use for malicious activities such as spying and data theft indicates a negative impact on the market, particularly concerning cybersecurity and consumer trust in technology.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        46.78,
+        47.98,
+        45.25,
+        45.77,
+        45.76,
+        44.06,
+        45.03
+      ],
+      "base_price": 46.18,
+      "next_price": 43.87,
+      "change_1d": -5.0022,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

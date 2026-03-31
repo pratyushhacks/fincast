@@ -1,0 +1,25 @@
+{
+  "id": "8b799baadc86bf2b53cc5df7880b6410625b53d9",
+  "url": "https://economictimes.indiatimes.com/markets/bonds/bonds-log-biggest-selloff-in-2-1/2-years-on-higher-oil-us-yields/articleshow/129751707.cms",
+  "site": "indiatimes.com",
+  "title": "Bonds log biggest selloff in 2-1/2 years on higher oil, US yields - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:42.269190",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\8b799baadc86bf2b53cc5df7880b6410625b53d9.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\8b799baadc86bf2b53cc5df7880b6410625b53d9.txt",
+  "word_count": 328,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fd8b2592ffb0883de9c0ed50e279c0a10df6ce8b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "87474a57a1487cab09b0d111ff4822add2767dc3",
+  "url": "https://economictimes.indiatimes.com/tech/technology/indonesias-social-media-curbs-for-under-16s-take-set-to-start-few-know-how-they-work/articleshow/129857523.cms",
+  "site": "indiatimes.com",
+  "title": "Indonesia's social media curbs for under 16s take set to start, few know how they work - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:35.482668",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\87474a57a1487cab09b0d111ff4822add2767dc3.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\87474a57a1487cab09b0d111ff4822add2767dc3.txt",
+  "word_count": 764,
+  "paywalled": false,
+  "dedup_hash": "ef67d972dca8f92c4ad59878d8ab3e16e6d1ce06",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

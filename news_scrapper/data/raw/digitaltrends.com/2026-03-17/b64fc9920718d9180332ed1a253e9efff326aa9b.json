@@ -1,0 +1,63 @@
+{
+  "id": "b64fc9920718d9180332ed1a253e9efff326aa9b",
+  "url": "https://www.digitaltrends.com/computing/your-browser-is-now-a-cyberpunk-os-with-native-bluesky-hooks/",
+  "site": "digitaltrends.com",
+  "title": "Your browser is now a cyberpunk OS with native Bluesky hooks - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:34.908509",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-17\\b64fc9920718d9180332ed1a253e9efff326aa9b.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-17\\b64fc9920718d9180332ed1a253e9efff326aa9b.txt",
+  "word_count": 470,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "17697cdcbe0fea411076add9682786e154299048",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Aether OS, a browser-based OS with a cyberpunk aesthetic, integrates a desktop environment and 42 apps within a browser tab, utilizing Bluesky’s AT Protocol. It represents a shift towards decentralized protocols and protocol-first design, appealing to tech enthusiasts and part of the Bluesky community.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a new tech development with potential long-term implications for decentralized computing and application architecture, but currently, it is in alpha stage with limited functionality and user support.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.17,
+        113.67,
+        112.36,
+        113.35,
+        111.72,
+        111.65,
+        112.56
+      ],
+      "base_price": 113.49,
+      "next_price": 113.26,
+      "change_1d": -0.2027,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

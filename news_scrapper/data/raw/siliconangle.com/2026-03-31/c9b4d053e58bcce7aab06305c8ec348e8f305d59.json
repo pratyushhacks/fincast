@@ -1,0 +1,54 @@
+{
+  "id": "c9b4d053e58bcce7aab06305c8ec348e8f305d59",
+  "url": "https://siliconangle.com/2026/03/30/llm-developer-mistral-ai-raises-830m-debt-financing-add-data-center-capacity/",
+  "site": "siliconangle.com",
+  "title": "LLM developer Mistral AI raises $830M in debt financing to add data center capacity - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:28.601174",
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-31\\c9b4d053e58bcce7aab06305c8ec348e8f305d59.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-31\\c9b4d053e58bcce7aab06305c8ec348e8f305d59.txt",
+  "word_count": 645,
+  "paywalled": false,
+  "dedup_hash": "7abb612192148266822567fed5ff4918ece7b900",
+  "scraper_version": "0.1",
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "summary": "Mistral AI secured $830 million in debt financing for a new data center in France, equipped with Nvidia chips to run AI models, amidst its various open-source AI services and infrastructure offerings.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights a significant investment in AI infrastructure and expansion, indicating a positive market impact due to potential growth in AI services and capabilities.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24,
+        167.52
+      ],
+      "base_price": 165.17,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

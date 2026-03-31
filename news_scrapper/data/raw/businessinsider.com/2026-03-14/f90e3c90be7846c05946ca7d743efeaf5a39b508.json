@@ -1,0 +1,64 @@
+{
+  "id": "f90e3c90be7846c05946ca7d743efeaf5a39b508",
+  "url": "https://www.businessinsider.com/what-i-learned-meditating-zen-monk-works-with-top-companies-2026-3",
+  "site": "businessinsider.com",
+  "title": "What I Learned Meditating With a Zen Monk Who Works With Top Companies - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:03:36.938378",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-14\\f90e3c90be7846c05946ca7d743efeaf5a39b508.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-14\\f90e3c90be7846c05946ca7d743efeaf5a39b508.txt",
+  "word_count": 1165,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "9a4821e68119a32a7e8518d3585cdbd6993ffbe4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Business reporter attends meditation class with Zen monk for corporate wellness, realizes meditation is simpler than thought, contrasts monk's stillness with attendees' fidgeting and phone use.",
+  "sentiment": 2,
+  "sentiment_reason": "The article reflects negative sentiment due to the contrast between the calm, focused state of the Zen monk and the restless, distracted behavior of the attendees, highlighting the difficulty in achieving true meditation.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

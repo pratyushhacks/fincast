@@ -1,0 +1,67 @@
+{
+  "id": "76d7c312b735450cc9b7def79613bf1d36c972a5",
+  "url": "https://www.techradar.com/pro/security/tiktok-for-business-accounts-targeted-in-phishing-campaign-heres-how-to-stay-safe",
+  "site": "techradar.com",
+  "title": "TikTok for Business accounts targeted in phishing campaign — here's how to stay safe | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:46.533616",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\76d7c312b735450cc9b7def79613bf1d36c972a5.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\76d7c312b735450cc9b7def79613bf1d36c972a5.txt",
+  "word_count": 686,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "9a1284ebdcdf12f8e56c71143c6e60b8fddcf70e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Hackers target TikTok Business accounts with sophisticated phishing campaigns, using Google Storage links and AITM kits to steal credentials and conduct fraudulent activities. Compromised accounts are exploited for ad campaigns and infostealer distribution.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a serious security breach involving phishing and fraudulent activities, indicating a strong negative market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

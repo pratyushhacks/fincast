@@ -1,0 +1,64 @@
+{
+  "id": "43f5b540ee480bd36cdc97aa45fc2ec2b6ec5f91",
+  "url": "https://www.thehindubusinessline.com/economy/governments-globally-likely-to-tap-private-wealth-to-manage-rising-debt-levels-ubs-report/article70774897.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Governments globally likely to tap private wealth to manage rising debt levels: UBS Report - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:32.873112",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\43f5b540ee480bd36cdc97aa45fc2ec2b6ec5f91.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\43f5b540ee480bd36cdc97aa45fc2ec2b6ec5f91.txt",
+  "word_count": 328,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0e701d8c84c199d3a046f1c180352a9daa0e9fd2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Governments are likely to use indirect measures to manage debt, such as financial repression and selective taxation, rather than direct wealth taxes, due to the challenges and economic distortions associated with wealth taxes.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral market impact as it discusses government strategies for debt management without indicating immediate negative or positive market consequences.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "d2b2e4491249891826952ac2b7c3d2fada6fcd5e",
+  "url": "https://www.livemint.com/market/stock-market-news/sensex-today-stock-market-today-nifty-gold-rate-today-silver-rate-today-us-iran-war-crude-oil-prices-trump-30-march-2026-11774835572512.html",
+  "site": "livemint.com",
+  "title": "Sensex Crash on March 30 Highlights:  ₹9 lk cr eroded, Sensex tanks 1635 pts, Nifty down 2%; rupee crosses 95/$ mark | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:51.373812",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\d2b2e4491249891826952ac2b7c3d2fada6fcd5e.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\d2b2e4491249891826952ac2b7c3d2fada6fcd5e.txt",
+  "word_count": 492,
+  "paywalled": false,
+  "dedup_hash": "e3eb701da2f3584bd97f806e9747fe7c54272f16",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "The Indian stock market and currency suffered due to the US-Iran war, with the rupee hitting a record low and major indices like Sensex and Nifty plummeting. Asian markets also declined amidst rising oil prices and geopolitical tensions.",
+  "sentiment": 1,
+  "sentiment_reason": "The market impact is strongly negative due to the ongoing US-Iran war, surging oil prices, currency devaluation, and significant losses in stock market indices.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

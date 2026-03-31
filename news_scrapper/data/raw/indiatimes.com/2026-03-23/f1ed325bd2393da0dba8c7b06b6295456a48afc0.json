@@ -1,0 +1,25 @@
+{
+  "id": "f1ed325bd2393da0dba8c7b06b6295456a48afc0",
+  "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ethanol-industry-ready-to-supply-more-than-20-pc-blending-can-cut-crude-import-bill-aida/articleshow/129737705.cms",
+  "site": "indiatimes.com",
+  "title": "Ethanol industry ready to supply more than 20 pc blending, can cut crude import bill: AIDA - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:14.287673",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\f1ed325bd2393da0dba8c7b06b6295456a48afc0.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\f1ed325bd2393da0dba8c7b06b6295456a48afc0.txt",
+  "word_count": 302,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "9799b8cb783f010beca7bfd85d33805deabae84a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

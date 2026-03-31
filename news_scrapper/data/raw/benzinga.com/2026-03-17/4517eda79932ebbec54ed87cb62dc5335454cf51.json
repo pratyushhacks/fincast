@@ -1,0 +1,66 @@
+{
+  "id": "4517eda79932ebbec54ed87cb62dc5335454cf51",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51263679/gary-black-thinks-tesla-sales-should-be-surging-amid-us-iran-war-rising-oil-prices-but-says-unfortunately-there-is-no",
+  "site": "benzinga.com",
+  "title": "Gary Black Thinks Tesla Sales Should Be Surging Amid US-Iran War, Rising Oil Prices— But Says 'Unfortunately, There Is No…' - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:11.552984",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\4517eda79932ebbec54ed87cb62dc5335454cf51.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\4517eda79932ebbec54ed87cb62dc5335454cf51.txt",
+  "word_count": 305,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ed5585a5c7524668405cf293019fd0d6bb70a0cf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Gary Black questions Tesla's lack of sales amid high oil prices and the US-Iran war, criticizing the lack of advertising and education on EV benefits. Despite potential sales growth due to rising gas prices, Tesla's stock could suffer from inflation impacts. Meanwhile, Tesla sees a 10% growth in European sales but flat YTD sales.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to concerns over Tesla's sales performance and stock valuation amidst geopolitical tensions and inflation.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56
+      ],
+      "base_price": 399.27,
+      "next_price": 392.78,
+      "change_1d": -1.6255,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

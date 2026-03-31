@@ -1,0 +1,63 @@
+{
+  "id": "3bd2939813df9ef1e436b4fa03d597c8472d3bdf",
+  "url": "https://www.theverge.com/tech/899948/intels-long-awaited-big-gpu-is-just-for-ai-and-starts-at-nearly-1000",
+  "site": "theverge.com",
+  "title": "Intel’s long-awaited big GPU is just for AI and starts at nearly $1,000. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:25.627068",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-26\\3bd2939813df9ef1e436b4fa03d597c8472d3bdf.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-26\\3bd2939813df9ef1e436b4fa03d597c8472d3bdf.txt",
+  "word_count": 120,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cb5c394b510ce8f9d6369d6a37a297e3eb6b2501",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Intel is launching its new Arc Pro B70 desktop GPU, a high-end AI-focused card with 32GB of VRAM and 32 Xe2 cores, priced at nearly $1,000. There are also gaming-focused versions and a lower-end B65 Pro model.",
+  "sentiment": 3,
+  "sentiment_reason": "The announcement is routine news about a new product release with no clear immediate market impact.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.42,
+      "change_1d": -1.542,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.37,
+      "change_1d": -1.1189,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

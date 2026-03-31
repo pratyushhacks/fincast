@@ -1,0 +1,65 @@
+{
+  "id": "61d4580648d9b5acab14cbaa2bb91c2c5aa89919",
+  "url": "https://www.straitstimes.com/business/companies-markets/apple-gives-iphone-designers-rare-bonuses-to-fight-openai-poaching",
+  "site": "straitstimes.com",
+  "title": "Apple gives iPhone designers rare bonuses to fight OpenAI poaching | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:31.164763",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-27\\61d4580648d9b5acab14cbaa2bb91c2c5aa89919.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-27\\61d4580648d9b5acab14cbaa2bb91c2c5aa89919.txt",
+  "word_count": 570,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ca77038aa21629a78a46843a449308c2b6aed92b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple is offering substantial bonuses to its iPhone hardware designers to retain talent amidst growing competition from AI start-ups like OpenAI, which are also poaching Apple engineers.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the context of Apple's struggle to retain engineers and the implication of a talent war with competitors offering higher compensation.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

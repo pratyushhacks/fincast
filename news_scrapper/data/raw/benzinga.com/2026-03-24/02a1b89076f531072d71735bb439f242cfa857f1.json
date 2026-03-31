@@ -1,0 +1,65 @@
+{
+  "id": "02a1b89076f531072d71735bb439f242cfa857f1",
+  "url": "https://www.benzinga.com/markets/private-markets/26/03/51415126/blackstones-private-credit-fund-sees-its-first-loss-in-three-years",
+  "site": "benzinga.com",
+  "title": "Blackstone's Private Credit Fund Sees Its First Loss In Three Years - BlackRock (NYSE:BLK), Blackstone (NYSE:BX)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:33.946142",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\02a1b89076f531072d71735bb439f242cfa857f1.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\02a1b89076f531072d71735bb439f242cfa857f1.txt",
+  "word_count": 249,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "88c6378251fe3253f71ea64c72ef0af85c8a4a6d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The Morningstar LSTA index fell by 0.8% due to liquidity pressures in the leveraged loan sector, while Blackstone's fund faced high redemptions and a 30% stock decline year-to-date. BCRED outperformed the market by 100 basis points but faced loan markdowns and market ripples affecting lending.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates negative market impacts such as liquidity pressures, high redemptions, and significant stock declines, alongside concerns over market ripples affecting lending.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

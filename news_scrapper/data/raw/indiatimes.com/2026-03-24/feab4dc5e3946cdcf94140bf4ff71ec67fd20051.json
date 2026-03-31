@@ -1,0 +1,26 @@
+{
+  "id": "feab4dc5e3946cdcf94140bf4ff71ec67fd20051",
+  "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/delhi-adds-1288-hospital-beds-over-5-lakh-emergency-calls-handled-in-2025-economic-survey/articleshow/129753084.cms",
+  "site": "indiatimes.com",
+  "title": "Delhi adds 1,288 hospital beds; over 5 lakh emergency calls handled in 2025: Economic Survey - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:33.106646",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\feab4dc5e3946cdcf94140bf4ff71ec67fd20051.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\feab4dc5e3946cdcf94140bf4ff71ec67fd20051.txt",
+  "word_count": 841,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "c6b1a7321b70d2642fd46ba56cc960f3a5acaf55",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

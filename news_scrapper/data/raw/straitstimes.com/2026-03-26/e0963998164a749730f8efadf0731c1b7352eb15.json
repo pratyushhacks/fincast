@@ -1,0 +1,64 @@
+{
+  "id": "e0963998164a749730f8efadf0731c1b7352eb15",
+  "url": "https://www.straitstimes.com/opinion/how-the-uae-withstood-the-gulf-wars-heaviest-attacks",
+  "site": "straitstimes.com",
+  "title": "How the UAE withstood the Gulf war’s heaviest attacks | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:25.838547",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-26\\e0963998164a749730f8efadf0731c1b7352eb15.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-26\\e0963998164a749730f8efadf0731c1b7352eb15.txt",
+  "word_count": 1481,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "81dcf00ab6dd8baada259be6ac2cc941bd6c76b2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "The UAE effectively countered missile and drone attacks with a multi-layered air defense system, intercepting over 90% of ballistic missiles and cruise missiles, despite facing intense and repeated strikes. Businesses and government services continued with minimal disruption.",
+  "sentiment": 4,
+  "sentiment_reason": "The UAE's robust defense and operational continuity in the face of significant attacks reflect a strong market-positive response, showcasing resilience and stability.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 634.09,
+      "change_1d": -1.7052,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 634.09,
+      "change_1d": -1.7052,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

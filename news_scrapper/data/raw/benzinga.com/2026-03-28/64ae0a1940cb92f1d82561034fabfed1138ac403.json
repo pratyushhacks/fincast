@@ -1,0 +1,63 @@
+{
+  "id": "64ae0a1940cb92f1d82561034fabfed1138ac403",
+  "url": "https://www.benzinga.com/news/26/03/51507082/this-honeywell-analyst-begins-coverage-on-a-bullish-note-here-are-top-5-initiations-for-friday",
+  "site": "benzinga.com",
+  "title": "This Honeywell Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday - HeartBeam (NASDAQ:BEAT), Bioage Labs (NASDAQ:BIOA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:48.035217",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-28\\64ae0a1940cb92f1d82561034fabfed1138ac403.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-28\\64ae0a1940cb92f1d82561034fabfed1138ac403.txt",
+  "word_count": 78,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c209fefda445cef34062d93d77671d7392194c48",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google"
+  ],
+  "matched_industries": [
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Top Wall Street analysts updated their ratings on major companies. No specific company performance or market events were mentioned.",
+  "sentiment": 3,
+  "sentiment_reason": "The statement is neutral as it only mentions analysts changing their outlook without indicating any specific market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

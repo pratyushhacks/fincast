@@ -1,0 +1,24 @@
+{
+  "id": "417ece094a132803f3cf8325798b97fe4212577e",
+  "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/israel-gcc-trade-pact-talks-lose-steam-uk-fta-likely-to-be-implemented-by-may/articleshow/129686871.cms",
+  "site": "indiatimes.com",
+  "title": "Israel, GCC trade pact talks lose steam, UK FTA likely to be implemented by May - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:52.844684",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\417ece094a132803f3cf8325798b97fe4212577e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\417ece094a132803f3cf8325798b97fe4212577e.txt",
+  "word_count": 104,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7f89f309cfd938f16f4dca3b1da8ec1e9e9ea1c0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "30fb4011fdfb2cdd8b22220a07b21cd2fcf9eecc",
+  "url": "https://www.businessinsider.com/blackrock-larry-fink-letter-ai-worsen-wealth-inequality-2026-3",
+  "site": "businessinsider.com",
+  "title": "BlackRock's Larry Fink Writes That AI Could Worsen Wealth Inequality - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:04.173886",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-24\\30fb4011fdfb2cdd8b22220a07b21cd2fcf9eecc.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-24\\30fb4011fdfb2cdd8b22220a07b21cd2fcf9eecc.txt",
+  "word_count": 379,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "9e1cfe86d3333449874ddb81f0a3878e1459842c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Larry Fink, CEO of BlackRock, advocates for more people to invest in capital markets for long-term financial security, while also addressing the risks of growing wealth inequality exacerbated by AI. He suggests solutions like tokenizing investment opportunities and structural changes to Social Security to mitigate inequality.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a balanced view with both positive aspects of investing in capital markets and concerns about wealth inequality and AI, making it neutral in terms of market impact.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0
+      ],
+      "base_price": 372.74,
+      "next_price": 371.04,
+      "change_1d": -0.4561,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

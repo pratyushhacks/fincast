@@ -1,0 +1,64 @@
+{
+  "id": "14f3bfd54ec489fa095761405cfda640918cb7ef",
+  "url": "https://www.cnbc.com/2026/03/19/goldman-sees-risks-of-market-correction-rising-and-bonds-wont-help-weather-it.html",
+  "site": "cnbc.com",
+  "title": "Goldman sees risks of market correction rising — and bonds won't help weather it",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:35.831004",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-20\\14f3bfd54ec489fa095761405cfda640918cb7ef.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-20\\14f3bfd54ec489fa095761405cfda640918cb7ef.txt",
+  "word_count": 372,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c2254a17c92f3e57a16cef5216de6cebe1a87f3a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Goldman Sachs warns of a possible stock correction due to geopolitical shocks, oil price spikes, and AI disruptions, suggesting a limited buffer from bonds. The firm advises investors to consider mitigating risks by adjusting their portfolios.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market factors such as geopolitical shocks, oil price spikes, and AI disruptions, along with the potential for a stock correction and limited buffer from bonds, indicating a negative market impact.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        36.3,
+        35.59,
+        34.83,
+        35.39,
+        35.38,
+        34.85,
+        34.88
+      ],
+      "base_price": 33.6,
+      "next_price": 34.24,
+      "change_1d": 1.9048,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

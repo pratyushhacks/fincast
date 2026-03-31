@@ -1,0 +1,65 @@
+{
+  "id": "39703f7da170777eb01c2e7a088445f67dec9d60",
+  "url": "https://www.pymnts.com/amazon/2026/microsoft-considers-suing-to-halt-amazon-openai-cloud-deal/",
+  "site": "pymnts.com",
+  "title": "Microsoft Considers Suing to Halt Amazon-OpenAI Cloud Deal",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:26.250895",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-19\\39703f7da170777eb01c2e7a088445f67dec9d60.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-19\\39703f7da170777eb01c2e7a088445f67dec9d60.txt",
+  "word_count": 443,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "b52e73a6ca787db1d32544618401f304f37d6f12",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Microsoft threatens to sue Amazon and OpenAI over a cloud deal that could breach an existing agreement requiring OpenAI's models to run through Microsoft's Azure cloud platform. OpenAI and Amazon claim they are finding a workaround, while Microsoft insists on the importance of the contract.",
+  "sentiment": 2,
+  "sentiment_reason": "The threat of litigation and the ongoing dispute over the contractual obligations between Microsoft, Amazon, and OpenAI are causing negative sentiment due to potential disruptions in the cloud services market and the uncertainty surrounding the companies' future actions.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87
+      ],
+      "base_price": 208.76,
+      "next_price": 205.37,
+      "change_1d": -1.6239,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "6ef0c498207a54d5c085d205a516317d6d89bd07",
+  "url": "https://siliconangle.com/2026/03/23/ai-inference-gains-10x-boost-kv-cache-offloading-nvidiagtcai/",
+  "site": "siliconangle.com",
+  "title": "AI inference gains 10x boost from KV cache offloading - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:53.571683",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-24\\6ef0c498207a54d5c085d205a516317d6d89bd07.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-24\\6ef0c498207a54d5c085d205a516317d6d89bd07.txt",
+  "word_count": 651,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "0e0a8586691588f1b946268f05fafed3a0749034",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Vast Data Inc. collaborates with Nvidia Corp. to optimize AI inference through intelligent storage tiering, improving GPU efficiency and addressing security concerns for enterprise AI deployment.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses a positive development in AI technology that enhances GPU performance and provides a solution to security issues, facilitating enterprise AI deployment.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

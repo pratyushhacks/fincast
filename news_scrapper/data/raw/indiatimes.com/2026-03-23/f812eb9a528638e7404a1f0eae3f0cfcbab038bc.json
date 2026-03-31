@@ -1,0 +1,25 @@
+{
+  "id": "f812eb9a528638e7404a1f0eae3f0cfcbab038bc",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-slip-oil-choppy-as-gulf-war-escalates/articleshow/129740978.cms",
+  "site": "indiatimes.com",
+  "title": "Global Market Today | Asia shares slip, oil choppy as Gulf war escalates - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:25.762456",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\f812eb9a528638e7404a1f0eae3f0cfcbab038bc.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\f812eb9a528638e7404a1f0eae3f0cfcbab038bc.txt",
+  "word_count": 607,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "ca3c3f3bf50f3a8ad382a0449162443a04aeec73",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

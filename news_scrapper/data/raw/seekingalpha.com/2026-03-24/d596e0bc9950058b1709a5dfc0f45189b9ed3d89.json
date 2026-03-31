@@ -1,0 +1,64 @@
+{
+  "id": "d596e0bc9950058b1709a5dfc0f45189b9ed3d89",
+  "url": "https://seekingalpha.com/article/4885101-trumps-delayed-ultimatum-to-iran-a-trap-for-dip-buyers",
+  "site": "seekingalpha.com",
+  "title": "Trumpâs Delayed Ultimatum To Iran: A Trap For Dip Buyers (SP500) | Seeking Alpha",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:33.622801",
+  "language": null,
+  "html_path": "data\\raw\\seekingalpha.com\\2026-03-24\\d596e0bc9950058b1709a5dfc0f45189b9ed3d89.html",
+  "text_path": "data\\raw\\seekingalpha.com\\2026-03-24\\d596e0bc9950058b1709a5dfc0f45189b9ed3d89.txt",
+  "word_count": 458,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "12d26107adb182196950a3728ff0e7cbc305304c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The article discusses the investment strategy of a contrarian investor who focuses on stocks that have recently sold off due to non-recurring events, with a particular interest in insider buying. The investor uses fundamental and technical analysis to evaluate potential investments and prefers stocks with a 3-24 month holding period.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the investor describes a strategy that involves identifying undervalued stocks through insider purchases and using technical and fundamental analysis to optimize investment decisions.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27
+      ],
+      "base_price": 49.28,
+      "next_price": 49.34,
+      "change_1d": 0.1218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

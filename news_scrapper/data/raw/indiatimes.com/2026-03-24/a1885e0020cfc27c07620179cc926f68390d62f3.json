@@ -1,0 +1,25 @@
+{
+  "id": "a1885e0020cfc27c07620179cc926f68390d62f3",
+  "url": "https://economictimes.indiatimes.com/news/india/pm-modi-expected-to-visit-russia-this-year-says-russian-foreign-minister-sergey-lavrov/articleshow/129761816.cms",
+  "site": "indiatimes.com",
+  "title": "PM Modi expected to visit Russia this year, says Russian foreign minister Sergey Lavrov - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:17.960108",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\a1885e0020cfc27c07620179cc926f68390d62f3.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\a1885e0020cfc27c07620179cc926f68390d62f3.txt",
+  "word_count": 212,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1cfee01c8947187ae22240e84df711cb59109d63",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

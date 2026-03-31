@@ -1,0 +1,54 @@
+{
+  "id": "3b7d80b162b57bf6d0729ee15a3d99943288ce51",
+  "url": "https://www.benzinga.com/news/entertainment/26/03/51527741/elon-musk-owns-the-ultimate-james-bond-memorabilia-the-crazy-story-of-a-100-car-turned-into-1-million",
+  "site": "benzinga.com",
+  "title": "Elon Musk Owns The Ultimate James Bond Memorabilia: The Crazy Story Of A $100 Car Turned Into $1 Million  - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:51.951764",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\3b7d80b162b57bf6d0729ee15a3d99943288ce51.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\3b7d80b162b57bf6d0729ee15a3d99943288ce51.txt",
+  "word_count": 735,
+  "paywalled": false,
+  "dedup_hash": "0b4112586eec3866589c270af436da437f1c25d0",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "Elon Musk, known for his significant wealth and unique purchases, acquired a 1976 Lotus Espirit sports car from the James Bond movie 'The Spy Who Loved Me' for $1 million. This car is one of eight used in the film and is notable for its underwater transformation scene. Previously, a couple unknowingly bought an unclaimed storage unit containing the car, which they discovered and authenticated as the Lotus Espirit.",
+  "sentiment": 4,
+  "sentiment_reason": "The acquisition of a rare James Bond movie car by a high-profile billionaire like Musk is generally seen as a positive event for the market, as it highlights the enduring value and fascination with iconic movie memorabilia.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

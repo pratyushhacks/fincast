@@ -1,0 +1,63 @@
+{
+  "id": "25dfa93a43e4d9f2a522787f28b512175e83d5df",
+  "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-sector-targets-80-self-sufficiency-with-us-in-its-sights",
+  "site": "nikkei.com",
+  "title": "China chip sector targets 80% self-sufficiency with US in its sights - Nikkei Asia",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:52.720096",
+  "language": null,
+  "html_path": "data\\raw\\nikkei.com\\2026-03-28\\25dfa93a43e4d9f2a522787f28b512175e83d5df.html",
+  "text_path": "data\\raw\\nikkei.com\\2026-03-28\\25dfa93a43e4d9f2a522787f28b512175e83d5df.txt",
+  "word_count": 80,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "49e6cea135ccc1fde2b9ae946aea98cb1f9e981a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "China's semiconductor industry aims for 80% self-sufficiency by 2030, with plans for technological development and capacity expansion, as it competes with the U.S.",
+  "sentiment": 4,
+  "sentiment_reason": "The ambition for self-sufficiency and technological growth in China's semiconductor industry is a positive sign for the market, indicating potential for growth and reduced dependency on foreign technology.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        338.29,
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25,
+        328.85
+      ],
+      "base_price": 323.48,
+      "next_price": 309.79,
+      "change_1d": -4.2321,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

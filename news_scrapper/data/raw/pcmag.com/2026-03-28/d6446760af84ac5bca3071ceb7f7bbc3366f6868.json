@@ -1,0 +1,64 @@
+{
+  "id": "d6446760af84ac5bca3071ceb7f7bbc3366f6868",
+  "url": "https://www.pcmag.com/news/google-brings-real-time-headphone-translation-to-ios",
+  "site": "pcmag.com",
+  "title": "Google Brings Real-Time Headphone Translation to iOS | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:46.081749",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-28\\d6446760af84ac5bca3071ceb7f7bbc3366f6868.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-28\\d6446760af84ac5bca3071ceb7f7bbc3366f6868.txt",
+  "word_count": 426,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "975466d40089fc64e04613c67f253c7cb223f88d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google Translate expands its live speech translation feature to iOS users, supports over 70 languages, and is now available for Google Meet. The feature is also being rolled out in new countries and for new devices.",
+  "sentiment": 4,
+  "sentiment_reason": "The expansion of the live speech translation feature to iOS and Google Meet, along with the support for more languages and devices, represents a positive development for users seeking real-time translation services.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

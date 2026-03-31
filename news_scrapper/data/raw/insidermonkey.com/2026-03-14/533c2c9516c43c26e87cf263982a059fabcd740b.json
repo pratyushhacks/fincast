@@ -1,0 +1,70 @@
+{
+  "id": "533c2c9516c43c26e87cf263982a059fabcd740b",
+  "url": "https://www.insidermonkey.com/blog/amazon-com-amzn-to-invest-e33-7b-in-spanish-data-center-expansion-1716099/",
+  "site": "insidermonkey.com",
+  "title": "Amazon.com (AMZN) to Invest €33.7B in Spanish Data Center Expansion - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:11:31.072680",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-14\\533c2c9516c43c26e87cf263982a059fabcd740b.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-14\\533c2c9516c43c26e87cf263982a059fabcd740b.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "Amazon",
+  "gdelt_category": "company",
+  "summary": "Amazon invests in Spanish data center expansion, amidst AI breakthroughs and massive investments by tech giants and billionaires, hinting at a significant, yet unnamed, company's pivotal role in the AI revolution.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses major investments and optimism about AI's future, but also introduces a potentially disruptive under-acknowledged company, creating a sense of cautious optimism mixed with intrigue.",
+  "price_changes": {
+    "Amazon": {
+      "ticker": "AMZN",
+      "trend": [
+        216.82,
+        218.94,
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53
+      ],
+      "base_price": 207.67,
+      "next_price": 211.74,
+      "change_1d": 1.9598,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

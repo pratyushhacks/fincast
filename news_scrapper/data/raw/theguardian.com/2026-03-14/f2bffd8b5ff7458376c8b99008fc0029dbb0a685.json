@@ -1,0 +1,46 @@
+{
+  "id": "f2bffd8b5ff7458376c8b99008fc0029dbb0a685",
+  "url": "https://www.theguardian.com/world/2026/mar/14/trump-iran-war",
+  "site": "theguardian.com",
+  "title": "How the war in Iran and its economic fallout will lead to Trump’s defeat | US-Israel war on Iran | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:05:16.197842",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-14\\f2bffd8b5ff7458376c8b99008fc0029dbb0a685.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-14\\f2bffd8b5ff7458376c8b99008fc0029dbb0a685.txt",
+  "word_count": 992,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "d8dacce8cf77ff72f0aa03687d5d822f398506f8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "The war in Iran and its economic effects are predicted to be deeply unpopular and unlikely to aid Trump's image, despite his claims of safety and peace benefits from the conflict.",
+  "sentiment": 2,
+  "sentiment_reason": "The article suggests that the war is unpopular and its economic impact, though not directly damaging due to energy self-sufficiency, is unlikely to improve public perception of Trump's policies.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

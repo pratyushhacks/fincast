@@ -1,0 +1,66 @@
+{
+  "id": "cfebb39259072ec4cfa836f08eab24f19ed5ba70",
+  "url": "https://www.benzinga.com/markets/prediction-markets/26/03/51474081/when-will-openai-announce-its-ipo-heres-what-prediction-market-is-saying",
+  "site": "benzinga.com",
+  "title": "When Will OpenAI Announce Its IPO? Here's What Prediction Market Is Saying - NVIDIA (NASDAQ:NVDA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:27.096635",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\cfebb39259072ec4cfa836f08eab24f19ed5ba70.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\cfebb39259072ec4cfa836f08eab24f19ed5ba70.txt",
+  "word_count": 321,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0d8751f6a27c08ab5d41f29e9939dcfcf7965dce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "SpaceX's upcoming IPO is anticipated to be the largest ever, while OpenAI, led by Sam Altman, is finalizing a significant funding round with a potential valuation near $850 billion. However, concerns about OpenAI's diminishing competitive edge and the possibility of IPO withdrawal have been raised.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents significant financial news with SpaceX's IPO and OpenAI's funding round, but also includes concerns about OpenAI's future, leading to a neutral market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "34f149daed3140fcb5c0176c059e82864516318c",
+  "url": "https://www.techradar.com/phones/ios/liquid-glass-isnt-going-anywhere-in-ios-27-but-theres-good-news-for-its-readability",
+  "site": "techradar.com",
+  "title": "Liquid Glass ‘isn’t going anywhere’ in iOS 27 — but there’s good news for its readability | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:57.882888",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\34f149daed3140fcb5c0176c059e82864516318c.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\34f149daed3140fcb5c0176c059e82864516318c.txt",
+  "word_count": 525,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "52526f5f0a914949d71b75125bab324c3084572e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple's Liquid Glass feature will persist in iOS 27, with a potential system-wide slider for intensity control, despite initial readability concerns and a focus on system performance and stability.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the early issues with Liquid Glass' readability and the departure of key Apple personnel, but there is a slight positive aspect with the proposed slider feature for user customization.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82
+      ],
+      "base_price": 254.23,
+      "next_price": 249.94,
+      "change_1d": -1.6874,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1903d2fe6729843e520caae69f5d7a68f7dba689",
+  "url": "https://www.techradar.com/televisions/lg-is-adding-support-for-samsungs-new-dolby-atmos-rival-to-some-of-its-tvs-though-dont-expect-hdr10-support-to-follow-this-new-found-detente",
+  "site": "techradar.com",
+  "title": "LG is adding support for Samsung's new Dolby Atmos rival to some of its TVs — though don't expect HDR10+ support to follow this new-found detente | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:15:13.657109",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-14\\1903d2fe6729843e520caae69f5d7a68f7dba689.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-14\\1903d2fe6729843e520caae69f5d7a68f7dba689.txt",
+  "word_count": 1041,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "298c4d07d786b13dc89f403641d29da06ad73658",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Amazon",
+  "gdelt_category": "company",
+  "summary": "LG adds support for Samsung's Eclipsa Audio, a Dolby Atmos rival, to some TVs, with a free update for select 2025 and 2026 models. The move is notable as LG has been cautious with format support in the past. Samsung and Google aim to provide spatial sound for smaller content creators and are working with Netflix and Amazon on the format.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative sentiment due to LG's cautious approach and the lack of immediate support for other formats like Dolby Vision 2.",
+  "price_changes": {
+    "Amazon": {
+      "ticker": "AMZN",
+      "trend": [
+        216.82,
+        218.94,
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53
+      ],
+      "base_price": 207.67,
+      "next_price": 211.74,
+      "change_1d": 1.9598,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

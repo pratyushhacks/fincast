@@ -1,0 +1,64 @@
+{
+  "id": "d81ec0f3ef3260a25a03d87e2de266d886347c72",
+  "url": "https://www.zdnet.com/article/motorola-razr-ultra-amazon-spring-sale/",
+  "site": "zdnet.com",
+  "title": "Motorola's Razr Ultra is $500 off ahead of Amazon's Spring Sale | ZDNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:31.683241",
+  "language": null,
+  "html_path": "data\\raw\\zdnet.com\\2026-03-26\\d81ec0f3ef3260a25a03d87e2de266d886347c72.html",
+  "text_path": "data\\raw\\zdnet.com\\2026-03-26\\d81ec0f3ef3260a25a03d87e2de266d886347c72.txt",
+  "word_count": 712,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "d369caba62a73233daa678a3e1d03ebea2c9111c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Motorola Razr Ultra is available at a significant discount during Amazon's Big Spring Sale, featuring a larger outer display, improved performance, and a sturdy build. It's a competitive alternative to Samsung's foldables, especially for those seeking affordability.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive review of the Motorola Razr Ultra, highlighting its discounted price, performance upgrades, and unique design features, which are appealing to potential buyers.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 200.92,
+      "change_1d": -3.1897,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.47,
+      "change_1d": -1.1014,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

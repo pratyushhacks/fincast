@@ -1,0 +1,28 @@
+{
+  "id": "551174f1344554b806e964f0398cd04f8755d4f3",
+  "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+  "site": "theverge.com",
+  "title": "Apple will reportedly allow other AI chatbots to plug into Siri | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:11.559713",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-27\\551174f1344554b806e964f0398cd04f8755d4f3.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-27\\551174f1344554b806e964f0398cd04f8755d4f3.txt",
+  "word_count": 194,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cf9be0cbb6b489c802b93074ee9e3f217328171c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Apple's iOS 27 update will integrate third-party AI chatbots like Google's Gemini with Siri, expanding its capabilities and offering more customization options for users. Apple is also expected to unveil new operating systems and collaborate with Google for Siri's AI training.",
+  "sentiment": 4,
+  "sentiment_reason": "The integration of third-party AI chatbots with Siri and the anticipation of new operating systems are seen as positive developments for Apple, indicating innovation and potential enhancement of user experience."
+}

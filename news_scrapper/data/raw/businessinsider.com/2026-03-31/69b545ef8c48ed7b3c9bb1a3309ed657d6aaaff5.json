@@ -1,0 +1,54 @@
+{
+  "id": "69b545ef8c48ed7b3c9bb1a3309ed657d6aaaff5",
+  "url": "https://www.businessinsider.com/wealth-manager-fund-assets-stocks-market-investing-war-iran-oil-2026-3",
+  "site": "businessinsider.com",
+  "title": "A Wealth Manager Who Boosted Cash Holdings Details Opportunities He's Eyeing - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:16.474591",
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-31\\69b545ef8c48ed7b3c9bb1a3309ed657d6aaaff5.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-31\\69b545ef8c48ed7b3c9bb1a3309ed657d6aaaff5.txt",
+  "word_count": 529,
+  "paywalled": false,
+  "dedup_hash": "16652a2c23d3162eab3ecf2a60a55095d0a0c2f0",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Key Advisors Wealth Management has significantly reduced its stock holdings due to concerns over a potential stagflationary environment and market volatility, particularly in technology sectors. The firm is waiting for stabilization in the 10-year bond and oil markets before considering reinvestment.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the fund manager's cautious stance amidst volatility and fears of stagflation, leading to a sell-off of stocks and a wait-and-see approach for future investments.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

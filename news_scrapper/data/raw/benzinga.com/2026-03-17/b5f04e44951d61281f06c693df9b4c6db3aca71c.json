@@ -1,0 +1,65 @@
+{
+  "id": "b5f04e44951d61281f06c693df9b4c6db3aca71c",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51285612/uber-stock-darts-higher-on-expanded-autonomous-vehicle-partnership-with-nvidia",
+  "site": "benzinga.com",
+  "title": "Uber Stock Up With Expanded Nvidia Autonomous Vehicle Partnership - Uber Technologies (NYSE:UBER)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:49.767284",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\b5f04e44951d61281f06c693df9b4c6db3aca71c.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\b5f04e44951d61281f06c693df9b4c6db3aca71c.txt",
+  "word_count": 263,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "9819092fcaea66a78eeb260d7bdf7fede12635ad",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Uber and Nvidia expand autonomous vehicle partnership, planning global fleet launch in 2027 with potential broad commercialization and future driverless services.",
+  "sentiment": 4,
+  "sentiment_reason": "The announcement of a global fleet of autonomous vehicles and the expansion of the partnership between Uber and Nvidia are seen as positive developments for the autonomous vehicle and AI markets.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

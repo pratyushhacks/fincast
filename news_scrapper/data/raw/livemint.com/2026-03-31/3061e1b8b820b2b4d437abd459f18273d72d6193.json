@@ -1,0 +1,54 @@
+{
+  "id": "3061e1b8b820b2b4d437abd459f18273d72d6193",
+  "url": "https://www.livemint.com/companies/news/elon-musks-xai-has-lost-all-8-of-its-original-co-founders-since-january-ross-nordeen-is-the-last-to-go-11774757797365.html",
+  "site": "livemint.com",
+  "title": "Elon Musk's xAI has lost all 8 of its original co-founders since January- Ross Nordeen is the last to go | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:51.355560",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\3061e1b8b820b2b4d437abd459f18273d72d6193.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\3061e1b8b820b2b4d437abd459f18273d72d6193.txt",
+  "word_count": 658,
+  "paywalled": false,
+  "dedup_hash": "d46fb19525328e837686ce5686ce28f2ff9fd759",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Tesla OR TSLA)",
+  "summary": "Elon Musk's co-founder of xAI, Ross Nordeen, has left the company, marking a significant turnover among the original founding team. This exodus coincides with preparations for SpaceX's IPO and various leadership changes within xAI.",
+  "sentiment": 2,
+  "sentiment_reason": "Nordeen's departure, along with other key figures leaving xAI, reflects negative market sentiment due to the instability and potential impact on the company's operations and future prospects.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11,
+        361.83
+      ],
+      "base_price": 355.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

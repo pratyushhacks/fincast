@@ -1,0 +1,24 @@
+{
+  "id": "b88a1c5eef47d84ec95615cf41b12b3a0785590c",
+  "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-climbs-over-2-on-softer-dollar-easing-fears-of-higher-interest-rates/articleshow/129789686.cms",
+  "site": "indiatimes.com",
+  "title": "Spot gold climbs over 2% on softer dollar, easing fears of higher rates - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:09.966278",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\b88a1c5eef47d84ec95615cf41b12b3a0785590c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\b88a1c5eef47d84ec95615cf41b12b3a0785590c.txt",
+  "word_count": 349,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "f4d7810eb0c5de1e949ac96ebcd13813e1b55315",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "eec56fe1a6acf7a0f63f84014e867221de94bfbe",
+  "url": "https://www.livemint.com/companies/news/meta-layoffs-mark-zuckerbergs-tech-firm-plans-to-cut-nearly-16-000-jobs-as-ai-costs-mount-says-report-what-we-know-11773451516319.html",
+  "site": "livemint.com",
+  "title": "Meta layoffs: Mark Zuckerberg's tech firm plans to cut nearly 16,000 jobs as AI costs mount, says report — what we know | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:52:16.349022",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-14\\eec56fe1a6acf7a0f63f84014e867221de94bfbe.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-14\\eec56fe1a6acf7a0f63f84014e867221de94bfbe.txt",
+  "word_count": 496,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c1fb7f2df6c77596dd2f67d354acd6bbd813ba56",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "NVIDIA",
+  "gdelt_category": "company",
+  "summary": "Meta, led by Mark Zuckerberg, plans significant layoffs affecting 20% of its workforce to cut costs related to AI infrastructure and improve efficiency with AI-assisted workers.",
+  "sentiment": 2,
+  "sentiment_reason": "The planned layoffs reflect a strategic shift towards efficiency gains and AI integration, but also indicate potential overinvestment in AI that led to job cuts.",
+  "price_changes": {
+    "NVIDIA": {
+      "ticker": "NVDA",
+      "trend": [
+        183.03,
+        183.33,
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14
+      ],
+      "base_price": 180.25,
+      "next_price": 183.22,
+      "change_1d": 1.6477,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

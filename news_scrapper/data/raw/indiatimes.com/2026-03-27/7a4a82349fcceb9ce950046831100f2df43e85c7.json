@@ -1,0 +1,25 @@
+{
+  "id": "7a4a82349fcceb9ce950046831100f2df43e85c7",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-to-invest-166-million-in-ai-chip-startup-rebellions/articleshow/129828518.cms",
+  "site": "indiatimes.com",
+  "title": "South Korea to invest $166 million in AI chip startup Rebellions - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:25.680545",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\7a4a82349fcceb9ce950046831100f2df43e85c7.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\7a4a82349fcceb9ce950046831100f2df43e85c7.txt",
+  "word_count": 198,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "99cf95dc20f45e51816f8e39008ddea2bdea3107",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

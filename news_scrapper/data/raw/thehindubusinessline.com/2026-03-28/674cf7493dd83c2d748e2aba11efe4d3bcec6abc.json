@@ -1,0 +1,64 @@
+{
+  "id": "674cf7493dd83c2d748e2aba11efe4d3bcec6abc",
+  "url": "https://www.thehindubusinessline.com/markets/stock-markets/tata-motors-plunges-to-52-week-low-as-jlrs-solihull-plant-halt-sparks-concern/article70791977.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Tata Motors hits 52-week low as JLR’s Solihull plant halt raises concerns - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:55.492586",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-28\\674cf7493dd83c2d748e2aba11efe4d3bcec6abc.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-28\\674cf7493dd83c2d748e2aba11efe4d3bcec6abc.txt",
+  "word_count": 375,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "324d3510929ee59aa2b6730b7c537d1964acdbb5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Tata Motors shares fell significantly due to production halt at JLR's Solihull plant, causing supply disruptions and adding to existing market pressures.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a production halt and its impact on supply chains and market demand, indicating negative market sentiment.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.25,
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91
+      ],
+      "base_price": 29.62,
+      "next_price": 29.11,
+      "change_1d": -1.7218,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

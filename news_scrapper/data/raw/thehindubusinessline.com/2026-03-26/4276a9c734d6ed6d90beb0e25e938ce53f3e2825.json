@@ -1,0 +1,66 @@
+{
+  "id": "4276a9c734d6ed6d90beb0e25e938ce53f3e2825",
+  "url": "https://www.thehindubusinessline.com/economy/infrastructure-projects-see-566-lakh-crore-cost-overrun-says-government-report/article70785786.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Infrastructure projects see Rs 5.66 lakh crore cost overrun, revised cost at Rs 41.98 lakh crore - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:35.604750",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\4276a9c734d6ed6d90beb0e25e938ce53f3e2825.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\4276a9c734d6ed6d90beb0e25e938ce53f3e2825.txt",
+  "word_count": 569,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "16247b6605d403f559388d19d90d836cbb218c67",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The article highlights the dominance of the transport sector in the project pipeline, with a significant number of ongoing infrastructure projects and a large cumulative cost. It also mentions cost overruns and the distribution of projects across different stages of implementation.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about infrastructure projects, cost overruns, and sector-wise investments without indicating a strong negative or positive market impact.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34
+      ],
+      "base_price": 49.05,
+      "next_price": 48.38,
+      "change_1d": -1.366,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.2,
+      "change_1d": -0.758,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

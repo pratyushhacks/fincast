@@ -1,0 +1,48 @@
+{
+  "id": "348446fa8e496c25ea140ff18d1876c48b34f483",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2026/musk-courts-bankers-and-lenders-to-teach-grok-finance/",
+  "site": "pymnts.com",
+  "title": "Musk Courts Bankers and Lenders to Teach Grok Finance",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:26.595269",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-17\\348446fa8e496c25ea140ff18d1876c48b34f483.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-17\\348446fa8e496c25ea140ff18d1876c48b34f483.txt",
+  "word_count": 420,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "187ac5d270da6bd8df07595341bc6ea9cdc25efe",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Elon Musk-led AI startup xAI plans to hire finance professionals to train its chatbot Grok in financial analysis, amidst its rebuilding efforts and potential layoffs. This move comes as AI increasingly guides financial decisions, with consumers and CFOs turning to AI for planning and budget reallocation.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the context of layoffs and the company's struggles to attract enterprise clients, despite the growing trend of AI in financial decision-making.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

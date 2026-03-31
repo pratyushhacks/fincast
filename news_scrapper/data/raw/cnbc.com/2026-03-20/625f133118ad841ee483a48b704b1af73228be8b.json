@@ -1,0 +1,64 @@
+{
+  "id": "625f133118ad841ee483a48b704b1af73228be8b",
+  "url": "https://www.cnbc.com/2026/03/19/sp-500-falls-to-a-key-technical-spot-traders-watch-whether-it-holds.html",
+  "site": "cnbc.com",
+  "title": "S&P 500 falls to a key technical spot. Traders watch whether it holds",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:43.331907",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-20\\625f133118ad841ee483a48b704b1af73228be8b.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-20\\625f133118ad841ee483a48b704b1af73228be8b.txt",
+  "word_count": 372,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "37d8f35620e7f75b93ec7705397c4f345a72cc3c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The S&P 500 fell 1.4% due to rising inflation fears and comments from Federal Reserve Chairman Jerome Powell, who indicated the central bank is not inclined to ease monetary policy. The index is now at a critical technical juncture, having breached its 200-day moving average.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market indicators such as the S&P 500's significant drop, rising inflation fears, and comments from the Federal Reserve Chairman suggesting a tight monetary policy, all of which contribute to a negative market sentiment.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

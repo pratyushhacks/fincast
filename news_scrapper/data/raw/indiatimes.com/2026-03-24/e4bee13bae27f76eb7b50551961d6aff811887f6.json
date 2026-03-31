@@ -1,0 +1,25 @@
+{
+  "id": "e4bee13bae27f76eb7b50551961d6aff811887f6",
+  "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/dgtr-recommends-anti-dumping-duty-on-rayon-yarn-imports-from-china/articleshow/129743682.cms",
+  "site": "indiatimes.com",
+  "title": "DGTR recommends anti-dumping duty on rayon yarn imports from China - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:15.077303",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\e4bee13bae27f76eb7b50551961d6aff811887f6.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\e4bee13bae27f76eb7b50551961d6aff811887f6.txt",
+  "word_count": 166,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "00214d7ce2bfedaeb989b3de9eed51355fa7e613",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

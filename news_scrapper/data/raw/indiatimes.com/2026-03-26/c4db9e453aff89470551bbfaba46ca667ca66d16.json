@@ -1,0 +1,26 @@
+{
+  "id": "c4db9e453aff89470551bbfaba46ca667ca66d16",
+  "url": "https://economictimes.indiatimes.com/news/international/us/why-gold-and-silver-prices-are-rising-today-gold-price-surges-3-5-while-silver-jumps-over-5-but-is-gold-price-surge-a-short-term-bounce-or-a-long-term-bullish-trend/articleshow/129799732.cms",
+  "site": "indiatimes.com",
+  "title": "Gold price surge 3%: Why gold and silver prices are rising today: Gold surges 3.5%, silver jumps 5% — short-term bounce or start of a bigger bull run? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:08.823163",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\c4db9e453aff89470551bbfaba46ca667ca66d16.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\c4db9e453aff89470551bbfaba46ca667ca66d16.txt",
+  "word_count": 1065,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "d103303d74e67cf01258081cc25e3e7115e0276a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

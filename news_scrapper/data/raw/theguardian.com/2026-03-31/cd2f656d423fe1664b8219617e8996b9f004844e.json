@@ -1,0 +1,54 @@
+{
+  "id": "cd2f656d423fe1664b8219617e8996b9f004844e",
+  "url": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
+  "site": "theguardian.com",
+  "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve | Trump administration | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:57.511268",
+  "html_path": "data\\raw\\theguardian.com\\2026-03-31\\cd2f656d423fe1664b8219617e8996b9f004844e.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-31\\cd2f656d423fe1664b8219617e8996b9f004844e.txt",
+  "word_count": 558,
+  "paywalled": false,
+  "dedup_hash": "fda5dea76fe118a4c4f37e25ce2eab4239b0fe4c",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "The US Treasury demanded the Financial Times retract a story about Secretary Bessent's alleged views on increasing Federal Reserve oversight, accusing the paper of publishing false claims and misleading headlines. The Treasury's complaint against the FT follows heightened tensions over the Federal Reserve's independence.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the dispute over the FT's reporting, which could potentially undermine the Federal Reserve's perceived independence and cause uncertainty in financial markets.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "01053be4c647c9a91a89ec42d119c811b03e5972",
+  "url": "https://gizmodo.com/meta-has-smart-glasses-spiraling-towards-glasshole-2-0-2000733361",
+  "site": "gizmodo.com",
+  "title": "Meta Has Smart Glasses Spiraling Towards Glasshole 2.0",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:05.604206",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-17\\01053be4c647c9a91a89ec42d119c811b03e5972.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-17\\01053be4c647c9a91a89ec42d119c811b03e5972.txt",
+  "word_count": 921,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "3054fbf6bbd2575a74422c72116ae0c6819b9cda",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta's smart glasses controversy due to privacy breaches and accidental recordings, despite being a marketable product.",
+  "sentiment": 2,
+  "sentiment_reason": "The negative impact stems from privacy concerns and the potential backlash over the recorded footage being reviewed by third parties.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

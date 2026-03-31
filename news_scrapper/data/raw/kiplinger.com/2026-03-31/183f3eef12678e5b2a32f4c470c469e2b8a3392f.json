@@ -1,0 +1,54 @@
+{
+  "id": "183f3eef12678e5b2a32f4c470c469e2b8a3392f",
+  "url": "https://www.kiplinger.com/personal-finance/high-school-can-be-a-pathway-to-financial-wellness-heres-how-to-get-more-kids-on-it",
+  "site": "kiplinger.com",
+  "title": "How High School Can Set Kids on a Path to Financial Wellness | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:35.238824",
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-31\\183f3eef12678e5b2a32f4c470c469e2b8a3392f.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-31\\183f3eef12678e5b2a32f4c470c469e2b8a3392f.txt",
+  "word_count": 1136,
+  "paywalled": false,
+  "dedup_hash": "e2f1f679e1e453b1623c7a40ee1cd179c86e6cef",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Intel OR INTC)",
+  "summary": "The article discusses the financial concerns of teenagers, emphasizing the importance of financial wellness over literacy, and the impact of complex financial landscapes and mental health challenges on young people's financial habits and stress.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is rated as negative due to the discussion of financial stress, mental health challenges, and the complexity of the financial landscape affecting teenagers.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18,
+        44.1,
+        43.13
+      ],
+      "base_price": 41.19,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

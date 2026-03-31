@@ -1,0 +1,54 @@
+{
+  "id": "cdec6d0a8ee3f6be34fd9d073bc4efbde6a7ab67",
+  "url": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
+  "site": "cnbc.com",
+  "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:03.542727",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\cdec6d0a8ee3f6be34fd9d073bc4efbde6a7ab67.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\cdec6d0a8ee3f6be34fd9d073bc4efbde6a7ab67.txt",
+  "word_count": 1303,
+  "paywalled": false,
+  "dedup_hash": "e2107af18705924a0f9a6f8e347414891eebe1e9",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "Oil and gas company CEOs warn of significant disruptions to energy supplies due to the Iran war, with potential long-term consequences for the global economy. They predict high oil prices and fuel shortages, especially in Asia and Europe, even if the conflict ends. The closure of the Strait of Hormuz and attacks on oil and gas facilities are highlighted as major concerns.",
+  "sentiment": 1,
+  "sentiment_reason": "The article presents a strongly negative market impact due to the war's disruption of energy supplies, potential fuel shortages, and the closure of critical shipping lanes and facilities.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

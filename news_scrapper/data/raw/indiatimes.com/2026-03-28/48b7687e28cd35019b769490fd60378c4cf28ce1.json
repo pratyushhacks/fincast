@@ -1,0 +1,28 @@
+{
+  "id": "48b7687e28cd35019b769490fd60378c4cf28ce1",
+  "url": "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-freezes-hiring-in-major-cloud-sales-groups-report/129837797",
+  "site": "indiatimes.com",
+  "title": "Microsoft freezes hiring in major cloud, sales groups: Report, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:31.742598",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\48b7687e28cd35019b769490fd60378c4cf28ce1.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\48b7687e28cd35019b769490fd60378c4cf28ce1.txt",
+  "word_count": 312,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "34cac632bcdbe471104c8be86e4a58e715acb8b7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company"
+}

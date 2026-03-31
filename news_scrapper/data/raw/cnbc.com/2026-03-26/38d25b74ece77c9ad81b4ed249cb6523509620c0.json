@@ -1,0 +1,65 @@
+{
+  "id": "38d25b74ece77c9ad81b4ed249cb6523509620c0",
+  "url": "https://www.cnbc.com/2026/03/25/cisco-may-finally-extend-meaningfully-beyond-prior-highs-based-on-latest-chart-action-.html",
+  "site": "cnbc.com",
+  "title": "Cisco may finally extend meaningfully beyond prior highs, based on latest chart action",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:50.598267",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-26\\38d25b74ece77c9ad81b4ed249cb6523509620c0.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-26\\38d25b74ece77c9ad81b4ed249cb6523509620c0.txt",
+  "word_count": 747,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4478b856f992e6f61fd5512906930fd22d07e5b1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Cisco has gradually recovered from its 2000 peak, forming a potential cup and handle pattern, and is now performing well while many counterparts struggle, suggesting a possible resurgence.",
+  "sentiment": 4,
+  "sentiment_reason": "The stock's formation of a bullish pattern and recent outperformance compared to peers indicate a positive market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.34,
+      "change_1d": 0.1779,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.1,
+      "change_1d": -1.1659,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

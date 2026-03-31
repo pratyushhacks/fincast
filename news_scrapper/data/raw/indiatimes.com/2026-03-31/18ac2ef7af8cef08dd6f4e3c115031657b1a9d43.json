@@ -1,0 +1,15 @@
+{
+  "id": "18ac2ef7af8cef08dd6f4e3c115031657b1a9d43",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-war-shock-is-dimming-outlook-for-many-economies-imf/articleshow/129907259.cms",
+  "site": "indiatimes.com",
+  "title": "Iran war 'shock' is dimming outlook for many economies: IMF - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:30.063499",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\18ac2ef7af8cef08dd6f4e3c115031657b1a9d43.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\18ac2ef7af8cef08dd6f4e3c115031657b1a9d43.txt",
+  "word_count": 504,
+  "paywalled": false,
+  "dedup_hash": "b8d5bfabe347546ee0140c75860ca5595e4fc0f1",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"geopolitical risk\""
+}

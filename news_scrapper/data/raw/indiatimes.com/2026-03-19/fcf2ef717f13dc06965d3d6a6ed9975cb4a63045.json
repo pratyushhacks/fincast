@@ -1,0 +1,25 @@
+{
+  "id": "fcf2ef717f13dc06965d3d6a6ed9975cb4a63045",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-us-stock-market-today-dow-jones-nasdaq-sp-500-jerome-powell-fomc-meet-rate-cut-news-iran-israel-war/liveblog/129656253.cms",
+  "site": "indiatimes.com",
+  "title": "FED Meeting Live | Dow Jones | US Stock Market Highlights: Dow ends 768 points lower, S&P, Nasdaq drop over 1.3% as US Fed holds rates, raises inflation outlook - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:08.213418",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\fcf2ef717f13dc06965d3d6a6ed9975cb4a63045.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\fcf2ef717f13dc06965d3d6a6ed9975cb4a63045.txt",
+  "word_count": 163,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "120b6807a1bade3f2afbda960f464b2cc391c06f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

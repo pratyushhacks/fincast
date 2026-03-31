@@ -1,0 +1,64 @@
+{
+  "id": "3ea56433dbbb959a7a7923373ace9ecd0b1ec22c",
+  "url": "https://www.digitaltrends.com/phones/amazons-rumored-ai-phone-might-be-dead-on-arrival-says-analyst/",
+  "site": "digitaltrends.com",
+  "title": "Amazon's rumored AI phone might be dead on arrival, says analyst - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:04.469674",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-23\\3ea56433dbbb959a7a7923373ace9ecd0b1ec22c.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-23\\3ea56433dbbb959a7a7923373ace9ecd0b1ec22c.txt",
+  "word_count": 307,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6091e434548163ca71e5e8e8024629ba6d8002eb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon is rumored to be developing an AI-focused smartphone, the 'Transformer', but analysts believe this is a poor time for such a move due to the declining smartphone market and intense competition from established players like Samsung and Apple.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to concerns about the timing of Amazon's entry into a declining market and the challenges posed by competition and the need for a unique selling proposition.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76,
+        205.37
+      ],
+      "base_price": 210.14,
+      "next_price": 207.24,
+      "change_1d": -1.38,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

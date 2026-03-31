@@ -1,0 +1,15 @@
+{
+  "id": "f2cb7fcdfe57c8833d1d1fcaddef5be1ee9bc4ec",
+  "url": "https://economictimes.indiatimes.com/tech/technology/facebook-takes-down-satheesan-interview-after-kerala-police-notice/articleshow/129850648.cms",
+  "site": "indiatimes.com",
+  "title": "Facebook takes down Satheesan interview after Kerala police notice - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:34.593582",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\f2cb7fcdfe57c8833d1d1fcaddef5be1ee9bc4ec.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\f2cb7fcdfe57c8833d1d1fcaddef5be1ee9bc4ec.txt",
+  "word_count": 177,
+  "paywalled": false,
+  "dedup_hash": "44ed23d37479e461cd0b6efa4ac1b1f3c087ebcd",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

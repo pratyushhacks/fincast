@@ -1,0 +1,65 @@
+{
+  "id": "afc98cf2667f07b466cd84aa1b41d993da273806",
+  "url": "https://www.techradar.com/tech/googles-best-smartwatch-ever-just-got-a-surprise-price-cut-get-usd100-off-the-outstanding-google-pixel-watch-4",
+  "site": "techradar.com",
+  "title": "Google's best smartwatch ever just got a surprise price cut — get $100 off the outstanding Google Pixel Watch 4 | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:54.507117",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-21\\afc98cf2667f07b466cd84aa1b41d993da273806.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-21\\afc98cf2667f07b466cd84aa1b41d993da273806.txt",
+  "word_count": 315,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d3ad583ab4a9a6ef1cd2ff99b31bd9b58d92f19a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The 45mm Google Pixel Watch 4 is now available on Amazon for $299, a record-low price, with various band options and a longer battery life. It integrates well with Google Pixel smartphones and offers unique features like a domed display.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents the Google Pixel Watch 4 in a highly positive light, highlighting its value at a new low price, extended battery life, and unique features that set it apart from competitors.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76
+      ],
+      "base_price": 205.37,
+      "next_price": 210.14,
+      "change_1d": 2.3226,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

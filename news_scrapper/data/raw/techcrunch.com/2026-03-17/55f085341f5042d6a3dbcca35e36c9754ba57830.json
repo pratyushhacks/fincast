@@ -1,0 +1,47 @@
+{
+  "id": "55f085341f5042d6a3dbcca35e36c9754ba57830",
+  "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+  "site": "techcrunch.com",
+  "title": "Warren presses Pentagon over decision to grant xAI access to classified networks | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:28.292827",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-17\\55f085341f5042d6a3dbcca35e36c9754ba57830.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-17\\55f085341f5042d6a3dbcca35e36c9754ba57830.txt",
+  "word_count": 505,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e83fb7a35d10fe8b33a58e60c8e9e6aa2c4d0399",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Senator Elizabeth Warren expresses concern over the Pentagon’s decision to grant xAI access to classified networks due to the controversial AI model Grok's inappropriate outputs and potential security risks.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to concerns over national security and the misuse of AI technology in classified settings.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

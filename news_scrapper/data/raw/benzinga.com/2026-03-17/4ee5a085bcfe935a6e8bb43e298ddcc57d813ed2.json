@@ -1,0 +1,65 @@
+{
+  "id": "4ee5a085bcfe935a6e8bb43e298ddcc57d813ed2",
+  "url": "https://www.benzinga.com/personal-finance/management/26/03/51283828/kevin-o-leary-says-big-weddings-are-stupid-and-a-waste-of-money-opt-for-a-civil-ceremony-instead-and-throw-a-smart-little-party-after",
+  "site": "benzinga.com",
+  "title": "Kevin O' Leary Says Big Weddings Are 'Stupid' And A Waste Of Money — Opt For A Civil Ceremony Instead And Throw A 'Smart Little Party' After",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:19.013487",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\4ee5a085bcfe935a6e8bb43e298ddcc57d813ed2.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\4ee5a085bcfe935a6e8bb43e298ddcc57d813ed2.txt",
+  "word_count": 550,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7c9aed7fbdc930ecaa731b67cbc7da819bf1a274",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Kevin O'Leary criticizes big weddings as financially foolish, advocating for civil ceremonies and modest post-wedding celebrations. He suggests redirecting funds from lavish ceremonies to long-term financial goals like home savings or investments.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the criticism of big weddings and the emphasis on financial prudence over extravagant celebrations.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

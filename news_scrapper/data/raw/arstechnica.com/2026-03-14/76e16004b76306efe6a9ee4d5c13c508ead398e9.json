@@ -1,0 +1,64 @@
+{
+  "id": "76e16004b76306efe6a9ee4d5c13c508ead398e9",
+  "url": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
+  "site": "arstechnica.com",
+  "title": "Google Fiber will be sold to private equity firm and merge with cable company - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:17:55.194197",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-14\\76e16004b76306efe6a9ee4d5c13c508ead398e9.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-14\\76e16004b76306efe6a9ee4d5c13c508ead398e9.txt",
+  "word_count": 307,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "45c4a3a85768b46018f43a636ba0d34af4ff4753",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Google",
+  "gdelt_category": "company",
+  "summary": "Google Fiber will be sold to private equity and merge with Astound cable company, covering ~7.1 million locations across 26 states. They will face competition from major cable and fiber providers in most territories.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the implications of industry consolidation and competition with established providers.",
+  "price_changes": {
+    "Google": {
+      "ticker": "GOOGL",
+      "trend": [
+        302.92,
+        300.67,
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55
+      ],
+      "base_price": 302.28,
+      "next_price": 305.56,
+      "change_1d": 1.0851,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

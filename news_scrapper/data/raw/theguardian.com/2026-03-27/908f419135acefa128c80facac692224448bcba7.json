@@ -1,0 +1,65 @@
+{
+  "id": "908f419135acefa128c80facac692224448bcba7",
+  "url": "https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world",
+  "site": "theguardian.com",
+  "title": "Muskism by Quinn Slobodian and Ben Tarnoff review – how Elon Musk is reshaping the world | Politics books | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:56.697055",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-27\\908f419135acefa128c80facac692224448bcba7.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-27\\908f419135acefa128c80facac692224448bcba7.txt",
+  "word_count": 653,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "938537f2003133cf8f34171fb5558969c14a805c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "The article critiques Elon Musk's role and influence, portraying him as a central figure in a system called 'Muskism', which promises self-reliance through technology but instead deepens dependence on Musk's infrastructure. The critique extends across Musk's ventures, including his monopolistic position in space launches and the control over the tech ecosystem he creates.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the critique of Musk's influence leading to increased dependence and the portrayal of his metaphors and ideologies as problematic and potentially harmful.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

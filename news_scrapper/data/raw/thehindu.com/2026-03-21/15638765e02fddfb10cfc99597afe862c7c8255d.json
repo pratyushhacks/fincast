@@ -1,0 +1,64 @@
+{
+  "id": "15638765e02fddfb10cfc99597afe862c7c8255d",
+  "url": "https://www.thehindu.com/news/national/telangana/govt-makes-substantial-allocations-for-guarantees-and-major-schemes/article70765480.ece",
+  "site": "thehindu.com",
+  "title": "Govt makes substantial allocations for guarantees and major schemes - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:18.287596",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-21\\15638765e02fddfb10cfc99597afe862c7c8255d.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-21\\15638765e02fddfb10cfc99597afe862c7c8255d.txt",
+  "word_count": 279,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "69fcc7991c782b52a189a4a3b0bb74ff29dc4f9d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The State government allocated significant funds for its guarantees and schemes in the 2026-27 budget, despite financial constraints, with a focus on agriculture, pensions, and power subsidies. Additionally, efforts to improve financial management and reduce leakages were highlighted.",
+  "sentiment": 4,
+  "sentiment_reason": "The allocation of funds for major schemes and the focus on agriculture and pensions, along with the government's confidence in mobilizing required funds, indicates a positive market impact.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

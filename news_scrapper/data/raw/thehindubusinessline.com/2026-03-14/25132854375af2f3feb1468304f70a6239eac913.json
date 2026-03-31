@@ -1,0 +1,46 @@
+{
+  "id": "25132854375af2f3feb1468304f70a6239eac913",
+  "url": "https://www.thehindubusinessline.com/news/world/trump-administration-set-to-receive-10-billion-fee-for-brokering-tiktok-deal-wsj-reports/article70742151.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:26:50.406691",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\25132854375af2f3feb1468304f70a6239eac913.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\25132854375af2f3feb1468304f70a6239eac913.txt",
+  "word_count": 344,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "95c0952038179d817b0255749745e052f53953f9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Bytedance",
+  "gdelt_category": "company",
+  "summary": "Trump administration to receive $10B fee from TikTok deal investors, amidst national security and lawsuit concerns.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the ongoing lawsuit and concerns over national security related to the TikTok deal.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

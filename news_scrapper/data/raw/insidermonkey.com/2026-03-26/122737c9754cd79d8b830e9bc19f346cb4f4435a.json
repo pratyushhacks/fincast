@@ -1,0 +1,70 @@
+{
+  "id": "122737c9754cd79d8b830e9bc19f346cb4f4435a",
+  "url": "https://www.insidermonkey.com/blog/apple-aapl-rated-sector-weight-on-mixed-spending-trends-1723261/",
+  "site": "insidermonkey.com",
+  "title": "Apple (AAPL) Rated Sector Weight on Mixed Spending Trends - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:48.818594",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-26\\122737c9754cd79d8b830e9bc19f346cb4f4435a.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-26\\122737c9754cd79d8b830e9bc19f346cb4f4435a.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Amazon's new CEO highlights generative AI as a transformative technology, while billionaires invest in AI's potential to reshape various sectors. An under-valued company is mentioned as crucial to the AI revolution, with insiders and investors showing keen interest.",
+  "sentiment": 5,
+  "sentiment_reason": "The article discusses major investments and positive sentiments from influential figures about the transformative potential of AI, indicating a strongly positive market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.25,
+      "change_1d": 0.1424,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.33,
+      "change_1d": -1.1258,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

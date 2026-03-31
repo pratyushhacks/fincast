@@ -1,0 +1,66 @@
+{
+  "id": "3dad97af2db2e665ea4ec378c16c1f2877987aa1",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51284961/tesla-may-become-nvidias-biggest-customer-and-its-future-rival",
+  "site": "benzinga.com",
+  "title": "Tesla Could Be Nvidia’s Biggest AI Customer - Or Rival - NVIDIA (NASDAQ:NVDA), Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:52.521875",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\3dad97af2db2e665ea4ec378c16c1f2877987aa1.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\3dad97af2db2e665ea4ec378c16c1f2877987aa1.txt",
+  "word_count": 218,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "90518d0ef198c4c314a9b4f009a3ae3d90f96b5c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Tesla's growing AI needs for training autonomy and robotics systems, reliant on Nvidia chips, may turn it into a rival to Nvidia as it seeks to control more of its AI stack and potentially designs its own hardware.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the implication of Tesla becoming a potential future competitor to Nvidia, which could affect Nvidia's position in the AI chip market.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

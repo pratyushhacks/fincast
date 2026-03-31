@@ -1,0 +1,25 @@
+{
+  "id": "86dcc24a166909ac806745bc850eeb41d00aaf32",
+  "url": "https://economictimes.indiatimes.com/news/india/eci-sets-up-19-tribunals-to-hear-appeals-against-judicial-officers-orders/articleshow/129707813.cms",
+  "site": "indiatimes.com",
+  "title": "ECI sets up 19 tribunals to hear appeals against judicial officers' orders - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:58.350971",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\86dcc24a166909ac806745bc850eeb41d00aaf32.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\86dcc24a166909ac806745bc850eeb41d00aaf32.txt",
+  "word_count": 88,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "304223c53e45129e995328c4470b26c3db247661",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

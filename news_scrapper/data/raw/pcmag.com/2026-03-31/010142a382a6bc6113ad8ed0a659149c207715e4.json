@@ -1,0 +1,54 @@
+{
+  "id": "010142a382a6bc6113ad8ed0a659149c207715e4",
+  "url": "https://www.pcmag.com/explainers/your-future-self-will-thank-you-beginners-guide-to-backing-up-your-pc",
+  "site": "pcmag.com",
+  "title": "Your Future Self Will Thank You: The Beginner's Guide to Backing Up Your PC | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:58.323302",
+  "html_path": "data\\raw\\pcmag.com\\2026-03-31\\010142a382a6bc6113ad8ed0a659149c207715e4.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-31\\010142a382a6bc6113ad8ed0a659149c207715e4.txt",
+  "word_count": 2954,
+  "paywalled": false,
+  "dedup_hash": "2276758598a04e2bde94ef51803dfdd1819de3d3",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "The article emphasizes the importance of regular data backups, highlighting that most people do not back up their data despite the risks. It provides information on different backup methods, including file copying, software-based backups, and cloud storage services, stressing the need for redundancy and easy access to data.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about data backup methods and the common issue of people not backing up their data, which has a neutral market impact as it relates to general consumer behavior without immediate financial implications.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4cb92207c2fb4cf892a42aaf2369a765fab2bb86",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-st-futures-slip-as-iran-war-rages-on-investors-dial-down-rate-cut-bets/articleshow/129699658.cms",
+  "site": "indiatimes.com",
+  "title": "Wall St futures slip as Iran war rages on, investors dial down rate cut bets - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:23.588451",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\4cb92207c2fb4cf892a42aaf2369a765fab2bb86.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\4cb92207c2fb4cf892a42aaf2369a765fab2bb86.txt",
+  "word_count": 472,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e3a60db4aa09db1e8d34d745605efeb0e9b0b558",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

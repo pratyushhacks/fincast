@@ -1,0 +1,64 @@
+{
+  "id": "cf073b037e43fb0a02caf8f4264ca4f979d03cea",
+  "url": "https://www.theverge.com/tech/901265/apple-settles-lawsuit-against-snap-staffer",
+  "site": "theverge.com",
+  "title": "Apple settles Vision Pro leaker lawsuit. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:37.764464",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-27\\cf073b037e43fb0a02caf8f4264ca4f979d03cea.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-27\\cf073b037e43fb0a02caf8f4264ca4f979d03cea.txt",
+  "word_count": 91,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "86dc683008e6bff6aed8245171ce5a21cbc94958",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple has settled a lawsuit with a former engineer who allegedly stole trade secrets to work for a competitor. The engineer agreed to return the confidential information and pay damages.",
+  "sentiment": 3,
+  "sentiment_reason": "The news is a routine legal matter without immediate clear positive or negative market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "9438155d63aaa0b663bb1947839947bd73388c5a",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51531182/tim-cook-highlights-50th-anniversary-track-as-apple-celebrates",
+  "site": "benzinga.com",
+  "title": "Tim Cook Wants The 50th Anniversary Track As Apple Celebrates 'Think Different' Legacy With Star-Studded Global Creative Events - Apple (NASDAQ:AAPL)",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:40.772265",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\9438155d63aaa0b663bb1947839947bd73388c5a.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\9438155d63aaa0b663bb1947839947bd73388c5a.txt",
+  "word_count": 340,
+  "paywalled": false,
+  "dedup_hash": "e443b174c17b537853b9e199b762060d3e2772ae",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Apple OR AAPL)",
+  "summary": "Apple celebrated its 50th anniversary with global events and showcases, highlighting its ecosystem's role in cultural innovation and featuring creators across music, art, and film. The company reported strong fiscal first-quarter results, yet its stock price has declined year-to-date.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of positive news regarding Apple's anniversary celebrations and its financial performance, but also includes a slight negative sentiment due to the recent stock price decline.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89,
+        248.8
+      ],
+      "base_price": 246.63,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

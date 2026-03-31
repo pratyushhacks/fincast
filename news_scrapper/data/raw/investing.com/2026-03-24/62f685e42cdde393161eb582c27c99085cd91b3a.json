@@ -1,0 +1,64 @@
+{
+  "id": "62f685e42cdde393161eb582c27c99085cd91b3a",
+  "url": "https://www.investing.com/analysis/postponed-gdp-growth-until-strait-of-hormuz-reopens-and-commerce-recovers-200677110",
+  "site": "investing.com",
+  "title": "Postponed GDP Growth Until Strait of Hormuz Reopens and Commerce Recovers | Investing.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:56.242747",
+  "language": null,
+  "html_path": "data\\raw\\investing.com\\2026-03-24\\62f685e42cdde393161eb582c27c99085cd91b3a.html",
+  "text_path": "data\\raw\\investing.com\\2026-03-24\\62f685e42cdde393161eb582c27c99085cd91b3a.txt",
+  "word_count": 591,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "f666ba5dfeff6766f8efad42b30edbb0466e926a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Iran war and TSA distraction are currently hindering U.S. economic growth, with significant impacts on GDP projections and inflation concerns. However, there is optimism for future growth in technology stocks and potential central bank interest rate cuts.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative economic impacts such as reduced GDP growth, inflationary effects of the Iran war, and concerns over food and energy prices, but also mentions potential positive developments like interest rate cuts and growth in technology stocks.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

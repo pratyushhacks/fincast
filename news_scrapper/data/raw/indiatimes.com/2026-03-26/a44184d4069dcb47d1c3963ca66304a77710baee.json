@@ -1,0 +1,26 @@
+{
+  "id": "a44184d4069dcb47d1c3963ca66304a77710baee",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fund-with-stakes-in-spacex-and-anthropic-jumps-1200-above-asset-value/articleshow/129790954.cms",
+  "site": "indiatimes.com",
+  "title": "Fund with stakes in SpaceX and Anthropic jumps 1,200% above asset value - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:40.773920",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\a44184d4069dcb47d1c3963ca66304a77710baee.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\a44184d4069dcb47d1c3963ca66304a77710baee.txt",
+  "word_count": 805,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "5f46435d2a6b743d90270a8845eaaa5de938ba03",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

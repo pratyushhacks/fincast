@@ -1,0 +1,49 @@
+{
+  "id": "9313a6bc762a95f8b69a2453294a3e90d6c94f17",
+  "url": "https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/",
+  "site": "fortune.com",
+  "title": "DOGE staffer says Elon Musk's cost-cutting agency was unable to lower the federal deficit | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:29.112937",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-17\\9313a6bc762a95f8b69a2453294a3e90d6c94f17.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-17\\9313a6bc762a95f8b69a2453294a3e90d6c94f17.txt",
+  "word_count": 818,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "5a94b98d3f208b9ed9390993ca8196a711f273a7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "DOGE, led by Elon Musk, claimed to cut federal spending but failed to significantly reduce the deficit or federal debt, with spending actually increasing. The department faced legal challenges and was criticized for its management and potential security risks.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative sentiment due to DOGE's failure to achieve its cost-cutting goals and the legal and security issues it faced.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

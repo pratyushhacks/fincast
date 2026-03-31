@@ -1,0 +1,25 @@
+{
+  "id": "2cbfe7079524f4866d42aaa9e1105d1b39d15933",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-powell-downplays-stagflation-risks-despite-oil-shock-says-economy-remains-resilient/articleshow/129669788.cms",
+  "site": "indiatimes.com",
+  "title": "US Stock Market | Powell downplays stagflation risks despite oil shock, says economy remains resilient - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:37.012870",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\2cbfe7079524f4866d42aaa9e1105d1b39d15933.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\2cbfe7079524f4866d42aaa9e1105d1b39d15933.txt",
+  "word_count": 647,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "335ce994fc67784e27e4ec7422eb44f85b443678",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

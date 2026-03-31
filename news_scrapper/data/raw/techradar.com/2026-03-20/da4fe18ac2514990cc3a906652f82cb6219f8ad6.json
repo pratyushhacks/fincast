@@ -1,0 +1,66 @@
+{
+  "id": "da4fe18ac2514990cc3a906652f82cb6219f8ad6",
+  "url": "https://www.techradar.com/pro/googles-signs-data-center-deal-that-comes-with-a-20-year-commitment-to-add-new-clean-power",
+  "site": "techradar.com",
+  "title": "Google signs data center deal which includes a 20-year commitment to add new clean power | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:21.480845",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-20\\da4fe18ac2514990cc3a906652f82cb6219f8ad6.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-20\\da4fe18ac2514990cc3a906652f82cb6219f8ad6.txt",
+  "word_count": 399,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7e804602d7fa31b55693c05fa92afab149560023",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Google signs a 20-year deal with DTE Energy to produce 2.7GW of clean energy for its Michigan data center, with broader implications for local economy and sustainability. The company also introduces a $10 million Energy Impact Fund to support energy affordability initiatives in Michigan.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights a major breakthrough in clean energy production and a significant positive impact on the local economy and sustainability efforts.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        404.88,
+        401.86,
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02
+      ],
+      "base_price": 381.87,
+      "next_price": 383.0,
+      "change_1d": 0.2959,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6b640f9114aebbdfcf6da7c7eafd47a5d5823802",
+  "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+  "site": "wired.com",
+  "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal | WIRED",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:40.480640",
+  "language": null,
+  "html_path": "data\\raw\\wired.com\\2026-03-19\\6b640f9114aebbdfcf6da7c7eafd47a5d5823802.html",
+  "text_path": "data\\raw\\wired.com\\2026-03-19\\6b640f9114aebbdfcf6da7c7eafd47a5d5823802.txt",
+  "word_count": 583,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2309a4ea38bce4735784b7bca834a1d81ded39a0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Walmart and OpenAI are integrating AI to enhance the shopping experience, with a focus on embedded apps for checkout and product research assistance. Sparky, a chatbot, is being developed to be more proactive and helpful across various departments. Walmart aims to support AI tools without dictating their use, while also addressing concerns about reliability and consumer spending patterns.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Walmart's strategic shift towards AI-integrated shopping experiences and the development of Sparky, which indicates a neutral to slightly negative sentiment due to concerns about chatbot reliability and consumer spending."
+}

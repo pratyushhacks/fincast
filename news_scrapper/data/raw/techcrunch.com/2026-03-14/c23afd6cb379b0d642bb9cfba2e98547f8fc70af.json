@@ -1,0 +1,66 @@
+{
+  "id": "c23afd6cb379b0d642bb9cfba2e98547f8fc70af",
+  "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+  "site": "techcrunch.com",
+  "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:05:47.308742",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-14\\c23afd6cb379b0d642bb9cfba2e98547f8fc70af.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-14\\c23afd6cb379b0d642bb9cfba2e98547f8fc70af.txt",
+  "word_count": 736,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "6dcb26b165417a9c47323434381b0685424bdf54",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Tesla",
+  "gdelt_category": "company",
+  "summary": "xAI, originally co-founded with Elon Musk, undergoes a personnel overhaul and faces competition from Anthropic and OpenAI in AI coding tools, amidst a broader industry focus on AI-driven revenue generation.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights Musk's criticism of xAI's performance and the subsequent departure of key personnel, indicating a negative impact on the company's competitive position and internal stability.",
+  "price_changes": {
+    "Tesla": {
+      "ticker": "TSLA",
+      "trend": [
+        405.94,
+        405.55,
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01
+      ],
+      "base_price": 391.2,
+      "next_price": 395.56,
+      "change_1d": 1.1145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

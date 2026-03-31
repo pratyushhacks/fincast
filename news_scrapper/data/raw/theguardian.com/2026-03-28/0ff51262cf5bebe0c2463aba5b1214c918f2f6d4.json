@@ -1,0 +1,64 @@
+{
+  "id": "0ff51262cf5bebe0c2463aba5b1214c918f2f6d4",
+  "url": "https://www.theguardian.com/commentisfree/2026/mar/27/the-guardian-view-on-social-media-in-the-dock-tech-bros-move-fast-society-is-trying-to-catch-up",
+  "site": "theguardian.com",
+  "title": "The Guardian view on social media in the dock: tech bros move fast – society is trying to catch up | Editorial | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:35.806939",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-28\\0ff51262cf5bebe0c2463aba5b1214c918f2f6d4.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-28\\0ff51262cf5bebe0c2463aba5b1214c918f2f6d4.txt",
+  "word_count": 551,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "0cb9b890cd82b22fa682048970f6dfdb261b4fa8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Two US juries found Meta and YouTube liable for harmful content delivery and exploitation, marking a significant victory for campaigners pushing for tech platform accountability, especially regarding children's safety.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the landmark decisions against big tech companies for their role in harmful content delivery and exploitation, indicating a shift towards greater accountability and potential regulatory action.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

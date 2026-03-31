@@ -1,0 +1,26 @@
+{
+  "id": "5add5ef10050891f7a023246324d132a0a50398e",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/indore-fire-incident-how-deadly-mix-of-ev-charging-blast-10-lpg-cylinders-and-electronic-locks-turned-building-into-death-trap-that-killed-8-people/articleshow/129649987.cms",
+  "site": "indiatimes.com",
+  "title": "Indore fire incident: How deadly mix of EV charging blast, 10 LPG cylinders and electronic locks turned building into death trap that killed 8 people - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:49.578659",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\5add5ef10050891f7a023246324d132a0a50398e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\5add5ef10050891f7a023246324d132a0a50398e.txt",
+  "word_count": 681,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "109c91b9fa393a347f9434b1a5fc9c75a4735149",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "7eb9492e1fee798e3e96a7bcc62d0ab130a78367",
+  "url": "https://www.livemint.com/global/how-china-is-quietly-helping-an-isolated-iran-survive-11773882311226.html",
+  "site": "livemint.com",
+  "title": "How China is quietly helping an isolated Iran survive | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:46:07.124751",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-19\\7eb9492e1fee798e3e96a7bcc62d0ab130a78367.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-19\\7eb9492e1fee798e3e96a7bcc62d0ab130a78367.txt",
+  "word_count": 61,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4daa0d003713c59dabe08a71cc19732a975c8305",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "gdelt_category": "macro",
+  "summary": "Chinese companies continue to supply Iran with goods that could have military applications, including components for drones and weapons, amid U.S. sanctions. Chinese satellite firms also engage in business with Iran's military forces.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights ongoing trade between China and Iran that could potentially escalate tensions and has negative implications for U.S. sanctions and geopolitical stability.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        338.6,
+        341.88,
+        329.99,
+        331.12,
+        337.62,
+        340.25,
+        338.29
+      ],
+      "base_price": 340.2,
+      "next_price": 332.51,
+      "change_1d": -2.2604,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

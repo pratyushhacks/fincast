@@ -1,0 +1,67 @@
+{
+  "id": "58431fa735d2d60f62d62ba817a6c9ab42e98052",
+  "url": "https://www.cnbc.com/2026/03/25/elon-musk-calls-for-delaware-judge-to-recuse-in-cases-alleging-bias.html",
+  "site": "cnbc.com",
+  "title": "Elon Musk calls for Delaware judge to recuse in cases alleging bias",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:15.218846",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-26\\58431fa735d2d60f62d62ba817a6c9ab42e98052.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-26\\58431fa735d2d60f62d62ba817a6c9ab42e98052.txt",
+  "word_count": 453,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9bc4fa0d23ac811b13ef4188c2d5f928e0e21e28",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Elon Musk's legal team demands the recusal of Delaware Court Judge Kathaleen McCormick from two Tesla lawsuits due to alleged bias, following a LinkedIn post critical of Musk. The post referenced a significant verdict against Musk and the issue of his CEO pay package. SpaceX's acquisition of xAI, a company Musk started, is also under legal scrutiny.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents negative sentiment due to the legal challenges and controversies surrounding Musk, including a critical LinkedIn post and lawsuits questioning his actions and decisions.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.21,
+      "change_1d": -1.8543,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.12,
+      "change_1d": -1.1624,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

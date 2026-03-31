@@ -1,0 +1,25 @@
+{
+  "id": "645b331ef9485780acdf377799e10c07e10289cf",
+  "url": "https://economictimes.indiatimes.com/news/defence/us-may-escalate-to-de-escalate-against-iran-treasury-chief/articleshow/129736289.cms",
+  "site": "indiatimes.com",
+  "title": "US may 'escalate to de-escalate' against Iran: Treasury chief - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:30.063512",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\645b331ef9485780acdf377799e10c07e10289cf.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\645b331ef9485780acdf377799e10c07e10289cf.txt",
+  "word_count": 461,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "9a36ea3e7fe38671df5ba11a11084e3a8ae03874",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

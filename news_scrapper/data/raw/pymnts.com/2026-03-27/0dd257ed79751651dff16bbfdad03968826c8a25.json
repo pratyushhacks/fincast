@@ -1,0 +1,64 @@
+{
+  "id": "0dd257ed79751651dff16bbfdad03968826c8a25",
+  "url": "https://www.pymnts.com/apple/2026/apple-plans-to-allow-siri-to-access-multiple-ai-assistants/",
+  "site": "pymnts.com",
+  "title": "Apple Says It Will Let Siri Access Multiple AI Assistants",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:32.056545",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-27\\0dd257ed79751651dff16bbfdad03968826c8a25.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-27\\0dd257ed79751651dff16bbfdad03968826c8a25.txt",
+  "word_count": 434,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "5c445bcd799c4338fad7f9b308fff0747678be34",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple plans to update Siri with a new feature called 'Extensions' in iOS 27, allowing it to tap into OpenAI's ChatGPT and other AI services, potentially increasing revenue from third-party app subscriptions. The feature is expected to be unveiled at the WWDC and will make Siri more conversational and AI-driven.",
+  "sentiment": 4,
+  "sentiment_reason": "The integration of new AI features and partnerships with OpenAI and Google indicates a positive development for Apple's AI capabilities and potential revenue streams.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

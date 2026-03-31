@@ -1,0 +1,15 @@
+{
+  "id": "c99871e9db2b929c51e1d728182438ae3d00cdb8",
+  "url": "https://economictimes.indiatimes.com/tech/technology/metas-longtime-content-policy-chief-bickert-leaving-to-teach-at-harvard/articleshow/129879769.cms",
+  "site": "indiatimes.com",
+  "title": "Meta's longtime content policy chief Bickert leaving to teach at Harvard - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:10.324465",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\c99871e9db2b929c51e1d728182438ae3d00cdb8.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\c99871e9db2b929c51e1d728182438ae3d00cdb8.txt",
+  "word_count": 195,
+  "paywalled": false,
+  "dedup_hash": "baa190aa81c17f8c7729010d0ebe775b12cef7e5",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)"
+}

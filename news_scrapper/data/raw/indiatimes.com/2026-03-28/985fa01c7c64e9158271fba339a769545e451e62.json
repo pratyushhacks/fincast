@@ -1,0 +1,28 @@
+{
+  "id": "985fa01c7c64e9158271fba339a769545e451e62",
+  "url": "https://economictimes.indiatimes.com/tech/technology/claude-ai-maker-anthropic-considers-ipo-as-soon-as-october/articleshow/129837524.cms",
+  "site": "indiatimes.com",
+  "title": "Claude AI maker Anthropic considers IPO as soon as October - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:27.879295",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\985fa01c7c64e9158271fba339a769545e451e62.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\985fa01c7c64e9158271fba339a769545e451e62.txt",
+  "word_count": 341,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b1456273b9fbb44527d26ca9966d3648ec4295e1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

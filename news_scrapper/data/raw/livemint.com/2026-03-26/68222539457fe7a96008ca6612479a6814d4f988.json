@@ -1,0 +1,64 @@
+{
+  "id": "68222539457fe7a96008ca6612479a6814d4f988",
+  "url": "https://www.livemint.com/companies/centre-bank-fraud-high-level-meeting-cbi-banks-mule-accounts-prosecution-sanction-delays-prevention-of-corruption-act-11774351436004.html",
+  "site": "livemint.com",
+  "title": "Centre moves to curb bank fraud; calls high-level meeting with CBI, banks to discuss mule accounts, delays | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:37.182598",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-26\\68222539457fe7a96008ca6612479a6814d4f988.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-26\\68222539457fe7a96008ca6612479a6814d4f988.txt",
+  "word_count": 80,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4afdd7b26d8d2558721472080abb5884e292383f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The article discusses the inefficiency of the current system in tackling bank frauds due to delays in sanction under the Prevention of Corruption Act and weak coordination with the Central Bureau of Investigation, which allows fraudsters to stay ahead.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the focus on delays, weak coordination, and the implication that these factors are enabling fraudsters to continue their activities.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34
+      ],
+      "base_price": 49.05,
+      "next_price": 48.4,
+      "change_1d": -1.3252,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.24,
+      "change_1d": -0.7518,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

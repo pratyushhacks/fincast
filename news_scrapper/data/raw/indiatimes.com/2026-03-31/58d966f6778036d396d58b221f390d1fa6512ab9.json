@@ -1,0 +1,15 @@
+{
+  "id": "58d966f6778036d396d58b221f390d1fa6512ab9",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/indias-ev-charging-stations-surge-to-27737-amid-government-initiatives/129857764",
+  "site": "indiatimes.com",
+  "title": "India's EV Charging Stations Surge to 27,737 Amid Government Initiatives, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:21.784635",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\58d966f6778036d396d58b221f390d1fa6512ab9.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\58d966f6778036d396d58b221f390d1fa6512ab9.txt",
+  "word_count": 250,
+  "paywalled": false,
+  "dedup_hash": "fc06aed7ccc420396cc744c833b11c2b631b1584",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles"
+}

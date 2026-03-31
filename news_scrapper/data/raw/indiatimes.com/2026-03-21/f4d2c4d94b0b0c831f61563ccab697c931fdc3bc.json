@@ -1,0 +1,25 @@
+{
+  "id": "f4d2c4d94b0b0c831f61563ccab697c931fdc3bc",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-global-central-banks-turn-hawkish-as-war-driven-energy-shock-clouds-rate-outlook/articleshow/129692010.cms",
+  "site": "indiatimes.com",
+  "title": "Global Market | Global central banks turn hawkish as war-driven energy shock clouds rate outlook - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:24.465225",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\f4d2c4d94b0b0c831f61563ccab697c931fdc3bc.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\f4d2c4d94b0b0c831f61563ccab697c931fdc3bc.txt",
+  "word_count": 758,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "9b04a0bdc5c7c3017c2965df25216f3d353def63",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

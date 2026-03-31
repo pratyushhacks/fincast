@@ -1,0 +1,18 @@
+{
+  "id": "3e079990b8d8fbcbc96b41189f076b453066b90a",
+  "url": "https://www.pymnts.com/news/retail/2026/shopify-debuts-tinker-app-for-ai-powered-store-creation/",
+  "site": "pymnts.com",
+  "title": "Shopify Debuts Tinker App for AI-Powered Stores",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:53.964099",
+  "html_path": "data\\raw\\pymnts.com\\2026-03-31\\3e079990b8d8fbcbc96b41189f076b453066b90a.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-31\\3e079990b8d8fbcbc96b41189f076b453066b90a.txt",
+  "word_count": 652,
+  "paywalled": false,
+  "dedup_hash": "558ce280113131f9d537ea867fec9b33ce36f7c9",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Shopify's Tinker AI tool consolidates over 100 AI models to help merchants create various assets like images and videos with contextual consistency, addressing specific market needs and reducing costs associated with professional photography and inaccurate label generation.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of Tinker represents a positive development for merchants by streamlining the creation process, reducing costs, and ensuring brand consistency across various outputs."
+}

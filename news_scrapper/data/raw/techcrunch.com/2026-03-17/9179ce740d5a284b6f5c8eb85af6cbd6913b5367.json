@@ -1,0 +1,46 @@
+{
+  "id": "9179ce740d5a284b6f5c8eb85af6cbd6913b5367",
+  "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+  "site": "techcrunch.com",
+  "title": "The dictionary sues OpenAI | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:25.268634",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-17\\9179ce740d5a284b6f5c8eb85af6cbd6913b5367.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-17\\9179ce740d5a284b6f5c8eb85af6cbd6913b5367.txt",
+  "word_count": 360,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d307e98fda9d470a010a891909308e3866e51e3b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Encyclopedia Britannica and Merriam-Webster sue OpenAI for copyright infringement, alleging unauthorized use of their articles in training LLMs and false attributions. Similar lawsuits from other publishers against OpenAI exist.",
+  "sentiment": 2,
+  "sentiment_reason": "The lawsuit indicates negative market impact due to copyright infringement allegations and potential financial and legal consequences for OpenAI.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

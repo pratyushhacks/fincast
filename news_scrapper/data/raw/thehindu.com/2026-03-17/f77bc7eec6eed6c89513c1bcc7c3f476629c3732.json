@@ -1,0 +1,66 @@
+{
+  "id": "f77bc7eec6eed6c89513c1bcc7c3f476629c3732",
+  "url": "https://www.thehindu.com/sci-tech/technology/meta-planning-sweeping-layoffs-as-ai-costs-mount/article70748544.ece",
+  "site": "thehindu.com",
+  "title": "Meta planning sweeping layoffs as AI costs mount - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:05.402847",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-17\\f77bc7eec6eed6c89513c1bcc7c3f476629c3732.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-17\\f77bc7eec6eed6c89513c1bcc7c3f476629c3732.txt",
+  "word_count": 490,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "086cd7f64208d4808cd5a007bf76a8fecbb1801e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Meta is planning significant layoffs to offset AI infrastructure costs and prepare for AI-driven efficiency, amidst investments in AI and amidst recent setbacks with its models.",
+  "sentiment": 2,
+  "sentiment_reason": "The layoffs and the need to offset AI costs amidst recent model setbacks reflect negative market impact due to potential operational and financial challenges.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

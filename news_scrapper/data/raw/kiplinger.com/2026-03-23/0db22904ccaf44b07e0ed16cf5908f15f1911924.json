@@ -1,0 +1,64 @@
+{
+  "id": "0db22904ccaf44b07e0ed16cf5908f15f1911924",
+  "url": "https://www.kiplinger.com/retirement/retirement-planning/your-greatest-retirement-risk-uncertainty",
+  "site": "kiplinger.com",
+  "title": "A Market Crash Isn't Your Biggest Retirement Risk — This Is | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:15.110518",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-23\\0db22904ccaf44b07e0ed16cf5908f15f1911924.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-23\\0db22904ccaf44b07e0ed16cf5908f15f1911924.txt",
+  "word_count": 1045,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "3a385156c4f5a10c4e846d95e1b5adeeb9bae194",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the importance of addressing uncertainty in retirement planning, focusing on factors beyond market risk such as income sustainability, taxes, and healthcare costs. It also highlights strategies to limit downside risk while still participating in market gains.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as it provides strategies to manage retirement planning risks and improve income predictability without sacrificing lifestyle or market growth potential.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.25,
+        45.77,
+        45.76,
+        44.06,
+        45.03,
+        46.18,
+        43.87
+      ],
+      "base_price": 44.01,
+      "next_price": 44.06,
+      "change_1d": 0.1136,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

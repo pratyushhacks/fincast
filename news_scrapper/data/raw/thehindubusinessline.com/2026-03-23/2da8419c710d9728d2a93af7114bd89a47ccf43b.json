@@ -1,0 +1,63 @@
+{
+  "id": "2da8419c710d9728d2a93af7114bd89a47ccf43b",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/centre-eases-airline-stress-lifts-fare-caps-weighs-cut-in-airport-charges/article70772570.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Centre eases airline stress; lifts fare caps, weighs cut in airport charges - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:22.262820",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-23\\2da8419c710d9728d2a93af7114bd89a47ccf43b.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-23\\2da8419c710d9728d2a93af7114bd89a47ccf43b.txt",
+  "word_count": 451,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "3e44c8f129d91106e9304ba226107a314b742fa0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "The Indian government is considering measures like reducing statutory charges and removing temporary airfare caps to support airlines amidst high fuel costs and operational pressures. Airlines have been given more flexibility to price tickets in line with market conditions.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as these measures are intended to provide relief to airlines and allow them to better manage yields, despite the ongoing challenges.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74,
+        48.83
+      ],
+      "base_price": 49.27,
+      "next_price": 49.28,
+      "change_1d": 0.0203,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

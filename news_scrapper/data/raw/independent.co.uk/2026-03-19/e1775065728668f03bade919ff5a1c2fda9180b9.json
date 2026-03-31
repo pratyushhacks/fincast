@@ -1,0 +1,67 @@
+{
+  "id": "e1775065728668f03bade919ff5a1c2fda9180b9",
+  "url": "https://www.independent.co.uk/news/world/americas/us-politics/juleanna-glover-epstein-emails-elon-musk-b2941339.html",
+  "site": "independent.co.uk",
+  "title": "Former Elon Musk PR consultant reveals she ‘courted’ Jeffrey Epstein to try and dig up dirt about Trump | The Independent",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:20.096454",
+  "language": null,
+  "html_path": "data\\raw\\independent.co.uk\\2026-03-19\\e1775065728668f03bade919ff5a1c2fda9180b9.html",
+  "text_path": "data\\raw\\independent.co.uk\\2026-03-19\\e1775065728668f03bade919ff5a1c2fda9180b9.txt",
+  "word_count": 1055,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "98ac194fcdd07d21e8373debd09af049d65072cd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Former Elon Musk PR consultant Juleanna Glover allegedly courted Jeffrey Epstein to obtain compromising information about Donald Trump. Glover's actions are under investigation amid Epstein's extensive contacts, including his purported friendship with Trump. Trump, who is not criminally accused, denies any misconduct and claims no connection to Epstein's investigation.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to the alleged attempt to uncover compromising information about a political figure amidst an ongoing investigation, which could imply potential misconduct and scandal.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.24,
+        407.82,
+        395.01,
+        391.2,
+        395.56,
+        399.27,
+        392.78
+      ],
+      "base_price": 380.3,
+      "next_price": 367.96,
+      "change_1d": -3.2448,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

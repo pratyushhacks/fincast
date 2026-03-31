@@ -1,0 +1,54 @@
+{
+  "id": "49b62d71191d0f3e09ccc0ae8e2f11e5a269be5a",
+  "url": "https://www.techradar.com/pro/a-career-can-be-just-as-strong-in-these-fields-of-plumbing-and-electricians-blackrock-boss-says-getting-an-ai-job-shouldnt-be-the-end-goal-for-everyone",
+  "site": "techradar.com",
+  "title": "Larry Fink says electricians and plumbers are the real heroes as AI reshapes jobs and office careers vanish fast | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:51.915835",
+  "html_path": "data\\raw\\techradar.com\\2026-03-31\\49b62d71191d0f3e09ccc0ae8e2f11e5a269be5a.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-31\\49b62d71191d0f3e09ccc0ae8e2f11e5a269be5a.txt",
+  "word_count": 564,
+  "paywalled": false,
+  "dedup_hash": "5b9289793f61f9e84ecdd741c329c4a422fb1eb0",
+  "scraper_version": "0.1",
+  "gdelt_query": "artificial intelligence market",
+  "summary": "Larry Fink, CEO of BlackRock, criticizes the undervaluation of skilled trades and highlights the strong demand for such professions amid AI growth. He also discusses the energy cost challenge for AI infrastructure and the potential economic impact of the US-Iran conflict on oil prices.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive aspects of skilled trades and AI growth demand, with a focus on the need for societal rebalancing and investment in solar energy for AI, despite the mention of potential negative economic implications from the US-Iran conflict.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        34.88,
+        33.6,
+        34.24,
+        33.82,
+        34.38,
+        33.29,
+        32.46
+      ],
+      "base_price": 31.99,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

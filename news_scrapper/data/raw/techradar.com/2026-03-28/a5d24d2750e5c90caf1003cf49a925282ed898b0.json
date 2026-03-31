@@ -1,0 +1,65 @@
+{
+  "id": "a5d24d2750e5c90caf1003cf49a925282ed898b0",
+  "url": "https://www.techradar.com/pro/dont-tell-the-boss-i-found-the-12-best-hybrid-office-and-gaming-chairs-in-amazons-big-spring-sale",
+  "site": "techradar.com",
+  "title": "Top 12 hybrid office & gaming chairs in Amazon's Spring Sale | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:43.024982",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-28\\a5d24d2750e5c90caf1003cf49a925282ed898b0.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-28\\a5d24d2750e5c90caf1003cf49a925282ed898b0.txt",
+  "word_count": 224,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "288ff5752052d16ec7857e1fea0067b9ec092ef2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The article reviews various gaming and office chairs available during Amazon's Big Spring Sale, highlighting the Eureka Ergononic Typhon as a top choice due to its balanced design and comfort, suitable for both gaming and professional video calls.",
+  "sentiment": 4,
+  "sentiment_reason": "The review focuses on the positive aspects of the chairs, such as comfort and suitability for multiple uses, and mentions a highly-rated chair, contributing to a positive market impact.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54
+      ],
+      "base_price": 199.34,
+      "next_price": 200.95,
+      "change_1d": 0.8077,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "49fa52d3cad5a8e7e8e24b90641903d2441ff397",
+  "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+  "site": "techcrunch.com",
+  "title": "OpenAI's plans to make ChatGPT more like Amazon aren't going so well | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:35.148396",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-26\\49fa52d3cad5a8e7e8e24b90641903d2441ff397.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-26\\49fa52d3cad5a8e7e8e24b90641903d2441ff397.txt",
+  "word_count": 453,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "dd9a7ece4e9fdf87b7d8b40eb4419c0516c626f7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI is shifting its strategy from a standalone e-commerce feature in ChatGPT to a product information hub, focusing on consumer research rather than direct purchases.",
+  "sentiment": 3,
+  "sentiment_reason": "The change represents a neutral market impact as it deprioritizes the e-commerce feature but still provides a valuable service by becoming a centralized hub for consumer information."
+}

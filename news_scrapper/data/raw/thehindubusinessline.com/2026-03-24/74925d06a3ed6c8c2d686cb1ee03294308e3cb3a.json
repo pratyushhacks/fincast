@@ -1,0 +1,64 @@
+{
+  "id": "74925d06a3ed6c8c2d686cb1ee03294308e3cb3a",
+  "url": "https://www.thehindubusinessline.com/markets/forex/rupee-breaches-94-for-first-time-hits-fresh-record-low/article70775262.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Rupee breaches 94/$ for first time, hits fresh record low - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:47.042459",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\74925d06a3ed6c8c2d686cb1ee03294308e3cb3a.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\74925d06a3ed6c8c2d686cb1ee03294308e3cb3a.txt",
+  "word_count": 338,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4c8106c2042250c31daf3143b9dad7d1ac3ade30",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "The rupee hit a new record low against the dollar due to escalating global crude prices, geopolitical tensions, and significant foreign fund outflows. Domestic equity markets also suffered a major crash.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a negative market impact with a strong negative sentiment due to the rupee's record low, geopolitical tensions, and a major crash in the stock market.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.89,
+        27.73,
+        27.68,
+        27.85,
+        27.58,
+        27.68,
+        27.56
+      ],
+      "base_price": 27.65,
+      "next_price": 27.7,
+      "change_1d": 0.1808,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f1f3f204c806c2d3f0a53937e341255d6b99c2ec",
+  "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+  "site": "techcrunch.com",
+  "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:14.648109",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-28\\f1f3f204c806c2d3f0a53937e341255d6b99c2ec.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-28\\f1f3f204c806c2d3f0a53937e341255d6b99c2ec.txt",
+  "word_count": 160,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "f0143a7b35d40b4324055ebf1b9a37a5d150424d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "SoftBank secures a $40 billion unsecured loan to potentially cover its $30 billion investment in OpenAI amidst the latter's record-breaking $110 billion raise, with the loan possibly signaling an anticipated public listing.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the context of SoftBank's strategic move to secure a loan that could facilitate a significant investment in a company (OpenAI) that is experiencing a major financial event (record-breaking raise), with the loan potentially being a strategic move in anticipation of a major public listing."
+}

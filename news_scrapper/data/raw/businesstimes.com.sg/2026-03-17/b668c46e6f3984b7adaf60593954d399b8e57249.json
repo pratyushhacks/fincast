@@ -1,0 +1,63 @@
+{
+  "id": "b668c46e6f3984b7adaf60593954d399b8e57249",
+  "url": "https://www.businesstimes.com.sg/international/us-industrial-production-increases-factory-mining-output",
+  "site": "businesstimes.com.sg",
+  "title": "US industrial production increases on factory, mining output - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:45.387300",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\b668c46e6f3984b7adaf60593954d399b8e57249.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\b668c46e6f3984b7adaf60593954d399b8e57249.txt",
+  "word_count": 305,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "167cea85e40891e4c7d082bc9c03d5ce3357f5b5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "US industrial production modestly rose in February, with manufacturing and mining output gains. Manufacturing output increased due to higher motor vehicle assemblies, while mining and energy extraction saw an increase. Utility output fell, and factory employment declined. Tariffs and the war in Iran are affecting costs and prices.",
+  "sentiment": 2,
+  "sentiment_reason": "The article reports modest increases in US industrial production and manufacturing output, but also highlights ongoing factory employment declines and the negative impact of tariffs and rising energy prices.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

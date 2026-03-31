@@ -1,0 +1,64 @@
+{
+  "id": "7ba7d89988d1b337b950fc9ea80dd21e7856fa6e",
+  "url": "https://www.livemint.com/money/personal-finance/retiring-soon-5-practical-steps-to-help-ensure-long-term-financial-security-11774355054483.html",
+  "site": "livemint.com",
+  "title": "Retiring soon? 5 practical steps to help ensure long-term financial security | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:02.785755",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-26\\7ba7d89988d1b337b950fc9ea80dd21e7856fa6e.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-26\\7ba7d89988d1b337b950fc9ea80dd21e7856fa6e.txt",
+  "word_count": 258,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4b1d0c2b3626bbd805e9c291c1b34e2707d4eb33",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector",
+  "summary": "Retirement is a significant life transition that requires a well-planned financial strategy to ensure a comfortable lifestyle and fulfillment of personal goals. In India, retirement typically occurs after age 60, and without proper planning, it can lead to financial stress despite the freedom it promises.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral sentiment as it discusses the importance of retirement planning and the potential consequences of not having one, without focusing on any specific market events or outcomes.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        149.03,
+        146.54,
+        146.01,
+        144.74,
+        144.77,
+        144.79,
+        146.24
+      ],
+      "base_price": 145.74,
+      "next_price": 144.81,
+      "change_1d": -0.6381,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.19,
+      "change_1d": -0.7596,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

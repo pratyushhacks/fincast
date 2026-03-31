@@ -1,0 +1,65 @@
+{
+  "id": "d9f9533b75569ce9a29ecd34c52ceaec9d879724",
+  "url": "https://www.livemint.com/companies/news/wells-fargos-ai-boss-just-told-bankers-exactly-how-not-to-get-replaced-by-evolving-tech-11773622278499.html",
+  "site": "livemint.com",
+  "title": "Wells Fargo's AI boss tells employees how not to get replaced by evolving tech | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:42.956758",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-17\\d9f9533b75569ce9a29ecd34c52ceaec9d879724.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-17\\d9f9533b75569ce9a29ecd34c52ceaec9d879724.txt",
+  "word_count": 593,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "487b8cfe50011b1e23f85d3ebdef02034f9fef59",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Wells Fargo's AI head promotes AI literacy to prepare employees for tech integration and changing roles amidst AI advancements, without mandating AI tool use, as the bank invests in AI for growth post-Fed's asset cap lift.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Wells Fargo's proactive approach to AI adoption and employee skill development, which indicates a neutral to slightly negative sentiment due to the implied pressure on employees to adapt to AI without direct mandates.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        36.09,
+        36.09,
+        36.28,
+        36.3,
+        35.59,
+        34.83,
+        35.39
+      ],
+      "base_price": 35.38,
+      "next_price": 34.85,
+      "change_1d": -1.498,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

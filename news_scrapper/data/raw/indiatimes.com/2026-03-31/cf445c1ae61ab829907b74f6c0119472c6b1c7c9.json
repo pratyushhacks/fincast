@@ -1,0 +1,15 @@
+{
+  "id": "cf445c1ae61ab829907b74f6c0119472c6b1c7c9",
+  "url": "https://economictimes.indiatimes.com/industry/renewables/some-pm-kusum-projects-get-extension-till-march-27/articleshow/129886791.cms",
+  "site": "indiatimes.com",
+  "title": "Some PM KUSUM projects get extension till March 2027 - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:46.340683",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\cf445c1ae61ab829907b74f6c0119472c6b1c7c9.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\cf445c1ae61ab829907b74f6c0119472c6b1c7c9.txt",
+  "word_count": 271,
+  "paywalled": false,
+  "dedup_hash": "d94b93f5d86bcdbb3ba4cad8d39d7ac29674fe6f",
+  "scraper_version": "0.1",
+  "gdelt_query": "financial sector"
+}

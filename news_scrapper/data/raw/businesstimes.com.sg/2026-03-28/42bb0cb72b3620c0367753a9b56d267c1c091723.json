@@ -1,0 +1,65 @@
+{
+  "id": "42bb0cb72b3620c0367753a9b56d267c1c091723",
+  "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/softbank-secures-us40-billion-loan-boost-openai-investments",
+  "site": "businesstimes.com.sg",
+  "title": "SoftBank secures US$40 billion loan to boost OpenAI investments  - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:32.639986",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-28\\42bb0cb72b3620c0367753a9b56d267c1c091723.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-28\\42bb0cb72b3620c0367753a9b56d267c1c091723.txt",
+  "word_count": 273,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d60f5e18114595679b2a4ecf67577e1af45239ce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "SoftBank Group secured a US$40 billion bridge loan for investments in OpenAI and general corporate purposes, amidst a competitive AI market and previous significant investments in the company. OpenAI has gained prominence with the adoption of ChatGPT, leading to increased investments in the sector.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive due to the secured bridge loan for investments in a leading AI company and the context of increased investments and competition in the AI sector.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97
+      ],
+      "base_price": 356.77,
+      "next_price": 358.96,
+      "change_1d": 0.6138,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

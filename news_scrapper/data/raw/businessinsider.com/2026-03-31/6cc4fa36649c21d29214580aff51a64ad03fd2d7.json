@@ -1,0 +1,54 @@
+{
+  "id": "6cc4fa36649c21d29214580aff51a64ad03fd2d7",
+  "url": "https://www.businessinsider.com/charts-show-how-highest-lowest-earners-spend-money-2026-3",
+  "site": "businessinsider.com",
+  "title": "Charts Show How the Highest and Lowest Earners Spend Their Money - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:15.893508",
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-31\\6cc4fa36649c21d29214580aff51a64ad03fd2d7.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-31\\6cc4fa36649c21d29214580aff51a64ad03fd2d7.txt",
+  "word_count": 518,
+  "paywalled": false,
+  "dedup_hash": "5a019431f97d41a1919563b71d84501569f61e61",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "Lower-income Americans are struggling with rising costs and slowing wage growth, potentially leading to cutbacks in discretionary spending due to the impact of the Middle East conflict on energy and food prices.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact on lower-income Americans due to economic challenges and rising costs, which may lead to reduced consumer spending.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

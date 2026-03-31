@@ -1,0 +1,65 @@
+{
+  "id": "60c305899743be3b0f7715c1d9f022128bd4a6ce",
+  "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-creates-ai-tool-companies-ride-china-agent-craze",
+  "site": "businesstimes.com.sg",
+  "title": "Alibaba creates AI tool for companies to ride China agent craze - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:33.276263",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\60c305899743be3b0f7715c1d9f022128bd4a6ce.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\60c305899743be3b0f7715c1d9f022128bd4a6ce.txt",
+  "word_count": 380,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "7872d51e73f6c7617db138f96e8c2597bfa53976",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Alibaba Group Holding plans to release an agentic AI service for companies, leveraging its investment in AI services and the popularity of AI assistants like OpenClaw. The tool, based on the Qwen model, will help firms operate computers and servers with data security features. Integration with Taobao and Alipay is planned. Alibaba is also addressing AI strategy questions following a developer's departure and amidst its quarterly earnings report.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Alibaba's strategic move in the AI market and its product development, which indicates a neutral to slightly negative sentiment due to the recent developer's departure and the company's need to clarify its AI strategy amidst financial reporting.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.17,
+        113.67,
+        112.36,
+        113.35,
+        111.72,
+        111.65,
+        112.56
+      ],
+      "base_price": 113.49,
+      "next_price": 113.26,
+      "change_1d": -0.2027,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

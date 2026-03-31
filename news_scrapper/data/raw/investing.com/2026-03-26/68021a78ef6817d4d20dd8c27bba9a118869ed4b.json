@@ -1,0 +1,65 @@
+{
+  "id": "68021a78ef6817d4d20dd8c27bba9a118869ed4b",
+  "url": "https://www.investing.com/analysis/what-q1-earnings-could-mean-for-the-sp-500-uptrend-200677223",
+  "site": "investing.com",
+  "title": "What Q1 Earnings Could Mean for the S&P 500 Uptrend | Investing.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:36.393935",
+  "language": null,
+  "html_path": "data\\raw\\investing.com\\2026-03-26\\68021a78ef6817d4d20dd8c27bba9a118869ed4b.html",
+  "text_path": "data\\raw\\investing.com\\2026-03-26\\68021a78ef6817d4d20dd8c27bba9a118869ed4b.txt",
+  "word_count": 683,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "db9f38ffcf6e9ffb90786b3b131ad73a98c3cc12",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "The Q1 2026 earnings season is expected to be positive with strong growth forecasts, particularly in the IT sector, and guidance suggesting continued high-teens earnings growth through the year's end.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook with strong earnings growth forecasts, particularly in the IT sector, and guidance for continued high-teens earnings growth, indicating a positive market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68
+      ],
+      "base_price": 171.24,
+      "next_price": 168.71,
+      "change_1d": -1.4775,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.32,
+      "change_1d": -1.1276,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

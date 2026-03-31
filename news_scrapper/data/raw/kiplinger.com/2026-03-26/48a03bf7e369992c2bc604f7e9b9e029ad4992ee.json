@@ -1,0 +1,64 @@
+{
+  "id": "48a03bf7e369992c2bc604f7e9b9e029ad4992ee",
+  "url": "https://www.kiplinger.com/business/how-to-start-a-business/when-starting-a-business-consider-the-end",
+  "site": "kiplinger.com",
+  "title": "Setting Up a Business: The End Is a Very Good Place to Start | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:33.291251",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-26\\48a03bf7e369992c2bc604f7e9b9e029ad4992ee.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-26\\48a03bf7e369992c2bc604f7e9b9e029ad4992ee.txt",
+  "word_count": 1738,
+  "reading_time_minutes": 8,
+  "paywalled": false,
+  "dedup_hash": "15c1aecf67b94d038080c456ca5a5e16eb137d44",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the importance of considering the structure and tax implications of a new business, including the different types of business entities and their respective tax effects, as well as the tax consequences of selling the business.",
+  "sentiment": 3,
+  "sentiment_reason": "The article provides neutral information that is essential for business planning and decision-making, without expressing a clearly positive or negative sentiment.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.36,
+      "change_1d": -1.678,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.32,
+      "change_1d": -1.1276,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

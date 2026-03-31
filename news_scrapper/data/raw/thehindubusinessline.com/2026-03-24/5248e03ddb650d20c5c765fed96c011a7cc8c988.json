@@ -1,0 +1,65 @@
+{
+  "id": "5248e03ddb650d20c5c765fed96c011a7cc8c988",
+  "url": "https://www.thehindubusinessline.com/markets/commodities/mcx-gold-drops-below-9-week-ema-silver-extends-losing-streak/article70774828.ece",
+  "site": "thehindubusinessline.com",
+  "title": "MCX gold and silver hit multi-week lows amid rising US rates and West Asia conflict - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:38.862506",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\5248e03ddb650d20c5c765fed96c011a7cc8c988.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\5248e03ddb650d20c5c765fed96c011a7cc8c988.txt",
+  "word_count": 595,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6b25440a663fdaefcea13515187f15a280ae8056",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Higher inflation and USD strength, coupled with the ongoing West Asia conflict, are causing downward pressure on gold and silver prices, affecting domestic consumption and exports.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market impacts such as rate hikes, inflation fears, and the strengthening of the USD, which are overwhelming any safe-haven support from the conflict.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

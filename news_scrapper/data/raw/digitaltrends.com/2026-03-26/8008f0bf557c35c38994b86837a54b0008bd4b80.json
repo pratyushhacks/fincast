@@ -1,0 +1,65 @@
+{
+  "id": "8008f0bf557c35c38994b86837a54b0008bd4b80",
+  "url": "https://www.digitaltrends.com/movies/warner-disney-and-nbc-are-fighting-google-apple-over-control-of-your-smart-tvs/",
+  "site": "digitaltrends.com",
+  "title": "Warner, Disney, and NBC are fighting Google & Apple over control of your smart TVs - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:24.169695",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-26\\8008f0bf557c35c38994b86837a54b0008bd4b80.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-26\\8008f0bf557c35c38994b86837a54b0008bd4b80.txt",
+  "word_count": 413,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "373f91a7e544ad4471aee5f7df5c3339b8ac11cc",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Major broadcasters are lobbying for European regulators to classify smart TV platforms as gatekeepers under the DMA, citing concerns over control of content distribution and visibility. This move could potentially alter how content is surfaced and who controls what viewers see on their smart TVs.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses broadcasters' concerns over tech giants controlling content distribution and visibility on smart TVs, which could lead to negative market impacts due to potential regulatory changes and disputes.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93
+      ],
+      "base_price": 280.92,
+      "next_price": 278.57,
+      "change_1d": -0.8365,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.19,
+      "change_1d": -1.1502,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

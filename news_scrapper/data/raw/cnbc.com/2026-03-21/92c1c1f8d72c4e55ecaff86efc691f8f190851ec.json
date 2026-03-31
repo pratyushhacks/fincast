@@ -1,0 +1,65 @@
+{
+  "id": "92c1c1f8d72c4e55ecaff86efc691f8f190851ec",
+  "url": "https://www.cnbc.com/2026/03/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+  "site": "cnbc.com",
+  "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:34.803634",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-21\\92c1c1f8d72c4e55ecaff86efc691f8f190851ec.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-21\\92c1c1f8d72c4e55ecaff86efc691f8f190851ec.txt",
+  "word_count": 590,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "3d85cdff5287c70d08e6cea94d18c9f64bd201ac",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Stock futures decline amidst volatility from a quadruple witching event, while individual stock movements vary with Dell gaining from Super Micro's legal issues, FedEx's earnings outperforming expectations, and mixed sentiments around Alibaba and Verizon.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of negative and positive news with some clear market impacts, but overall, the market events and individual stock movements are varied and not uniformly negative or positive.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

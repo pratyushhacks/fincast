@@ -1,0 +1,64 @@
+{
+  "id": "62f9eeda4d2ad222462927e7bec28c7bdb1fe41d",
+  "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-19-march-cummins-india-infosys-hindustan-unilever-nifty-sensex-11773846812422.html",
+  "site": "livemint.com",
+  "title": "Stocks to buy: Raja Venkatraman recommends three stocks for 19 March | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:47.247502",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-19\\62f9eeda4d2ad222462927e7bec28c7bdb1fe41d.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-19\\62f9eeda4d2ad222462927e7bec28c7bdb1fe41d.txt",
+  "word_count": 112,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6476e9f3949912747914d83e3a6197f7a37419c9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Infosys Ltd, a global IT services company, is recommended to short due to ongoing sector pressure and resistance to rallies. The stock faces potential selling pressure if market sentiment turns negative.",
+  "sentiment": 2,
+  "sentiment_reason": "The recommendation to short Infosys Ltd is based on the ongoing pressure on the IT sector and the stock's inability to sustain rallies, indicating negative market sentiment.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        112.36,
+        113.35,
+        111.72,
+        111.65,
+        112.56,
+        113.49,
+        113.26
+      ],
+      "base_price": 113.63,
+      "next_price": 111.44,
+      "change_1d": -1.9273,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

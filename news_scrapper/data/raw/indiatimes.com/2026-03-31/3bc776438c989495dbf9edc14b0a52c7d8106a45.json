@@ -1,0 +1,15 @@
+{
+  "id": "3bc776438c989495dbf9edc14b0a52c7d8106a45",
+  "url": "https://auto.economictimes.indiatimes.com/news/auto-components/sun-mobility-achieves-indias-first-ais-038-certification-for-swappable-ev-battery-platform/129895309",
+  "site": "indiatimes.com",
+  "title": "SUN Mobility Achieves India's First AIS-038 Certification for Swappable EV Battery Platform, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:17.674563",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\3bc776438c989495dbf9edc14b0a52c7d8106a45.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\3bc776438c989495dbf9edc14b0a52c7d8106a45.txt",
+  "word_count": 281,
+  "paywalled": false,
+  "dedup_hash": "f7c7ff9104a2dce9e0e200acc53c28d7069308de",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles"
+}

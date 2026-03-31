@@ -1,0 +1,64 @@
+{
+  "id": "c224b79019a0623125d5eb516c44c63d449c7531",
+  "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-fuel-rates-26-march-delhi-mumbai-bengaluru-kolkata-lpg-gas-brent-crude-oil-price-11774489079767.html",
+  "site": "livemint.com",
+  "title": "Petrol, diesel prices in your city today: Check fuel rates on 26 March — Delhi, Mumbai, Bengaluru, others | Today News",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:36.524913",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-27\\c224b79019a0623125d5eb516c44c63d449c7531.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-27\\c224b79019a0623125d5eb516c44c63d449c7531.txt",
+  "word_count": 565,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7b3306ab27fdba28a4afbe0ad7761cb2d24c59d1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Despite global tensions and disruptions in the Middle East, India's fuel prices have remained stable due to diversified crude oil sourcing and government assurances of adequate stocks. However, LPG supply faces disruptions, and there's a noted impact on LNG supplies due to facility damages in Qatar.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral market impact as it discusses both the stability of fuel prices and the challenges faced due to supply disruptions without indicating a significant negative or positive market trend.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        121.67,
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26
+      ],
+      "base_price": 124.2,
+      "next_price": 129.83,
+      "change_1d": 4.533,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

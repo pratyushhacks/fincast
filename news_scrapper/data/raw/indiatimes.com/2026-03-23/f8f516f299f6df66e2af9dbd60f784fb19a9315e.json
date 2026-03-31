@@ -1,0 +1,25 @@
+{
+  "id": "f8f516f299f6df66e2af9dbd60f784fb19a9315e",
+  "url": "https://economictimes.indiatimes.com/news/international/canada/quebec-court-bars-two-men-from-sperm-donation-after-claims-of-hundreds-of-offspring/articleshow/129730794.cms",
+  "site": "indiatimes.com",
+  "title": "Quebec court bars two men from sperm donation after claims of hundreds of offspring - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:13.568620",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\f8f516f299f6df66e2af9dbd60f784fb19a9315e.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\f8f516f299f6df66e2af9dbd60f784fb19a9315e.txt",
+  "word_count": 318,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "8ca1afea7ad4dd8c9fc9945948931967d83699fd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

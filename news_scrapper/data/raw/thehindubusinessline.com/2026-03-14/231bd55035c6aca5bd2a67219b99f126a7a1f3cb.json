@@ -1,0 +1,64 @@
+{
+  "id": "231bd55035c6aca5bd2a67219b99f126a7a1f3cb",
+  "url": "https://www.thehindubusinessline.com/info-tech/apples-macbook-neo-rated-most-repairable-mac-since-2014-by-ifixit/article70741678.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Apple MacBook Neo most repairable Mac since 2014, iFixit finds - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:54:07.902986",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\231bd55035c6aca5bd2a67219b99f126a7a1f3cb.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\231bd55035c6aca5bd2a67219b99f126a7a1f3cb.txt",
+  "word_count": 417,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "ea29662805f818d63d7985fb7e2f1036c61834cd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Apple",
+  "gdelt_category": "company",
+  "summary": "Apple's MacBook Neo, priced at $499 for students, is the most repairable laptop Apple has released since 2014, scoring a 6 out of 10 on iFixit's repairability scale. However, its future in running complex AI applications may be limited due to the direct soldering of 8GB DRAM to the circuit board.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a negative sentiment due to concerns about the MacBook Neo's future in AI applications, despite its high repairability.",
+  "price_changes": {
+    "Apple": {
+      "ticker": "AAPL",
+      "trend": [
+        262.52,
+        260.29,
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76
+      ],
+      "base_price": 250.12,
+      "next_price": 252.82,
+      "change_1d": 1.0795,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

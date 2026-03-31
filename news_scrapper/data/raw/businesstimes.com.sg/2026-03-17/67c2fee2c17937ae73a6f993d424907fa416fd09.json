@@ -1,0 +1,47 @@
+{
+  "id": "67c2fee2c17937ae73a6f993d424907fa416fd09",
+  "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-plans-major-revamp-heighten-focus-ai-profits",
+  "site": "businesstimes.com.sg",
+  "title": "Alibaba plans major revamp to heighten focus on AI profits - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:29.457254",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\67c2fee2c17937ae73a6f993d424907fa416fd09.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\67c2fee2c17937ae73a6f993d424907fa416fd09.txt",
+  "word_count": 793,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "723305782035c47a6ddf027a359fdb17c2078a36",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Alibaba Group is consolidating its AI services under a new unit to focus on monetizing AI, amidst challenges in profit translation and competition with Western rivals.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the company's struggle to monetize AI effectively and compete with Western rivals.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

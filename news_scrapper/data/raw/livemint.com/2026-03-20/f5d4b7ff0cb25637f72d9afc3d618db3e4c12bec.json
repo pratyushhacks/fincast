@@ -1,0 +1,66 @@
+{
+  "id": "f5d4b7ff0cb25637f72d9afc3d618db3e4c12bec",
+  "url": "https://www.livemint.com/market/ipo/sbi-amundi-stake-sale-mutual-fund-ipo-market-conditions-challenges-opportunities-11773937055193.html",
+  "site": "livemint.com",
+  "title": "SBI, Amundi to offload 10% in SBI Funds IPO, no fresh shares to be issued | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:49:04.258541",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-20\\f5d4b7ff0cb25637f72d9afc3d618db3e4c12bec.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-20\\f5d4b7ff0cb25637f72d9afc3d618db3e4c12bec.txt",
+  "word_count": 602,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "9ee147dd10d898629d5cc0b9bb5c3311b0bc3192",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "SBI Funds Management Ltd, India's largest asset manager, is planning an IPO with a valuation range of $12-14 billion, amidst a slowdown in India's capital market performance. The IPO involves joint venture partners SBI and Amundi SA offering a significant stake in the company.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents information about an IPO and market performance without indicating a strong negative or positive impact on the market.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "c6afe2c86d421425f712cba9c042ec93167f3073",
+  "url": "https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism",
+  "site": "theguardian.com",
+  "title": "Stocks rise and oil dips on hopes of 15-point Iran peace plan | Stock markets | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:17.139271",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-26\\c6afe2c86d421425f712cba9c042ec93167f3073.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-26\\c6afe2c86d421425f712cba9c042ec93167f3073.txt",
+  "word_count": 705,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "0f2e68d937bf2f8deb6eb2f4f15571bbcfaacae4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Oil prices and stock markets react positively to reports of US peace framework sent to Iran and Iran's allowance of non-hostile ships to pass through Hormuz, amidst the largest disruption to oil supply.",
+  "sentiment": 4,
+  "sentiment_reason": "The market is responding to potential easing of the oil supply squeeze and the prospect of a ceasefire, which are positive indicators for global trade and stability.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        118.84,
+        121.67,
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39
+      ],
+      "base_price": 117.26,
+      "next_price": 122.31,
+      "change_1d": 4.3067,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.21,
+      "change_1d": -0.7565,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

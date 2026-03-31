@@ -1,0 +1,63 @@
+{
+  "id": "aa317e68dbd534e2798f3e9dc600b7179609983b",
+  "url": "https://www.businessinsider.com/oil-prices-outlook-2008-financial-crisis-economic-impact-iran-war-2026-3",
+  "site": "businessinsider.com",
+  "title": "Oil Prices Could Soon Break 2008 Records: Top Energy Consultant - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:46:01.801557",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-19\\aa317e68dbd534e2798f3e9dc600b7179609983b.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-19\\aa317e68dbd534e2798f3e9dc600b7179609983b.txt",
+  "word_count": 509,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "d628719ce27cb69baa6987f1a444fd8fc427d1c2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Oil prices may surpass 2008 highs due to supply disruptions from the Iran war, potentially causing economic pain if prices rise too much.",
+  "sentiment": 2,
+  "sentiment_reason": "Market fears over the impact of higher oil prices, with potential for economic data to be affected once prices peak.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        105.86,
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67
+      ],
+      "base_price": 117.36,
+      "next_price": 121.43,
+      "change_1d": 3.468,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

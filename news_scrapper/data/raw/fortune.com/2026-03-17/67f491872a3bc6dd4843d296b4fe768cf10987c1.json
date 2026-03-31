@@ -1,0 +1,63 @@
+{
+  "id": "67f491872a3bc6dd4843d296b4fe768cf10987c1",
+  "url": "https://fortune.com/2026/03/16/peter-thiel-antichrist-theory-rome-lectures-vatican-response/",
+  "site": "fortune.com",
+  "title": "Peter Thiel warns of the Antichrist threat during Rome lectures | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:51.045165",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-17\\67f491872a3bc6dd4843d296b4fe768cf10987c1.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-17\\67f491872a3bc6dd4843d296b4fe768cf10987c1.txt",
+  "word_count": 810,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "dacd7d030fb86bf5b6c8327f471eb4bff6d15b77",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"AI regulation\"",
+  "gdelt_category": "macro",
+  "summary": "Peter Thiel discusses the Antichrist in tech context, blending theology with AI risks, facing backlash in Italy and Vatican.",
+  "sentiment": 2,
+  "sentiment_reason": "Thiel's controversial theological stance on AI and Antichrist draws negative sentiment due to political and religious pushback.",
+  "price_changes": {
+    "\"AI regulation\"": {
+      "ticker": "BOTZ",
+      "trend": [
+        36.09,
+        36.09,
+        36.28,
+        36.3,
+        35.59,
+        34.83,
+        35.39
+      ],
+      "base_price": 35.38,
+      "next_price": 34.85,
+      "change_1d": -1.498,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

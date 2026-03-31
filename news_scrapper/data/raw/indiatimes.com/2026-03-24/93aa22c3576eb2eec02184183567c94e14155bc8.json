@@ -1,0 +1,24 @@
+{
+  "id": "93aa22c3576eb2eec02184183567c94e14155bc8",
+  "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/bot-snub-rs-22000-crore-highway-projects-fail-to-attract-bids/articleshow/129761609.cms",
+  "site": "indiatimes.com",
+  "title": "BOT snub: Rs 22,000 crore highway projects fail to attract bids - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:33.480246",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\93aa22c3576eb2eec02184183567c94e14155bc8.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\93aa22c3576eb2eec02184183567c94e14155bc8.txt",
+  "word_count": 351,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4501220307ee151200ac7f8a13034d41c94f3132",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

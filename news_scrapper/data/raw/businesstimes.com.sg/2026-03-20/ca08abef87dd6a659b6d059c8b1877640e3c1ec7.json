@@ -1,0 +1,65 @@
+{
+  "id": "ca08abef87dd6a659b6d059c8b1877640e3c1ec7",
+  "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-holds-rates-steady-warns-iran-war-impact-inflation-outlook",
+  "site": "businesstimes.com.sg",
+  "title": "BOJ holds rates steady, warns of Iran war impact on inflation - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:47.540986",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-20\\ca08abef87dd6a659b6d059c8b1877640e3c1ec7.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-20\\ca08abef87dd6a659b6d059c8b1877640e3c1ec7.txt",
+  "word_count": 647,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "b4ce47b1349ff8b9440a15bf9de89a5af4c40c84",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "The Bank of Japan maintained its interest rates amidst rising oil costs due to the Middle East conflict, with dissenting hawkish board members suggesting inflation could hit its target faster than expected.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral market impact as it discusses the central bank's decision and dissenting opinions without clear indication of immediate negative or positive market consequences.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        108.05,
+        118.39,
+        119.89,
+        115.03,
+        118.84,
+        121.67,
+        117.36
+      ],
+      "base_price": 121.43,
+      "next_price": 110.56,
+      "change_1d": -8.9517,
+      "bucket_1d": "strong_down",
+      "magnitude": "large"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

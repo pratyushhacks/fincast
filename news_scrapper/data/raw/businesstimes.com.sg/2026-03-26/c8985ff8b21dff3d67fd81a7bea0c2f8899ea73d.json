@@ -1,0 +1,66 @@
+{
+  "id": "c8985ff8b21dff3d67fd81a7bea0c2f8899ea73d",
+  "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/arm-sell-its-own-chips-eyeing-sales-goal-us15-billion",
+  "site": "businesstimes.com.sg",
+  "title": "Arm to sell its own chips, eyeing sales goal of US$15 billion - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:42.575530",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\c8985ff8b21dff3d67fd81a7bea0c2f8899ea73d.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-26\\c8985ff8b21dff3d67fd81a7bea0c2f8899ea73d.txt",
+  "word_count": 935,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "8c2c7976bdf19f83d5f7640a1baef8e9b31bb08a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Arm Holdings will start selling its own chips, the AGI CPU, aiming for a new business that could generate about US$15 billion annually within five years. This move targets major customers like Meta Platforms and is expected to significantly expand Arm's market reach, challenging traditional x86 data centre products.",
+  "sentiment": 5,
+  "sentiment_reason": "The article describes a major strategic shift for Arm Holdings with the introduction of a new chip business that is expected to grow significantly and capture a large share of the data centre market, which is a strong positive development for the company.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68
+      ],
+      "base_price": 171.24,
+      "next_price": 168.38,
+      "change_1d": -1.6702,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.1,
+      "change_1d": -1.1659,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

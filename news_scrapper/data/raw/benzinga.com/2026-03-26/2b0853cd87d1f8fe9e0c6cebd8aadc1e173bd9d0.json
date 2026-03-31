@@ -1,0 +1,65 @@
+{
+  "id": "2b0853cd87d1f8fe9e0c6cebd8aadc1e173bd9d0",
+  "url": "https://www.benzinga.com/markets/economic-data/26/03/51467052/trump-iran-core-pce-march-2026-fed-inflation-bomb",
+  "site": "benzinga.com",
+  "title": "Trump's Iran 'Little Excursion' Is Hiding An Inflation Bomb - State Street Real Estate Select Sector SPDR ETF (ARCA:XLRE)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:08.688923",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\2b0853cd87d1f8fe9e0c6cebd8aadc1e173bd9d0.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\2b0853cd87d1f8fe9e0c6cebd8aadc1e173bd9d0.txt",
+  "word_count": 603,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "ac44ed9114b87577ef95bd268e184ee7db87a789",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The article discusses the potential long-term impact of the Iran conflict on inflation, with predictions of continued price resurgence and inflation rates potentially exceeding the Federal Reserve's target. Market predictions also suggest a significant probability of high inflation rates in the coming years.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to concerns about rising inflation rates, potential cost-push inflation from surging oil prices, and predictions of inflation rates staying above the Federal Reserve's target for several years.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.02,
+      "change_1d": -0.7859,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.02,
+      "change_1d": -0.7859,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

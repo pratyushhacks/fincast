@@ -1,0 +1,64 @@
+{
+  "id": "53863fee0dd6ae3895c32a36bbcae665bbdffa92",
+  "url": "https://www.livemint.com/market/bonds/indian-10-year-bond-yield-tops-6-8-amid-crude-oil-price-rally-on-us-iran-war-11774248926239.html",
+  "site": "livemint.com",
+  "title": "Indian 10-year bond yield tops 6.8% amid crude oil price rally on US-Iran war. What should investors do? | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:40.165464",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-24\\53863fee0dd6ae3895c32a36bbcae665bbdffa92.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-24\\53863fee0dd6ae3895c32a36bbcae665bbdffa92.txt",
+  "word_count": 633,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "3be0ab52882bf1a89f34413aecbed93b1c4c0c83",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Indian government bond yields and the rupee hit record lows due to the US-Iran war and surge in crude oil prices, amidst a backdrop of rising US Treasury yields and increased debt supply.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a situation with war and escalating oil prices, which are causing negative market impacts such as bond yield increases and currency depreciation.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

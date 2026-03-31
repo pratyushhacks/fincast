@@ -1,0 +1,47 @@
+{
+  "id": "e9377c9bac97d83cd650f80e2692196195e6a8dc",
+  "url": "https://www.benzinga.com/news/politics/26/03/51257802/scaramucci-the-markets-and-trump-have-a-codependent-relationship",
+  "site": "benzinga.com",
+  "title": "Scaramucci: ‘The Markets and Trump Have a Codependent Relationship'",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:02:05.811494",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-14\\e9377c9bac97d83cd650f80e2692196195e6a8dc.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-14\\e9377c9bac97d83cd650f80e2692196195e6a8dc.txt",
+  "word_count": 365,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fa6a5471515576a01f102b9fdb23fabcd15eb391",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "Scaramucci argues that Trump and markets are in a feedback loop, with potential for de-escalation if Trump declares victory. He suggests measures like reopening the Strait of Hormuz and naval escorts to stabilize energy markets. However, geopolitical tensions over the strait impact energy prices, complicating market recovery narratives.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the ongoing geopolitical tensions and their impact on energy markets, despite the potential for positive market shifts if Trump's proposed measures are taken.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "18f7ccf7ccc7943ab8f506bb90ad8016903c78a7",
+  "url": "https://www.digitaltrends.com/social-media/instagram-is-getting-rid-of-its-most-secure-chatting-feature/",
+  "site": "digitaltrends.com",
+  "title": "Instagram is getting rid of its most secure chatting feature - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:00:47.429584",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-14\\18f7ccf7ccc7943ab8f506bb90ad8016903c78a7.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-14\\18f7ccf7ccc7943ab8f506bb90ad8016903c78a7.txt",
+  "word_count": 396,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "747013b5329d61a3d04c7f4de341dbb3f1878933",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Meta is discontinuing Instagram's end-to-end encryption (E2EE) feature due to low usage and the option to use WhatsApp for encrypted chats. The decision comes amidst debates on privacy versus safety and concerns over law enforcement access to encrypted messages.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the removal of a secure feature and the ongoing debate about privacy versus safety in encrypted communications.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

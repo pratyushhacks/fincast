@@ -1,0 +1,46 @@
+{
+  "id": "6e565f434f7603a3a9d1fca0ccb3780c88513e3e",
+  "url": "https://www.theguardian.com/business/2026/mar/13/justice-department-subpoeana-jerome-powell",
+  "site": "theguardian.com",
+  "title": "Judge blocks justice department from subpoenaing Fed chair Jerome Powell | Federal Reserve | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:56:07.691373",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-14\\6e565f434f7603a3a9d1fca0ccb3780c88513e3e.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-14\\6e565f434f7603a3a9d1fca0ccb3780c88513e3e.txt",
+  "word_count": 475,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "5a2559cdffcf85756b2eab37a5ba8de89d6fcf7c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Federal Reserve interest rates",
+  "gdelt_category": "macro",
+  "summary": "Federal judge blocks justice department from subpoenaing Fed chair Jerome Powell in investigation seen as pressure to lower rates, amidst Trump's hostility and allegations against Powell.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the investigation's implied intention to pressure the Fed chair to lower rates and the context of Trump's hostility towards Powell.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

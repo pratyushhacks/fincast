@@ -1,0 +1,26 @@
+{
+  "id": "5cc75097ca6a9c0b312282c4caa36d0ad07e4e7b",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-soar-nearly-3-after-trump-postpones-military-strikes-on-iranian-power-plants/articleshow/129751004.cms",
+  "site": "indiatimes.com",
+  "title": "US stock futures soar nearly 3% after Trump postpones military strikes on Iranian power plants - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:15.193021",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-24\\5cc75097ca6a9c0b312282c4caa36d0ad07e4e7b.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-24\\5cc75097ca6a9c0b312282c4caa36d0ad07e4e7b.txt",
+  "word_count": 280,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "d6ccce4a78a3b86c0db24bc7c69448488d88b59b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "073df695bd0445d6c8476154549d586b8fd906ef",
+  "url": "https://www.theverge.com/tech/896859/swiftkey-will-soon-require-a-microsoft-account-to-save-your-typing-info",
+  "site": "theverge.com",
+  "title": "SwiftKey will soon require a Microsoft account to save your typing info. | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:13.440075",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-19\\073df695bd0445d6c8476154549d586b8fd906ef.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-19\\073df695bd0445d6c8476154549d586b8fd906ef.txt",
+  "word_count": 99,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "f3383988b17b76c37512bf666ecd8dd7a8d6352a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "SwiftKey, owned by Microsoft, will require a Microsoft account for saving typing data, ceasing support for Google and Apple accounts. This change affects how users sync data and receive typing suggestions across devices.",
+  "sentiment": 2,
+  "sentiment_reason": "The change may inconvenience users who prefer to use SwiftKey with Google or Apple accounts, potentially leading to a negative reaction from a portion of the user base.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94
+      ],
+      "base_price": 248.96,
+      "next_price": 247.99,
+      "change_1d": -0.3896,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

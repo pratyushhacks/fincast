@@ -1,0 +1,64 @@
+{
+  "id": "493d6ce59fe017baf60c2beeb54c890c9fe6d87e",
+  "url": "https://www.upi.com/Top_News/World-News/2026/03/20/samsung-electronics-largest-investment-union-warns-strike/2241773981468/",
+  "site": "upi.com",
+  "title": "Samsung to invest $82B in chips, AI as union warns strike - UPI.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:08.217986",
+  "language": null,
+  "html_path": "data\\raw\\upi.com\\2026-03-21\\493d6ce59fe017baf60c2beeb54c890c9fe6d87e.html",
+  "text_path": "data\\raw\\upi.com\\2026-03-21\\493d6ce59fe017baf60c2beeb54c890c9fe6d87e.txt",
+  "word_count": 290,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "87fbb897896276900d1d878f214e64ed9349145c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "Samsung Electronics plans a significant investment in AI semiconductors and robotics, with a focus on long-term growth, despite potential labor tensions and strike threats.",
+  "sentiment": 4,
+  "sentiment_reason": "The company's large investment in key growth areas and commitment to shareholder returns indicates a positive outlook, although labor tensions could pose a minor risk.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        341.88,
+        329.99,
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2
+      ],
+      "base_price": 332.51,
+      "next_price": 336.59,
+      "change_1d": 1.227,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

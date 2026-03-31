@@ -1,0 +1,64 @@
+{
+  "id": "06b2a79330ff2bcedd8f0e295f0996b41313d352",
+  "url": "https://www.investing.com/analysis/us-dollar-strength-reflects-rates-spike-more-than-safe-haven-demand-200677273",
+  "site": "investing.com",
+  "title": "US Dollar Strength Reflects Rates Spike More Than Safe Haven Demand | Investing.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:23.568577",
+  "language": null,
+  "html_path": "data\\raw\\investing.com\\2026-03-26\\06b2a79330ff2bcedd8f0e295f0996b41313d352.html",
+  "text_path": "data\\raw\\investing.com\\2026-03-26\\06b2a79330ff2bcedd8f0e295f0996b41313d352.txt",
+  "word_count": 1012,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "9e328623de72ef30c4e1bbbd95d1424e14e34f2e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "The dollar has strengthened due to short covering from traders using it as a funding currency and genuine safe-haven demand amidst the war. Additionally, a significant rise in US interest rates has influenced the dollar's strength.",
+  "sentiment": 4,
+  "sentiment_reason": "The article describes a strong dollar driven by both market positioning and a notable increase in US interest rates, which is generally positive for the dollar's performance.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.68,
+        27.85,
+        27.58,
+        27.68,
+        27.56,
+        27.65,
+        27.7
+      ],
+      "base_price": 27.81,
+      "next_price": 27.8,
+      "change_1d": -0.036,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.15,
+      "change_1d": -0.7658,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

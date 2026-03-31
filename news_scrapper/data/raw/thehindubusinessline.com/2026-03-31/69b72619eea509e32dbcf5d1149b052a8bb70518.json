@@ -1,0 +1,54 @@
+{
+  "id": "69b72619eea509e32dbcf5d1149b052a8bb70518",
+  "url": "https://www.thehindubusinessline.com/news/indias-electric-mobility-transition-must-be-inclusive-economically-sustainable-kumaraswamy/article70803036.ece",
+  "site": "thehindubusinessline.com",
+  "title": "India’s electric mobility transition must be inclusive, economically sustainable: Kumaraswamy - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:19.122440",
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\69b72619eea509e32dbcf5d1149b052a8bb70518.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-31\\69b72619eea509e32dbcf5d1149b052a8bb70518.txt",
+  "word_count": 496,
+  "paywalled": false,
+  "dedup_hash": "c5b5496902aa91b1aa6acb294281f1876c7fd3c8",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles",
+  "summary": "India's government emphasizes the need for an inclusive and economically sustainable electric mobility transition, focusing on affordability and scalability. The Light Electric-Vehicle Acceleration Forum (LEAF) aims to address charging anxiety and promote interoperability in the EV charging ecosystem.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses positive initiatives for electric vehicle adoption and industry collaboration, highlighting the potential for growth and leadership in the global market.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91,
+        29.62
+      ],
+      "base_price": 29.11,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

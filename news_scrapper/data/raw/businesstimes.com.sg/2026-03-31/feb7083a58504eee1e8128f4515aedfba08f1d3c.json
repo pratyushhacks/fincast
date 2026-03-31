@@ -1,0 +1,54 @@
+{
+  "id": "feb7083a58504eee1e8128f4515aedfba08f1d3c",
+  "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/us-senate-committee-plans-warshs-fed-nomination-hearing-soon-week-april-13-punchbowl-reports",
+  "site": "businesstimes.com.sg",
+  "title": "US Senate committee plans Warsh's Fed nomination hearing as soon as week of April 13, Punchbowl reports - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:05.817437",
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-31\\feb7083a58504eee1e8128f4515aedfba08f1d3c.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-31\\feb7083a58504eee1e8128f4515aedfba08f1d3c.txt",
+  "word_count": 173,
+  "paywalled": false,
+  "dedup_hash": "c641fa57912033ac467119328e77937a7f564b19",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "The Senate Banking Committee is set to hold a hearing on Kevin Warsh's nomination as Federal Reserve chair amidst political resistance and inflation concerns. Traders anticipate no rate cut due to rising energy costs and geopolitical tensions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses political resistance, inflationary pressures, and the lack of expected rate cuts, all of which contribute to negative market sentiment.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

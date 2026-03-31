@@ -1,0 +1,65 @@
+{
+  "id": "a5d23689c8d552239f5fb97ccf9fdb828114d6df",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51345819/amid-iran-war-soaring-fuel-prices-ross-gerber-urges-people-to-switch-to-evs-touts-thousands-of-dollars-saved-annually",
+  "site": "benzinga.com",
+  "title": "Amid Iran War, Soaring Fuel Prices, Ross Gerber Urges People To Switch To EVs, Touts 'Thousands Of Dollars' Saved Annually",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:31.078420",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-20\\a5d23689c8d552239f5fb97ccf9fdb828114d6df.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-20\\a5d23689c8d552239f5fb97ccf9fdb828114d6df.txt",
+  "word_count": 292,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "76215fad7ca9182926d68affbb92cd790743260a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "Investor Ross Gerber advocates for electric vehicles amidst the Middle East war and rising oil prices, suggesting EVs as a cost-effective alternative to gas cars. Concurrently, gas prices soar with national averages and record highs in states like California and Hawaii, while oil prices surge due to geopolitical tensions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents negative market impact due to the war's effect on oil prices and the economic implications of high gas prices, coupled with a positive sentiment towards electric vehicles as a solution.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        31.21,
+        30.41,
+        30.14,
+        30.7,
+        30.81,
+        30.25,
+        30.32
+      ],
+      "base_price": 29.32,
+      "next_price": 30.23,
+      "change_1d": 3.1037,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

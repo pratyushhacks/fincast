@@ -1,0 +1,64 @@
+{
+  "id": "2d7b8b39f120694fbc11635b6f31c103fbe78ac4",
+  "url": "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
+  "site": "cnbc.com",
+  "title": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:34.562149",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-21\\2d7b8b39f120694fbc11635b6f31c103fbe78ac4.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-21\\2d7b8b39f120694fbc11635b6f31c103fbe78ac4.txt",
+  "word_count": 954,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "496d32811e0bfaf4c933ffcc5aed94017e073873",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia CEO Jensen Huang proposes a novel AI-driven compensation model for engineers, offering tokens to deploy AI agents as productivity tools. This initiative reflects Huang's vision of engineers managing autonomous AI agents, amidst broader industry concerns about AI's impact on jobs.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook on Nvidia's innovative approach to integrating AI into the workforce and the software industry, despite the broader context of AI potentially displacing jobs.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

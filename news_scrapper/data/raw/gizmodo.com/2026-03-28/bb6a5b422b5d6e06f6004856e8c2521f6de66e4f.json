@@ -1,0 +1,64 @@
+{
+  "id": "bb6a5b422b5d6e06f6004856e8c2521f6de66e4f",
+  "url": "https://gizmodo.com/smart-glasses-now-have-one-of-the-vision-pros-best-features-2000739142",
+  "site": "gizmodo.com",
+  "title": "Smart Glasses Now Have One of the Vision Pro's Best Features",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:35.165038",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-28\\bb6a5b422b5d6e06f6004856e8c2521f6de66e4f.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-28\\bb6a5b422b5d6e06f6004856e8c2521f6de66e4f.txt",
+  "word_count": 533,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "70677cc75efe0173d284757fd2a2a501007b386f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "The Maverick AI Pro, the first smart glasses with eye tracking, is set to revolutionize how users control these devices, with potential applications in sports and other areas. Despite being lighter and cheaper than comparable models, it offers impressive features like navigation, translation, and object recognition.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of eye tracking and the array of features such as navigation, translation, and object recognition, along with sports-focused apps, are positive developments in the smart glasses market.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "e7fe19c5af5786e0907d63d32c5dfb9f9abaea0a",
+  "url": "https://www.businessinsider.com/anthropic-supply-chain-risk-hearing-judge-pentagon-pubish-cripple-2026-3",
+  "site": "businessinsider.com",
+  "title": "Judge Says It Looks Like the Pentagon Tried to 'Punish' Anthropic - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:04.844793",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-26\\e7fe19c5af5786e0907d63d32c5dfb9f9abaea0a.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-26\\e7fe19c5af5786e0907d63d32c5dfb9f9abaea0a.txt",
+  "word_count": 575,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "15dcee998ffdc36e030e2124b9591fca255a0664",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "A federal judge criticized the Pentagon's attempt to blacklist Anthropic, a company whose AI technology is under dispute, potentially impacting its contracts and First Amendment rights. President Trump's order to cease using Anthropic's products adds to the controversy, affecting not just defense contractors but possibly other federal agencies.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the Pentagon's actions potentially leading to a halt in Anthropic's contracts and the broad scope of President Trump's order that could affect multiple federal agencies.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04
+      ],
+      "base_price": 365.97,
+      "next_price": 359.56,
+      "change_1d": -1.7515,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.22,
+      "change_1d": -1.145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

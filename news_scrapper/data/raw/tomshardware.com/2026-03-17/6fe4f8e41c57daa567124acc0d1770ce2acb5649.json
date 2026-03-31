@@ -1,0 +1,66 @@
+{
+  "id": "6fe4f8e41c57daa567124acc0d1770ce2acb5649",
+  "url": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-expects-nvidia-to-sell-usd1-trillion-of-ai-hardware-through-2027-ai-buildout-intensifies-as-agentic-ai-takes-hold",
+  "site": "tomshardware.com",
+  "title": "Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027 — AI buildout intensifies as Agentic AI takes hold | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:48.692466",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-17\\6fe4f8e41c57daa567124acc0d1770ce2acb5649.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-17\\6fe4f8e41c57daa567124acc0d1770ce2acb5649.txt",
+  "word_count": 493,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "76152931e601fcab42d0635d783762adf396f8a0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Jensen Huang predicts Nvidia to sell $1 trillion worth of AI hardware by 2027, potentially becoming the first to achieve $1 trillion in annual revenue from AI hardware sales. Growth is expected to be driven by increased compute chiplet counts and market expansion, despite supplier capacity constraints.",
+  "sentiment": 4,
+  "sentiment_reason": "The statement reflects a positive outlook on Nvidia's growth and market leadership in AI hardware, with significant revenue projections and technological advancements.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

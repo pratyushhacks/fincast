@@ -1,0 +1,66 @@
+{
+  "id": "b482d7987dfc489de90be2ac4cfeb1dee16f80cd",
+  "url": "https://www.benzinga.com/insights/news/26/03/51450681/exploring-the-competitive-space-tesla-versus-industry-peers-in-automobiles",
+  "site": "benzinga.com",
+  "title": "Exploring The Competitive Space: Tesla Versus Industry Peers In Automobiles - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:15.072240",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\b482d7987dfc489de90be2ac4cfeb1dee16f80cd.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\b482d7987dfc489de90be2ac4cfeb1dee16f80cd.txt",
+  "word_count": 235,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "055d0847d8099797c76f5a66a459eb86cba84191",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tesla has a lower debt-to-equity ratio than its top 4 peers, indicating a stronger financial position. However, its PE, PB, and PS ratios are high, suggesting potential overvaluation, while its high ROE, EBITDA, and low revenue growth point to strong operational performance.",
+  "sentiment": 4,
+  "sentiment_reason": "The lower debt-to-equity ratio and strong operational metrics like high ROE, EBITDA, and low revenue growth contribute to a positive market impact, despite the potential overvaluation concerns.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.15,
+      "change_1d": -1.8704,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.25,
+      "change_1d": -1.1398,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

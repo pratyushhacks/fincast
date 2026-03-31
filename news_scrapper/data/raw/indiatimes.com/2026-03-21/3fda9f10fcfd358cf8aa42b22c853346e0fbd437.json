@@ -1,0 +1,25 @@
+{
+  "id": "3fda9f10fcfd358cf8aa42b22c853346e0fbd437",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-rising-yields-rising-costs-war-pushes-us-mortgage-rates-higher/articleshow/129692553.cms",
+  "site": "indiatimes.com",
+  "title": "US Market | Rising Yields, Rising Costs: War pushes US mortgage rates higher - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:31.256678",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\3fda9f10fcfd358cf8aa42b22c853346e0fbd437.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\3fda9f10fcfd358cf8aa42b22c853346e0fbd437.txt",
+  "word_count": 264,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "8eea84baf664395d73ee3f5771b3adbe2beb5d89",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro"
+}

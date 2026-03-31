@@ -1,0 +1,54 @@
+{
+  "id": "761e9e37b74542180ec35dc81ba88ed2d4d7ff6e",
+  "url": "https://www.livemint.com/market/stock-market-news/tesla-nvidia-microsoft-to-apple-magnificent-7-stocks-market-cap-crashes-1-72-trillion-during-us-iran-war-us-stocks-11774666243371.html",
+  "site": "livemint.com",
+  "title": "Tesla, NVIDIA, Microsoft to Apple: Magnificent 7 stocks market cap crashes $1.72 trillion during US-Iran war | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:06.679759",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\761e9e37b74542180ec35dc81ba88ed2d4d7ff6e.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\761e9e37b74542180ec35dc81ba88ed2d4d7ff6e.txt",
+  "word_count": 675,
+  "paywalled": false,
+  "dedup_hash": "1cefdf074884ac56314941d0b5bdc1d41390781c",
+  "scraper_version": "0.1",
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "summary": "Four weeks into the Israel-US-Iran war, the US stock market suffers significant losses, with major indices in a downward trend. The geopolitical tensions have led to a decrease in market cap for the 'Magnificent 7' stocks, with a total market cap loss of $1.72 trillion. The price of Brent crude oil has also increased, indicating the war's impact on global energy markets.",
+  "sentiment": 1,
+  "sentiment_reason": "The sustained losses in the US stock market and the substantial decrease in the market cap of key stocks, coupled with rising oil prices due to the ongoing conflict, reflect a strongly negative market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24,
+        167.52
+      ],
+      "base_price": 165.17,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "874cbddbb920fc7aa2d94c93b3f2197020eafd5d",
+  "url": "https://www.straitstimes.com/tech/legal-ai-start-up-harvey-opens-singapore-office",
+  "site": "straitstimes.com",
+  "title": "Legal AI start-up Harvey opens Singapore office | The Straits Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:28.301873",
+  "language": null,
+  "html_path": "data\\raw\\straitstimes.com\\2026-03-17\\874cbddbb920fc7aa2d94c93b3f2197020eafd5d.html",
+  "text_path": "data\\raw\\straitstimes.com\\2026-03-17\\874cbddbb920fc7aa2d94c93b3f2197020eafd5d.txt",
+  "word_count": 399,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "caaf6dcec984a26321107f1b75f6d86baa9fd2b4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Harvey AI, a legal tech start-up, expands to Singapore to better serve its Asia-Pacific clients, including top local law firms. The company, valued at US$8 billion, aims for a higher valuation and has developed an AI platform for legal assistance.",
+  "sentiment": 2,
+  "sentiment_reason": "The expansion to Singapore indicates growth and potential market expansion, but the sentiment is negative due to the competitive nature of the legal tech industry and the pressure to maintain high valuations.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

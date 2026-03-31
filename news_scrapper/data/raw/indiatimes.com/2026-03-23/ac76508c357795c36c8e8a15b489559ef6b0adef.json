@@ -1,0 +1,26 @@
+{
+  "id": "ac76508c357795c36c8e8a15b489559ef6b0adef",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129740963.cms",
+  "site": "indiatimes.com",
+  "title": "Nifty today: GIFT Nifty down 340 points; here's the trading setup for today's session - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:10.107649",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\ac76508c357795c36c8e8a15b489559ef6b0adef.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\ac76508c357795c36c8e8a15b489559ef6b0adef.txt",
+  "word_count": 465,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "3467f52b10b121e32b53959e2586831b2c1f17bf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

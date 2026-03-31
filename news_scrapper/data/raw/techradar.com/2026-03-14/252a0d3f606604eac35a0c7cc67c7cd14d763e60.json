@@ -1,0 +1,68 @@
+{
+  "id": "252a0d3f606604eac35a0c7cc67c7cd14d763e60",
+  "url": "https://www.techradar.com/health-fitness/amazons-new-health-ai-chatbot-is-ripe-with-misuse-potential",
+  "site": "techradar.com",
+  "title": "Amazon's new Health AI Chatbot is rife with potential for misuse — here's why I wouldn't trust it with my data | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:03:12.103968",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-14\\252a0d3f606604eac35a0c7cc67c7cd14d763e60.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-14\\252a0d3f606604eac35a0c7cc67c7cd14d763e60.txt",
+  "word_count": 940,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "9757bd5363df5fa951500e0f8fcfff4f4c1f75dd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Amazon's Health AI chatbot, while potentially beneficial for easing healthcare system strains, raises concerns due to the sensitivity of health data and the risks associated with AI using such data.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights potential misuse and privacy concerns with Amazon's Health AI, which is a negative aspect given the importance of data security in healthcare.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "e5becadb1aeb776f8d6596df29bc2d36ae7d5045",
+  "url": "https://www.benzinga.com/markets/equities/26/03/51398180/nasdaq-tumbles-2-amid-rate-hike-fears-fear-greed-index-remains-in-extreme-fear-zone",
+  "site": "benzinga.com",
+  "title": "Nasdaq Tumbles 2% Amid Rate-Hike Fears: Fear & Greed Index Remains In 'Extreme Fear' Zone - AGI (NYSE:AGBK)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:36.529980",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\e5becadb1aeb776f8d6596df29bc2d36ae7d5045.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\e5becadb1aeb776f8d6596df29bc2d36ae7d5045.txt",
+  "word_count": 319,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0d193495279d38dcd51e75e7716e316359a6f54e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "U.S. stocks fell with the Dow Jones closing lower and the S&P 500 and Nasdaq Composite declining due to fears surrounding the U.S.-Israel conflict with Iran and the continued negative trend in major indices. The Baker Hughes oil rig count increased, but energy and financial stocks were an exception to the negative trend.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market sentiment due to the ongoing conflict, fears of a rate hike, and a prolonged losing streak in major indices, despite some sectors showing resilience.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

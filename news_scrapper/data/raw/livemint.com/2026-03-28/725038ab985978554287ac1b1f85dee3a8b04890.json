@@ -1,0 +1,65 @@
+{
+  "id": "725038ab985978554287ac1b1f85dee3a8b04890",
+  "url": "https://www.livemint.com/technology/tech-news/whatsapp-big-update-ends-ios-to-android-transfer-restrictions-and-introduces-dual-accounts-for-iphones-11774601617678.html",
+  "site": "livemint.com",
+  "title": "WhatsApp' big update ends iOS-to-Android transfer restrictions and introduces dual accounts for iPhones | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:35.442868",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\725038ab985978554287ac1b1f85dee3a8b04890.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\725038ab985978554287ac1b1f85dee3a8b04890.txt",
+  "word_count": 526,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "1fd14f7193266d34e625c7f5880712ec4851090d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "WhatsApp introduces features like dual accounts, easier cross-platform transfers, and enhanced storage management. It also integrates Meta AI for photo editing and writing assistance within the chat interface.",
+  "sentiment": 4,
+  "sentiment_reason": "The update brings positive changes by enhancing user experience with new features and tools that improve functionality and efficiency.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54
+      ],
+      "base_price": 525.72,
+      "next_price": 536.38,
+      "change_1d": 2.0277,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

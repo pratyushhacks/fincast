@@ -1,0 +1,64 @@
+{
+  "id": "6ffc728f392ae201260f993ee178203a9ede4720",
+  "url": "https://www.businesstimes.com.sg/companies-markets/jd-coms-european-push-pits-chinese-retailer-against-amazon",
+  "site": "businesstimes.com.sg",
+  "title": "JD.com's European push pits Chinese retailer against Amazon - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:15.319496",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\6ffc728f392ae201260f993ee178203a9ede4720.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-17\\6ffc728f392ae201260f993ee178203a9ede4720.txt",
+  "word_count": 510,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "923a12d4a82f7e9bce0230f2637c0d21a87ccf93",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "JD.com expands into Europe with Joybuy.com, competing with Amazon and facing Chinese rivals Shein and Temu. Joybuy focuses on fast delivery and low prices, launching with a 'double 11' promise. Despite challenges, JD.com leverages its logistics and acquisitions to establish its presence.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents JD.com's aggressive expansion and competitive pricing strategy amidst intense competition, indicating a negative sentiment due to the challenges and fierce market competition.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        213.21,
+        213.49,
+        214.33,
+        212.65,
+        209.53,
+        207.67,
+        211.74
+      ],
+      "base_price": 215.2,
+      "next_price": 209.87,
+      "change_1d": -2.4768,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

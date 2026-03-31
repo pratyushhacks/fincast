@@ -1,0 +1,27 @@
+{
+  "id": "319933ea7aff96976c8e5421f8f1275fd4688356",
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-likely-to-file-drhp-in-next-few-days-for-mega-ipo/articleshow/129807530.cms",
+  "site": "indiatimes.com",
+  "title": "Jio Platforms likely to file DRHP in next few days for mega IPO - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:31.874241",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\319933ea7aff96976c8e5421f8f1275fd4688356.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\319933ea7aff96976c8e5421f8f1275fd4688356.txt",
+  "word_count": 299,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "5d21a579020383af4c110a52698684e255349163",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company"
+}

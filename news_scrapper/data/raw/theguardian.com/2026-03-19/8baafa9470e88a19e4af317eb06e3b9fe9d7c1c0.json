@@ -1,0 +1,65 @@
+{
+  "id": "8baafa9470e88a19e4af317eb06e3b9fe9d7c1c0",
+  "url": "https://www.theguardian.com/business/2026/mar/18/mfs-mortgage-scandal-private-credit",
+  "site": "theguardian.com",
+  "title": "What is the £1.3bn MFS mortgage scandal and what is private credit? | Financial sector | The Guardian",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:51.127056",
+  "language": null,
+  "html_path": "data\\raw\\theguardian.com\\2026-03-19\\8baafa9470e88a19e4af317eb06e3b9fe9d7c1c0.html",
+  "text_path": "data\\raw\\theguardian.com\\2026-03-19\\8baafa9470e88a19e4af317eb06e3b9fe9d7c1c0.txt",
+  "word_count": 644,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "e85d9b0973939eca2a7875cbb7fb478e9712cf0c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "MFS mortgage lending business collapsed amid fraud allegations, leading to a £1.3bn asset freezing order against Paresh Raja. Travel ban imposed on Raja, who is now in the Emirates. Financial institutions and creditors face potential losses due to suspicious lending practices and possible unsecured loans.",
+  "sentiment": 2,
+  "sentiment_reason": "The MFS scandal and subsequent legal actions against Paresh Raja and associated companies have led to negative market sentiment due to allegations of fraud and potential financial losses for creditors.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.8,
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72
+      ],
+      "base_price": 48.74,
+      "next_price": 48.83,
+      "change_1d": 0.1847,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

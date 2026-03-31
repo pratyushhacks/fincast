@@ -1,0 +1,65 @@
+{
+  "id": "cc95800542bd3bedb86e5fb9c6245decb4d99a07",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51410380/why-trump-media-stock-is-surging-monday-morning",
+  "site": "benzinga.com",
+  "title": "Why Trump Media Stock Is Surging Monday Morning - Trump Media & Tech Gr (NASDAQ:DJT)",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:47.805228",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-24\\cc95800542bd3bedb86e5fb9c6245decb4d99a07.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-24\\cc95800542bd3bedb86e5fb9c6245decb4d99a07.txt",
+  "word_count": 348,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4d9c729c5021dcdcb9b9e51094d44e8c9aaadedf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro",
+  "summary": "Trump's announcement of a pause in U.S.-Iran tensions led to a market rally, with a significant impact on oil prices and stock futures, particularly benefiting high-volatility stocks like DJT.",
+  "sentiment": 4,
+  "sentiment_reason": "The article describes a positive market reaction to reduced geopolitical risk and a 'Trump trade' dynamic, with investors showing relief and optimism, reflected in the surge of DJT futures and stock price.",
+  "price_changes": {
+    "\"geopolitical risk\"": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

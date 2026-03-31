@@ -1,0 +1,54 @@
+{
+  "id": "06d8a91509982376ff3e1d3beedb6a66eef1384c",
+  "url": "https://gizmodo.com/smart-glasses-cheating-exams-2000739723",
+  "site": "gizmodo.com",
+  "title": "Students Are Now Renting Smart Glasses to Cheat on Exams",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:22.982635",
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-31\\06d8a91509982376ff3e1d3beedb6a66eef1384c.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-31\\06d8a91509982376ff3e1d3beedb6a66eef1384c.txt",
+  "word_count": 465,
+  "paywalled": false,
+  "dedup_hash": "592d70209bcd435ad711266ba9d36ed1fe71e584",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Students in China are reportedly using AI smart glasses to cheat on tests, creating a rental market for these devices. Despite bans on smart glasses during exams, enforcement is challenging due to the devices' subtlety and difficulty to recognize.",
+  "sentiment": 1,
+  "sentiment_reason": "The use of smart glasses for cheating indicates a negative impact on academic integrity and the effectiveness of current enforcement measures against such technologies.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

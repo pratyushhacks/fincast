@@ -1,0 +1,15 @@
+{
+  "id": "cbb9cf7467fdf4a38ea607beb20dcd5660862205",
+  "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-rs-1000/10-gms-silver-falls-0-5-as-iran-us-tensions-boost-dollar-strength-what-lies-ahead/articleshow/129890990.cms",
+  "site": "indiatimes.com",
+  "title": "Gold drops Rs 1,000/10 gms; silver falls 0.5% as Iran-US tensions boost dollar strength: What lies ahead? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:31.497329",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\cbb9cf7467fdf4a38ea607beb20dcd5660862205.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\cbb9cf7467fdf4a38ea607beb20dcd5660862205.txt",
+  "word_count": 647,
+  "paywalled": false,
+  "dedup_hash": "b281d5c20bd0b4a0fe5210bad6e1a4b9069635e9",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"geopolitical risk\""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "15ef53898699087d1dfd346b72ccda1565872887",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/fuel-volatility-accelerates-ev-leap-in-last-mile-delivery-for-ecommerce-logistics-firms/129878086",
+  "site": "indiatimes.com",
+  "title": "Fuel volatility accelerates EV leap in last mile delivery for ecommerce, logistics firms, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:27.839479",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\15ef53898699087d1dfd346b72ccda1565872887.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\15ef53898699087d1dfd346b72ccda1565872887.txt",
+  "word_count": 524,
+  "paywalled": false,
+  "dedup_hash": "c489a3c051cfc95cb709ad28569045a6c8d841b3",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles"
+}

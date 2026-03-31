@@ -1,0 +1,64 @@
+{
+  "id": "940ebd00cae1666fd7bcc60e081890ec561e4e30",
+  "url": "https://www.thetimes.com/money/family-finances/article/here-comes-another-energy-crisis-but-this-time-youre-on-your-own-6t8mgt3vd",
+  "site": "thetimes.com",
+  "title": "Here comes another energy crisis. But this time you’re on your own",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:14.245522",
+  "language": null,
+  "html_path": "data\\raw\\thetimes.com\\2026-03-26\\940ebd00cae1666fd7bcc60e081890ec561e4e30.html",
+  "text_path": "data\\raw\\thetimes.com\\2026-03-26\\940ebd00cae1666fd7bcc60e081890ec561e4e30.txt",
+  "word_count": 696,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "6dd383ddb4749b7e70e86f0d5fd8b45250c09ffd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"US inflation\"",
+  "gdelt_category": "macro",
+  "summary": "Households face potential energy bill increases due to the war in the Middle East, with a looming crisis that could surpass the 1970s energy shock. The uncertainty surrounding energy bills and the limited availability of fixed tariffs add to the concern.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative aspects such as the potential for a crisis worse than the 1970s, escalating energy bills, and the difficulty in securing fixed tariffs, indicating a negative market impact.",
+  "price_changes": {
+    "\"US inflation\"": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.22,
+      "change_1d": -0.7549,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.22,
+      "change_1d": -0.7549,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

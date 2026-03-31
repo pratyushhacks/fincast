@@ -1,0 +1,64 @@
+{
+  "id": "b0e7cacc6f6e9499538e3ea267332684a4b4243c",
+  "url": "https://www.thehindubusinessline.com/brandhub/pr-release/digital-infrastructure-powers-xiongan-chinas-city-of-future/article70778946.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Digital infrastructure powers Xiong’an, China’s ‘city of future’ - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:42.324189",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\b0e7cacc6f6e9499538e3ea267332684a4b4243c.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\b0e7cacc6f6e9499538e3ea267332684a4b4243c.txt",
+  "word_count": 640,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "4002ec59bd3028f586771de7e4aa9f90bee676d8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Healthcare"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "The Xiong’an Urban Computing Center in China's Hebei province is a state-of-the-art facility supporting government services, urban planning, and ecological management with its integrated computing system. It has facilitated the widespread use of the Xiong’an Pass, a third-generation social security card, and has handled significant data and interface calls. The center also prioritizes sustainability and houses operations of key enterprises and research institutions.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the center's role in supporting innovative government services and its significant impact on the digital infrastructure of Xiong’an, indicating a positive market impact.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47
+      ],
+      "base_price": 109.92,
+      "next_price": 106.54,
+      "change_1d": -3.075,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.14,
+      "change_1d": -0.7673,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

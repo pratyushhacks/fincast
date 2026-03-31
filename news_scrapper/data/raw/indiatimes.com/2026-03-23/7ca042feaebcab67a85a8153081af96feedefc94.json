@@ -1,0 +1,24 @@
+{
+  "id": "7ca042feaebcab67a85a8153081af96feedefc94",
+  "url": "https://economictimes.indiatimes.com/news/international/australia/tropical-cyclone-narelle-threatens-western-australia-after-second-landfall-bringing-185-km/h-winds-flooding-risks-across-northern-australia/articleshow/129727686.cms",
+  "site": "indiatimes.com",
+  "title": "Tropical Cyclone Narelle threatens Western Australia after second landfall, bringing 185 km/h winds, flooding risks across Northern Australia - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:12.519444",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\7ca042feaebcab67a85a8153081af96feedefc94.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\7ca042feaebcab67a85a8153081af96feedefc94.txt",
+  "word_count": 313,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2ce31e6f0833ba27f6150ae662b9256dcfe4b63e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

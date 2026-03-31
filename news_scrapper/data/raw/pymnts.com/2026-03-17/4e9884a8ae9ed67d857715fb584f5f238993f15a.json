@@ -1,0 +1,64 @@
+{
+  "id": "4e9884a8ae9ed67d857715fb584f5f238993f15a",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2026/chat-first-finance-malaysias-ryt-bank-replaces-menus-with-ai/",
+  "site": "pymnts.com",
+  "title": "Chat-First Finance: Malaysia’s Ryt Bank Replaces Menus With AI",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:34.345261",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-17\\4e9884a8ae9ed67d857715fb584f5f238993f15a.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-17\\4e9884a8ae9ed67d857715fb584f5f238993f15a.txt",
+  "word_count": 738,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "45282ec0b16b7df265d246fa9f7a8d5a5d11ae17",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Ryt Bank in Malaysia implemented a conversational AI for banking transactions, replacing traditional menus. Customers interact via natural language for fund transfers, bill payments, and balance checks, with human confirmation required for each transaction. The AI system, built internally with a model named ILMU, is designed to handle Malaysian multilingual conversational patterns and comply with regulatory standards.",
+  "sentiment": 2,
+  "sentiment_reason": "The deployment of AI for banking transactions is neutral to slightly negative due to the inherent risks and regulatory compliance concerns associated with financial technology implementations.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.17,
+        113.67,
+        112.36,
+        113.35,
+        111.72,
+        111.65,
+        112.56
+      ],
+      "base_price": 113.49,
+      "next_price": 113.26,
+      "change_1d": -0.2027,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

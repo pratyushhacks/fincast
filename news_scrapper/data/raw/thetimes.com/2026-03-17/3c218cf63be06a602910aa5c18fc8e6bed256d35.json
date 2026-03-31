@@ -1,0 +1,66 @@
+{
+  "id": "3c218cf63be06a602910aa5c18fc8e6bed256d35",
+  "url": "https://www.thetimes.com/uk/social-media/article/the-age-of-rage-why-tech-titans-are-exploiting-our-capacity-to-hate-tsfm5nxgh",
+  "site": "thetimes.com",
+  "title": "The age of rage: why tech titans are exploiting our capacity to hate",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:10.010070",
+  "language": null,
+  "html_path": "data\\raw\\thetimes.com\\2026-03-17\\3c218cf63be06a602910aa5c18fc8e6bed256d35.html",
+  "text_path": "data\\raw\\thetimes.com\\2026-03-17\\3c218cf63be06a602910aa5c18fc8e6bed256d35.txt",
+  "word_count": 1494,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "b737599063ae02ae9a52aab20510a6a828872226",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Facebook and Meta feared TikTok's rise, leading to internal conflict over content moderation and engagement strategies. Internal documents suggest a trade-off between protecting users from harmful content and maximizing engagement, with rage-inducing content receiving more visibility.",
+  "sentiment": 2,
+  "sentiment_reason": "The article highlights concerns over content moderation and the prioritization of engagement over user safety, reflecting negative market impact due to potential regulatory and public trust issues.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "be529869d66fa9291aa699b5d3c0803fe5c8213f",
+  "url": "https://asia.nikkei.com/business/markets/equities/wall-st-rises-on-tech-strength-middle-east-conflict-limits-gains",
+  "site": "nikkei.com",
+  "title": "Wall St rises on tech strength; Middle East conflict limits gains - Nikkei Asia",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:10.872868",
+  "language": null,
+  "html_path": "data\\raw\\nikkei.com\\2026-03-17\\be529869d66fa9291aa699b5d3c0803fe5c8213f.html",
+  "text_path": "data\\raw\\nikkei.com\\2026-03-17\\be529869d66fa9291aa699b5d3c0803fe5c8213f.txt",
+  "word_count": 637,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "1c1f2eb3cb4aa8192bd2c147506b747cb9cdf480",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Nasdaq leads on Wall Street amid tech strength and geopolitical tensions; AI layoffs at Meta; Tesla's AI chip project launch; oil price fluctuations impact market; Fed meeting anticipation; S&P 500 and Dow Jones gains despite volatility.",
+  "sentiment": 2,
+  "sentiment_reason": "The market is affected by geopolitical tensions and the anticipation of the Federal Reserve meeting, with a focus on tech sector developments and AI advancements.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45
+      ],
+      "base_price": 622.66,
+      "next_price": 615.68,
+      "change_1d": -1.121,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

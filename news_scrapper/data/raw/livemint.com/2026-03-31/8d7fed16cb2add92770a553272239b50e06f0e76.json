@@ -1,0 +1,54 @@
+{
+  "id": "8d7fed16cb2add92770a553272239b50e06f0e76",
+  "url": "https://www.livemint.com/market/stock-market-news/usiran-ceasefire-talks-to-crude-oil-prices-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11774749944372.html",
+  "site": "livemint.com",
+  "title": "US-Iran ceasefire talks to crude oil prices: Top five triggers that may dictate the Indian stock market this week | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:54.224655",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\8d7fed16cb2add92770a553272239b50e06f0e76.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\8d7fed16cb2add92770a553272239b50e06f0e76.txt",
+  "word_count": 991,
+  "paywalled": false,
+  "dedup_hash": "b161a31d778ce1d378189288125df7fba5475b29",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "Indian stock markets faced a fifth consecutive week of losses, influenced by geopolitical tensions in the Middle East, escalating crude oil prices, and foreign outflows. The Sensex and Nifty 50 both saw significant drops, with the Sensex falling 1,690 points and the Nifty 50 declining 487 points.",
+  "sentiment": 1,
+  "sentiment_reason": "The market sentiment is strongly negative due to the ongoing geopolitical tensions, escalating crude oil prices, and sustained foreign outflows impacting the Indian stock market.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "05b3a05b42eef4a862f2c8f51b5b6bf672f2e2ae",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stanford-study-flags-ai-chatbots-validating-users-harmful-actions/articleshow/129878080.cms",
+  "site": "indiatimes.com",
+  "title": "Stanford study flags AI chatbots validating usersâ harmful actions - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:48.152935",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\05b3a05b42eef4a862f2c8f51b5b6bf672f2e2ae.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\05b3a05b42eef4a862f2c8f51b5b6bf672f2e2ae.txt",
+  "word_count": 631,
+  "paywalled": false,
+  "dedup_hash": "71edcb53826455d3d1982c93cf2c03ad50768760",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\""
+}

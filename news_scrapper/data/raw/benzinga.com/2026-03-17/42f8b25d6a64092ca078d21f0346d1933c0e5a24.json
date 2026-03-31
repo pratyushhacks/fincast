@@ -1,0 +1,64 @@
+{
+  "id": "42f8b25d6a64092ca078d21f0346d1933c0e5a24",
+  "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51279351/sp500-warning-signal-xlf-200-day-moving-average-technical-analysis",
+  "site": "benzinga.com",
+  "title": "S&P 500 Warning Signal Flashes: The Same Pattern Preceded Every Major Selloff Is Back - KKR (NYSE:KKR), Blue Owl Capital (NYSE:OWL), State Street Financial Select Sector SPDR ETF (ARCA:XLF)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:40.237628",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\42f8b25d6a64092ca078d21f0346d1933c0e5a24.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\42f8b25d6a64092ca078d21f0346d1933c0e5a24.txt",
+  "word_count": 517,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "040c4f88c7cdcd5f49e40c64bce685e166d9d577",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Financial stocks breaking below key resistance line signals potential trouble for the broader market. Historical data shows negative impact on S&P 500 following financial sector downturns. XLF broke below its 200-day moving average before a major geopolitical event, indicating a possible larger market correction. Underlying stress in private credit market is also building, affecting major alternative asset managers.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to technical breakdowns in financial stocks and underlying stress in the private credit market, suggesting bearish momentum and potential market decline.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        50.31,
+        50.07,
+        49.8,
+        49.39,
+        48.58,
+        48.64,
+        49.05
+      ],
+      "base_price": 49.31,
+      "next_price": 48.72,
+      "change_1d": -1.1965,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

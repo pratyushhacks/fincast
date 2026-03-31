@@ -1,0 +1,24 @@
+{
+  "id": "95555e54a5d2b250d53852a1beca738a0d21aa17",
+  "url": "https://economictimes.indiatimes.com/news/international/us/why-are-brent-futures-up-and-oil-prices-looking-to-surge-on-monday-and-what-to-expect-next-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/129734722.cms",
+  "site": "indiatimes.com",
+  "title": "oil price today: Why are Brent futures up and oil prices looking to surge on Monday, and what to expect next? Analysts insights, market outlook and what should investors do now - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:27.645846",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\95555e54a5d2b250d53852a1beca738a0d21aa17.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\95555e54a5d2b250d53852a1beca738a0d21aa17.txt",
+  "word_count": 898,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "96cbc34e50266724975c56bcf2a10422683eabff",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "6079cf2314a9d93d2a0fca26a1cf9e8b0f944362",
+  "url": "https://www.thehindu.com/business/sebi-calls-on-tech-players-to-fight-finfluencers/article70784421.ece",
+  "site": "thehindu.com",
+  "title": "SEBI calls-on tech players to fight finfluencers - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:22.004294",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-26\\6079cf2314a9d93d2a0fca26a1cf9e8b0f944362.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-26\\6079cf2314a9d93d2a0fca26a1cf9e8b0f944362.txt",
+  "word_count": 251,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "24c82bfebed522ee2b2924c756e611c1de74164c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "SEBI introduces a 'verified badge' for finfluencer apps in collaboration with Google, aiming to curb financial frauds and enhance investor protection. The initiative has been rolled out for over 600 registered stockbroker apps and will extend to other intermediaries.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the initiative is aimed at protecting investors and curbing financial frauds, which is likely to increase market confidence.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93
+      ],
+      "base_price": 280.92,
+      "next_price": 279.02,
+      "change_1d": -0.6763,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.4,
+      "change_1d": -1.1136,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

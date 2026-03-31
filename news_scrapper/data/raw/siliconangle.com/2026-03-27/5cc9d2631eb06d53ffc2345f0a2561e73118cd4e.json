@@ -1,0 +1,66 @@
+{
+  "id": "5cc9d2631eb06d53ffc2345f0a2561e73118cd4e",
+  "url": "https://siliconangle.com/2026/03/26/developer-experience-center-cloud-native-ai-infrastructure-kubeconeu/",
+  "site": "siliconangle.com",
+  "title": "Developer experience key to cloud-native AI infrastructure - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:29.810899",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-27\\5cc9d2631eb06d53ffc2345f0a2561e73118cd4e.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-27\\5cc9d2631eb06d53ffc2345f0a2561e73118cd4e.txt",
+  "word_count": 778,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "3670fcd0ccd47225dd2ab2b11c0daace629b8872",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Vultr's platform abstracts the complexity of setting up AI infrastructure, enabling rapid deployment and compliance with regulations like the EU Cyber Resilience Act. The platform's developer-first model and open composable stack are key to its rapid growth and positioning in the cloud-native AI infrastructure market.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights Vultr's innovative approach to simplifying and accelerating AI infrastructure deployment, which is a strong positive for the company and the market.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

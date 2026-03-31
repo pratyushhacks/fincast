@@ -1,0 +1,64 @@
+{
+  "id": "67ae41674d5cf15c67111f8486a2ebd519a35570",
+  "url": "https://www.upi.com/Top_News/World-News/2026/03/22/samsung-electronics-chairman-plan-chinese-president-xi-jinping-meeting/3101774219654/",
+  "site": "upi.com",
+  "title": "Samsung chief to meet Xi, discuss China investment - UPI.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:17.225971",
+  "language": null,
+  "html_path": "data\\raw\\upi.com\\2026-03-23\\67ae41674d5cf15c67111f8486a2ebd519a35570.html",
+  "text_path": "data\\raw\\upi.com\\2026-03-23\\67ae41674d5cf15c67111f8486a2ebd519a35570.txt",
+  "word_count": 308,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ac1bd80999f1ecfa3c14fb378493c683f80326cf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "Samsung Electronics Chairman Lee Jae-yong is set to meet with Chinese President Xi Jinping to discuss expanding investment in China, amidst geopolitical tensions and efforts to boost growth. Samsung's Xi'an semiconductor plant faces declining sales, prompting potential aggressive investment strategies.",
+  "sentiment": 4,
+  "sentiment_reason": "The discussion of expanding investment and meeting with the Chinese President indicates a positive outlook for Samsung's business prospects in China.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        329.99,
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2,
+        332.51
+      ],
+      "base_price": 336.59,
+      "next_price": 341.02,
+      "change_1d": 1.3161,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57
+      ],
+      "base_price": 655.38,
+      "next_price": 653.18,
+      "change_1d": -0.3357,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

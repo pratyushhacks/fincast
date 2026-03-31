@@ -1,0 +1,64 @@
+{
+  "id": "0eec821179f5e7b14f275ed5943d56b0ec0e8818",
+  "url": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+  "site": "techcrunch.com",
+  "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:59.771409",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-17\\0eec821179f5e7b14f275ed5943d56b0ec0e8818.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-17\\0eec821179f5e7b14f275ed5943d56b0ec0e8818.txt",
+  "word_count": 186,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cd485272b750b34aa58b18573386c9234c0a2646",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Netflix wins three Oscars for 'Frankenstein' and 'KPop Demon Hunters'; 'Train Dreams' and 'F1' also nominated for Best Picture, but 'One Battle After Another' wins.",
+  "sentiment": 2,
+  "sentiment_reason": "Although Netflix received multiple awards, the lack of a Best Picture win for a streaming film and the absence of a Best Picture win for any Netflix film in recent years indicates negative market impact due to recession fears and earnings miss.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82
+      ],
+      "base_price": 254.23,
+      "next_price": 249.94,
+      "change_1d": -1.6874,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

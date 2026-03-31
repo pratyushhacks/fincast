@@ -1,0 +1,65 @@
+{
+  "id": "4797ae98bbafcb2c93e62e7730a5d28b6ac04eb9",
+  "url": "https://www.businessinsider.com/ai-top-stock-picks-winners-losers-mdb-msft-william-blair-2026-3",
+  "site": "businessinsider.com",
+  "title": "Analysts' New AI Stock Rating System Reveals These Winners and Losers - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:00.090424",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-26\\4797ae98bbafcb2c93e62e7730a5d28b6ac04eb9.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-26\\4797ae98bbafcb2c93e62e7730a5d28b6ac04eb9.txt",
+  "word_count": 1015,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "f894a6f347eec112c666dba8ab9e42afccc05d13",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "William Blair analysts revised their AI stock rating framework, leading to a near-perfect score for Pure Storage and DigitalOcean across five key metrics, while other AI stocks received lower scores.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights two companies with nearly perfect scores in a new rating system, indicating strong market confidence and potential for growth in these AI stocks.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        399.41,
+        391.79,
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04
+      ],
+      "base_price": 365.97,
+      "next_price": 359.56,
+      "change_1d": -1.7515,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.22,
+      "change_1d": -1.145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

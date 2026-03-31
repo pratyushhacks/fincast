@@ -1,0 +1,64 @@
+{
+  "id": "1a2ad22acbc0c851731c853d9fb19ebb411a0f84",
+  "url": "https://fortune.com/2026/03/20/trump-us-israel-iran-war-winding-down-iran-military-effort/",
+  "site": "fortune.com",
+  "title": "Trump says U.S. considers ‘winding down’ Iran military effort | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:28.060066",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-21\\1a2ad22acbc0c851731c853d9fb19ebb411a0f84.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-21\\1a2ad22acbc0c851731c853d9fb19ebb411a0f84.txt",
+  "word_count": 844,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "4652e42f8ff4ea5fb8f43c65a7e8693ba918f09a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "President Trump signals potential de-escalation in US-Iran conflict, affecting oil prices and global markets, amidst uncertainties over Iran's response and the US's military stance.",
+  "sentiment": 3,
+  "sentiment_reason": "The statement presents a mix of potential positive outcomes (de-escalation, market stabilization) and uncertainties (Iran's response, military stance), leading to a neutral market impact.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

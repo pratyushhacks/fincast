@@ -1,0 +1,65 @@
+{
+  "id": "98488991f95aabbac0bcfca5dcc88f25fcd1ab43",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51324776/apple-samsung-eat-the-global-smartphone-market-alive-in-2025",
+  "site": "benzinga.com",
+  "title": "Apple, Samsung Eat The Global Smartphone Market Alive In 2025 - Samsung Electronics Co (OTC:SSNLF)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:11.369312",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\98488991f95aabbac0bcfca5dcc88f25fcd1ab43.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\98488991f95aabbac0bcfca5dcc88f25fcd1ab43.txt",
+  "word_count": 355,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "88450fd3335508149ef5bd4b9f3512869a24ba7a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple and Samsung dominate the smartphone market in 2025, with Apple leading in premium segments across North America, APAC, and Europe, while Samsung captures emerging markets with mid-tier models. The iPhone 16 5G and Galaxy A16 5G are notable for their market performance.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents routine news about market share and regional preferences without clear indicators of a major market impact such as a crisis or significant growth.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94
+      ],
+      "base_price": 248.96,
+      "next_price": 247.99,
+      "change_1d": -0.3896,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0ea88d5b8b11a943185d8534fd2c672378641b6c",
+  "url": "https://www.digitaltrends.com/computing/apples-ridiculous-700-wheels-for-its-desktop-pc-are-gone-for-good/",
+  "site": "digitaltrends.com",
+  "title": "Apple's ridiculous $700 wheels for its desktop PC are gone for good - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:28.913690",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-28\\0ea88d5b8b11a943185d8534fd2c672378641b6c.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-28\\0ea88d5b8b11a943185d8534fd2c672378641b6c.txt",
+  "word_count": 323,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "279b017be0aac9010a0ce9a36d183be510790d8f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple discontinues the Mac Pro and its associated $700 wheels kit, marking the end of a controversial accessory that symbolized luxury pricing in tech. Existing Mac Pro owners can no longer purchase the official wheels or feet kits directly.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the discontinuation of a product and the end of an era for a controversial and overpriced accessory.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

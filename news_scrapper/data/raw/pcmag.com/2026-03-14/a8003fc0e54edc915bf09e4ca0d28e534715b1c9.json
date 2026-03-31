@@ -1,0 +1,66 @@
+{
+  "id": "a8003fc0e54edc915bf09e4ca0d28e534715b1c9",
+  "url": "https://www.pcmag.com/news/iphone-fold-rumors-are-heating-up-but-im-not-buying-one-heres-why",
+  "site": "pcmag.com",
+  "title": "iPhone Fold Rumors Are Heating Up, But I'm Not Buying One. Here's Why | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:56:46.507724",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-14\\a8003fc0e54edc915bf09e4ca0d28e534715b1c9.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-14\\a8003fc0e54edc915bf09e4ca0d28e534715b1c9.txt",
+  "word_count": 1429,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "efea67a9d98a23f2090307123533911834fe8ef4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Apple",
+  "gdelt_category": "company",
+  "summary": "Apple is rumored to release a foldable iPhone with a book-style design, four cameras, a high battery capacity, and Touch ID. However, the price is expected to be at least $2,000, which is a significant increase from current foldable phones, making it too expensive for many consumers.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the high price tag, which is a major concern for potential buyers.",
+  "price_changes": {
+    "Apple": {
+      "ticker": "AAPL",
+      "trend": [
+        262.52,
+        260.29,
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76
+      ],
+      "base_price": 250.12,
+      "next_price": 252.82,
+      "change_1d": 1.0795,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

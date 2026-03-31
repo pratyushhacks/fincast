@@ -1,0 +1,18 @@
+{
+  "id": "8479224a0cb3a9238befc622c1e259d10afa2196",
+  "url": "https://fortune.com/2026/03/29/ai-bubble-already-burst-rare-one-still-growing/",
+  "site": "fortune.com",
+  "title": "One AI bubble has already burst. The next one—a 'rare' kind—is still growing, economist warns | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:56.682850",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\8479224a0cb3a9238befc622c1e259d10afa2196.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\8479224a0cb3a9238befc622c1e259d10afa2196.txt",
+  "word_count": 799,
+  "paywalled": false,
+  "dedup_hash": "979ab2337d98a9bf31960960f44571f83b84167e",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "The AI stock bubble is considered burst as per John Higgins, with a significant correction in the price-earnings ratio of Big Tech and AI unicorns. OpenAI's valuation surged but faced market corrections due to fears of AI replacing traditional software models. Earnings growth in the tech sector is questioned for its sustainability.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a market correction and concerns over the sustainability of rapid earnings growth in the tech sector, indicating negative market sentiment."
+}

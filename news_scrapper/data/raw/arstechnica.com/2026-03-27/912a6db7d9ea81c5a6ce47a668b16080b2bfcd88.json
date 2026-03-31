@@ -1,0 +1,63 @@
+{
+  "id": "912a6db7d9ea81c5a6ce47a668b16080b2bfcd88",
+  "url": "https://arstechnica.com/cars/2026/03/youve-got-20000-to-spend-on-an-ev-here-are-some-options/",
+  "site": "arstechnica.com",
+  "title": "You've got $20,000 to spend on an EV: Here are some options - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:56.870834",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-27\\912a6db7d9ea81c5a6ce47a668b16080b2bfcd88.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-27\\912a6db7d9ea81c5a6ce47a668b16080b2bfcd88.txt",
+  "word_count": 285,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e9876516fc7ac76939e007ba669adc135c05d123",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "With rising gas prices, electric vehicles (EVs) are becoming more attractive due to their lower operating costs. The used EV market is expanding, offering affordable options for buyers, especially in the $15,000-$20,000 price range, with newer, longer-range EVs now within reach.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents positive information about the affordability and growing market of used EVs, highlighting their cost-effectiveness and the availability of newer models within a specific price range.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

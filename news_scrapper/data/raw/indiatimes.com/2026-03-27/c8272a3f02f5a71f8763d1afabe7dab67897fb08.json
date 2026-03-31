@@ -1,0 +1,25 @@
+{
+  "id": "c8272a3f02f5a71f8763d1afabe7dab67897fb08",
+  "url": "https://economictimes.indiatimes.com/tech/technology/is-internet-more-ai-driven-than-human-report-reveals-the-way-forward/articleshow/129830286.cms",
+  "site": "indiatimes.com",
+  "title": "Is internet more AI-driven than human? Report reveals the way forward - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:13.885933",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\c8272a3f02f5a71f8763d1afabe7dab67897fb08.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\c8272a3f02f5a71f8763d1afabe7dab67897fb08.txt",
+  "word_count": 508,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "7557bb5a7d3515e6633b18d992205bd3ffa74306",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

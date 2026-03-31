@@ -1,0 +1,26 @@
+{
+  "id": "b1c45672e50c9a040fee50e9350dbc98cc1019e0",
+  "url": "https://telecom.economictimes.indiatimes.com/news/policy/indiaai-mission-boosts-ai-ecosystem-with-38231-gpus-and-190-projects-approved/129814799",
+  "site": "indiatimes.com",
+  "title": "Jitin Prasada: IndiaAI Mission Boosts AI Ecosystem with 38,231 GPUs and 190 Projects Approved, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:15.864249",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\b1c45672e50c9a040fee50e9350dbc98cc1019e0.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\b1c45672e50c9a040fee50e9350dbc98cc1019e0.txt",
+  "word_count": 501,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6b57cff2557f8575356ead97eae64c1024904db2",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector"
+}

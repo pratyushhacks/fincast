@@ -1,0 +1,66 @@
+{
+  "id": "bb18dcae285c70a1aaadf5f34a20097fa7aeafe4",
+  "url": "https://siliconangle.com/2026/03/18/multiply-raises-9-5m-launch-self-learning-advertising-platform/",
+  "site": "siliconangle.com",
+  "title": "Multiply raises $9.5M to launch ‘self-learning’ advertising platform - SiliconANGLE",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:30.866773",
+  "language": null,
+  "html_path": "data\\raw\\siliconangle.com\\2026-03-19\\bb18dcae285c70a1aaadf5f34a20097fa7aeafe4.html",
+  "text_path": "data\\raw\\siliconangle.com\\2026-03-19\\bb18dcae285c70a1aaadf5f34a20097fa7aeafe4.txt",
+  "word_count": 648,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "efb2bf6a2d5e9bcec7c6d74e176a10f3a308e8d6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Multiply Technology Inc. raised $9.5 million to launch a self-learning advertising platform that utilizes AI to personalize and optimize ads continuously. The funding round included notable investors and the platform is set to integrate with emerging AI-driven ad services like OpenAI's ChatGPT.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a new AI-driven advertising platform, which is generally positive news for the tech industry, but the mention of OpenAI's ad testing and the evolving landscape of AI in advertising could imply some uncertainty or market adjustment, hence a neutral sentiment.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

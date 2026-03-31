@@ -1,0 +1,15 @@
+{
+  "id": "aa03c44d392481ed5a938a45fe78dd92d122afe7",
+  "url": "https://economictimes.indiatimes.com/mf/analysis/gold-silver-fall-despite-war-tension-why-safe-haven-assets-are-slipping-and-what-investors-should-do/articleshow/129891139.cms",
+  "site": "indiatimes.com",
+  "title": "Gold, silver fall despite war tension: Why safe-haven assets are slipping and what investors should do - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:18.492016",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\aa03c44d392481ed5a938a45fe78dd92d122afe7.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\aa03c44d392481ed5a938a45fe78dd92d122afe7.txt",
+  "word_count": 1040,
+  "paywalled": false,
+  "dedup_hash": "084d3f0c97dbbef5882606ccf28742b3b63aaee1",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"treasury yields\""
+}

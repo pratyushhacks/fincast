@@ -1,0 +1,65 @@
+{
+  "id": "bab16bd20859bf88f6637ae0d46ab0479dd614c5",
+  "url": "https://www.scmp.com/news/china/politics/article/3347731/senior-chinese-financial-regulator-and-ex-graft-fighter-zhou-liang-under-corruption-probe",
+  "site": "scmp.com",
+  "title": "Senior Chinese financial regulator and ex-graft fighter Zhou Liang under corruption probe | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:37.494728",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-26\\bab16bd20859bf88f6637ae0d46ab0479dd614c5.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-26\\bab16bd20859bf88f6637ae0d46ab0479dd614c5.txt",
+  "word_count": 272,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e270f4b6322ef3d9d7cabb7e834e8dbede69506f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "A senior Chinese financial regulator, Zhou Liang, under investigation for corruption, signals a significant anti-corruption move within China's financial regulatory apparatus. His career, previously linked to enforcing anti-corruption measures, now faces scrutiny.",
+  "sentiment": 2,
+  "sentiment_reason": "The investigation of a high-profile figure in China's financial regulatory system, known for anti-corruption efforts, amidst ongoing corruption crackdowns, indicates negative market impact due to potential instability and uncertainty.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34
+      ],
+      "base_price": 49.05,
+      "next_price": 48.4,
+      "change_1d": -1.3252,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.32,
+      "change_1d": -0.7394,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

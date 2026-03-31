@@ -1,0 +1,64 @@
+{
+  "id": "64b65d38e90067d691dccf22e9cc6f5520da70fe",
+  "url": "https://www.kiplinger.com/retirement/social-security/claiming-social-security-tools-and-rules-for-diy-investors",
+  "site": "kiplinger.com",
+  "title": "Claiming Social Security: 7 Tools and Rules for DIY Investors | Kiplinger",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:23:00.247090",
+  "language": null,
+  "html_path": "data\\raw\\kiplinger.com\\2026-03-14\\64b65d38e90067d691dccf22e9cc6f5520da70fe.html",
+  "text_path": "data\\raw\\kiplinger.com\\2026-03-14\\64b65d38e90067d691dccf22e9cc6f5520da70fe.txt",
+  "word_count": 1123,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "cc9831461759835837d899eb0991dcdbe305f01d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "Intel",
+  "gdelt_category": "company",
+  "summary": "The article provides strategies for DIY investors to optimize Social Security claiming decisions, emphasizing the importance of claiming age on lifetime income and considering longevity, spousal benefits, and break-even analysis.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the complexity and potential financial implications of Social Security claiming decisions, which can cause anxiety or concern for DIY investors.",
+  "price_changes": {
+    "Intel": {
+      "ticker": "INTC",
+      "trend": [
+        45.58,
+        45.95,
+        43.42,
+        45.58,
+        46.78,
+        47.98,
+        45.25
+      ],
+      "base_price": 45.77,
+      "next_price": 45.76,
+      "change_1d": -0.0218,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

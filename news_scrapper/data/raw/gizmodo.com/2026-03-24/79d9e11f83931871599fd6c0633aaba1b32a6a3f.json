@@ -1,0 +1,64 @@
+{
+  "id": "79d9e11f83931871599fd6c0633aaba1b32a6a3f",
+  "url": "https://gizmodo.com/lg-claims-its-latest-laptop-displays-save-nearly-50-battery-life-2000736813",
+  "site": "gizmodo.com",
+  "title": "LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:18.490491",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-24\\79d9e11f83931871599fd6c0633aaba1b32a6a3f.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-24\\79d9e11f83931871599fd6c0633aaba1b32a6a3f.txt",
+  "word_count": 617,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "0210a0abdfed8fc41b4a6465ee94d77778225b4b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "LG's new screen technology, 'Oxide 1Hz', promises significant battery life improvements by reducing refresh rates on LCD panels, though currently limited to LCD and not OLED. Dell's XPS 14 with this technology shows better battery life than its OLED counterpart, but the latter offers superior gaming performance.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral impact on the market as it discusses a technological advancement that improves battery life without significant negative or positive implications for the industry.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        45.77,
+        45.76,
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01
+      ],
+      "base_price": 44.06,
+      "next_price": 47.18,
+      "change_1d": 7.0813,
+      "bucket_1d": "strong_up",
+      "magnitude": "large"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

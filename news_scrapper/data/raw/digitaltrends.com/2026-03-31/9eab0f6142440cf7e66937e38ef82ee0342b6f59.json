@@ -1,0 +1,54 @@
+{
+  "id": "9eab0f6142440cf7e66937e38ef82ee0342b6f59",
+  "url": "https://www.digitaltrends.com/phones/apple-has-fixed-the-iphones-misfiring-keyboard-but-its-time-to-ditch-it-for-a-better-option/",
+  "site": "digitaltrends.com",
+  "title": "Apple has fixed the iPhone's misfiring keyboard, but it's time to ditch it for a better option - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:57.108806",
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-31\\9eab0f6142440cf7e66937e38ef82ee0342b6f59.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-31\\9eab0f6142440cf7e66937e38ef82ee0342b6f59.txt",
+  "word_count": 462,
+  "paywalled": false,
+  "dedup_hash": "b28d9eb7cd98327a583b222835f36d1318247859",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "Apple's iOS 26.4 update fixes a bug causing missed keystrokes and unreliable autocorrect during fast typing. However, the iPhone keyboard still struggles with odd substitutions and inconsistent predictions compared to third-party alternatives like Gboard and Microsoft SwiftKey.",
+  "sentiment": 3,
+  "sentiment_reason": "The update addresses a specific annoyance for fast typers but doesn't fully resolve the broader issues with typing accuracy and flexibility on the iPhone keyboard.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

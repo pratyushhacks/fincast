@@ -1,0 +1,65 @@
+{
+  "id": "fb6db5a76968ef0e11c55263d1774725ea2afcb5",
+  "url": "https://arstechnica.com/cars/2026/03/google-wants-android-automotive-to-control-more-of-your-car/",
+  "site": "arstechnica.com",
+  "title": "Google's new version of Android Automotive will move beyond infotainment - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:20.886561",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-26\\fb6db5a76968ef0e11c55263d1774725ea2afcb5.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-26\\fb6db5a76968ef0e11c55263d1774725ea2afcb5.txt",
+  "word_count": 248,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "65266db4d1aaecefd3268aa53d6ab200e2b730bf",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google's new Android Automotive OS (AAOS) aims to enhance car infotainment systems and potentially control non-safety car functions, though not critical systems like braking. Automakers like Volvo and BMW are adopting it, with others considering its future.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a neutral impact as it discusses the potential and current use of AAOS in the automotive industry without clear indication of immediate market-wide positive or negative consequences.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        310.92,
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93
+      ],
+      "base_price": 280.92,
+      "next_price": 278.85,
+      "change_1d": -0.7369,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.11,
+      "change_1d": -1.1642,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

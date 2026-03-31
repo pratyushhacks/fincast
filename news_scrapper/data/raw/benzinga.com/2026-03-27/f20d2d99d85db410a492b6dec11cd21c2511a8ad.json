@@ -1,0 +1,64 @@
+{
+  "id": "f20d2d99d85db410a492b6dec11cd21c2511a8ad",
+  "url": "https://www.benzinga.com/markets/economic-data/26/03/51476559/peter-schiff-warns-of-full-blown-financial-crisis-looming-after-february-import-price-spike-amid-iran-war",
+  "site": "benzinga.com",
+  "title": "Peter Schiff Warns Of 'Full-Blown Financial Crisis' Looming After February Import Price Spike Amid Iran War - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:28.922148",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\f20d2d99d85db410a492b6dec11cd21c2511a8ad.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\f20d2d99d85db410a492b6dec11cd21c2511a8ad.txt",
+  "word_count": 343,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "76b218508b873f901bf59288c3d0f99e36245bd4",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Economist Peter Schiff warns of a severe financial meltdown due to a spike in U.S. import and export prices, exacerbated by global oil shocks, with potential inflation rates of 16.8%-19.6%.",
+  "sentiment": 1,
+  "sentiment_reason": "The article presents a strongly negative outlook due to the predicted severe financial meltdown, high inflation rates, and significant market declines.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

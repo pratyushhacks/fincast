@@ -1,0 +1,15 @@
+{
+  "id": "b50ec4db894b04f8fb9a85a01c72d64f357e4845",
+  "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-march-30-oil-jumps-3-to-near-120-amid-expectations-of-us-ground-offensive-in-iran-what-lies-ahead/articleshow/129890295.cms",
+  "site": "indiatimes.com",
+  "title": "Oil Price Today (March 30): Oil jumps 3% to near $120 amid expectations of US ground offensive in Iran. What lies ahead? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:29.243501",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\b50ec4db894b04f8fb9a85a01c72d64f357e4845.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\b50ec4db894b04f8fb9a85a01c72d64f357e4845.txt",
+  "word_count": 532,
+  "paywalled": false,
+  "dedup_hash": "4063f9617b27d1b8c2968181eccea9724bf37d07",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"geopolitical risk\""
+}

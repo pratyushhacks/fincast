@@ -1,0 +1,65 @@
+{
+  "id": "2b1836cb0e31bd1c573ba9a32383e53ef6c7b416",
+  "url": "https://www.thehindubusinessline.com/markets/gold/silver-hits-lower-circuit-in-futures-trade-plunges-9-to-206-lakhkg-amid-weak-global-cues/article70774619.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Silver hits lower circuit in futures trade, plunges 9% to ₹2.06 lakh/kg amid weak global cues - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:46.272945",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\2b1836cb0e31bd1c573ba9a32383e53ef6c7b416.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-24\\2b1836cb0e31bd1c573ba9a32383e53ef6c7b416.txt",
+  "word_count": 216,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "78d7cbe7e002a265299d09d8ff0bb60fbd3e30c3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"treasury yields\"",
+  "gdelt_category": "macro",
+  "summary": "Silver prices significantly dropped due to weak global trends, sustained selling pressure, a strong US dollar, rising Treasury bond yields, and surging oil prices, despite escalating tensions in West Asia.",
+  "sentiment": 1,
+  "sentiment_reason": "The sharp fall in silver prices and the negative factors affecting the market such as a strong US dollar, rising bond yields, and surging oil prices indicate a strongly negative market impact.",
+  "price_changes": {
+    "\"treasury yields\"": {
+      "ticker": "TLT",
+      "trend": [
+        86.54,
+        87.21,
+        87.45,
+        86.96,
+        87.49,
+        85.83,
+        86.39
+      ],
+      "base_price": 86.01,
+      "next_price": 86.84,
+      "change_1d": 0.965,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

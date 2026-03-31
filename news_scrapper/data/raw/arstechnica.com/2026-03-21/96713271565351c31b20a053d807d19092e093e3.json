@@ -1,0 +1,64 @@
+{
+  "id": "96713271565351c31b20a053d807d19092e093e3",
+  "url": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+  "site": "arstechnica.com",
+  "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11 - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:41.989351",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-21\\96713271565351c31b20a053d807d19092e093e3.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-21\\96713271565351c31b20a053d807d19092e093e3.txt",
+  "word_count": 333,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4f6bc9f9b8e1cf2dab2196a9c66f54e627327218",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Microsoft announces intentional changes to Copilot integration in Windows and plans for quality improvements in Windows 11, amidst ongoing Windows 10 support and potential upgrades.",
+  "sentiment": 4,
+  "sentiment_reason": "The announcement of Microsoft's commitment to reducing Copilot's disruptive presence and enhancing overall Windows performance indicates a positive impact on the market, as it addresses user concerns and aims to improve user experience.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        404.88,
+        401.86,
+        395.55,
+        399.95,
+        399.41,
+        391.79,
+        389.02
+      ],
+      "base_price": 381.87,
+      "next_price": 383.0,
+      "change_1d": 0.2959,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "00117a5d3034b5876018511b8618babdbaf9a93e",
+  "url": "https://www.benzinga.com/markets/market-summary/26/03/51391526/iran-war-inflation-rate-hikes-wall-street-week-review",
+  "site": "benzinga.com",
+  "title": "Iran War Reignites Rate Hike Fears – S&P 500 Hits 'Oversold' Levels - State Street Energy Select Sector SPDR ETF (ARCA:XLE)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:21.452059",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\00117a5d3034b5876018511b8618babdbaf9a93e.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\00117a5d3034b5876018511b8618babdbaf9a93e.txt",
+  "word_count": 516,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "4e74579c4d7cffba9aa5324563810c6ca9f9bf62",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "The Iran war has led to a significant increase in oil prices and concerns over inflation, prompting the Federal Reserve to revise its inflation forecasts and causing markets to price in potential rate hikes.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the impact of rising oil prices due to the Iran war, fears of inflation, and the Federal Reserve's acknowledgment of these issues, which indicates negative market sentiment due to potential rate hikes and economic uncertainty.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

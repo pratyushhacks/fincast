@@ -1,0 +1,25 @@
+{
+  "id": "52ca0ac03291f26b79b59137403b04c1ff7c5f33",
+  "url": "https://economictimes.indiatimes.com/news/defence/uk-approves-us-use-of-british-bases-to-strike-iran-missile-sites-targeting-ships/articleshow/129708422.cms",
+  "site": "indiatimes.com",
+  "title": "UK approves US use of British bases to strike Iran missile sites targeting ships - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:58.879791",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\52ca0ac03291f26b79b59137403b04c1ff7c5f33.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\52ca0ac03291f26b79b59137403b04c1ff7c5f33.txt",
+  "word_count": 317,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a3f6e6734bf967cfdf05c8c60adaed9472a8353c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

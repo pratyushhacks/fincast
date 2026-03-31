@@ -1,0 +1,65 @@
+{
+  "id": "94d14a95ecb8c3bcc96f6ff0b9c500273f64d7d0",
+  "url": "https://www.scmp.com/economy/global-economy/article/3347567/china-cuts-exports-two-hi-tech-metals-japan-increases-rare-earth-shipments",
+  "site": "scmp.com",
+  "title": "China cuts exports of 2 hi-tech metals to Japan, increases rare earth shipments | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:22.830260",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-24\\94d14a95ecb8c3bcc96f6ff0b9c500273f64d7d0.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-24\\94d14a95ecb8c3bcc96f6ff0b9c500273f64d7d0.txt",
+  "word_count": 261,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "29f2c5202ec6c8c4271f3b71244f4c914e0d48ce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "China has reduced its exports of gallium and germanium to Japan, materials crucial for military and civilian technologies, amidst strained geopolitical relations. This comes after Japan's controversial remarks on Taiwan and China's previous restrictions on Japanese entities.",
+  "sentiment": 2,
+  "sentiment_reason": "The reduction in exports of materials with both civilian and military applications, coupled with the context of strained ties and previous restrictions, indicates negative market impact due to geopolitical tensions and potential disruptions in the supply chain.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59
+      ],
+      "base_price": 341.02,
+      "next_price": 345.25,
+      "change_1d": 1.2404,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

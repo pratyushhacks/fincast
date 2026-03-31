@@ -1,0 +1,63 @@
+{
+  "id": "3fc36f9a02fc9c7217de9da7d9880973cd988e2a",
+  "url": "https://it.euronews.com/my-europe/2026/03/16/come-si-prepara-leuropa-a-una-nuova-crisi-energetica-chiedilo-al-chatbot-ia-di-euronews",
+  "site": "euronews.com",
+  "title": "Come si prepara l'Europa a una nuova crisi energetica? Chiedilo al chatbot IA di Euronews",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:42.610577",
+  "language": null,
+  "html_path": "data\\raw\\euronews.com\\2026-03-17\\3fc36f9a02fc9c7217de9da7d9880973cd988e2a.html",
+  "text_path": "data\\raw\\euronews.com\\2026-03-17\\3fc36f9a02fc9c7217de9da7d9880973cd988e2a.txt",
+  "word_count": 242,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b7a5eee0eae1b8df0b8e1d4eba0353f80bf0334d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Nonostante l'Ue abbia ridotto le importazioni di combustibili fossili dopo l'invasione dell'Ucraina, rimane comunque dipendente dalle riserve estere per il 58% del fabbisogno energetico nel 2023. La crisi in Medio Oriente e l'aumento dei prezzi dei combustibili mettono in luce la vulnerabilità energetica dell'UE e il suo impatto negativo sull'economia europea. La Commissione europea sta lavorando sul European Grids Package per affrontare questi problemi e ridurre ulteriormente la dipendenza energetica.",
+  "sentiment": 2,
+  "sentiment_reason": "La crisi energetica e l'aumento dei prezzi dei combustibili hanno un impatto negativo sull'economia europea e rafforzano la dipendenza energetica dell'UE.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        36.09,
+        36.09,
+        36.28,
+        36.3,
+        35.59,
+        34.83,
+        35.39
+      ],
+      "base_price": 35.38,
+      "next_price": 34.85,
+      "change_1d": -1.498,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21
+      ],
+      "base_price": 668.96,
+      "next_price": 659.63,
+      "change_1d": -1.3947,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

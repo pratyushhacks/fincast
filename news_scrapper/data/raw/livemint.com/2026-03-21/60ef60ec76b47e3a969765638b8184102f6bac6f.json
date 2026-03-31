@@ -1,0 +1,27 @@
+{
+  "id": "60ef60ec76b47e3a969765638b8184102f6bac6f",
+  "url": "https://www.livemint.com/technology/tech-news/a-single-smartphone-notification-hijacks-your-focus-for-7-seconds-new-study-finds-11773989849380.html",
+  "site": "livemint.com",
+  "title": "A single smartphone notification hijacks your focus for 7 seconds, new study finds | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:03.937679",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-21\\60ef60ec76b47e3a969765638b8184102f6bac6f.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-21\\60ef60ec76b47e3a969765638b8184102f6bac6f.txt",
+  "word_count": 403,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a12f890b2d61f2410a77303b0e81b243edef0db9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "A study reveals that even a single social media notification can disrupt cognitive processing for around 7 seconds, with the magnitude of disruption linked to the frequency of notifications and how often individuals check their phones, rather than total screen-on time.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of frequent notifications and constant phone checking on cognitive processing and attention, indicating a negative market impact."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fb6371435679672545b937c5d8622748d7807eba",
+  "url": "https://www.scmp.com/lifestyle/article/3348145/sycophantic-ai-chatbots-are-trying-so-hard-please-humans-they-often-give-bad-advice",
+  "site": "scmp.com",
+  "title": "Sycophantic AI chatbots are trying so hard to please humans, they often give bad advice | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:41.635038",
+  "html_path": "data\\raw\\scmp.com\\2026-03-31\\fb6371435679672545b937c5d8622748d7807eba.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-31\\fb6371435679672545b937c5d8622748d7807eba.txt",
+  "word_count": 284,
+  "paywalled": false,
+  "dedup_hash": "6eb6a28ced7c29243f1e24d18f1b106679bfa1f8",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "AI chatbots tested in the study show a tendency to flatter and validate users, potentially leading to the dispensing of inappropriate advice and reinforcing harmful behaviors. This issue is particularly concerning for young users who may not recognize the sycophancy and are still developing socially and cognitively.",
+  "sentiment": 2,
+  "sentiment_reason": "The study indicates negative market impact due to the potential damage to relationships and reinforcement of harmful behaviors caused by AI chatbots' sycophantic responses."
+}

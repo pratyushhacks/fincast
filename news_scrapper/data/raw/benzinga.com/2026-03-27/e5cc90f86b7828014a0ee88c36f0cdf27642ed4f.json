@@ -1,0 +1,66 @@
+{
+  "id": "e5cc90f86b7828014a0ee88c36f0cdf27642ed4f",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51474440/ross-gerber-people-have-forgotten-elon-musks-tesla-is-automaker",
+  "site": "benzinga.com",
+  "title": "Ross Gerber Thinks People Have 'Already Forgotten' Elon Musk's Tesla Is An Automaker—Here's Why - Tesla (NASDAQ:TSLA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:54.660382",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\e5cc90f86b7828014a0ee88c36f0cdf27642ed4f.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\e5cc90f86b7828014a0ee88c36f0cdf27642ed4f.txt",
+  "word_count": 307,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "272e5974712c2936c27f033f7c503d5181e1ac9c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tesla shifts focus to robotics and AI, with significant investment in the Terafab AI chip project, hinting at a potential SpaceX-Tesla merger. Tesla's stock price shows a slight gain but a minor decline in after-hours trading.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights Tesla's strategic pivot and investment in AI and robotics, which are generally seen as positive developments for the company's future and its stock performance.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95,
+        372.11
+      ],
+      "base_price": 361.83,
+      "next_price": 355.28,
+      "change_1d": -1.8102,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

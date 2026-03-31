@@ -1,0 +1,65 @@
+{
+  "id": "345d316118e04a586c603e4617d0efbf094f0090",
+  "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51332692/bobs-discount-furniture-analysts-cut-their-forecasts-after-q4-results",
+  "site": "benzinga.com",
+  "title": "Bob's Discount Furniture Analysts Cut Their Forecasts After Q4 Results - Bobs Discount Furniture (NYSE:BOBS)",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:37.058794",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-19\\345d316118e04a586c603e4617d0efbf094f0090.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-19\\345d316118e04a586c603e4617d0efbf094f0090.txt",
+  "word_count": 145,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "25d8e5dc142d6ba8310755e5b0232edc9376a3e6",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Bobs Discount Furniture reported mixed Q4 results with earnings beating estimates but sales missing, leading analysts to revise their forecasts and price targets downward.",
+  "sentiment": 2,
+  "sentiment_reason": "The mixed earnings report and lower than expected sales led to analysts cutting their forecasts, indicating negative market sentiment due to potential revenue concerns.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

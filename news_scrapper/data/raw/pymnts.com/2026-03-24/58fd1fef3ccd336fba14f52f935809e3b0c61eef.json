@@ -1,0 +1,65 @@
+{
+  "id": "58fd1fef3ccd336fba14f52f935809e3b0c61eef",
+  "url": "https://www.pymnts.com/news/investment-tracker/2026/bezoss-ai-manufacturing-gamble-could-change-how-companies-get-fixed/",
+  "site": "pymnts.com",
+  "title": "Bezos’s AI Gamble Could Change How Firms Get Fixed",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:25.086860",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-24\\58fd1fef3ccd336fba14f52f935809e3b0c61eef.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-24\\58fd1fef3ccd336fba14f52f935809e3b0c61eef.txt",
+  "word_count": 800,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "36de5779c6d112aad824fb68bc721ce57bbdefd7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Jeff Bezos is investing $100 billion to apply AI in manufacturing, aiming to transform factories into optimized systems, akin to Amazon's approach in standardizing fulfillment. Bezos's strategy is part of a larger trend of technological transformation in manufacturing.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as it discusses the potential of AI to revolutionize manufacturing efficiency and innovation, reflecting a strong belief in the transformative power of technology.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        111.65,
+        112.56,
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86
+      ],
+      "base_price": 110.63,
+      "next_price": 111.47,
+      "change_1d": 0.7593,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

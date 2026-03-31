@@ -1,0 +1,65 @@
+{
+  "id": "a2f394ec2ff37d53a35e03c135b1701f134309eb",
+  "url": "https://www.thehindu.com/sci-tech/technology/elon-musk-launches-terafab-project-to-make-own-ai-chips/article70771715.ece",
+  "site": "thehindu.com",
+  "title": "Elon Musk launches 'Terafab' project to make own AI chips - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:02.608240",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-23\\a2f394ec2ff37d53a35e03c135b1701f134309eb.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-23\\a2f394ec2ff37d53a35e03c135b1701f134309eb.txt",
+  "word_count": 338,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "87507a057d11854df3e7e54c239114d1b8f010d3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Elon Musk announces 'Terafab', a joint project by Tesla and SpaceX to produce chips for AI, robotics, and data centers in space, aiming to generate one terawatt of computing power annually. The initiative is expected to meet the high demand for computing power from these companies.",
+  "sentiment": 4,
+  "sentiment_reason": "The announcement of a new, innovative project by a high-profile entrepreneur like Elon Musk, aiming to meet the high demand for computing power and potentially revolutionize the tech industry, is considered positive.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        395.01,
+        391.2,
+        395.56,
+        399.27,
+        392.78,
+        380.3,
+        367.96
+      ],
+      "base_price": 380.85,
+      "next_price": 383.03,
+      "change_1d": 0.5724,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

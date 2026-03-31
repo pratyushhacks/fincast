@@ -1,0 +1,18 @@
+{
+  "id": "1b84a60de46bbb9d859a4a5a856b866373c2df8d",
+  "url": "https://www.benzinga.com/news/politics/26/03/51532002/mark-zuckerberg-praised-elon-musks-doge-progress-in-2025-offered-to-help-anything-else-i-can-do",
+  "site": "benzinga.com",
+  "title": "Mark Zuckerberg Praised Elon Musk's DOGE 'Progress' In 2025, Offered To Help: 'Anything Else I Can Do' - Meta Platforms (NASDAQ:META), Microsoft (NASDAQ:MSFT)",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:35.858660",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\1b84a60de46bbb9d859a4a5a856b866373c2df8d.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\1b84a60de46bbb9d859a4a5a856b866373c2df8d.txt",
+  "word_count": 320,
+  "paywalled": false,
+  "dedup_hash": "1de67c29625a312bb33c25ad4e9fe7175a0b10d1",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Zuckerberg's texts to Musk regarding content removal and potential investment in OpenAI's IP are revealed amid Musk's lawsuit against OpenAI. Zuckerberg showed interest but did not join the bid, and Musk's communications with him are part of the legal proceedings.",
+  "sentiment": 3,
+  "sentiment_reason": "The text discusses routine business communications and legal matters without clear negative or positive market impact."
+}

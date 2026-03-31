@@ -1,0 +1,66 @@
+{
+  "id": "a1de7cda68dcab1299466beb7dc38596cfe6a759",
+  "url": "https://www.cnbc.com/2026/03/26/jefferies-names-the-stocks-that-can-win-in-the-ai-humanoid-robot-boom.html",
+  "site": "cnbc.com",
+  "title": "Jefferies names the stocks that can win in the AI humanoid robot boom",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:29.599785",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-27\\a1de7cda68dcab1299466beb7dc38596cfe6a759.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-27\\a1de7cda68dcab1299466beb7dc38596cfe6a759.txt",
+  "word_count": 384,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "0cdac631d89771b79b8181dc7066f334005b21b0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Humanoid robots are identified as a significant automation growth opportunity, with companies like Tesla, Freeport McMoRan, Alcoa, Nucor, and Analog Devices potentially benefiting from the rising demand for robotics components and related commodities.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook on the growth opportunities in the robotics industry, highlighting potential benefits for listed companies and the anticipated demand for robotics components.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24
+      ],
+      "base_price": 167.52,
+      "next_price": 165.17,
+      "change_1d": -1.4028,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

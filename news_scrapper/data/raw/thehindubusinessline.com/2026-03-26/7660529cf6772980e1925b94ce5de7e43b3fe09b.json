@@ -1,0 +1,66 @@
+{
+  "id": "7660529cf6772980e1925b94ce5de7e43b3fe09b",
+  "url": "https://www.thehindubusinessline.com/markets/jio-platforms-drhp-filing-soon-indias-largest-ipo-expected-in-first-half-of-2026/article70785783.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Jio Platforms DRHP filing soon, India’s largest IPO expected in first half of 2026 - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:29.974621",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\7660529cf6772980e1925b94ce5de7e43b3fe09b.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-26\\7660529cf6772980e1925b94ce5de7e43b3fe09b.txt",
+  "word_count": 341,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b72cf596575eedd8edd6e80964059a5a006f269f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Jio Platforms is poised to file its Draft Red Herring Prospectus (DRHP) for what could be India’s largest-ever IPO, with discussions ongoing with over a dozen foreign investors to pare their stakes. The company had previously raised significant funds from high-profile investors, including Meta and Google.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights a major upcoming IPO and significant investment from major companies, indicating a positive market impact.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.42,
+      "change_1d": -1.542,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.34,
+      "change_1d": -1.1241,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

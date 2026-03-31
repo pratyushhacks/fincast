@@ -1,0 +1,54 @@
+{
+  "id": "fb5cf9348d041b2ffa3abf7cd99d7796ac5179f0",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51556554/apple-celebrates-50-years-iphone-could-be-around-for-50-more-not-going-anywhere",
+  "site": "benzinga.com",
+  "title": "Apple Celebrates 50 Years: iPhone Could Be Around For 50 More – 'Not Going Anywhere' - Apple (NASDAQ:AAPL - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:42.609430",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\fb5cf9348d041b2ffa3abf7cd99d7796ac5179f0.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\fb5cf9348d041b2ffa3abf7cd99d7796ac5179f0.txt",
+  "word_count": 332,
+  "paywalled": false,
+  "dedup_hash": "96a8b005ff1fbe2576f45d120e30eaa6d2206f8e",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Apple OR AAPL)",
+  "summary": "Apple celebrates the 19th anniversary of the iPhone, emphasizing its enduring role and the company's commitment to AI, despite no current plans for a new iPhone. Apple's CEO highlights the importance of culture and values in the company's future.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive outlook on the iPhone's future and Apple's dedication to innovation and AI, despite the absence of a new iPhone model.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89,
+        248.8
+      ],
+      "base_price": 246.63,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

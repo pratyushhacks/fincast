@@ -1,0 +1,63 @@
+{
+  "id": "b06d64b6be45f38493b41be827379e3d0a278c17",
+  "url": "https://www.thehindubusinessline.com/economy/india-seeks-steelmaking-raw-material-from-argentina-indonesia-oman-sources-say/article70791199.ece",
+  "site": "thehindubusinessline.com",
+  "title": "India seeks steelmaking raw material from Argentina, Indonesia, Oman, sources say - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:56.476760",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-28\\b06d64b6be45f38493b41be827379e3d0a278c17.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-28\\b06d64b6be45f38493b41be827379e3d0a278c17.txt",
+  "word_count": 381,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a929f99c5a3bb3e4c414b9467688f8af3260109c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector",
+  "summary": "India, the world's largest crude steel producer, is facing a severe gas crisis due to the Middle East war, threatening small steel unit production. Simultaneously, it is seeking to diversify steel export markets and secure raw materials amidst rising domestic demand and global supply chain disruptions.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of the gas crisis on India's steel production and the challenges in securing raw materials, but also mentions efforts to diversify markets and boost exports, which indicates a mixed but leaning negative sentiment due to immediate production threats.",
+  "price_changes": {
+    "electric vehicles": {
+      "ticker": "DRIV",
+      "trend": [
+        30.25,
+        30.32,
+        29.32,
+        30.23,
+        30.43,
+        30.89,
+        29.91
+      ],
+      "base_price": 29.62,
+      "next_price": 29.11,
+      "change_1d": -1.7218,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

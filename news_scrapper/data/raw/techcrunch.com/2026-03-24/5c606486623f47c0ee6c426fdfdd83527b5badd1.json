@@ -1,0 +1,64 @@
+{
+  "id": "5c606486623f47c0ee6c426fdfdd83527b5badd1",
+  "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+  "site": "techcrunch.com",
+  "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:57.667767",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-24\\5c606486623f47c0ee6c426fdfdd83527b5badd1.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-24\\5c606486623f47c0ee6c426fdfdd83527b5badd1.txt",
+  "word_count": 621,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "24d956e18cb05b9d1d5e0716e97c4c67984084cd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Gimlet Labs, founded by Zain Asgar, secured an $80 million Series A funding for its innovative software that addresses the AI inference bottleneck by enabling simultaneous work across diverse hardware types. The company has garnered significant partnerships and customer growth, indicating a strong market presence.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights a major breakthrough in AI technology with strong partnerships and significant customer growth, indicating a very positive market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

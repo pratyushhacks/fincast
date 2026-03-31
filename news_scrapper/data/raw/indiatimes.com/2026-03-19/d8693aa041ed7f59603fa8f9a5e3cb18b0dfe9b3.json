@@ -1,0 +1,25 @@
+{
+  "id": "d8693aa041ed7f59603fa8f9a5e3cb18b0dfe9b3",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/unloved-rally-markets-rebound-amid-scepticism-after-sharp-march-sell-off/articleshow/129668286.cms",
+  "site": "indiatimes.com",
+  "title": "Unloved rally: Markets rebound amid scepticism after sharp March sell-off - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:46:06.429555",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\d8693aa041ed7f59603fa8f9a5e3cb18b0dfe9b3.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\d8693aa041ed7f59603fa8f9a5e3cb18b0dfe9b3.txt",
+  "word_count": 538,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2f9b271fba0bade3c0a21d964acb57b76e132feb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"geopolitical risk\"",
+  "gdelt_category": "macro"
+}

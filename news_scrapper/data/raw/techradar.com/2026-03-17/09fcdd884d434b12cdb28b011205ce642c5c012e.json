@@ -1,0 +1,65 @@
+{
+  "id": "09fcdd884d434b12cdb28b011205ce642c5c012e",
+  "url": "https://www.techradar.com/pro/we-expect-at-least-usd1-trillion-revenue-nvidia-ceo-predicts-huge-windfall-on-rubin-and-blackwell-chips-as-he-reveals-new-vera-cpu-and-server-racks",
+  "site": "techradar.com",
+  "title": "‘We expect at least $1 trillion revenue’: Nvidia CEO predicts huge windfall on Rubin and Blackwell chips as he reveals new Vera CPU and server racks | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:51.263891",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\09fcdd884d434b12cdb28b011205ce642c5c012e.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\09fcdd884d434b12cdb28b011205ce642c5c012e.txt",
+  "word_count": 453,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e1f6ab81fe39aead0e01544dad6b79fb3e1832dd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia CEO predicts $1 trillion revenue from AI hardware sales through 2027, unveils new Vera chips and server racks, and introduces Groq 3 LPU for AI prompts.",
+  "sentiment": 4,
+  "sentiment_reason": "The announcement of a significant revenue forecast and new hardware releases indicates positive market impact due to anticipated growth in AI computing demand.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

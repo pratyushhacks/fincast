@@ -1,0 +1,62 @@
+{
+  "id": "e153fc42e629303c0a8a3ad5e2e7d96a4076c395",
+  "url": "https://www.investing.com/analysis/oil-swings-fade-as-rising-yields-weigh-on-equity-outlook-200677207",
+  "site": "investing.com",
+  "title": "Oil Swings Fade as Rising Yields Weigh on Equity Outlook | Investing.com",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:15.376186",
+  "language": null,
+  "html_path": "data\\raw\\investing.com\\2026-03-26\\e153fc42e629303c0a8a3ad5e2e7d96a4076c395.html",
+  "text_path": "data\\raw\\investing.com\\2026-03-26\\e153fc42e629303c0a8a3ad5e2e7d96a4076c395.txt",
+  "word_count": 361,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e15f621e62ea782aeacf05346ac17578a8f6094d",
+  "scraper_version": "0.1",
+  "matched_companies": [],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro",
+  "summary": "Oil prices found support around its 20-day moving average amidst market confusion, with the December 2027 oil futures contract trading higher than its peak in February 2022, suggesting a new structural premium. Meanwhile, the tech-heavy Nasdaq and the Dow Jones Industrial Average showed weakness independent of oil prices, with the Nasdaq breaking out higher after a long downtrend.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses negative market trends such as the weakness in tech stocks and the potential for a long-term structural premium in oil prices, but also notes a breakout in the Nasdaq, which indicates mixed market sentiment.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        118.84,
+        121.67,
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39
+      ],
+      "base_price": 117.26,
+      "next_price": 122.4,
+      "change_1d": 4.3834,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.21,
+      "change_1d": -0.7565,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

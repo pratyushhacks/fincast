@@ -1,0 +1,54 @@
+{
+  "id": "2e99dc95aa54099dd6fe4f6ff8749be5b5050e6e",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51551675/nvidia-uber-waymo-av-stack-rebuilt-without-tesla",
+  "site": "benzinga.com",
+  "title": "Nvidia, Uber, Waymo Are Rebuilding AV — Where Does Tesla Fit? - Tesla (NASDAQ:TSLA) - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:04:27.522857",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\2e99dc95aa54099dd6fe4f6ff8749be5b5050e6e.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\2e99dc95aa54099dd6fe4f6ff8749be5b5050e6e.txt",
+  "word_count": 273,
+  "paywalled": false,
+  "dedup_hash": "03cb9433132671ce3fafb76055e25ea617da6306",
+  "scraper_version": "0.1",
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "summary": "Waymo is rapidly expanding its fleet and scaling in the autonomous vehicle market, challenging Tesla's closed system approach. The market is shifting towards a collaborative ecosystem with multiple players owning different layers, impacting Tesla's competitive advantage.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to the shift towards a collaborative ecosystem in the autonomous vehicle industry, which challenges Tesla's strategy and could potentially affect its market position.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68,
+        171.24,
+        167.52
+      ],
+      "base_price": 165.17,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

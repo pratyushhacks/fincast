@@ -1,0 +1,64 @@
+{
+  "id": "a989c412027887f075b9ec67ffd54e1d8635a1f6",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51383349/vietnam-backs-amd-rd-hub-targets-9000-trained-tech-workers-by-2030",
+  "site": "benzinga.com",
+  "title": "Vietnam Backs AMD R&D Hub, Targets 9,000 Trained Tech Workers by 2030 - Advanced Micro Devices (NASDAQ:AMD)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:08.947004",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\a989c412027887f075b9ec67ffd54e1d8635a1f6.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\a989c412027887f075b9ec67ffd54e1d8635a1f6.txt",
+  "word_count": 456,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6936bfe2efe72e99c3af3857e488501be54d0707",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "AMD is expanding its presence in Vietnam with an R&D center collaboration, focusing on semiconductor industry growth and attracting foreign investment. Additionally, AMD is enhancing its AI capabilities through a partnership with Samsung, aiming to improve AI memory solutions for better performance and power efficiency.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights AMD's strategic growth initiatives and partnerships that are likely to have a positive impact on its market position and technological advancements.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        341.88,
+        329.99,
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2
+      ],
+      "base_price": 332.51,
+      "next_price": 336.59,
+      "change_1d": 1.227,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

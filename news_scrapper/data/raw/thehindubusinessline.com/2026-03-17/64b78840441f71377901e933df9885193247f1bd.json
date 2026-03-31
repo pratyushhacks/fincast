@@ -1,0 +1,66 @@
+{
+  "id": "64b78840441f71377901e933df9885193247f1bd",
+  "url": "https://www.thehindubusinessline.com/info-tech/five-startups-to-join-accel-atoms-and-googles-ai-futures-fund-ai-cohort-2026/article70748907.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Five startups to join Accel Atoms and Google’s AI Futures Fund AI Cohort 2026 - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:18.147424",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\64b78840441f71377901e933df9885193247f1bd.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-17\\64b78840441f71377901e933df9885193247f1bd.txt",
+  "word_count": 372,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "faafb456f219e289797f9bc548ef72d8a8ae9e8f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Accel and Google’s AI Futures Fund announce five Indian startups for 2026 Atoms AI Cohort, focusing on enterprise, voice, and industrial AI. Each startup will receive up to $2.35 million in funding and compute credits. The cohort aims to accelerate AI solutions from concept to global scale.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement is negative due to the implied pressure on startups to compete globally and the high stakes of the funding and resources provided.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

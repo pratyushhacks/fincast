@@ -1,0 +1,25 @@
+{
+  "id": "d52ee0021f85ed6679eb8eec4430a5bbe87a22a4",
+  "url": "https://economictimes.indiatimes.com/tech/technology/vcs-look-to-glam-up-portfolio-with-fashion-and-lifestyle-investments/articleshow/129831816.cms",
+  "site": "indiatimes.com",
+  "title": "VCs look to glam up portfolio with fashion and lifestyle investments - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:02.538496",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\d52ee0021f85ed6679eb8eec4430a5bbe87a22a4.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\d52ee0021f85ed6679eb8eec4430a5bbe87a22a4.txt",
+  "word_count": 666,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "29376bbbe0014f2ce38f5e41820f317c4aa048e5",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector"
+}

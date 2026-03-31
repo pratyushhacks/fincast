@@ -1,0 +1,24 @@
+{
+  "id": "44d4688225ba5791035cd7d39708d158b16c3284",
+  "url": "https://auto.economictimes.indiatimes.com/news/auto-technology/maruti-suzuki-iim-bangalores-nsrcel-launch-sixth-mobility-startup-cohort/129818991",
+  "site": "indiatimes.com",
+  "title": "Maruti Suzuki, IIM Bangalore’s NSRCEL launch sixth mobility startup cohort, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:22.988501",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\44d4688225ba5791035cd7d39708d158b16c3284.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\44d4688225ba5791035cd7d39708d158b16c3284.txt",
+  "word_count": 340,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "66a81297bba26d4f67596a731d7dcdcbbbcf5c4c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

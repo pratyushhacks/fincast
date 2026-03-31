@@ -1,0 +1,65 @@
+{
+  "id": "ce17e9349aa659a0529ceadbdd7bd31f91c384ac",
+  "url": "https://www.channelnewsasia.com/world/meta-ordered-pay-us375-million-over-child-safety-violations-in-landmark-trial-6014736",
+  "site": "channelnewsasia.com",
+  "title": "Meta ordered to pay US$375 million over child safety violations in landmark trial - CNA",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:09.614129",
+  "language": null,
+  "html_path": "data\\raw\\channelnewsasia.com\\2026-03-26\\ce17e9349aa659a0529ceadbdd7bd31f91c384ac.html",
+  "text_path": "data\\raw\\channelnewsasia.com\\2026-03-26\\ce17e9349aa659a0529ceadbdd7bd31f91c384ac.txt",
+  "word_count": 345,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2989daa2488bea0d260644615458b4a5b2edec2e",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "New Mexico's lawsuit against Meta, among over 40 state attorney general lawsuits, alleges the company's social media features are addictive and harmful to children, contributing to a mental health crisis. The case also questions Meta's responsibility for content pushed through algorithms.",
+  "sentiment": 1,
+  "sentiment_reason": "The article presents a strongly negative sentiment due to the serious allegations of harm to children and the company's alleged negligence.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        622.66,
+        615.68,
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89
+      ],
+      "base_price": 547.54,
+      "next_price": 529.62,
+      "change_1d": -3.2728,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.08,
+      "change_1d": -1.1694,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "a3f254d06fc221e42af8b375faa1a02d01058511",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-lets-claude-use-personal-computers-to-complete-tasks/",
+  "site": "pymnts.com",
+  "title": "Anthropic Lets Claude Use Personal Computers to Complete Tasks",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:46.322883",
+  "language": null,
+  "html_path": "data\\raw\\pymnts.com\\2026-03-26\\a3f254d06fc221e42af8b375faa1a02d01058511.html",
+  "text_path": "data\\raw\\pymnts.com\\2026-03-26\\a3f254d06fc221e42af8b375faa1a02d01058511.txt",
+  "word_count": 457,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "5ed80ec99413585914d4beb7fe358715f61e7c95",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "The article discusses the rise of AI assistants like OpenClaw and their increasing adoption in businesses, with a focus on their ability to perform tasks without human intervention through APIs. It also mentions the competition among different versions of these AI assistants and the growing interest in agentic AI among chief product officers.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents the development of AI assistants and their growing adoption in the business sector as a positive development, highlighting the innovative capabilities and potential efficiency gains.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64,
+        175.2,
+        178.68
+      ],
+      "base_price": 171.24,
+      "next_price": 168.72,
+      "change_1d": -1.4716,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.58,
+      "change_1d": -1.0823,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

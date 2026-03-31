@@ -1,0 +1,66 @@
+{
+  "id": "7833c1a33d41ac6e2820723c43a2abd717644aaf",
+  "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-10a-review-more-incremental-refinements-rather-than-a-major-upgrade/article70749222.ece",
+  "site": "thehindu.com",
+  "title": "Google Pixel 10a Review: More incremental refinements rather than a major upgrade - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:18.743621",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-17\\7833c1a33d41ac6e2820723c43a2abd717644aaf.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-17\\7833c1a33d41ac6e2820723c43a2abd717644aaf.txt",
+  "word_count": 1566,
+  "reading_time_minutes": 7,
+  "paywalled": false,
+  "dedup_hash": "0f93d99e816b07e226f1ebda9d3e4528787b8167",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google's Pixel 10a, with a price tag of ₹49,999, competes in the premium mid-range space with subtle design refinements and practical features like a compact form, IP68 water resistance, and a 120Hz refresh rate display, but lacks significant upgrades over its predecessor.",
+  "sentiment": 2,
+  "sentiment_reason": "The Pixel 10a's incremental design changes and competitive pricing in a crowded market segment suggest a neutral to slightly negative sentiment due to the absence of major upgrades compared to previous models and strong competition.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        298.31,
+        306.36,
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56
+      ],
+      "base_price": 310.92,
+      "next_price": 307.69,
+      "change_1d": -1.0389,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

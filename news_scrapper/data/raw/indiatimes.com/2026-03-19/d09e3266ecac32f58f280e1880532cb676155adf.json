@@ -1,0 +1,24 @@
+{
+  "id": "d09e3266ecac32f58f280e1880532cb676155adf",
+  "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/byd-india-opens-largest-showroom-in-delhi-expands-network-to-48-outlets/129651706",
+  "site": "indiatimes.com",
+  "title": "BYD India opens largest showroom in Delhi, expands network to 48 outlets, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:48.058470",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\d09e3266ecac32f58f280e1880532cb676155adf.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\d09e3266ecac32f58f280e1880532cb676155adf.txt",
+  "word_count": 248,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "faf710a6bb25623f1f45fd011fa7c901ab36d51c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "28b25b47b21ab804bf89de50fd5b9283bdcc0be9",
+  "url": "https://www.benzinga.com/trading-ideas/technicals/26/03/51486184/warren-buffetts-berkshire-faces-the-dreaded-death-cross-is-too-much-apple-the-problem",
+  "site": "benzinga.com",
+  "title": "Warren Buffett's Berkshire Faces Death Cross: Is Apple A Problem? - Apple (NASDAQ:AAPL), Amazon.com (NASDAQ:AMZN)",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:30.413843",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-27\\28b25b47b21ab804bf89de50fd5b9283bdcc0be9.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-27\\28b25b47b21ab804bf89de50fd5b9283bdcc0be9.txt",
+  "word_count": 307,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "fb4ad8696fd91a941cd0b3fa4c2458c8dd18fab8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Berkshire Hathaway's portfolio, heavily weighted towards Apple, faces challenges in a market where leadership is narrowing around AI, potentially causing the rest of the portfolio to lag despite underlying business strength.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses concerns about Berkshire's portfolio being out of sync with current market leaders in AI, indicating a negative sentiment due to potential recession fears and earnings miss.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

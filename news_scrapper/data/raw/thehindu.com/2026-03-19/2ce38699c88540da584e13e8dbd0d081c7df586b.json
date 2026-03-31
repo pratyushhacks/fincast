@@ -1,0 +1,66 @@
+{
+  "id": "2ce38699c88540da584e13e8dbd0d081c7df586b",
+  "url": "https://www.thehindu.com/sci-tech/technology/microsoft-reorders-copilot-teams-freeing-up-ai-chief-for-superintelligence-push/article70756613.ece",
+  "site": "thehindu.com",
+  "title": "Microsoft reorders Copilot teams, freeing up AI chief for superintelligence push - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:16.592167",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-19\\2ce38699c88540da584e13e8dbd0d081c7df586b.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-19\\2ce38699c88540da584e13e8dbd0d081c7df586b.txt",
+  "word_count": 366,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "913e822f508d91149f222d3a203c4eb0229f1700",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Microsoft reorganizes Copilot teams to improve AI adoption and usage, freeing AI chief to focus on superintelligence efforts. This comes amidst competition and evolving AI landscape.",
+  "sentiment": 2,
+  "sentiment_reason": "The reorganization indicates a strategic shift to enhance AI capabilities, but also highlights challenges in the AI market and Microsoft's dependency on OpenAI.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

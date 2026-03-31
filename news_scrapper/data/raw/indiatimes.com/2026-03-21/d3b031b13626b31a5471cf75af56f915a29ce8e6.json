@@ -1,0 +1,26 @@
+{
+  "id": "d3b031b13626b31a5471cf75af56f915a29ce8e6",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-tech-ai-stock-price-news-earnings/liveblog/129701493.cms",
+  "site": "indiatimes.com",
+  "title": "US Stock Market Today | Dow Jones | Nasdaq Highlights: Dow drops 444 pts, Nasdaq 2%, S&P over 1% as Iran war clouds outlook - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:22.423019",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-21\\d3b031b13626b31a5471cf75af56f915a29ce8e6.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-21\\d3b031b13626b31a5471cf75af56f915a29ce8e6.txt",
+  "word_count": 225,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1defb6fac5b5308e22d415d4e9747ffc9620e505",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector"
+}

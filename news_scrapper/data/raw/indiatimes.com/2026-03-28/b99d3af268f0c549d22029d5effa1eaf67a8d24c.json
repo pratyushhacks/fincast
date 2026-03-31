@@ -1,0 +1,27 @@
+{
+  "id": "b99d3af268f0c549d22029d5effa1eaf67a8d24c",
+  "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-crash-dow-sp-500-nasdaq-big-fall-today-whats-driving-dow-jones-sp-500-and-nasdaq-crash-today/articleshow/129850617.cms",
+  "site": "indiatimes.com",
+  "title": "Dow Jones S&P 500 Nasdaq big fall today: US stock market crash Dow S&P 500 Nasdaq big fall today: What’s driving Dow Jones, S&P 500 and Nasdaq crash today? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:28.494609",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\b99d3af268f0c549d22029d5effa1eaf67a8d24c.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\b99d3af268f0c549d22029d5effa1eaf67a8d24c.txt",
+  "word_count": 1381,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "47717bf09af15a477818a06cef7f8d14ab5a0eee",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company"
+}

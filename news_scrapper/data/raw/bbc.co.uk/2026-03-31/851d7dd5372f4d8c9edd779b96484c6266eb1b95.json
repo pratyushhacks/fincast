@@ -1,0 +1,54 @@
+{
+  "id": "851d7dd5372f4d8c9edd779b96484c6266eb1b95",
+  "url": "https://www.bbc.co.uk/news/articles/c86e3eglv2go",
+  "site": "bbc.co.uk",
+  "title": "Silicon Valley reeling from social media addiction trial verdict - BBC News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:20.958490",
+  "html_path": "data\\raw\\bbc.co.uk\\2026-03-31\\851d7dd5372f4d8c9edd779b96484c6266eb1b95.html",
+  "text_path": "data\\raw\\bbc.co.uk\\2026-03-31\\851d7dd5372f4d8c9edd779b96484c6266eb1b95.txt",
+  "word_count": 287,
+  "paywalled": false,
+  "dedup_hash": "79b20266f94cab584abe3a9bac6b8c424856ff2c",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "The jury's verdict against Meta and Google, including compensation and punitive damages, has significant implications for social media companies, potentially influencing thousands of similar cases. The companies are expected to appeal, but the ruling challenges their defense that they did not intentionally design their platforms to be addictive.",
+  "sentiment": 1,
+  "sentiment_reason": "The verdict is strongly negative as it holds major tech companies accountable for alleged harm caused by their platforms, potentially leading to substantial financial and reputational damage.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

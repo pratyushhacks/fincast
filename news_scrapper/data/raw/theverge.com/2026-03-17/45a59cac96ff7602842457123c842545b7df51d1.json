@@ -1,0 +1,64 @@
+{
+  "id": "45a59cac96ff7602842457123c842545b7df51d1",
+  "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+  "site": "theverge.com",
+  "title": "DLSS 5 looks like a real-time generative AI filter for video games | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:53.686179",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-17\\45a59cac96ff7602842457123c842545b7df51d1.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-17\\45a59cac96ff7602842457123c842545b7df51d1.txt",
+  "word_count": 633,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "3f5390c02857e3ad88ca1bb174a52631d49d6cb1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's DLSS 5 integrates generative AI to enhance visual realism in games, sparking mixed reactions due to perceived alterations in artistic intent, with some developers and gamers expressing dissatisfaction over unintended artistic changes.",
+  "sentiment": 2,
+  "sentiment_reason": "The introduction of DLSS 5 has generated negative sentiment due to concerns over its impact on artistic control in video games, despite its potential to improve visual fidelity.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

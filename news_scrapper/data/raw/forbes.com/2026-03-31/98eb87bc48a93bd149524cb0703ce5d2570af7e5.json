@@ -1,0 +1,18 @@
+{
+  "id": "98eb87bc48a93bd149524cb0703ce5d2570af7e5",
+  "url": "https://www.forbes.com/sites/josipamajic/2026/03/28/what-one-former-openai-researchers-sec-filing-tells-you-about-the-real-ai-race/",
+  "site": "forbes.com",
+  "title": "What One Former OpenAI Researcher's SEC Filing Tells You About The Real AI Race",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:57.958510",
+  "html_path": "data\\raw\\forbes.com\\2026-03-31\\98eb87bc48a93bd149524cb0703ce5d2570af7e5.html",
+  "text_path": "data\\raw\\forbes.com\\2026-03-31\\98eb87bc48a93bd149524cb0703ce5d2570af7e5.txt",
+  "word_count": 783,
+  "paywalled": false,
+  "dedup_hash": "65bff9926f800aad96d05ff30b4a0937af141007",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Situational Awareness LP, founded by a former OpenAI researcher, has rapidly grown its U.S. equity exposure from approximately $254 million to over $5.5 billion, focusing on companies providing electricity and compute infrastructure for AI models rather than the models themselves.",
+  "sentiment": 4,
+  "sentiment_reason": "The fund's significant growth and strategic investment in infrastructure companies that support AI advancements indicate a positive market impact."
+}

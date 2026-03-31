@@ -1,0 +1,70 @@
+{
+  "id": "af3675d7bdc5bf0a8241323d2d8985b63963f0cc",
+  "url": "https://www.insidermonkey.com/blog/sandisk-sndk-surges-6-9-as-investors-take-advantage-of-bloodbath-1716057/",
+  "site": "insidermonkey.com",
+  "title": "Sandisk (SNDK) Surges 6.9% as Investors Take Advantage of Bloodbath - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T20:49:29.280306",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-14\\af3675d7bdc5bf0a8241323d2d8985b63963f0cc.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-14\\af3675d7bdc5bf0a8241323d2d8985b63963f0cc.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "NVIDIA",
+  "gdelt_category": "company",
+  "summary": "Sandisk surges as investors react to AI breakthroughs, with a focus on a smaller company's critical role in AI technology.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights a positive market reaction to AI advancements and investor interest in a company pivotal to AI technology, despite the broader discussion of potential market disruptions.",
+  "price_changes": {
+    "NVIDIA": {
+      "ticker": "NVDA",
+      "trend": [
+        183.03,
+        183.33,
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14
+      ],
+      "base_price": 180.25,
+      "next_price": 183.22,
+      "change_1d": 1.6477,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

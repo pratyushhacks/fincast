@@ -1,0 +1,45 @@
+{
+  "id": "d2290c10fee494b45b2c9a8b2552ce5cffa083a0",
+  "url": "https://fortune.com/2026/03/13/palantir-ceo-alex-karp-interview-anthropic-pentagon-never-a-sense-ai-used-for-domestic-surveillance/",
+  "site": "fortune.com",
+  "title": "Palantir CEO Alex Karp on Anthropic-DoD feud: ‘Never a sense’ AI could be used for U.S. surveillance | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:26:30.190492",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-14\\d2290c10fee494b45b2c9a8b2552ce5cffa083a0.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-14\\d2290c10fee494b45b2c9a8b2552ce5cffa083a0.txt",
+  "word_count": 872,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "d3037f17a50e71a3e233904f8f9f5ce293a5ec93",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Anthropic",
+  "gdelt_category": "company",
+  "summary": "Palantir CEO Alex Karp clarifies that AI is not used for U.S. surveillance and the Defense Department has no plans for domestic use of AI for mass surveillance or autonomous weapons. The dispute with the DoD over contractual safeguards on AI usage continues.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the ongoing dispute and concerns over AI usage for surveillance.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

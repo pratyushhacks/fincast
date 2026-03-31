@@ -1,0 +1,64 @@
+{
+  "id": "a78ee5852fb27e253b41747a58ca82399af32c72",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/livestock-units-exempted-from-paying-key-charges-in-ulbs-and-udas-in-andhra-pradesh/article70765341.ece",
+  "site": "thehindu.com",
+  "title": "Livestock units exempted from paying key charges in ULBs and UDAs in Andhra Pradesh - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:19.589622",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-21\\a78ee5852fb27e253b41747a58ca82399af32c72.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-21\\a78ee5852fb27e253b41747a58ca82399af32c72.txt",
+  "word_count": 176,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "9825516a9a83773147fe87381f401078fd52dc80",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Andhra Pradesh government exempts livestock activities from certain charges and rationalises fees to promote the sector in urban areas, aiming to ease financial burden and encourage scientific farming.",
+  "sentiment": 4,
+  "sentiment_reason": "The policy is expected to facilitate the establishment of livestock units, boost productivity and incomes, and reduce compliance costs, which are positive indicators for the market.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

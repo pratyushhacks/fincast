@@ -1,0 +1,64 @@
+{
+  "id": "e14102a7c04678688e42e3907887a13bfdf97e81",
+  "url": "https://www.livemint.com/economy/india-rbi-backs-hdfc-bank-no-governance-concerns-chairman-resignation-11773899300829.html",
+  "site": "livemint.com",
+  "title": "After Chairman's sudden exit, RBI backs HDFC Bank, says no governance concerns | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:49:04.923927",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-20\\e14102a7c04678688e42e3907887a13bfdf97e81.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-20\\e14102a7c04678688e42e3907887a13bfdf97e81.txt",
+  "word_count": 467,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "a37fb7187f734992cadd15b8d030f7217c315106",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "HDFC Bank's part-time chairman Atanu Chakraborty resigned due to personal values and ethics conflict, while the RBI expressed no concerns regarding the bank's conduct or governance. Keki Mistry was appointed as an interim part-time chairman.",
+  "sentiment": 3,
+  "sentiment_reason": "The resignation of the chairman and the RBI's reassurance of no material concerns on record suggest a neutral market impact as it indicates stability within the bank.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.39,
+        48.58,
+        48.64,
+        49.05,
+        49.31,
+        48.72,
+        48.74
+      ],
+      "base_price": 48.83,
+      "next_price": 49.27,
+      "change_1d": 0.9011,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

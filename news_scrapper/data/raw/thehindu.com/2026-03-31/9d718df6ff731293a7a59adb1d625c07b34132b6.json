@@ -1,0 +1,54 @@
+{
+  "id": "9d718df6ff731293a7a59adb1d625c07b34132b6",
+  "url": "https://www.thehindu.com/sci-tech/technology/softbank-secures-40-billion-loan-to-boost-openai-investments/article70801609.ece",
+  "site": "thehindu.com",
+  "title": "SoftBank secures $40 billion loan to boost OpenAI investments - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:00.153337",
+  "html_path": "data\\raw\\thehindu.com\\2026-03-31\\9d718df6ff731293a7a59adb1d625c07b34132b6.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-31\\9d718df6ff731293a7a59adb1d625c07b34132b6.txt",
+  "word_count": 250,
+  "paywalled": false,
+  "dedup_hash": "52e0c5c432f473841c8efd071b2468351223b94b",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "summary": "SoftBank Group secured a $40 billion bridge loan to support its investment in OpenAI and bolster its AI strategy, amidst its previous commitment of up to $500 billion in AI infrastructure in the U.S. over four years.",
+  "sentiment": 4,
+  "sentiment_reason": "The announcement signifies a strong positive sentiment due to the substantial investment in AI, indicating confidence in the sector's growth potential.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        389.02,
+        381.87,
+        383.0,
+        372.74,
+        371.04,
+        365.97,
+        356.77
+      ],
+      "base_price": 358.96,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

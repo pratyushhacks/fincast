@@ -1,0 +1,65 @@
+{
+  "id": "56b7a94447299f5ea6ace5b8c9ba5ba82cbdf7a4",
+  "url": "https://www.channelnewsasia.com/advertorial/bridge-data-centres-invest-up-s5-billion-in-singapores-ai-infrastructure-6001301",
+  "site": "channelnewsasia.com",
+  "title": "Bridge Data Centres to invest up to S$5 billion in Singapore’s AI infrastructure",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:47.608556",
+  "language": null,
+  "html_path": "data\\raw\\channelnewsasia.com\\2026-03-26\\56b7a94447299f5ea6ace5b8c9ba5ba82cbdf7a4.html",
+  "text_path": "data\\raw\\channelnewsasia.com\\2026-03-26\\56b7a94447299f5ea6ace5b8c9ba5ba82cbdf7a4.txt",
+  "word_count": 404,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "de3376bb511937e8d7244a823d08c2d5434b04b3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector",
+  "summary": "Bridge Data Centres plans a significant investment in Singapore's next-generation digital infrastructure, targeting two gigawatts of regional capacity by 2030. The expansion includes innovative construction methods and sustainability initiatives, such as water treatment plants integrated into facilities and prefabricated construction for faster development.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights positive developments such as investment in digital infrastructure, innovative construction methods, and sustainability initiatives, which are expected to support Singapore's position as an AI and cloud hub.",
+  "price_changes": {
+    "cloud computing": {
+      "ticker": "SKYY",
+      "trend": [
+        113.49,
+        113.26,
+        113.63,
+        111.44,
+        113.86,
+        110.63,
+        111.47
+      ],
+      "base_price": 109.92,
+      "next_price": 106.53,
+      "change_1d": -3.0841,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 639.9,
+      "change_1d": -0.8045,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

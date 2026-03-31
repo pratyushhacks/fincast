@@ -1,0 +1,27 @@
+{
+  "id": "91ddc0dffe0408b3466414e83457076a67a18ee4",
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambani-ril-appoints-17-bankers-for-a-potential-rs-40000-crore-jio-platforms-ipo/articleshow/129649864.cms",
+  "site": "indiatimes.com",
+  "title": "RIL appoints 17 bankers for a potential Rs 40,000 crore Jio Platforms IPO - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:18.603399",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\91ddc0dffe0408b3466414e83457076a67a18ee4.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\91ddc0dffe0408b3466414e83457076a67a18ee4.txt",
+  "word_count": 493,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e8d4afe210e50b93ec98f05aef50fad033a74dcd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company"
+}

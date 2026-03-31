@@ -1,0 +1,54 @@
+{
+  "id": "dcca4a84014ea9e38fd076a136ea761c72860e64",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51529600/meta-youtube-6m-trial-far-reaching-consequences-gary-black",
+  "site": "benzinga.com",
+  "title": "Meta, YouTube $6M Trial Has Far-Reaching Consequences - Alphabet (NASDAQ:GOOGL) - Benzinga",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:05:07.175635",
+  "html_path": "data\\raw\\benzinga.com\\2026-03-31\\dcca4a84014ea9e38fd076a136ea761c72860e64.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-31\\dcca4a84014ea9e38fd076a136ea761c72860e64.txt",
+  "word_count": 294,
+  "paywalled": false,
+  "dedup_hash": "686d0e6fd1d428803827aa7b69896800f4d92bd2",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Meta OR META)",
+  "summary": "Meta and Alphabet (GOOGL) have underperformed due to a jury's decision against them, finding their platforms addictive and potentially harmful, especially to children. The companies face possible legal and regulatory challenges ahead.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the jury's decision, potential overturning on appeal, and the implications of increased regulatory scrutiny on social media companies.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        606.7,
+        593.66,
+        604.06,
+        592.92,
+        594.89,
+        547.54,
+        525.72
+      ],
+      "base_price": 536.38,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

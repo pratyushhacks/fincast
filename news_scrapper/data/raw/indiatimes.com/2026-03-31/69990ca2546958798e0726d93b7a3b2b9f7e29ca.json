@@ -1,0 +1,15 @@
+{
+  "id": "69990ca2546958798e0726d93b7a3b2b9f7e29ca",
+  "url": "https://economictimes.indiatimes.com/news/international/us/us-recession-2026-40-recession-risk-oil-nearing-100-rates-at-multi-year-highs-is-the-crash-now-a-question-of-timing-not-if/articleshow/129903228.cms",
+  "site": "indiatimes.com",
+  "title": "US recession 2026 risk and timing: US recession 2026: 40% recession risk, oil nearing $100, rates at multi-year highs — is the crash now a question of timing, not if? - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:08:14.022852",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\69990ca2546958798e0726d93b7a3b2b9f7e29ca.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\69990ca2546958798e0726d93b7a3b2b9f7e29ca.txt",
+  "word_count": 1202,
+  "paywalled": false,
+  "dedup_hash": "ddd131e39f45efaab7dae2ef93953e3894279f6a",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"US recession\""
+}

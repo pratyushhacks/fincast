@@ -1,0 +1,65 @@
+{
+  "id": "92b151989fda72eb5acb5c9d5a56c913e06de185",
+  "url": "https://www.thehindu.com/business/markets/fpis-sell-record-11-lakh-crore-in-indian-equities-as-markets-remain-fragile/article70788528.ece",
+  "site": "thehindu.com",
+  "title": "FPIs sell record ₹1.1 lakh crore in Indian equities as markets remain fragile - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:24.618857",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-27\\92b151989fda72eb5acb5c9d5a56c913e06de185.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-27\\92b151989fda72eb5acb5c9d5a56c913e06de185.txt",
+  "word_count": 408,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "8ba3d922de809153408ea8cd1525d7a5e04829bd",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "FIIs sold a record ₹1,12,244 crore worth of Indian stocks this month due to extreme exposure to oil price shocks, surpassing the previous month's highest selling month in 2024. This aggressive selling is also influenced by the Middle East conflict and India's high dependence on oil imports.",
+  "sentiment": 1,
+  "sentiment_reason": "The article describes a strong negative market impact due to the record selling by FIIs, influenced by oil price shocks and geopolitical tensions.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34,
+        49.05
+      ],
+      "base_price": 47.81,
+      "next_price": 48.36,
+      "change_1d": 1.1504,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

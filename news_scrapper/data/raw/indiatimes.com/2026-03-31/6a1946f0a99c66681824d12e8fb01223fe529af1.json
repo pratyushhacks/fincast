@@ -1,0 +1,15 @@
+{
+  "id": "6a1946f0a99c66681824d12e8fb01223fe529af1",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/hd-kumaraswamy-calls-for-inclusive-ev-transition-stresses-interoperability-at-leaf-launch/129898371",
+  "site": "indiatimes.com",
+  "title": "Kumaraswamy EV Transition: HD Kumaraswamy calls for inclusive EV transition, stresses interoperability at LEAF launch, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:29.246822",
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-31\\6a1946f0a99c66681824d12e8fb01223fe529af1.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-31\\6a1946f0a99c66681824d12e8fb01223fe529af1.txt",
+  "word_count": 483,
+  "paywalled": false,
+  "dedup_hash": "b241e834cc7c04f59c432b2e5550c48ba7160f7e",
+  "scraper_version": "0.1",
+  "gdelt_query": "electric vehicles"
+}

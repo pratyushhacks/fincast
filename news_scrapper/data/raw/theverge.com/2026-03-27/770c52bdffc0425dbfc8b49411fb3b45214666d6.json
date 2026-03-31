@@ -1,0 +1,64 @@
+{
+  "id": "770c52bdffc0425dbfc8b49411fb3b45214666d6",
+  "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+  "site": "theverge.com",
+  "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:04.272547",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-27\\770c52bdffc0425dbfc8b49411fb3b45214666d6.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-27\\770c52bdffc0425dbfc8b49411fb3b45214666d6.txt",
+  "word_count": 238,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "012c01002886213d6f7e5e909c9210f10de370b7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Google expands its voice and camera search feature, Search Live, to more countries and languages, and improves its AI model for faster and more intuitive responses. Additionally, real-time translation feature is rolled out to iOS in more countries.",
+  "sentiment": 4,
+  "sentiment_reason": "The expansion and improvements of Google's Search Live feature and the addition of real-time translation on iOS are seen as positive developments for user experience and accessibility.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "c6592db117b8aeb54c54c85f56dfc9bbe64b2085",
+  "url": "https://www.benzinga.com/markets/prediction-markets/26/03/51271956/nvidia-gtc-2026-keynote-prediction-market-preview-what-will-jensen-huang-say",
+  "site": "benzinga.com",
+  "title": "Nvidia GTC 2026 Keynote Prediction Market Preview: What Will Jensen Huang Say? - NVIDIA (NASDAQ:NVDA)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:50.493470",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\c6592db117b8aeb54c54c85f56dfc9bbe64b2085.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\c6592db117b8aeb54c54c85f56dfc9bbe64b2085.txt",
+  "word_count": 397,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "8e780bb0c3648dd79d4c3e6ab5d633ddec04de77",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's GTC 2026 keynote anticipation: Huang likely to discuss core revenue drivers, architecture, and AI infrastructure spending reaching trillions. Keywords like 'Blackwell', 'Data Center', and 'Cosmos' have high market expectations. Groq and partnerships like with Anthropic may be less emphasized. Analysts focus on Rubin shipment details and Groq's impact on stock.",
+  "sentiment": 2,
+  "sentiment_reason": "The article suggests a negative sentiment due to uncertainty around Huang's focus on Groq and other politically sensitive AI ventures, despite strong market expectations for other topics.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "412f69055d92dd8bb37906c0e8a1302fc1579d95",
+  "url": "https://www.livemint.com/technology/tech-news/apple-to-distill-googles-gemini-into-smaller-models-to-power-localized-iphone-ai-features-report-11774485857408.html",
+  "site": "livemint.com",
+  "title": "Apple to 'distill' Google's Gemini into smaller models to power localized iPhone AI features: Report | Mint",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:55.886438",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-26\\412f69055d92dd8bb37906c0e8a1302fc1579d95.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-26\\412f69055d92dd8bb37906c0e8a1302fc1579d95.txt",
+  "word_count": 488,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "c87a8740bdd4a134b0507d221189008762649b9a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple is enhancing Siri with a partnership with Google, using Gemini to power the voice assistant. Apple gains full access to the Gemini model, allowing it to create smaller models for specific tasks and distill knowledge onto a smaller model. Siri will have improved memory of past conversations and proactive responses. Apple also plans to unveil a new standalone Siri app with chatbot-like features and system-wide integration across applications.",
+  "sentiment": 4,
+  "sentiment_reason": "The article discusses positive developments such as the partnership with Google, the ability to create smaller models for specific tasks, and the planned improvements to Siri's features and capabilities.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.29,
+      "change_1d": 0.1582,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.38,
+      "change_1d": -1.1171,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

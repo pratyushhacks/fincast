@@ -1,0 +1,63 @@
+{
+  "id": "d7cd98d84effb80c4bedc57142bdb74846861efc",
+  "url": "https://www.scmp.com/news/us/article/3347644/us-faces-critical-shortage-china-expertise-within-decade-report-warns",
+  "site": "scmp.com",
+  "title": "US faces critical shortage of China expertise within a decade, report warns | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:48.920088",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-24\\d7cd98d84effb80c4bedc57142bdb74846861efc.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-24\\d7cd98d84effb80c4bedc57142bdb74846861efc.txt",
+  "word_count": 235,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "66375c15f70b2762af7241d5df52df07fbc8256b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(\"China\" \"technology ban\" OR \"export controls\")",
+  "gdelt_category": "macro",
+  "summary": "The US faces a critical shortage of China expertise in the next decade, threatening national security and economic competitiveness. The report highlights the need to prioritize bilateral education exchanges to address this talent gap.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a negative situation with a potential threat to national security and economic competitiveness due to a talent gap in China expertise, hence the negative sentiment score.",
+  "price_changes": {
+    "(\"China\" \"technology ban\" OR \"export controls\")": {
+      "ticker": "SOXX",
+      "trend": [
+        331.12,
+        337.62,
+        340.25,
+        338.29,
+        340.2,
+        332.51,
+        336.59
+      ],
+      "base_price": 341.02,
+      "next_price": 345.25,
+      "change_1d": 1.2404,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

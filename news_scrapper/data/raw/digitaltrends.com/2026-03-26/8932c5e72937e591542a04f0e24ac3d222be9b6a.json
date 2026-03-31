@@ -1,0 +1,66 @@
+{
+  "id": "8932c5e72937e591542a04f0e24ac3d222be9b6a",
+  "url": "https://www.digitaltrends.com/computing/amazon-adds-a-cute-humanoid-to-its-robot-lineup/",
+  "site": "digitaltrends.com",
+  "title": "Amazon adds a cute humanoid to its robot lineup - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:31.213597",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-26\\8932c5e72937e591542a04f0e24ac3d222be9b6a.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-26\\8932c5e72937e591542a04f0e24ac3d222be9b6a.txt",
+  "word_count": 382,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "952e6625e1e4f624a60d9772d54a387e0d453943",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "Amazon acquires Fauna Robotics, the company behind Sprout, a humanoid robot, to enhance its robotics technology for warehouse automation and customer service. Sprout, targeting sectors like retail and hospitality, offers interactive experiences and learning opportunities for AI development.",
+  "sentiment": 4,
+  "sentiment_reason": "The acquisition is a positive development for Amazon's robotics technology and customer service, indicating potential growth and innovation in the sector.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71
+      ],
+      "base_price": 207.54,
+      "next_price": 201.13,
+      "change_1d": -3.0886,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.16,
+      "change_1d": -1.1555,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

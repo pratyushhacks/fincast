@@ -1,0 +1,64 @@
+{
+  "id": "171e0722b95f81052ad0dc69f1bd0eb916ec4e74",
+  "url": "https://www.computerworld.com/article/4149395/apple-local-business-ads-are-coming-to-apple-maps.html",
+  "site": "computerworld.com",
+  "title": "Apple: Local business ads are coming to Apple Maps – Computerworld",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:55.577283",
+  "language": null,
+  "html_path": "data\\raw\\computerworld.com\\2026-03-26\\171e0722b95f81052ad0dc69f1bd0eb916ec4e74.html",
+  "text_path": "data\\raw\\computerworld.com\\2026-03-26\\171e0722b95f81052ad0dc69f1bd0eb916ec4e74.txt",
+  "word_count": 235,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "87c7a82d3ac3bbd0828fa5944975aef969138e5c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple introduces new advertising features across Maps, Wallet, and other services, with a focus on localized and contextualized ads for businesses. The ads will be available in the US and Canada starting this summer, and businesses will need to claim their locations on Maps to use the advertising tools.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents information about a new advertising feature with no clear indication of a major market impact, such as a crash or breakthrough, but rather a new service offering.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.35,
+      "change_1d": 0.1819,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.17,
+      "change_1d": -1.1537,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

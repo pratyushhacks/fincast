@@ -1,0 +1,66 @@
+{
+  "id": "1c4aac7d3960753d4cfa8950526c7885b5ed580f",
+  "url": "https://www.techradar.com/pro/are-we-sure-thats-wise-minisforum-says-its-new-nas-will-come-with-openclaw-pre-installed-despite-multiple-recent-security-issues",
+  "site": "techradar.com",
+  "title": "Minisforum’s N5 Max NAS comes with OpenClaw pre-installed despite security risks raising eyebrows across the tech community | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:04.457676",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-17\\1c4aac7d3960753d4cfa8950526c7885b5ed580f.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-17\\1c4aac7d3960753d4cfa8950526c7885b5ed580f.txt",
+  "word_count": 539,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "27060c876c86a6bafe0a92bfd43ba35c9d5fbbfa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Microsoft OR MSFT)",
+  "gdelt_category": "company",
+  "summary": "Minisforum's N5 Max AI NAS, with OpenClaw pre-installed, aims to run LLMs locally, offering low-latency performance for sensitive tasks. Despite its storage and processing capabilities, OpenClaw's security concerns persist.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the ongoing security warnings and restrictions surrounding OpenClaw, despite the device' appeal for local AI processing.",
+  "price_changes": {
+    "(Microsoft OR MSFT)": {
+      "ticker": "MSFT",
+      "trend": [
+        408.96,
+        409.41,
+        405.76,
+        404.88,
+        401.86,
+        395.55,
+        399.95
+      ],
+      "base_price": 399.41,
+      "next_price": 391.79,
+      "change_1d": -1.9078,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

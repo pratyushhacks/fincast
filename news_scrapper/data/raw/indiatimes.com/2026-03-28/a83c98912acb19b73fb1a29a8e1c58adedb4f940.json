@@ -1,0 +1,24 @@
+{
+  "id": "a83c98912acb19b73fb1a29a8e1c58adedb4f940",
+  "url": "https://economictimes.indiatimes.com/news/defence/assam-rifles-jawan-injured-in-militant-firing-in-arunachal-pradesh/articleshow/129852242.cms",
+  "site": "indiatimes.com",
+  "title": "Assam Rifles jawan injured in militant firing in Arunachal Pradesh - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:50.005719",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\a83c98912acb19b73fb1a29a8e1c58adedb4f940.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\a83c98912acb19b73fb1a29a8e1c58adedb4f940.txt",
+  "word_count": 154,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ccff789e0842e07d4c6651c001f20f87fc3419e0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

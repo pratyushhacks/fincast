@@ -1,0 +1,65 @@
+{
+  "id": "c447fb440b611f2a97e0e1c202c0923d132e6b70",
+  "url": "https://www.scmp.com/news/world/united-states-canada/article/3346573/16000-meta-jobs-stake-zuckerberg-focuses-ai",
+  "site": "scmp.com",
+  "title": "Up to 16,000 Meta jobs at stake as Zuckerberg focuses on AI | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:00:23.982146",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-14\\c447fb440b611f2a97e0e1c202c0923d132e6b70.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-14\\c447fb440b611f2a97e0e1c202c0923d132e6b70.txt",
+  "word_count": 211,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "f3e1daf179c7c52da7c5aa50544afc4954e4d9f7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Meta",
+  "gdelt_category": "company",
+  "summary": "Meta plans major layoffs to offset AI infrastructure costs and increase efficiency, potentially affecting 20% of its workforce.",
+  "sentiment": 2,
+  "sentiment_reason": "The article indicates a negative market impact due to the planned layoffs and the uncertainty surrounding the magnitude and timing of the job cuts.",
+  "price_changes": {
+    "Meta": {
+      "ticker": "META",
+      "trend": [
+        667.16,
+        660.0,
+        644.31,
+        646.84,
+        653.51,
+        654.3,
+        637.63
+      ],
+      "base_price": 613.18,
+      "next_price": 627.45,
+      "change_1d": 2.3272,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "14d42741275a75a405b46f7549c1b62d12826c90",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-debuts-dlss-5-for-increased-visual-fidelity-in-games-ai-infused-tech-transforms-pixels-with-photorealistic-lighting-and-materials",
+  "site": "tomshardware.com",
+  "title": "Nvidia debuts DLSS 5 for increased visual fidelity in games — AI-infused tech transforms pixels with photorealistic lighting and materials | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:49.833191",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-17\\14d42741275a75a405b46f7549c1b62d12826c90.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-17\\14d42741275a75a405b46f7549c1b62d12826c90.txt",
+  "word_count": 387,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "31df3ecb3d0628ca9420ba646649ed90b5d921ac",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia debuts DLSS 5, a significant advancement in computer graphics for increased visual fidelity in games, with support from major industry players and set for a Fall 2026 launch.",
+  "sentiment": 4,
+  "sentiment_reason": "The introduction of DLSS 5 represents a major breakthrough in AI-infused tech for gaming visuals, promising enhanced performance and photorealism.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

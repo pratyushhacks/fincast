@@ -1,0 +1,61 @@
+{
+  "id": "d311ac99640acb646538d295ab99f9965a2a2fbd",
+  "url": "https://www.livemint.com/market/stock-market-news/govt-to-tweak-pli-2-0-for-it-hardware-three-ems-stocks-in-focus-11774525216887.html",
+  "site": "livemint.com",
+  "title": "Govt to tweak PLI 2.0 for IT hardware: Three EMS stocks in focus | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:52.525722",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-28\\d311ac99640acb646538d295ab99f9965a2a2fbd.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-28\\d311ac99640acb646538d295ab99f9965a2a2fbd.txt",
+  "word_count": 58,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "1a8c60344f2c756a95f8b060dff2c75198213a57",
+  "scraper_version": "0.1",
+  "matched_companies": [],
+  "matched_industries": [
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "Revenue and net profit for the company significantly increased in Q3 FY26 compared to the same quarter in the previous year. Management is optimistic about future growth and expects EBITDA to surpass previous years' figures.",
+  "sentiment": 5,
+  "sentiment_reason": "The article indicates strong financial performance with significant revenue and profit growth, and optimistic future projections, all of which are positive indicators for the market.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        338.29,
+        340.2,
+        332.51,
+        336.59,
+        341.02,
+        345.25,
+        328.85
+      ],
+      "base_price": 323.48,
+      "next_price": 309.79,
+      "change_1d": -4.2321,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09
+      ],
+      "base_price": 634.09,
+      "next_price": 631.97,
+      "change_1d": -0.3343,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

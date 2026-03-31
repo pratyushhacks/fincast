@@ -1,0 +1,64 @@
+{
+  "id": "751751dfcb4796c56280141afa33c7f1d7bfb845",
+  "url": "https://www.digitaltrends.com/computing/this-tiny-brix-mini-pc-brings-intel-panther-lake-to-your-desk/",
+  "site": "digitaltrends.com",
+  "title": "This tiny Brix mini PC brings Intel Panther Lake to your desk - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:24.325432",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-17\\751751dfcb4796c56280141afa33c7f1d7bfb845.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-17\\751751dfcb4796c56280141afa33c7f1d7bfb845.txt",
+  "word_count": 480,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "d232e4b9df3c4d3adcc8858a3c5d14969dd18ad1",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "Gigabyte's new Panther Lake Brix mini PC with Intel's 16-core 386H processor, swapable RAM, dual M.2 storage slots, and support for Wi-Fi 7 and various ports is anticipated to launch soon, potentially at a higher price point than current models.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a new product launch with a focus on its technical specifications and potential features, which indicates neutral to slightly negative sentiment due to the anticipation of a price increase.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        43.42,
+        45.58,
+        46.78,
+        47.98,
+        45.25,
+        45.77,
+        45.76
+      ],
+      "base_price": 44.06,
+      "next_price": 45.03,
+      "change_1d": 2.2015,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

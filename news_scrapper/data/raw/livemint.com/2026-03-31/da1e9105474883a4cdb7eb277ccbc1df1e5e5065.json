@@ -1,0 +1,54 @@
+{
+  "id": "da1e9105474883a4cdb7eb277ccbc1df1e5e5065",
+  "url": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-28-march-2026-over-rs-17-000-from-the-weekly-low-is-this-a-right-time-to-buy-sell-gold-11774660222175.html",
+  "site": "livemint.com",
+  "title": "Gold rate today in India jumps over  ₹17,000 from the weekly low. Is this a right time to buy gold? | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:07:57.143769",
+  "html_path": "data\\raw\\livemint.com\\2026-03-31\\da1e9105474883a4cdb7eb277ccbc1df1e5e5065.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-31\\da1e9105474883a4cdb7eb277ccbc1df1e5e5065.txt",
+  "word_count": 906,
+  "paywalled": false,
+  "dedup_hash": "c67ad6f0d0811ec4a7777b1e554387c45c6b67cf",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"oil prices\"",
+  "summary": "Gold prices remained flat due to a mix of geopolitical tensions, high US Treasury yields, and volatile crude oil prices, despite a recovery in India and a weekly loss in the international market.",
+  "sentiment": 2,
+  "sentiment_reason": "The market impact is negative due to the combination of factors such as geopolitical tensions and high yields reducing the appeal of gold.",
+  "price_changes": {
+    "\"oil prices\"": {
+      "ticker": "USO",
+      "trend": [
+        117.36,
+        121.43,
+        110.56,
+        114.54,
+        113.39,
+        117.26,
+        124.2
+      ],
+      "base_price": 129.83,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

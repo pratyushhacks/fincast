@@ -1,0 +1,64 @@
+{
+  "id": "25c234fdb43f6c299989b883bdae412c697b5a3d",
+  "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems",
+  "site": "tomshardware.com",
+  "title": "Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems — Intel wins a contract as Nvidia enters data center processor market with Vera CPUs | Tom's Hardware",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:55.798062",
+  "language": null,
+  "html_path": "data\\raw\\tomshardware.com\\2026-03-17\\25c234fdb43f6c299989b883bdae412c697b5a3d.html",
+  "text_path": "data\\raw\\tomshardware.com\\2026-03-17\\25c234fdb43f6c299989b883bdae412c697b5a3d.txt",
+  "word_count": 390,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "f8db1c5e31d0ac8d48d96c3bc293f275b819be1a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Intel's Xeon 6 will serve as host CPU for Nvidia's DGX Rubin NVL8 systems, supporting large language models and secure AI inference across data center, cloud, and edge deployments. Compatible with existing AI software stacks, it addresses demands for per-core performance and memory bandwidth.",
+  "sentiment": 2,
+  "sentiment_reason": "The announcement is negative due to the implied competition and market shift for Nvidia as Intel secures a significant role in Nvidia's data center processor market.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

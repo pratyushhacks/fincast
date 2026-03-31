@@ -1,0 +1,67 @@
+{
+  "id": "662124ed8e6fe61d16996eb96b12a0f63f2ab139",
+  "url": "https://www.pcmag.com/reviews/2fas",
+  "site": "pcmag.com",
+  "title": "2FAS Review: Sleek, Simple Authenticator Apps for Almost Every Device You Own | PCMag",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:37.215206",
+  "language": null,
+  "html_path": "data\\raw\\pcmag.com\\2026-03-19\\662124ed8e6fe61d16996eb96b12a0f63f2ab139.html",
+  "text_path": "data\\raw\\pcmag.com\\2026-03-19\\662124ed8e6fe61d16996eb96b12a0f63f2ab139.txt",
+  "word_count": 719,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "ee6563c9c0a353c48af69ac66e7d2e9d236a1ae3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "2FAS provides a mobile authenticator app and browser extension for multi-factor authentication (MFA) with popular online services. Users can customize the app's appearance and organization of tokens. However, the browser extension lacks the ability to create new tokens, and there's no desktop version due to security concerns.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a neutral to slightly negative sentiment as it discusses the useful features of the 2FAS app and browser extension for MFA, but also highlights the limitation of the browser extension and the absence of a desktop version, which could be seen as drawbacks.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.04,
+        308.7,
+        303.55,
+        302.28,
+        305.56,
+        310.92,
+        307.69
+      ],
+      "base_price": 307.13,
+      "next_price": 301.0,
+      "change_1d": -1.9959,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "b032df1849bbb7bb08db9e8adc7c6323f67cdd8e",
+  "url": "https://www.insidermonkey.com/blog/10-tech-stocks-to-sell-right-now-according-to-cathie-wood-1724434/",
+  "site": "insidermonkey.com",
+  "title": "10 Tech Stocks to Sell Right Now According to Cathie Wood - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:13.980120",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-26\\b032df1849bbb7bb08db9e8adc7c6323f67cdd8e.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-26\\b032df1849bbb7bb08db9e8adc7c6323f67cdd8e.txt",
+  "word_count": 1091,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "1b2049d7b4ae8d25de3d26933f62e108b6a4d837",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Tech stocks face a sell-off due to market rotation, valuation concerns, and geopolitical risks, prompting strategists to anticipate a market resurgence. Ark Investment Management adjusts its portfolio amid significant returns and premium valuations.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses a negative market impact characterized by a sell-off, fears of AI disruption, and geopolitical tensions, but also notes that the fundamental earnings growth remains strong and valuations are less demanding than before.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        399.27,
+        392.78,
+        380.3,
+        367.96,
+        380.85,
+        383.03,
+        385.95
+      ],
+      "base_price": 372.11,
+      "next_price": 365.36,
+      "change_1d": -1.814,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.39,
+      "change_1d": -1.1154,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

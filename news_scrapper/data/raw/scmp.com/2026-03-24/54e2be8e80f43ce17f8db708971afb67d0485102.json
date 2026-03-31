@@ -1,0 +1,63 @@
+{
+  "id": "54e2be8e80f43ce17f8db708971afb67d0485102",
+  "url": "https://www.scmp.com/news/world/americas/article/3347639/dozens-soldiers-feared-dead-after-colombian-military-plane-crashes-take",
+  "site": "scmp.com",
+  "title": "At least 34 dead after Colombian military plane crashes after take-off | South China Morning Post",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:51.273028",
+  "language": null,
+  "html_path": "data\\raw\\scmp.com\\2026-03-24\\54e2be8e80f43ce17f8db708971afb67d0485102.html",
+  "text_path": "data\\raw\\scmp.com\\2026-03-24\\54e2be8e80f43ce17f8db708971afb67d0485102.txt",
+  "word_count": 163,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "dc2a3145639427ff5e07619d8da4de2ed9d3c8e3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "A Colombian Air Force plane carrying troops crashed shortly after takeoff due to a fire, resulting in at least 34 fatalities and numerous injuries, with many still missing.",
+  "sentiment": 1,
+  "sentiment_reason": "The crash of the plane with a high casualty rate and the mention of a fire and ammunition detonation indicate a strongly negative market impact.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76,
+        205.37,
+        210.14
+      ],
+      "base_price": 207.24,
+      "next_price": 211.71,
+      "change_1d": 2.1569,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

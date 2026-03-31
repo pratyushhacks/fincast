@@ -1,0 +1,63 @@
+{
+  "id": "65d84a959b24a9e399c31be108a7a31c45b2440e",
+  "url": "https://www.cnet.com/tech/services-and-software/apple-unchains-family-members-from-a-single-payment-option-in-new-family-sharing/",
+  "site": "cnet.com",
+  "title": "Apple Update Frees Families From Sharing Only 1 Payment Option - CNET",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:11.173213",
+  "language": null,
+  "html_path": "data\\raw\\cnet.com\\2026-03-19\\65d84a959b24a9e399c31be108a7a31c45b2440e.html",
+  "text_path": "data\\raw\\cnet.com\\2026-03-19\\65d84a959b24a9e399c31be108a7a31c45b2440e.txt",
+  "word_count": 266,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c20b3d15be70f836aa95d184c4411004e0042355",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple's iOS 26.4 update introduces financial flexibility in Family Sharing by allowing adult members to use their individual payment methods, reducing the need for workarounds like Venmo or Apple gift cards. This change affects adult family members and aims to simplify the sharing of purchases within a family group.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the previous restrictions causing headaches and workarounds for family members, but the update mitigates this issue, albeit the sentiment remains negative due to the initial problem.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94
+      ],
+      "base_price": 248.96,
+      "next_price": 247.99,
+      "change_1d": -0.3896,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

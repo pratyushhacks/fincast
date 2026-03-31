@@ -1,0 +1,25 @@
+{
+  "id": "6a726c310d42f06931d7039bd44ef24083b3a52a",
+  "url": "https://telecom.economictimes.indiatimes.com/news/devices/fibocom-launches-revolutionary-5g-mifi-solution-at-mwc-2026-featuring-qualcomm-qmb415-and-linux-os/129824105",
+  "site": "indiatimes.com",
+  "title": "Fibocom 5G: Fibocom Launches Revolutionary 5G MiFi Solution at MWC 2026 Featuring Qualcomm QMB415 and Linux OS, ETTelecom",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:19.681962",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-27\\6a726c310d42f06931d7039bd44ef24083b3a52a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-27\\6a726c310d42f06931d7039bd44ef24083b3a52a.txt",
+  "word_count": 470,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "e6ffe150461dd5cc00b5ee56c1b492d447890152",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "cloud computing",
+  "gdelt_category": "sector"
+}

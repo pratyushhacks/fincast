@@ -1,0 +1,65 @@
+{
+  "id": "91fbb5973d1a0fa0bc22b151ef83e4e65bd2bd8c",
+  "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+  "site": "techcrunch.com",
+  "title": "Sam Altman's thank-you to coders draws the memes | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:17.605931",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-19\\91fbb5973d1a0fa0bc22b151ef83e4e65bd2bd8c.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-19\\91fbb5973d1a0fa0bc22b151ef83e4e65bd2bd8c.txt",
+  "word_count": 360,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "c46c6514e395133462fa87d46dcaf396f31490b3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Sam Altman's expression of gratitude to coders for their complex software contributions has sparked memes and backlash, highlighting concerns over AI's role in job automation and the tech industry's treatment of developers.",
+  "sentiment": 2,
+  "sentiment_reason": "The mixed reactions and underlying fears about AI-driven layoffs and job obsolescence contribute to a negative market sentiment.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        653.51,
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68
+      ],
+      "base_price": 606.7,
+      "next_price": 593.66,
+      "change_1d": -2.1493,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

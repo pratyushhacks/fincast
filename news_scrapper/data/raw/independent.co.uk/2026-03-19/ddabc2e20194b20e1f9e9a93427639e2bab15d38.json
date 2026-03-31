@@ -1,0 +1,29 @@
+{
+  "id": "ddabc2e20194b20e1f9e9a93427639e2bab15d38",
+  "url": "https://www.independent.co.uk/news/uk/home-news/ai-chatbot-women-girls-abuse-b2940925.html",
+  "site": "independent.co.uk",
+  "title": "AI chatbots are creating new kinds of abuse against women and girls, report says | The Independent",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:42.586467",
+  "language": null,
+  "html_path": "data\\raw\\independent.co.uk\\2026-03-19\\ddabc2e20194b20e1f9e9a93427639e2bab15d38.html",
+  "text_path": "data\\raw\\independent.co.uk\\2026-03-19\\ddabc2e20194b20e1f9e9a93427639e2bab15d38.txt",
+  "word_count": 829,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "c21e0ea2d98aaa43f639fd4ce862e94e7ade38c3",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Academic report reveals AI chatbots are facilitating new forms of violence and abuse against women and girls, including sexual harassment and abusive roleplay. The study identifies four categories of abuse perpetuated or enabled by these chatbots.",
+  "sentiment": 2,
+  "sentiment_reason": "The report highlights serious concerns about the role of AI chatbots in perpetuating and enabling abuse, which is a negative development for online safety and gender-based violence."
+}

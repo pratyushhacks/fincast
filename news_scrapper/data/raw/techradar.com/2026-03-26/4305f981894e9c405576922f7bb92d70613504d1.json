@@ -1,0 +1,64 @@
+{
+  "id": "4305f981894e9c405576922f7bb92d70613504d1",
+  "url": "https://www.techradar.com/seasonal-sales/dont-buy-apples-new-macbook-air-m5-the-award-winning-macbook-air-m4-just-dropped-to-its-lowest-price-ever-at-amazon",
+  "site": "techradar.com",
+  "title": "Don't buy Apple's new MacBook Air M5 — the award-winning MacBook Air M4 just dropped to its lowest price ever at Amazon | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:30:57.149067",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\4305f981894e9c405576922f7bb92d70613504d1.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\4305f981894e9c405576922f7bb92d70613504d1.txt",
+  "word_count": 244,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "ee04cbaf5765f7e32c35d222a73d9f2eeae83d77",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Amazon launches its Big Spring Sale with the 13-inch MacBook Air M4 priced at a record-low $949.99, making it a better deal compared to the newer MacBook Air M5. The sale ends on March 31st.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights a significant price drop for a popular product during a sale event, which is generally perceived as a positive development for consumers and the retailer.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        254.23,
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62
+      ],
+      "base_price": 252.89,
+      "next_price": 253.21,
+      "change_1d": 0.1265,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.38,
+      "change_1d": -1.1171,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "f46b08a14ff69d2e724a3454fce62827bf1df903",
+  "url": "https://www.thehindubusinessline.com/markets/forex/rupee-likely-to-remain-volatile-through-march-amid-geopolitical-tensions-union-bank-report/article70742533.ece",
+  "site": "thehindubusinessline.com",
+  "title": "Rupee likely to remain volatile through March amid geopolitical tensions: Union Bank report - The HinduBusinessLine",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T22:06:31.668663",
+  "language": null,
+  "html_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\f46b08a14ff69d2e724a3454fce62827bf1df903.html",
+  "text_path": "data\\raw\\thehindubusinessline.com\\2026-03-14\\f46b08a14ff69d2e724a3454fce62827bf1df903.txt",
+  "word_count": 395,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "63db134bf782b1671f6dbcb4dfd2aeb36630cbae",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "oil prices markets",
+  "gdelt_category": "macro",
+  "summary": "Indian rupee expected to stay volatile through March due to geopolitical tensions, Middle East conflict, crude oil price hikes, and capital flows, potentially widening current account deficit if oil prices stay high.",
+  "sentiment": 2,
+  "sentiment_reason": "The report indicates negative market impact due to geopolitical tensions, rising oil prices, and potential current account deficit concerns.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        685.13,
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06
+      ],
+      "base_price": 662.29,
+      "next_price": 669.03,
+      "change_1d": 1.0177,
+      "bucket_1d": "flat"
+    }
+  }
+}

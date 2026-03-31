@@ -1,0 +1,54 @@
+{
+  "id": "9f69bbe0c14e44c8bf04147be4d25890cc7f7e82",
+  "url": "https://fortune.com/2026/03/30/ex-google-cmo-quit-seven-figure-package-by-28-easy-promotion-career-advice-millennial-founder/",
+  "site": "fortune.com",
+  "title": "Ex‑Google CMO quit a seven‑figure job at 28—says getting promoted was ‘easy’ once he broke the rules | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:20.495746",
+  "html_path": "data\\raw\\fortune.com\\2026-03-31\\9f69bbe0c14e44c8bf04147be4d25890cc7f7e82.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-31\\9f69bbe0c14e44c8bf04147be4d25890cc7f7e82.txt",
+  "word_count": 931,
+  "paywalled": false,
+  "dedup_hash": "3ee38d8c0b7ca41762a5facc94e55e63c6cd4eb3",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Google OR GOOGL)",
+  "summary": "Chen, a high achiever at Google, disregarded company rules and norms to launch international versions of Google Partners and to get promoted ahead of schedule. His actions led to significant success and eventually to him becoming his own boss.",
+  "sentiment": 4,
+  "sentiment_reason": "Chen's actions led to strong performance and significant achievements, demonstrating a positive market impact through innovation and self-promotion.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92,
+        274.34
+      ],
+      "base_price": 273.5,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

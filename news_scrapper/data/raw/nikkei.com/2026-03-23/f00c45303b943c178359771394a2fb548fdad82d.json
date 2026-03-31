@@ -1,0 +1,65 @@
+{
+  "id": "f00c45303b943c178359771394a2fb548fdad82d",
+  "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/bangkok-auto-show-von-der-leyen-in-australia-boao-forum",
+  "site": "nikkei.com",
+  "title": "Bangkok auto show, von der Leyen in Australia, Boao Forum - Nikkei Asia",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:04.109527",
+  "language": null,
+  "html_path": "data\\raw\\nikkei.com\\2026-03-23\\f00c45303b943c178359771394a2fb548fdad82d.html",
+  "text_path": "data\\raw\\nikkei.com\\2026-03-23\\f00c45303b943c178359771394a2fb548fdad82d.txt",
+  "word_count": 655,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "de6ec333ef7c8ac331d224f5256a83656633ff18",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Tesla OR TSLA)",
+  "gdelt_category": "company",
+  "summary": "Chinese electric vehicle makers are set to compete with Japanese and European manufacturers in Thailand's auto market, while the European Union and Australia aim to finalize a trade agreement amidst agricultural sticking points. Meanwhile, in Asia, the Boao Forum discusses economic cooperation amid global tensions, and in Malaysia, Sunway Group faces resistance over its takeover bid for IJM.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a mix of neutral news including the ongoing trade negotiations, the upcoming auto show competition, and the Boao Forum's discussions, with no clear indication of strong positive or negative market impacts.",
+  "price_changes": {
+    "(Tesla OR TSLA)": {
+      "ticker": "TSLA",
+      "trend": [
+        395.01,
+        391.2,
+        395.56,
+        399.27,
+        392.78,
+        380.3,
+        367.96
+      ],
+      "base_price": 380.85,
+      "next_price": 383.03,
+      "change_1d": 0.5724,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33
+      ],
+      "base_price": 588.0,
+      "next_price": 583.98,
+      "change_1d": -0.6837,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

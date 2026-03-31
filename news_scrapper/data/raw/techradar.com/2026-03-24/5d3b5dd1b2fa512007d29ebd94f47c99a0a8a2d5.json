@@ -1,0 +1,64 @@
+{
+  "id": "5d3b5dd1b2fa512007d29ebd94f47c99a0a8a2d5",
+  "url": "https://www.techradar.com/gaming/marathon-review",
+  "site": "techradar.com",
+  "title": "Marathon review: Bungie’s extraction shooter lacks compelling reasons to play it | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:06:59.793997",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-24\\5d3b5dd1b2fa512007d29ebd94f47c99a0a8a2d5.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-24\\5d3b5dd1b2fa512007d29ebd94f47c99a0a8a2d5.txt",
+  "word_count": 1388,
+  "reading_time_minutes": 6,
+  "paywalled": false,
+  "dedup_hash": "63208b7f5f4ce5dfbda6bf69d74585a83f1b6633",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Marathon offers a visually striking and compelling gameplay experience with well-crafted gunplay and distinct weapon types. However, it faces challenges with grindy missions, cosmetic rewards, and content offering, reflected in a declining Steam player count.",
+  "sentiment": 3,
+  "sentiment_reason": "The game has strong fundamentals and aesthetic appeal but is currently limited by its gameplay mechanics and content offering, leading to a neutral market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56,
+        172.7,
+        175.64
+      ],
+      "base_price": 175.2,
+      "next_price": 178.68,
+      "change_1d": 1.9863,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0
+      ],
+      "base_price": 583.98,
+      "next_price": 587.82,
+      "change_1d": 0.6576,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

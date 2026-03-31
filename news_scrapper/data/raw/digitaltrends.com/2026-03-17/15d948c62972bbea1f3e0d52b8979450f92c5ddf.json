@@ -1,0 +1,63 @@
+{
+  "id": "15d948c62972bbea1f3e0d52b8979450f92c5ddf",
+  "url": "https://www.digitaltrends.com/phones/ios-27-may-let-you-adjust-the-liquid-glass-effect-across-your-iphone-with-a-new-slider/",
+  "site": "digitaltrends.com",
+  "title": "iOS 27 may let you adjust the Liquid Glass effect across your iPhone with a new slider - Digital Trends",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:57.608135",
+  "language": null,
+  "html_path": "data\\raw\\digitaltrends.com\\2026-03-17\\15d948c62972bbea1f3e0d52b8979450f92c5ddf.html",
+  "text_path": "data\\raw\\digitaltrends.com\\2026-03-17\\15d948c62972bbea1f3e0d52b8979450f92c5ddf.txt",
+  "word_count": 314,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "cc5ee36e86e33981cfb9d513f21b751fa323ca04",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple may introduce a system-wide slider in iOS 27 to control the Liquid Glass effect intensity across the entire interface, following a gradual expansion of customization options for users.",
+  "sentiment": 2,
+  "sentiment_reason": "The development of a new feature is mentioned, but it's still under development and may not be included in the final release, causing mild negative sentiment due to uncertainty.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82
+      ],
+      "base_price": 254.23,
+      "next_price": 249.94,
+      "change_1d": -1.6874,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

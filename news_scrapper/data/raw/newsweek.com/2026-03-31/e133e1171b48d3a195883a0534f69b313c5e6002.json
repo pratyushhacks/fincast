@@ -1,0 +1,54 @@
+{
+  "id": "e133e1171b48d3a195883a0534f69b313c5e6002",
+  "url": "https://www.newsweek.com/settlements-class-action-lawsuit-payout-amazon-panda-express-11736775",
+  "site": "newsweek.com",
+  "title": "List of settlements with claim deadlines in Spring 2026 - Newsweek",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:09.791229",
+  "html_path": "data\\raw\\newsweek.com\\2026-03-31\\e133e1171b48d3a195883a0534f69b313c5e6002.html",
+  "text_path": "data\\raw\\newsweek.com\\2026-03-31\\e133e1171b48d3a195883a0534f69b313c5e6002.txt",
+  "word_count": 765,
+  "paywalled": false,
+  "dedup_hash": "6d4553237876861beb63329d5ee601b11c85c1d1",
+  "scraper_version": "0.1",
+  "gdelt_query": "(Amazon OR AMZN)",
+  "summary": "Target settlement for wage transparency violations, American Express antitrust settlement for alleged price-increasing practices, and LifeLock/Norton robocall settlement for unsolicited calls using artificial voices.",
+  "sentiment": 2,
+  "sentiment_reason": "The articles discuss negative market impacts due to alleged violations and antitrust issues, with potential financial compensations for affected consumers.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        208.76,
+        205.37,
+        210.14,
+        207.24,
+        211.71,
+        207.54,
+        199.34
+      ],
+      "base_price": 200.95,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79,
+        562.58
+      ],
+      "base_price": 558.28,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}

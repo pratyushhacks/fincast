@@ -1,0 +1,28 @@
+{
+  "id": "7b322834a54b5d383588fe241376ca685436e133",
+  "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+  "site": "arstechnica.com",
+  "title": "OpenAI announces plans to shut down its Sora video generator - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:34.250429",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-26\\7b322834a54b5d383588fe241376ca685436e133.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-26\\7b322834a54b5d383588fe241376ca685436e133.txt",
+  "word_count": 179,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4a691a94afaee95b1a15334632526c7eda9373f0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI is shutting down Sora, a video-generation app that launched in late 2024, following a decision to refocus on business and productivity applications. This move comes after a $1 billion investment from Disney and amidst uncertainty about the future of the partnership.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the app shutdown and the uncertainty surrounding the investment and partnership with Disney."
+}

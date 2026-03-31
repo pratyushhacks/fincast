@@ -1,0 +1,65 @@
+{
+  "id": "9e4e9d66f21bee18e9586947dcc6afa2434626e5",
+  "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51286106/lyft-stock-moves-higher-after-the-close-heres-why",
+  "site": "benzinga.com",
+  "title": "Lyft Stock Moves Higher After The Close: Here's Why - Lyft (NASDAQ:LYFT)",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:54.522718",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-17\\9e4e9d66f21bee18e9586947dcc6afa2434626e5.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-17\\9e4e9d66f21bee18e9586947dcc6afa2434626e5.txt",
+  "word_count": 174,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "4a4364b28d608cc9d48b84b3d73a7656cd218fb7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Lyft integrates Nvidia AI tech to enhance predictive modeling, mapping, and rideshare platform. Aims for seamless operation of L4 autonomous vehicles on its platform. Post-announcement, Lyft stock up by 2.73% in after-hours trading.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Lyft's strategic move to adopt AI technology, which is generally positive for the company's future but carries a mild negative sentiment due to the inherent risks and uncertainties associated with the development and deployment of autonomous vehicles.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

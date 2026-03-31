@@ -1,0 +1,70 @@
+{
+  "id": "42d993c39d7a153172d721cd127be13e79153db7",
+  "url": "https://www.insidermonkey.com/blog/bernstein-upgrades-cvs-health-cvs-stock-to-outperform-from-market-perform-1722350/",
+  "site": "insidermonkey.com",
+  "title": "Bernstein Upgrades CVS Health (CVS) Stock to Outperform from Market Perform - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-24T01:07:26.925348",
+  "language": null,
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-24\\42d993c39d7a153172d721cd127be13e79153db7.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-24\\42d993c39d7a153172d721cd127be13e79153db7.txt",
+  "word_count": 828,
+  "reading_time_minutes": 4,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "healthcare stocks",
+  "gdelt_category": "sector",
+  "summary": "Amazon's new CEO highlights generative AI as a transformative technology, while billionaires invest in AI's potential to reshape various sectors. An under-valued company is mentioned as crucial to the AI revolution, with insiders and investors showing keen interest.",
+  "sentiment": 5,
+  "sentiment_reason": "The article discusses major investments and positive sentiments from influential figures about the transformative potential of AI, indicating a strongly positive market impact.",
+  "price_changes": {
+    "healthcare stocks": {
+      "ticker": "XLV",
+      "trend": [
+        149.18,
+        150.39,
+        149.03,
+        146.54,
+        146.01,
+        144.74,
+        144.77
+      ],
+      "base_price": 144.79,
+      "next_price": 146.24,
+      "change_1d": 1.0015,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38
+      ],
+      "base_price": 653.18,
+      "next_price": 656.82,
+      "change_1d": 0.5573,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

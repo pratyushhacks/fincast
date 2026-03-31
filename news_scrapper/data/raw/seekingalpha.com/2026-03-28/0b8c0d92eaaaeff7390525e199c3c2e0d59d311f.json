@@ -1,0 +1,66 @@
+{
+  "id": "0b8c0d92eaaaeff7390525e199c3c2e0d59d311f",
+  "url": "https://seekingalpha.com/article/4886724-alphabet-the-social-media-lawsuit-is-not-a-long-term-risk",
+  "site": "seekingalpha.com",
+  "title": "Alphabet: The Social Media Lawsuit Is Not A Long-Term Risk (NASDAQ:GOOGL) | Seeking Alpha",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:45.885898",
+  "language": null,
+  "html_path": "data\\raw\\seekingalpha.com\\2026-03-28\\0b8c0d92eaaaeff7390525e199c3c2e0d59d311f.html",
+  "text_path": "data\\raw\\seekingalpha.com\\2026-03-28\\0b8c0d92eaaaeff7390525e199c3c2e0d59d311f.txt",
+  "word_count": 266,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "03d274e78801e628f18fe42d3989158df524e68a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "The article is a disclosure by Noah'so Arc Capital Management, focusing on 20th century stocks transforming in the 21st century. The author has a beneficial long position in GOOGL shares.",
+  "sentiment": 3,
+  "sentiment_reason": "The article is a routine disclosure with no clear market impact.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

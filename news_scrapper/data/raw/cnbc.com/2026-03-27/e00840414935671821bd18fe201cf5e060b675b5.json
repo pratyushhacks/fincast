@@ -1,0 +1,65 @@
+{
+  "id": "e00840414935671821bd18fe201cf5e060b675b5",
+  "url": "https://www.cnbc.com/2026/03/26/apple-expands-us-manufacturing-pledge-pulling-in-a-third-portfolio-name.html",
+  "site": "cnbc.com",
+  "title": "Apple expands U.S. manufacturing pledge, pulling in a third portfolio name",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:26:30.815749",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-27\\e00840414935671821bd18fe201cf5e060b675b5.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-27\\e00840414935671821bd18fe201cf5e060b675b5.txt",
+  "word_count": 705,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "b0d3e8c3c6eb9c5e3ecc6833452f0bb925dd9df0",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple expands its U.S. manufacturing by partnering with Qnity Electronics and others, investing $400 million through 2030. This move is seen as a win-win for Apple and its suppliers, potentially boosting Qnity's growth.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights a positive development with Apple's investment in U.S. manufacturing and the potential growth for Qnity, indicating a positive market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        249.94,
+        248.96,
+        247.99,
+        251.49,
+        251.64,
+        252.62,
+        252.89
+      ],
+      "base_price": 248.8,
+      "next_price": 246.63,
+      "change_1d": -0.8722,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

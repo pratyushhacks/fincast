@@ -1,0 +1,64 @@
+{
+  "id": "208e31c6384d1de0a51f74546c300e7812794a8f",
+  "url": "https://fortune.com/article/cd-rates-3-24-26/",
+  "site": "fortune.com",
+  "title": "Top CD rates March 24, 2026: Lock in up to up to 4.20% | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:05.959641",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-26\\208e31c6384d1de0a51f74546c300e7812794a8f.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-26\\208e31c6384d1de0a51f74546c300e7812794a8f.txt",
+  "word_count": 1112,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "e126b3700886f7114a19c136c98465130beabe64",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Federal Reserve cuts benchmark federal funds rate three times in 2025, leading to banks reducing their CD and savings interest rates. Newtek Bank offers the most generous rate at 4.20% for a 9-month CD. Curinos provides current CD rates from various financial institutions to help consumers find the best options.",
+  "sentiment": 4,
+  "sentiment_reason": "The article presents a positive market impact as it discusses the Federal Reserve's rate cuts leading to lower CD rates, which could be beneficial for consumers looking to lock in higher interest rates.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.07,
+      "change_1d": -0.7782,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.07,
+      "change_1d": -0.7782,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

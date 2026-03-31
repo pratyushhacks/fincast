@@ -1,0 +1,65 @@
+{
+  "id": "8e372c2772a6cdbe596c7c46c33cbe152746a93b",
+  "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-log-second-week-losses-middle-east-war-fuels-inflation-fears",
+  "site": "businesstimes.com.sg",
+  "title": "European shares log second week of losses as Middle East war fuels inflation fears - The Business Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:30:24.497451",
+  "language": null,
+  "html_path": "data\\raw\\businesstimes.com.sg\\2026-03-14\\8e372c2772a6cdbe596c7c46c33cbe152746a93b.html",
+  "text_path": "data\\raw\\businesstimes.com.sg\\2026-03-14\\8e372c2772a6cdbe596c7c46c33cbe152746a93b.txt",
+  "word_count": 524,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "eb6f29a5889ac454ce159f863b82c1dd99e7416f",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "semiconductor",
+  "gdelt_category": "sector",
+  "summary": "European shares decline due to Middle East conflict and inflation fears, with specific impacts on industrial stocks, miners, and economically sensitive banks, amidst geopolitical tensions and potential interest-rate adjustments.",
+  "sentiment": 2,
+  "sentiment_reason": "The article describes a negative market impact driven by geopolitical tensions and inflation concerns, with a focus on the decline in European shares and specific sectors affected.",
+  "price_changes": {
+    "semiconductor": {
+      "ticker": "SOXX",
+      "trend": [
+        341.33,
+        337.55,
+        323.31,
+        336.16,
+        338.6,
+        341.88,
+        329.99
+      ],
+      "base_price": 331.12,
+      "next_price": 337.62,
+      "change_1d": 1.963,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        683.26,
+        679.45,
+        670.55,
+        676.42,
+        675.34,
+        674.49,
+        664.25
+      ],
+      "base_price": 660.49,
+      "next_price": 667.21,
+      "change_1d": 1.0174,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

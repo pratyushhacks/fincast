@@ -1,0 +1,63 @@
+{
+  "id": "5a157c79894cb16d9bddc7a90410ca5792f1607c",
+  "url": "https://www.livemint.com/companies/news/can-nvidia-s-dominance-survive-the-sea-change-under-way-in-ai-computing-11773655689431.html",
+  "site": "livemint.com",
+  "title": "Can Nvidia’s dominance survive the sea change under way in AI computing? | Company Business News",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:49.913322",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-17\\5a157c79894cb16d9bddc7a90410ca5792f1607c.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-17\\5a157c79894cb16d9bddc7a90410ca5792f1607c.txt",
+  "word_count": 87,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "69b48bfaaf96a536211c003fe0cb37cfc7ceb611",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia's dominance in AI computing is challenged by the rise of inference computing and companies like OpenAI and Anthropic, which increase demand for computing power for generative AI.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the shift in AI computing and its impact on Nvidia's market position, indicating potential negative effects due to increased competition and demand.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        177.81,
+        182.64,
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22
+      ],
+      "base_price": 181.93,
+      "next_price": 180.4,
+      "change_1d": -0.841,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

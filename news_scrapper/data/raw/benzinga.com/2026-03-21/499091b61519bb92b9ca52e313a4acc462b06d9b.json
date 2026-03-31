@@ -1,0 +1,63 @@
+{
+  "id": "499091b61519bb92b9ca52e313a4acc462b06d9b",
+  "url": "https://www.benzinga.com/pressreleases/26/03/51374130/deeptradex-introduces-enhancements-to-improve-visibility-of-ai-trading-signals",
+  "site": "benzinga.com",
+  "title": "DeepTradeX Introduces Enhancements to Improve Visibility of AI Trading Signals",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:27:20.510488",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\499091b61519bb92b9ca52e313a4acc462b06d9b.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\499091b61519bb92b9ca52e313a4acc462b06d9b.txt",
+  "word_count": 490,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "0f9902e02d5be317df0187bea6a2fc22e563adeb",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "artificial intelligence market",
+  "gdelt_category": "sector",
+  "summary": "Chainwire DeepTradeX updates its AI-driven trading platform to enhance transparency by providing additional context for AI-generated signals, including market structure and news factors. The platform aims to make AI-assisted trading systems more interpretable and supportive for users.",
+  "sentiment": 4,
+  "sentiment_reason": "The update is a positive development as it addresses the need for greater transparency and interpretability in AI trading systems, potentially leading to more informed decision-making for users.",
+  "price_changes": {
+    "artificial intelligence market": {
+      "ticker": "BOTZ",
+      "trend": [
+        36.3,
+        35.59,
+        34.83,
+        35.39,
+        35.38,
+        34.85,
+        34.88
+      ],
+      "base_price": 33.6,
+      "next_price": 34.24,
+      "change_1d": 1.9048,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63,
+        658.0
+      ],
+      "base_price": 648.57,
+      "next_price": 655.38,
+      "change_1d": 1.05,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

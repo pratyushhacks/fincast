@@ -1,0 +1,66 @@
+{
+  "id": "7780acea44cc67121c8b873607eb1c27dbbc7d75",
+  "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-101-oz-silver-falls-3-2-oz-as-middle-east-peace-talk-hopes-fade-11774360999224.html",
+  "site": "livemint.com",
+  "title": "Gold, silver rates today: Comex gold drops $101/oz; silver falls $3.2/oz as Middle East peace talk hopes fade | Stock Market News",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:36.346621",
+  "language": null,
+  "html_path": "data\\raw\\livemint.com\\2026-03-26\\7780acea44cc67121c8b873607eb1c27dbbc7d75.html",
+  "text_path": "data\\raw\\livemint.com\\2026-03-26\\7780acea44cc67121c8b873607eb1c27dbbc7d75.txt",
+  "word_count": 495,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "6de072feced9f1842df3d8bcbc616d3c1a0a1988",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector",
+  "summary": "Precious metals, particularly gold and silver, declined due to ongoing tensions in the Middle East, despite initial optimism over potential de-escalation. The uncertainty surrounding the US-Iran conflict and its impact on oil prices also influenced the market.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses the negative impact of continued Middle East tensions and the potential for higher interest rates due to inflation fears, leading to a negative market sentiment.",
+  "price_changes": {
+    "financial sector": {
+      "ticker": "XLF",
+      "trend": [
+        49.31,
+        48.72,
+        48.74,
+        48.83,
+        49.27,
+        49.28,
+        49.34
+      ],
+      "base_price": 49.05,
+      "next_price": 48.4,
+      "change_1d": -1.3252,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.24,
+      "change_1d": -0.7518,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

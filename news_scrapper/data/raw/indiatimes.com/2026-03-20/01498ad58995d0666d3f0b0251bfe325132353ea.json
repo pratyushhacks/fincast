@@ -1,0 +1,25 @@
+{
+  "id": "01498ad58995d0666d3f0b0251bfe325132353ea",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-kotak-bank-manappuram-finance-share-price-19-march-2026/liveblog/129668856.cms",
+  "site": "indiatimes.com",
+  "title": "Sensex Today | Nifty 50 | Stock Market Highlight | Closing Bell: Sensex plummets 2,497 pts, Nifty below 23,100; mid & smallcap indices sink 3% each - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:44.014383",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-20\\01498ad58995d0666d3f0b0251bfe325132353ea.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-20\\01498ad58995d0666d3f0b0251bfe325132353ea.txt",
+  "word_count": 87,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "e9a311e7b2cec033fdd519693f31f18bb605fd29",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro"
+}

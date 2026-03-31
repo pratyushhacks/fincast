@@ -1,0 +1,64 @@
+{
+  "id": "957135bf0f505b1667a5cfca8a3a6ce5fffc07c6",
+  "url": "https://www.benzinga.com/news/politics/26/03/51473354/dow-futures-slip-oil-rises-as-iran-rules-out-talks-for-now",
+  "site": "benzinga.com",
+  "title": "Dow Futures Drop 70 Points, Oil Rises To $91: Trump Says Tehran Wants A Deal 'Badly' Even As Iran's Foreign Minister Rules Out Talks",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:32:21.393798",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-26\\957135bf0f505b1667a5cfca8a3a6ce5fffc07c6.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-26\\957135bf0f505b1667a5cfca8a3a6ce5fffc07c6.txt",
+  "word_count": 394,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "2c937829adc22b3ba4d4900cc3d64e0df727dbce",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"dollar index\"",
+  "gdelt_category": "macro",
+  "summary": "U.S. stock futures fell amid escalating tensions in the Middle East as Iran rejected direct negotiations over a U.S.-led ceasefire plan, while oil prices surged. President Trump insists that Iran is eager for a deal but fears repercussions, and Israel demands pre-emptive strike options in any ceasefire agreement.",
+  "sentiment": 2,
+  "sentiment_reason": "The article discusses Iran's rejection of negotiations and fear of repercussions, along with the surge in oil prices and fall in stock futures, indicating negative market impact due to geopolitical tensions and uncertainty.",
+  "price_changes": {
+    "\"dollar index\"": {
+      "ticker": "UUP",
+      "trend": [
+        27.68,
+        27.85,
+        27.58,
+        27.68,
+        27.56,
+        27.65,
+        27.7
+      ],
+      "base_price": 27.81,
+      "next_price": 27.81,
+      "change_1d": 0.0,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        668.96,
+        659.63,
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82
+      ],
+      "base_price": 645.09,
+      "next_price": 640.13,
+      "change_1d": -0.7689,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

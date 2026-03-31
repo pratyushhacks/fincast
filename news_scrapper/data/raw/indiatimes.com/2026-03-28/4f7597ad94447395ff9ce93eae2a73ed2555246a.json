@@ -1,0 +1,24 @@
+{
+  "id": "4f7597ad94447395ff9ce93eae2a73ed2555246a",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/uk-vehicle-output-drops-sharply-in-extremely-worrying-february-decline-says-smmt/129838701",
+  "site": "indiatimes.com",
+  "title": "UK vehicle output drops sharply in 'extremely worrying' February decline, says SMMT, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:56.868516",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\4f7597ad94447395ff9ce93eae2a73ed2555246a.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\4f7597ad94447395ff9ce93eae2a73ed2555246a.txt",
+  "word_count": 274,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "35115591f96e82019292920edb62e3d8642a1b4d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

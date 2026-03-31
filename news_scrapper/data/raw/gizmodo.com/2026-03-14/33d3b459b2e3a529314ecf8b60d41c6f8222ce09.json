@@ -1,0 +1,64 @@
+{
+  "id": "33d3b459b2e3a529314ecf8b60d41c6f8222ce09",
+  "url": "https://gizmodo.com/rivians-highly-anticipated-r2-starts-sales-in-spring-with-330-miles-of-range-2000733495",
+  "site": "gizmodo.com",
+  "title": "Rivian's Highly Anticipated R2 Starts Sales in Spring With 330 Miles of Range",
+  "publish_date": null,
+  "scrape_date": "2026-03-14T21:05:51.962305",
+  "language": null,
+  "html_path": "data\\raw\\gizmodo.com\\2026-03-14\\33d3b459b2e3a529314ecf8b60d41c6f8222ce09.html",
+  "text_path": "data\\raw\\gizmodo.com\\2026-03-14\\33d3b459b2e3a529314ecf8b60d41c6f8222ce09.txt",
+  "word_count": 545,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "b80ab45bf7712ef3063a4f335b9cddfee519e055",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "Tesla",
+  "gdelt_category": "company",
+  "summary": "Rivian's R2 SUV goes on sale with a 330-mile range and 656 horsepower, priced just under $60,000. The base model's price and range are delayed until late 2027 and details are scarce. Competitors like Volvo are also entering the upscale EV market with similar range promises.",
+  "sentiment": 2,
+  "sentiment_reason": "The sentiment is negative due to the delayed base model price and range, and the uncertainty surrounding the R2's market entry amidst competitive EV offerings.",
+  "price_changes": {
+    "Tesla": {
+      "ticker": "TSLA",
+      "trend": [
+        405.94,
+        405.55,
+        396.73,
+        398.68,
+        399.24,
+        407.82,
+        395.01
+      ],
+      "base_price": 391.2,
+      "next_price": 395.56,
+      "change_1d": 1.1145,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        609.98,
+        608.14,
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51
+      ],
+      "base_price": 592.97,
+      "next_price": 599.62,
+      "change_1d": 1.1215,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

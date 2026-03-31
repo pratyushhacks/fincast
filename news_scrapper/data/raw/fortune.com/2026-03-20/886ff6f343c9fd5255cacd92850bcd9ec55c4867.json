@@ -1,0 +1,68 @@
+{
+  "id": "886ff6f343c9fd5255cacd92850bcd9ec55c4867",
+  "url": "https://fortune.com/2026/03/19/exclusive-posh-lands-37m-series-b-what-are-we-doing-tonight-problem/",
+  "site": "fortune.com",
+  "title": "Exclusive: Posh lands $37M Series B to crack the 'what are we doing tonight?' problem | Fortune",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:27.294255",
+  "language": null,
+  "html_path": "data\\raw\\fortune.com\\2026-03-20\\886ff6f343c9fd5255cacd92850bcd9ec55c4867.html",
+  "text_path": "data\\raw\\fortune.com\\2026-03-20\\886ff6f343c9fd5255cacd92850bcd9ec55c4867.txt",
+  "word_count": 1046,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "bc7aa6d987970728ace57c229754451f67a450a8",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance",
+    "Healthcare"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "Posh, an events platform, secured $37 million in Series B funding to expand its business-first platform for event organizers. The company, which processes over 25 million tickets and generates significant revenue, aims to reintroduce serendipity in group planning by solving the 'what are we doing tonight?' dilemma.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights Posh's successful funding round and significant growth in the events industry, indicating a positive market impact.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68,
+        606.7
+      ],
+      "base_price": 593.66,
+      "next_price": 604.06,
+      "change_1d": 1.7518,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

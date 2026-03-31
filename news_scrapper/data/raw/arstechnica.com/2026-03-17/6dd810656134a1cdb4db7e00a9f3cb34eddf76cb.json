@@ -1,0 +1,63 @@
+{
+  "id": "6dd810656134a1cdb4db7e00a9f3cb34eddf76cb",
+  "url": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
+  "site": "arstechnica.com",
+  "title": "Apple’s AirPods Max 2 bring H2 chip, boosted ANC in April for $549 - Ars Technica",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:56.760387",
+  "language": null,
+  "html_path": "data\\raw\\arstechnica.com\\2026-03-17\\6dd810656134a1cdb4db7e00a9f3cb34eddf76cb.html",
+  "text_path": "data\\raw\\arstechnica.com\\2026-03-17\\6dd810656134a1cdb4db7e00a9f3cb34eddf76cb.txt",
+  "word_count": 295,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "25445ad608092394b79d303f8ec359cf82661c07",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple introduces AirPods Max 2 with updated H2 chip for improved ANC, features like adaptive audio, conversation awareness, live translation, and voice isolation, available in five colorways.",
+  "sentiment": 3,
+  "sentiment_reason": "The announcement is neutral market impact as it's routine news about a product update with no clear immediate market impact.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82
+      ],
+      "base_price": 254.23,
+      "next_price": 249.94,
+      "change_1d": -1.6874,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "82ff1a48ba256768bd2a429881c4f9874fb10ca9",
+  "url": "https://www.techradar.com/streaming/apple-tv-plus/apple-tv-fans-will-get-a-great-free-upgrade-for-discovering-movies-and-tv-shows-soon-but-theres-a-catch",
+  "site": "techradar.com",
+  "title": "Apple TV is rolling out a new movie recommendation feature called ‘Genius Browse’, but it’s left one of the biggest streaming platforms out of the mix | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-20T02:48:15.748894",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-20\\82ff1a48ba256768bd2a429881c4f9874fb10ca9.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-20\\82ff1a48ba256768bd2a429881c4f9874fb10ca9.txt",
+  "word_count": 700,
+  "reading_time_minutes": 3,
+  "paywalled": false,
+  "dedup_hash": "2c8c3e58c556ed91c29afbc4ad0431fcbb12feba",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA",
+    "Netflix"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple TV introduces 'Genius Browse', a new content discovery feature in the tvOS 26.4 update, offering recommendations across various streaming platforms excluding Netflix. It aims to simplify the selection process by categorizing content based on genre and mood.",
+  "sentiment": 4,
+  "sentiment_reason": "The sentiment is positive as the new feature 'Genius Browse' is designed to enhance user experience by providing tailored content recommendations and an intuitive interface for discovering new titles on Apple TV.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        260.81,
+        255.76,
+        250.12,
+        252.82,
+        254.23,
+        249.94,
+        248.96
+      ],
+      "base_price": 247.99,
+      "next_price": 251.49,
+      "change_1d": 1.4113,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

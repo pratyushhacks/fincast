@@ -1,0 +1,65 @@
+{
+  "id": "e5bd56d7936ba82d7b548305ced19e33779fd0a3",
+  "url": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
+  "site": "techcrunch.com",
+  "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit | TechCrunch",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:30:58.526983",
+  "language": null,
+  "html_path": "data\\raw\\techcrunch.com\\2026-03-17\\e5bd56d7936ba82d7b548305ced19e33779fd0a3.html",
+  "text_path": "data\\raw\\techcrunch.com\\2026-03-17\\e5bd56d7936ba82d7b548305ced19e33779fd0a3.txt",
+  "word_count": 373,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "014dc95d111100156bf5587b09550101c1e30d75",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Apple OR AAPL)",
+  "gdelt_category": "company",
+  "summary": "Apple's new MacBook Neo touted as most repairable in years, with notable design changes for easier battery and display replacement, despite concerns over soldered RAM and storage.",
+  "sentiment": 2,
+  "sentiment_reason": "The article presents a mix of positive and negative aspects, with the positive being the significant improvements in repairability and the negative being the ongoing issues with soldered components.",
+  "price_changes": {
+    "(Apple OR AAPL)": {
+      "ticker": "AAPL",
+      "trend": [
+        257.46,
+        259.88,
+        260.83,
+        260.81,
+        255.76,
+        250.12,
+        252.82
+      ],
+      "base_price": 254.23,
+      "next_price": 249.94,
+      "change_1d": -1.6874,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        598.99,
+        606.99,
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62
+      ],
+      "base_price": 602.55,
+      "next_price": 594.15,
+      "change_1d": -1.3941,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

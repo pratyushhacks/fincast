@@ -1,0 +1,66 @@
+{
+  "id": "45da735fd3ed194c71052ad40169f94d4942d236",
+  "url": "https://www.techradar.com/pro/this-is-probably-the-first-mainstream-mini-pc-that-can-dual-boot-ubuntu-and-windows-out-of-the-box-and-it-even-comes-with-the-hottest-ai-application-of-2026",
+  "site": "techradar.com",
+  "title": "GMKtec NucBox K13 dual-boots Windows and Ubuntu flawlessly while packing OpenClaw AI that Microsoft warns against using on regular devices | TechRadar",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:27.684085",
+  "language": null,
+  "html_path": "data\\raw\\techradar.com\\2026-03-26\\45da735fd3ed194c71052ad40169f94d4942d236.html",
+  "text_path": "data\\raw\\techradar.com\\2026-03-26\\45da735fd3ed194c71052ad40169f94d4942d236.txt",
+  "word_count": 513,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "1777b9bdc08a1f1b2cb12c544e71816cbec829fa",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Intel OR INTC)",
+  "gdelt_category": "company",
+  "summary": "GMKtec has updated its NucBox K13 mini PC to dual-boot Windows and Ubuntu, with built-in AI capabilities and OpenClaw for local AI model deployment. The device targets developers and AI enthusiasts with its specifications, but its performance under sustained AI workloads is yet to be tested.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights the positive features of the updated NucBox K13, such as the dual-boot capability, built-in AI, and the ability to deploy AI models quickly, which are all beneficial for developers and AI enthusiasts.",
+  "price_changes": {
+    "(Intel OR INTC)": {
+      "ticker": "INTC",
+      "trend": [
+        44.06,
+        45.03,
+        46.18,
+        43.87,
+        44.01,
+        44.06,
+        47.18
+      ],
+      "base_price": 44.1,
+      "next_price": 43.34,
+      "change_1d": -1.7234,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        602.55,
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82
+      ],
+      "base_price": 573.79,
+      "next_price": 567.33,
+      "change_1d": -1.1258,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

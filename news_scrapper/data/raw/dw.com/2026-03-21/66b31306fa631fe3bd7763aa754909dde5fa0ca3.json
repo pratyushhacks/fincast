@@ -1,0 +1,64 @@
+{
+  "id": "66b31306fa631fe3bd7763aa754909dde5fa0ca3",
+  "url": "https://www.dw.com/en/amazonias-indigenous-peoples-dismantle-western-cliches/a-76436712",
+  "site": "dw.com",
+  "title": "Amazonia's Indigenous peoples dismantle Western cliches",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:54.462864",
+  "language": null,
+  "html_path": "data\\raw\\dw.com\\2026-03-21\\66b31306fa631fe3bd7763aa754909dde5fa0ca3.html",
+  "text_path": "data\\raw\\dw.com\\2026-03-21\\66b31306fa631fe3bd7763aa754909dde5fa0ca3.txt",
+  "word_count": 1120,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "0107e74fdda0b1f9105af9d4d01fa8e19785ca06",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Amazon OR AMZN)",
+  "gdelt_category": "company",
+  "summary": "The exhibition 'Amazonia. Indigenous Worlds' curated by Leandro Varison and Denilson Baniwa challenges the traditional European depiction of the Amazon, presenting it as a culturally rich and diverse region. It showcases Indigenous perspectives on history and culture, including over 300 languages still in use today.",
+  "sentiment": 5,
+  "sentiment_reason": "The article highlights a positive shift in perspective and representation of Indigenous cultures and history, focusing on cultural richness and diversity, which is a strong positive impact on the market and society.",
+  "price_changes": {
+    "(Amazon OR AMZN)": {
+      "ticker": "AMZN",
+      "trend": [
+        212.65,
+        209.53,
+        207.67,
+        211.74,
+        215.2,
+        209.87,
+        208.76
+      ],
+      "base_price": 205.37,
+      "next_price": 210.14,
+      "change_1d": 2.3226,
+      "bucket_1d": "up",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

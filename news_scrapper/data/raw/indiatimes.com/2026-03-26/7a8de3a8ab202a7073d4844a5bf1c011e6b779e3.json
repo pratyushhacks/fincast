@@ -1,0 +1,26 @@
+{
+  "id": "7a8de3a8ab202a7073d4844a5bf1c011e6b779e3",
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-foundation-outlines-1-billion-push-expands-leadership-team/articleshow/129784371.cms",
+  "site": "indiatimes.com",
+  "title": "OpenAI Foundation outlines $1 billion push, expands leadership team - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-26T06:31:36.367020",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-26\\7a8de3a8ab202a7073d4844a5bf1c011e6b779e3.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-26\\7a8de3a8ab202a7073d4844a5bf1c011e6b779e3.txt",
+  "word_count": 244,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3c9e1951fda3e366359579e75281ede5763d8090",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company"
+}

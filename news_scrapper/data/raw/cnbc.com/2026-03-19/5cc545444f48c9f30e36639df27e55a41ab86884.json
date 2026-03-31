@@ -1,0 +1,64 @@
+{
+  "id": "5cc545444f48c9f30e36639df27e55a41ab86884",
+  "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
+  "site": "cnbc.com",
+  "title": "Views for next Fed rate cut pushed back after hot inflation report",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:58.784641",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-19\\5cc545444f48c9f30e36639df27e55a41ab86884.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-19\\5cc545444f48c9f30e36639df27e55a41ab86884.txt",
+  "word_count": 432,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "8554f916036fc71d0cd8a896fadb2ee30ed13803",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "gdelt_category": "macro",
+  "summary": "Hotter-than-expected wholesale inflation in February suggests the Federal Reserve may not cut interest rates this year, with futures markets adjusting expectations accordingly.",
+  "sentiment": 2,
+  "sentiment_reason": "The unexpected inflation reading and subsequent market reaction indicate a negative sentiment due to potential rate hike fears and economic uncertainty.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        675.34,
+        674.49,
+        664.25,
+        660.49,
+        667.21,
+        668.96,
+        659.63
+      ],
+      "base_price": 658.0,
+      "next_price": 648.57,
+      "change_1d": -1.4331,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

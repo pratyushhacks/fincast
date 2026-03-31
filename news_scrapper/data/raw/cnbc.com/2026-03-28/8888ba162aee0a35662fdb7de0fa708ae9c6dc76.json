@@ -1,0 +1,67 @@
+{
+  "id": "8888ba162aee0a35662fdb7de0fa708ae9c6dc76",
+  "url": "https://www.cnbc.com/2026/03/27/alphabet-will-surge-40percent-as-google-becomes-an-ai-leader-wells-fargo-says.html",
+  "site": "cnbc.com",
+  "title": "Alphabet will surge 40% as Google becomes an AI leader, Wells Fargo says",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:49:46.551816",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-28\\8888ba162aee0a35662fdb7de0fa708ae9c6dc76.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-28\\8888ba162aee0a35662fdb7de0fa708ae9c6dc76.txt",
+  "word_count": 364,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "6d3d4cbc935cc1a9eca601f30d88dbf5a7fc02b7",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company",
+  "summary": "Alphabet is expected to continue its growth trajectory, with Google poised to lead in the AI race, supported by strategic acquisitions and partnerships. Analysts predict significant revenue growth from GCP and operational intelligence.",
+  "sentiment": 4,
+  "sentiment_reason": "The article highlights Google's strategic positioning and expected growth in AI and cloud services, indicating a positive outlook for Alphabet.",
+  "price_changes": {
+    "(Google OR GOOGL)": {
+      "ticker": "GOOGL",
+      "trend": [
+        307.69,
+        307.13,
+        301.0,
+        302.06,
+        290.44,
+        290.93,
+        280.92
+      ],
+      "base_price": 274.34,
+      "next_price": 273.5,
+      "change_1d": -0.3062,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        594.15,
+        592.27,
+        581.33,
+        588.0,
+        583.98,
+        587.82,
+        573.79
+      ],
+      "base_price": 562.58,
+      "next_price": 558.28,
+      "change_1d": -0.7643,
+      "bucket_1d": "flat",
+      "magnitude": "minimal"
+    }
+  }
+}

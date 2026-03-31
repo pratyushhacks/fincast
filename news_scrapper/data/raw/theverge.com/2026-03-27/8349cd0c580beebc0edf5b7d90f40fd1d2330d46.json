@@ -1,0 +1,28 @@
+{
+  "id": "8349cd0c580beebc0edf5b7d90f40fd1d2330d46",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+  "site": "theverge.com",
+  "title": "OpenAI shelves erotic chatbot ‘indefinitely’ | The Verge",
+  "publish_date": null,
+  "scrape_date": "2026-03-27T03:27:11.460277",
+  "language": null,
+  "html_path": "data\\raw\\theverge.com\\2026-03-27\\8349cd0c580beebc0edf5b7d90f40fd1d2330d46.html",
+  "text_path": "data\\raw\\theverge.com\\2026-03-27\\8349cd0c580beebc0edf5b7d90f40fd1d2330d46.txt",
+  "word_count": 177,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "3feac9a8348f7a2a4912221c5ee2d2521bc17b0b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "OpenAI has halted the development of an adult mode for ChatGPT due to employee and investor concerns over the potential harmful effects of sexualized AI content. Additionally, the company discontinued its text-to-video AI platform Sora, focusing on long-term research on the impact of sexually explicit chats and emotional attachments.",
+  "sentiment": 2,
+  "sentiment_reason": "The decision to pause the adult mode and discontinue Sora reflects negative market impact due to recession fears and concerns over the company's direction and product decisions."
+}

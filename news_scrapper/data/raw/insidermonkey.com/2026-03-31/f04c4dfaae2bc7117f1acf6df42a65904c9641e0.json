@@ -1,0 +1,18 @@
+{
+  "id": "f04c4dfaae2bc7117f1acf6df42a65904c9641e0",
+  "url": "https://www.insidermonkey.com/blog/advanced-micro-devices-amd-and-samsung-expand-their-partnership-for-memory-chip-supplies-1727133/",
+  "site": "insidermonkey.com",
+  "title": "Advanced Micro Devices (AMD) and Samsung Expand Their Partnership for Memory Chip Supplies - Insider Monkey",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:06:46.801941",
+  "html_path": "data\\raw\\insidermonkey.com\\2026-03-31\\f04c4dfaae2bc7117f1acf6df42a65904c9641e0.html",
+  "text_path": "data\\raw\\insidermonkey.com\\2026-03-31\\f04c4dfaae2bc7117f1acf6df42a65904c9641e0.txt",
+  "word_count": 828,
+  "paywalled": false,
+  "dedup_hash": "ccac5bdd0b3009f1dac1cf309699b9d114ca9e0a",
+  "scraper_version": "0.1",
+  "gdelt_query": "\"OpenAI\"",
+  "summary": "Amazon's CEO highlights generative AI as a transformative technology, while billionaires invest in AI for major societal impacts. An under-valued company is pivotal to this AI revolution, according to insiders.",
+  "sentiment": 5,
+  "sentiment_reason": "The article presents a strongly positive outlook on the impact of generative AI and the investments made by major figures in the tech industry, indicating a significant market opportunity and transformative potential."
+}

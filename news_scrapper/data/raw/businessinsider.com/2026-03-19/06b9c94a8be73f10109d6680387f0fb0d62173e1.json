@@ -1,0 +1,67 @@
+{
+  "id": "06b9c94a8be73f10109d6680387f0fb0d62173e1",
+  "url": "https://www.businessinsider.com/uber-stock-self-driving-cars-nvda-tsla-deutsche-bank-2026-3",
+  "site": "businessinsider.com",
+  "title": "Deutsche Bank Is Bullish on Uber As a Top Self-Driving Car Stock - Business Insider",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:02.306367",
+  "language": null,
+  "html_path": "data\\raw\\businessinsider.com\\2026-03-19\\06b9c94a8be73f10109d6680387f0fb0d62173e1.html",
+  "text_path": "data\\raw\\businessinsider.com\\2026-03-19\\06b9c94a8be73f10109d6680387f0fb0d62173e1.txt",
+  "word_count": 441,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "bff35246280e7060a08339fbf12af9240a5fa726",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "Amazon",
+    "NVIDIA",
+    "Tesla"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Deutsche Bank analysts are optimistic about Uber's position in the autonomous vehicle market, citing its strategic partnership with Nvidia and the expanding AV tech supply base. They predict Uber will benefit as a primary middleman with the rollout of self-driving cars.",
+  "sentiment": 4,
+  "sentiment_reason": "The market impact is positive due to the bullish outlook on Uber's role in the AV ecosystem and the anticipation of L4 robotaxi deployment.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        184.76,
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4
+      ],
+      "base_price": 178.56,
+      "next_price": 172.7,
+      "change_1d": -3.2818,
+      "bucket_1d": "down",
+      "magnitude": "moderate"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        607.0,
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15
+      ],
+      "base_price": 592.27,
+      "next_price": 581.33,
+      "change_1d": -1.8471,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "acd2986cb3dadc373a81d770bda0e218c91530c3",
+  "url": "https://economictimes.indiatimes.com/news/new-updates/fertiliser-energy-crisis-ahead-rajnath-singh-warns-west-asia-conflict-could-hit-india-hard/articleshow/129729868.cms",
+  "site": "indiatimes.com",
+  "title": "Fertiliser & energy crisis ahead? Rajnath Singh warns West Asia conflict could hit India hard - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:10.806096",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\acd2986cb3dadc373a81d770bda0e218c91530c3.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\acd2986cb3dadc373a81d770bda0e218c91530c3.txt",
+  "word_count": 271,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "b94375e88ebeea88f9ebaa5f2d236ad6f2aeb69d",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

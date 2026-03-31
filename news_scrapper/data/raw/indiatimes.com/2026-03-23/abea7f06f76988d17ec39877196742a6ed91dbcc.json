@@ -1,0 +1,24 @@
+{
+  "id": "abea7f06f76988d17ec39877196742a6ed91dbcc",
+  "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-dimona-called-little-india-maharashtrian-community-israeli-town-iranian-missiles/articleshow/129729889.cms",
+  "site": "indiatimes.com",
+  "title": "This is why Dimona, hit by Iran’s missiles, is called ‘Little India’ - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-23T03:29:12.662887",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-23\\abea7f06f76988d17ec39877196742a6ed91dbcc.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-23\\abea7f06f76988d17ec39877196742a6ed91dbcc.txt",
+  "word_count": 305,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "91ba323e5e7c054ce26fd18bede14fc7bb726e4b",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology"
+  ],
+  "gdelt_query": "(Google OR GOOGL)",
+  "gdelt_category": "company"
+}

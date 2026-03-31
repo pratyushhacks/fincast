@@ -1,0 +1,26 @@
+{
+  "id": "33add8f5433952565bc1ec9bd69fa6b38235bb96",
+  "url": "https://realty.economictimes.indiatimes.com/news/rera/haryana-rera-orders-21-lakh-in-compensation-to-homebuyer-for-delayed-flat-possession/129645208",
+  "site": "indiatimes.com",
+  "title": "Haryana RERA Orders ₹21 Lakh in Compensation to Homebuyer for Delayed Flat Possession, ETRealty",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:53.061461",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\33add8f5433952565bc1ec9bd69fa6b38235bb96.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\33add8f5433952565bc1ec9bd69fa6b38235bb96.txt",
+  "word_count": 469,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "2d9508fd79cb7bf1a9d5bf2ea798a09985e79852",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "financial sector",
+  "gdelt_category": "sector"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "709e52103e9f410f63e08784a7077eec4066d944",
+  "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
+  "site": "cnbc.com",
+  "title": "Apollo exec John Zito questions private equity software valuations",
+  "publish_date": null,
+  "scrape_date": "2026-03-17T01:31:27.507751",
+  "language": null,
+  "html_path": "data\\raw\\cnbc.com\\2026-03-17\\709e52103e9f410f63e08784a7077eec4066d944.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-17\\709e52103e9f410f63e08784a7077eec4066d944.txt",
+  "word_count": 567,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "24a30aaef73b6f57bb49fea710543411234e6ae9",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"OpenAI\"",
+  "gdelt_category": "company",
+  "summary": "Apollo exec criticizes private equity software valuations amidst market fears of obsolescence and redemptions, suggesting stale valuations and potential deep losses for lenders.",
+  "sentiment": 2,
+  "sentiment_reason": "John Zito's comments reflect negative market sentiment due to concerns over overvalued software holdings and the risk of deep losses in private credit loans.",
+  "price_changes": {
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        681.31,
+        672.38,
+        678.27,
+        677.18,
+        676.33,
+        666.06,
+        662.29
+      ],
+      "base_price": 669.03,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null
+    }
+  }
+}

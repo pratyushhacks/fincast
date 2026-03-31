@@ -1,0 +1,25 @@
+{
+  "id": "24845c4f0732c147023c2667f84532b291e3a229",
+  "url": "https://auto.economictimes.indiatimes.com/news/industry/maharashtra-doubles-green-tax-on-old-vehicles-to-combat-air-pollution/129657157",
+  "site": "indiatimes.com",
+  "title": "Maharashtra Doubles Green Tax on Old Vehicles to Combat Air Pollution, ETAuto",
+  "publish_date": null,
+  "scrape_date": "2026-03-19T04:45:48.711206",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-19\\24845c4f0732c147023c2667f84532b291e3a229.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-19\\24845c4f0732c147023c2667f84532b291e3a229.txt",
+  "word_count": 316,
+  "reading_time_minutes": 1,
+  "paywalled": false,
+  "dedup_hash": "a8d4080a3e081ee6d2e8e883e54650ab0a642e8c",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "electric vehicles",
+  "gdelt_category": "sector"
+}

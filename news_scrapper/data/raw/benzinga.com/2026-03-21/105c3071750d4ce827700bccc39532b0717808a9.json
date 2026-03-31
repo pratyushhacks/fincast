@@ -1,0 +1,65 @@
+{
+  "id": "105c3071750d4ce827700bccc39532b0717808a9",
+  "url": "https://www.benzinga.com/markets/tech/26/03/51372607/nvidia-ceo-jensen-huang-explains-why-ai-data-centers-in-space-are-harder-than-they-sound-itll-take-y",
+  "site": "benzinga.com",
+  "title": "Nvidia CEO Jensen Huang Explains Why AI Data Centers In Space Are Harder Than They Sound: 'It'll Take Years. It's OK. I Got Plenty Of Time' - Alphabet (NASDAQ:GOOG), Alphabet (NASDAQ:GOOGL)",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:29.812240",
+  "language": null,
+  "html_path": "data\\raw\\benzinga.com\\2026-03-21\\105c3071750d4ce827700bccc39532b0717808a9.html",
+  "text_path": "data\\raw\\benzinga.com\\2026-03-21\\105c3071750d4ce827700bccc39532b0717808a9.txt",
+  "word_count": 464,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "bf3463f8af54b3f545102dce610819c517d15646",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Google",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(NVIDIA OR NVDA)",
+  "gdelt_category": "company",
+  "summary": "Nvidia explores space-based AI data centers, facing cooling challenges and high costs, but has already deployed CUDA-powered systems on satellites, indicating a long-term commitment despite current poor economics.",
+  "sentiment": 3,
+  "sentiment_reason": "The article presents a balanced view with both challenges and progress in space-based AI data centers, indicating a neutral market impact.",
+  "price_changes": {
+    "(NVIDIA OR NVDA)": {
+      "ticker": "NVDA",
+      "trend": [
+        186.03,
+        183.14,
+        180.25,
+        183.22,
+        181.93,
+        180.4,
+        178.56
+      ],
+      "base_price": 172.7,
+      "next_price": 175.64,
+      "change_1d": 1.7024,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

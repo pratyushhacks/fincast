@@ -1,0 +1,66 @@
+{
+  "id": "4e44149f139271e9b78685e055d5bbf26ec6b8a4",
+  "url": "https://www.thehindu.com/brandhub/pr-release/metaoptics-progresses-on-its-strategic-growth-and-leadership-transition-initiatives/article70764961.ece",
+  "site": "thehindu.com",
+  "title": "MetaOptics progresses on its strategic growth and leadership transition initiatives - The Hindu",
+  "publish_date": null,
+  "scrape_date": "2026-03-21T05:26:46.958679",
+  "language": null,
+  "html_path": "data\\raw\\thehindu.com\\2026-03-21\\4e44149f139271e9b78685e055d5bbf26ec6b8a4.html",
+  "text_path": "data\\raw\\thehindu.com\\2026-03-21\\4e44149f139271e9b78685e055d5bbf26ec6b8a4.txt",
+  "word_count": 1106,
+  "reading_time_minutes": 5,
+  "paywalled": false,
+  "dedup_hash": "68a48c1c71c4cde780fbbe0649b6bfa628e7029a",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "Microsoft",
+    "Meta",
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "(Meta OR META)",
+  "gdelt_category": "company",
+  "summary": "MetaOptics Ltd announced strategic growth initiatives, including a leadership transition with Aloysius Chua becoming the new CEO to support geographical growth in the US. The company also plans to establish a US foundry as part of its expansion.",
+  "sentiment": 4,
+  "sentiment_reason": "The announcement of a leadership transition and strategic growth initiatives, such as the establishment of a US foundry, indicates positive market impact as it suggests expansion and potential growth in the company's operations.",
+  "price_changes": {
+    "(Meta OR META)": {
+      "ticker": "META",
+      "trend": [
+        654.3,
+        637.63,
+        613.18,
+        627.45,
+        622.66,
+        615.68,
+        606.7
+      ],
+      "base_price": 593.66,
+      "next_price": 604.06,
+      "change_1d": 1.7518,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "trend": [
+        606.92,
+        596.51,
+        592.97,
+        599.62,
+        602.55,
+        594.15,
+        592.27
+      ],
+      "base_price": 581.33,
+      "next_price": 588.0,
+      "change_1d": 1.1474,
+      "bucket_1d": "flat",
+      "magnitude": "small"
+    }
+  }
+}

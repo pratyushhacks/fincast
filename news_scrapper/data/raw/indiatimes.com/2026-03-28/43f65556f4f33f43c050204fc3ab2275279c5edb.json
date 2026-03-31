@@ -1,0 +1,25 @@
+{
+  "id": "43f65556f4f33f43c050204fc3ab2275279c5edb",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-petrol-diesel-excise-duty-cut-may-impact-hpcl-bpcl-and-indian-oil-shares/articleshow/129839178.cms",
+  "site": "indiatimes.com",
+  "title": "Explained: How petrol, diesel excise duty cut may impact HPCL, BPCL and Indian Oil shares - The Economic Times",
+  "publish_date": null,
+  "scrape_date": "2026-03-28T01:50:10.794837",
+  "language": null,
+  "html_path": "data\\raw\\indiatimes.com\\2026-03-28\\43f65556f4f33f43c050204fc3ab2275279c5edb.html",
+  "text_path": "data\\raw\\indiatimes.com\\2026-03-28\\43f65556f4f33f43c050204fc3ab2275279c5edb.txt",
+  "word_count": 553,
+  "reading_time_minutes": 2,
+  "paywalled": false,
+  "dedup_hash": "d1dc5395b6c7ea8411cf583955c99d54bf330129",
+  "scraper_version": "0.1",
+  "matched_companies": [
+    "NVIDIA"
+  ],
+  "matched_industries": [
+    "Technology",
+    "Finance"
+  ],
+  "gdelt_query": "\"oil prices\"",
+  "gdelt_category": "macro"
+}

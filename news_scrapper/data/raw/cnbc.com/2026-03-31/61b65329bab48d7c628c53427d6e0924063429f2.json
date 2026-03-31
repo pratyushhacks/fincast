@@ -1,0 +1,54 @@
+{
+  "id": "61b65329bab48d7c628c53427d6e0924063429f2",
+  "url": "https://www.cnbc.com/2026/03/31/cnbc-daily-open-trump-is-doubling-down-on-rhetoric-to-end-the-iran-war-.html",
+  "site": "cnbc.com",
+  "title": "CNBC Daily Open: Trump is doubling down on rhetoric to end the Iran war",
+  "publish_date": null,
+  "scrape_date": "2026-03-31T03:09:07.801724",
+  "html_path": "data\\raw\\cnbc.com\\2026-03-31\\61b65329bab48d7c628c53427d6e0924063429f2.html",
+  "text_path": "data\\raw\\cnbc.com\\2026-03-31\\61b65329bab48d7c628c53427d6e0924063429f2.txt",
+  "word_count": 441,
+  "paywalled": false,
+  "dedup_hash": "59314f45b25e0773fab9535831562f9e2b5e9222",
+  "scraper_version": "0.1",
+  "gdelt_query": "(\"Federal Reserve\" OR \"Fed rates\")",
+  "summary": "U.S. President Donald Trump's escalating rhetoric and threats against Iran amidst the ongoing conflict have led to a surge in oil prices and a drop in U.S. markets. Concurrently, quantum technology firms are advancing towards commercialization by going public, despite market volatility.",
+  "sentiment": 1,
+  "sentiment_reason": "The article presents a strongly negative market impact due to geopolitical tensions causing oil price spikes and market downturns, overshadowing the positive developments in the quantum technology sector.",
+  "price_changes": {
+    "(\"Federal Reserve\" OR \"Fed rates\")": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    },
+    "SPY": {
+      "ticker": "SPY",
+      "trend": [
+        658.0,
+        648.57,
+        655.38,
+        653.18,
+        656.82,
+        645.09,
+        634.09
+      ],
+      "base_price": 631.97,
+      "next_price": null,
+      "change_1d": null,
+      "bucket_1d": null,
+      "magnitude": null
+    }
+  }
+}
