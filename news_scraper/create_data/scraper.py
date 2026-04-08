@@ -17,8 +17,11 @@ from readability import Document
 from dateutil import parser as dateparser
 import tldextract
 from langdetect import detect
+from dotenv import load_dotenv
 
-DATA_DIR        = os.path.join('data', 'raw')
+load_dotenv()
+
+DATA_DIR     = os.getenv("DATA_DIR",    "../data/raw")
 SCRAPER_VERSION = "0.1"
 REQUEST_HEADERS = {"User-Agent": "news-scraper/0.1"}
 

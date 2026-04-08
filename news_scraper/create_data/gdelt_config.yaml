@@ -21,7 +21,6 @@ watchlist:
     - '(Google OR GOOGL)'
     - '(Intel OR INTC)'
     - '"AMD"'
-    - '"OpenAI"'
 
   sectors:
     - semiconductor
@@ -60,7 +59,6 @@ tickers:
     '(Google OR GOOGL)':   GOOGL
     '(Intel OR INTC)':     INTC
     '"AMD"':               AMD
-    '"OpenAI"':            ~        # private — no ticker
 
   # Plain name fallback (for older articles)
   plain_names:
@@ -73,7 +71,6 @@ tickers:
     Google:    GOOGL
     Intel:     INTC
     AMD:       AMD
-    OpenAI:    ~        # private — no ticker
 
   # Sector/macro queries -> ETF proxy
   sector_queries:
@@ -150,7 +147,6 @@ trusted_sources:
   - kiplinger.com
   - fool.com
   - investing.com
-  - insidermonkey.com
   - benzinga.com
   - pymnts.com
 

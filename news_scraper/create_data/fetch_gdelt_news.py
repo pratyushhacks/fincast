@@ -25,7 +25,7 @@ from utils import get_watchlist, get_trusted_sources
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
 
-DATA_DIR     = os.getenv("GDELT_DATA_DIR",    "data/backfill/gdelt")
+DATA_DIR     = os.getenv("DATA_DIR",    "../data/raw")
 GDELT_API    = os.getenv("GDELT_API",         "http://api.gdeltproject.org/api/v2/doc/doc")
 DEFAULT_DAYS = int(os.getenv("GDELT_DEFAULT_DAYS", 30))
 

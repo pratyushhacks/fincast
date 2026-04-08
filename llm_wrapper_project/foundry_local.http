@@ -1,5 +1,5 @@
 
-@foundry = http://127.0.0.1:52657
+@foundry =  http://127.0.0.1:5272
 
 ### List models (try common endpoints)
 GET {{foundry}}/v1/models

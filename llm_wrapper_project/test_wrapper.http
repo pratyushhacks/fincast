@@ -1,5 +1,5 @@
 # Base host for the wrapper
-@host = http://127.0.0.1:8091
+@host =  http://127.0.0.1:5272
 
 ###
 # Health check
@@ -17,11 +17,14 @@ Accept: application/json
   "messages": [
     {
       "role": "user",
-      "content": "give me a financial advice in a poetic format"
+      "content": "Write a small poem about financial markets."
     }
   ],
   "temperature": 0,
-  "max_tokens": 500
+  "max_tokens": 40,
+  "extra_body": {
+    "repetition_penalty": 5.0
+  }
 }
 
 ###
