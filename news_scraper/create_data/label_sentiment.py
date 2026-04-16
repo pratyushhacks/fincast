@@ -11,6 +11,7 @@ import json
 import argparse
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
 from openai import OpenAI
 from langdetect import detect
@@ -18,14 +19,14 @@ from dotenv import load_dotenv
 
 from utils import get_trusted_sources
 
-load_dotenv(dotenv_path=".env")
+load_dotenv(dotenv_path="../.env")
 
 CLIENT = OpenAI(
     base_url=f"http://{os.getenv('HOST', '127.0.0.1')}:{os.getenv('PORT', '8091')}/v1",
     api_key="not-needed",
 )
 
-SENTIMENT_MODEL = os.getenv("DEFAULT_CHAT_MODEL", "phi-3-mini-128k-instruct-cuda-gpu:1")
+SENTIMENT_MODEL = os.getenv("DEFAULT_CHAT_MODEL", "Phi-3-mini-128k-instruct-cuda-gpu:2")
 TRUSTED_SOURCES = get_trusted_sources()
 
 # Bump this string whenever the prompt changes so you can tell which
@@ -65,13 +66,12 @@ INSTRUMENT_DESCRIPTIONS = {
 # ---------------------------------------------------------------------------
 # Prompts
 # ---------------------------------------------------------------------------
-SYSTEM_PROMPT = (
-    "You are a quantitative analyst. "
-    "Output ONLY a single valid JSON object. "
-    "No markdown fences, no explanation, no text before or after the JSON."
-)
 
-USER_PROMPT = """Analyze this article's effect on {ticker} ({instrument_description}).
+USER_PROMPT = """
+You are a quantitative analyst. Output ONLY a single valid JSON object. 
+No markdown fences, no explanation, no text before or after the JSON.
+
+Analyze this article's effect on {ticker} ({instrument_description}).
 
 STEP 1 — Relevance: how directly does this article concern {ticker}?
   "high"   = article is primarily about {ticker}
@@ -92,7 +92,8 @@ ARTICLE:
 {text}
 
 Respond with this exact JSON and nothing else:
-{{"ticker":"{ticker}","relevance":"<low|medium|high>","sentiment":<1|2|3|4|5>,"direction":"<up|down|flat>","summary":"<two sentences max>","reason":"<one sentence: why this score for {ticker} price>"}}"""
+{{"ticker":"{ticker}","relevance":"low|medium|high","sentiment":1|2|3|4|5,"direction":"up|down|flat","summary":"two sentences max","reason":"one sentence: why this score for {ticker} price"}}
+"""
 
 
 # ---------------------------------------------------------------------------
@@ -217,13 +218,20 @@ def score_article(json_path: str, force: bool = False) -> dict | None:
         ticker, f"financial instrument ({ticker})"
     )
 
-    # Load article text
-    text_path = meta.get("text_path")
-    if not text_path or not os.path.exists(text_path):
-        print(f"  [SKIP] Text file missing: {text_path}")
+    # Load article text which is at same level as json file
+    text_path = meta.get("text_path") # this could be article_guid.txt or /data/raw/site/date/article_guid.txt
+    text_file_name = Path(text_path).name
+    text_file_path = Path(json_path).resolve().parent / text_file_name
+
+    print(f"scoring {text_file_path} for {ticker}...")
+
+    if not text_file_path or not os.path.exists(text_file_path):
+        # text_path = text_path.replace("../", "") if text_path else None  # try relative path
+        # if not text_path or not os.path.exists(text_path):
+        print(f"  [SKIP] Text file missing: {text_file_path}")
         return None
 
-    with open(text_path, "r", encoding="utf-8") as fh:
+    with open(text_file_path, "r", encoding="utf-8") as fh:
         text = fh.read()[:3000]
 
     if len(text.split()) < 50:
@@ -236,20 +244,22 @@ def score_article(json_path: str, force: bool = False) -> dict | None:
     # Call the model
     raw = ""
     try:
+        user_content = USER_PROMPT.format(
+                    ticker=ticker,
+                    instrument_description=instrument_description,
+                    text=text
+                )
+        # print(f"  [DEBUG] user_content={user_content}")
+
+        messages=[
+            {
+                "role": "user",
+                "content": user_content,
+            },
+        ]
         response = CLIENT.chat.completions.create(
             model=SENTIMENT_MODEL,
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {
-                    "role": "user",
-                    "content": USER_PROMPT.format(
-                        ticker=ticker,
-                        instrument_description=instrument_description,
-                        text=text,
-                    ),
-                },
-            ],
-            max_tokens=300,  # summary + 4 short fields; 500 was wasteful
+            messages=messages,
             temperature=0.0,  # deterministic — same article = same score
         )
         raw = response.choices[0].message.content.strip()
@@ -259,14 +269,15 @@ def score_article(json_path: str, force: bool = False) -> dict | None:
     except (ValueError, json.JSONDecodeError) as e:
         # Do NOT salvage as neutral — that corrupts training labels.
         # Log it and let the caller decide whether to retry.
-        print(f"  [BAD OUTPUT] {json_path}: {e} | raw={raw[:120]!r}")
+        print(f"  [BAD OUTPUT] {json_path}: {e} \n raw={raw}")
         return None
     except Exception as e:
-        print(f"  [ERROR] {json_path}: {e}")
+        print(f"ERROR: {e.response.text if hasattr(e, 'response') else str(e)}")
         return None
 
     # Write back only the new fields — preserve everything else in meta
     meta.update(result)
+
 
     with open(json_path, "w", encoding="utf-8") as fh:
         json.dump(meta, fh, ensure_ascii=False, indent=2)
@@ -289,13 +300,18 @@ def collect_json_paths(data_dir: str) -> list[str]:
     for root, _, files in os.walk(data_dir):
         for f in files:
             if f.endswith(".json"):
+                print(f"Found JSON: {os.path.join(root, f)}")
                 paths.append(os.path.join(root, f))
     return paths
 
 
 def main(data_dir: str, workers: int, sleep: float, force: bool) -> None:
+    print(f"Collecting article JSON files from {data_dir}...")
+
     paths = collect_json_paths(data_dir)
+
     print(f"Found {len(paths)} articles  |  prompt version: {PROMPT_VERSION}")
+
     if TRUSTED_SOURCES:
         print(f"Source filter: {len(TRUSTED_SOURCES)} trusted sites")
     if force:

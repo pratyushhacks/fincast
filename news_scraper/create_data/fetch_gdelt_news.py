@@ -6,6 +6,7 @@ Usage:
   python fetch_gdelt_news.py --days 30         # bootstrap
   python fetch_gdelt_news.py --days 30 --limit 5000
 """
+from email.mime import base
 import re
 import json
 import os
@@ -16,6 +17,7 @@ import requests
 import urllib3
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
 from dotenv import load_dotenv
 
@@ -23,9 +25,9 @@ from scraper import save_article
 from utils import get_watchlist, get_trusted_sources
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-load_dotenv()
+load_dotenv(dotenv_path="../.env")
 
-DATA_DIR     = os.getenv("DATA_DIR",    "../data/raw")
+DATA_DIR     = os.getenv("DATA_DIR",    "data/raw")
 GDELT_API    = os.getenv("GDELT_API",         "http://api.gdeltproject.org/api/v2/doc/doc")
 DEFAULT_DAYS = int(os.getenv("GDELT_DEFAULT_DAYS", 30))
 
@@ -43,7 +45,7 @@ def is_trusted(url):
         return False
 
 
-def fetch_urls_for_query(query, timespan_days, retries=5):
+def fetch_urls_for_query(query, timespan_days, retries=3):
     params = {
         "query":         query,
         "mode":          "artlist",
@@ -56,10 +58,10 @@ def fetch_urls_for_query(query, timespan_days, retries=5):
 
     for attempt in range(retries):
         try:
-            r = requests.get(GDELT_API, params=params, timeout=60, verify=False)
+            r = requests.get(GDELT_API, params=params, timeout=120, verify=False)
 
             if r.status_code == 429:
-                wait = min(15 * (attempt + 1), 60)
+                wait = 30 * (attempt + 1)
                 print(f"  [{query}] Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
@@ -86,7 +88,7 @@ def fetch_urls_for_query(query, timespan_days, retries=5):
             return urls
 
         except requests.exceptions.Timeout:
-            wait = min(10 * (attempt + 1), 60)
+            wait = min(30 * (attempt + 1), 120)
             print(f"  [{query}] Timeout (attempt {attempt+1}/{retries}), waiting {wait}s...")
             time.sleep(wait)
         except Exception as e:
@@ -122,7 +124,7 @@ def collect_all_urls(days, companies, sectors, macro):
         print(f"\nRetrying {len(failed_queries)} failed queries...")
         for query, category in failed_queries:
             print(f"  [RETRY] {query}")
-            urls = fetch_urls_for_query(query, timespan_days=days, retries=10)
+            urls = fetch_urls_for_query(query, timespan_days=days, retries=5)
             for url in urls:
                 all_urls.append((url, query))
             time.sleep(2)
@@ -140,14 +142,18 @@ def collect_all_urls(days, companies, sectors, macro):
 def fetch_and_save(args):
     url, query = args
     try:
-        meta = save_article(url, feed_entry=None, gdelt_query=query)
+        base = Path(__file__).resolve().parent.parent # /news_scraper folder
+        data_dir_path = os.path.join(str(base), "data", "raw") # /news_scraper/data/raw
+        os.makedirs(data_dir_path, exist_ok=True)
+
+        meta = save_article(url, feed_entry=None, gdelt_query=query, data_dir_path=data_dir_path)
         return meta, None
     except Exception as e:
         return None, str(e)
 
 
 def main(days=DEFAULT_DAYS, limit=None, sleep=0.0, workers=5):
-    os.makedirs(DATA_DIR, exist_ok=True)
+    # os.makedirs(DATA_DIR, exist_ok=True)
 
     companies, sectors, macro = get_watchlist()
     print(

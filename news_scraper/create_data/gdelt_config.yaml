@@ -20,7 +20,7 @@ watchlist:
     - '(Amazon OR AMZN)'
     - '(Google OR GOOGL)'
     - '(Intel OR INTC)'
-    - '"AMD"'
+    - 'AMD'
 
   sectors:
     - semiconductor
@@ -41,7 +41,7 @@ watchlist:
     - '"geopolitical risk"'
     - '"antitrust" "big tech"'
     - '"AI regulation"'
-    - '("China" "technology ban" OR "export controls")'
+    - '("China" OR "technology ban" OR "export controls")'
     - '"cybersecurity breach"'
 
 # ---------------------------------------------------------------------------
@@ -58,7 +58,7 @@ tickers:
     '(Amazon OR AMZN)':    AMZN
     '(Google OR GOOGL)':   GOOGL
     '(Intel OR INTC)':     INTC
-    '"AMD"':               AMD
+    'AMD':                 AMD
 
   # Plain name fallback (for older articles)
   plain_names:

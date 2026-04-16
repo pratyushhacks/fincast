@@ -1,5 +1,5 @@
 
-@foundry =  http://127.0.0.1:5272
+@foundry =  http://127.0.0.1:5271
 
 ### List models (try common endpoints)
 GET {{foundry}}/v1/models
@@ -10,7 +10,7 @@ POST {{foundry}}/v1/chat/completions
 Content-Type: application/json
 
 {
-  "model": "Phi-3-mini-128k-instruct-cuda-gpu:1",
+  "model": "Phi-3-mini-128k-instruct-cuda-gpu:2",
   "messages": [{"role": "user", "content": "say hello"}],
   "max_tokens": 50
 }

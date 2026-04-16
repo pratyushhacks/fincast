@@ -1,1 +1,0 @@
-Hyperscalers like Amazon, Google, Microsoft, Meta and Oracle are more at risk, given how much their $1.15 trillion buildout relies on cheap, reliable energy, especially natural gas. It’s the dominant single energy source for US data centres, providing about 40% of their power, according to the International Energy Agency—a problem when the Iran war is driving up prices.

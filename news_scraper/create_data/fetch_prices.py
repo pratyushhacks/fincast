@@ -74,8 +74,9 @@ def get_price_data(ticker, article_date_str, trend_days=7):
         if df.empty:
             return None
 
-        closes = [round(float(x), 2) for x in df['Close'].squeeze().tolist()]
+        df.sort_index(inplace=True)
         dates  = [d.date() for d in df.index]
+        closes = [round(float(x), 2) for x in df['Close'].squeeze().tolist()]
 
         if article_date not in dates:
             before = [d for d in dates if d <= article_date]
@@ -95,9 +96,14 @@ def get_price_data(ticker, article_date_str, trend_days=7):
         else:
             base_price = closes[base_idx]
             next_price = closes[base_idx + 1]
-            change_1d  = round((next_price - base_price) / base_price * 100, 4)
-            bucket_1d  = price_bucket(change_1d)
-            magnitude  = magnitude_bucket(change_1d)
+            # avoid division by zero
+            if base_price == 0:
+                change_1d = None
+            else:
+                change_1d = round((next_price - base_price) / base_price * 100, 4)
+
+            bucket_1d  = price_bucket(change_1d) if change_1d is not None else None
+            magnitude  = magnitude_bucket(change_1d) if change_1d is not None else None
 
         result = {
             'ticker':     ticker,

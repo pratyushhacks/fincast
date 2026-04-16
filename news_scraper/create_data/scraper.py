@@ -2,7 +2,7 @@ r"""
 scraper.py — fetches articles and saves raw HTML, text and metadata JSON to disk.
 
 Called by fetch_gdelt_news.py (via save_article) and optionally as standalone
-RSS scraper (python scraper.py --feeds feeds.json).
+
 """
 import os
 import json
@@ -19,9 +19,10 @@ import tldextract
 from langdetect import detect
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(dotenv_path="../.env")
 
-DATA_DIR     = os.getenv("DATA_DIR",    "../data/raw")
+# DATA_DIR     = os.getenv("DATA_DIR",    "data/raw")
+
 SCRAPER_VERSION = "0.1"
 REQUEST_HEADERS = {"User-Agent": "news-scraper/0.1"}
 
@@ -52,7 +53,11 @@ def extract_text(html):
     return soup.get_text(separator=' ', strip=True), content_html
 
 
-def save_article(url, feed_entry=None, gdelt_query=None):
+def save_article(url, feed_entry=None, gdelt_query=None, data_dir_path=None):
+    """
+    Fetches the article, extracts text and metadata, and saves to disk at location /news_scraper/data/raw/{domain}/{date}/{id}.{{html,json,txt}}
+    Returns metadata dict or None if failed/skipped.
+    """
     try:
         r = requests.get(url, timeout=15, headers=REQUEST_HEADERS)
         r.raise_for_status()
@@ -82,17 +87,24 @@ def save_article(url, feed_entry=None, gdelt_query=None):
 
     article_id  = slug_id(url, publish_date)
     domain      = domain_from_url(url)
-    scrape_date = datetime.utcnow().isoformat()
-    date_folder = datetime.utcnow().strftime('%Y-%m-%d')
 
-    out_dir   = os.path.join(DATA_DIR, domain, date_folder)
+    now = datetime.now()
+    scrape_date = now.isoformat()
+    date_folder = now.strftime('%Y-%m-%d')
+
+    out_dir   = os.path.join(data_dir_path, domain, date_folder)
     os.makedirs(out_dir, exist_ok=True)
 
-    html_path = os.path.join(out_dir, f"{article_id}.html")
-    json_path = os.path.join(out_dir, f"{article_id}.json")
-    text_path = os.path.join(out_dir, f"{article_id}.txt")
+    # html_path = os.path.join(out_dir, f"{article_id}.html")
+    # json_path = os.path.join(out_dir, f"{article_id}.json")
+    # text_path = os.path.join(out_dir, f"{article_id}.txt")
+    html_path =  f"{article_id}.html"
+    json_path =  f"{article_id}.json"
+    text_path =  f"{article_id}.txt"
 
-    if os.path.exists(json_path):
+    json_path_full = os.path.join(out_dir, json_path)
+    if os.path.exists(json_path_full):
+        print(f"  [SKIP] Already exists: {json_path_full}")
         return None  # already scraped
 
     if feed_entry and feed_entry.get('title'):
@@ -108,7 +120,7 @@ def save_article(url, feed_entry=None, gdelt_query=None):
         'title':           title,
         'publish_date':    publish_date,
         'scrape_date':     scrape_date,
-        'html_path':       html_path,
+        'html_path':       html_path, 
         'text_path':       text_path,
         'word_count':      len(text.split()),
         'paywalled':       False,
@@ -117,32 +129,37 @@ def save_article(url, feed_entry=None, gdelt_query=None):
         'gdelt_query':     gdelt_query,
     }
 
-    with open(html_path, 'w', encoding='utf-8') as fh:
-        fh.write(html)
-    with open(json_path, 'w', encoding='utf-8') as fh:
+    # write the files to disk
+    with open(json_path_full, 'w', encoding='utf-8') as fh:
         json.dump(meta, fh, ensure_ascii=False, indent=2)
-    with open(text_path, 'w', encoding='utf-8') as fh:
+
+    html_path_full = os.path.join(out_dir, html_path)
+    with open(html_path_full, 'w', encoding='utf-8') as fh:
+        fh.write(html)
+
+    text_path_full = os.path.join(out_dir, text_path)
+    with open(text_path_full, 'w', encoding='utf-8') as fh:
         fh.write(text)
 
-    print(f"  [OK] {url} -> {json_path}")
+    print(f"  [OK] {url} -> {json_path_full}")
     return meta
 
 
-def run(feeds_file):
-    with open(feeds_file, 'r', encoding='utf-8') as fh:
-        raw = json.load(fh)
-    feeds = raw if isinstance(raw, list) else raw.get('feeds', [])
-    for feed_url in feeds:
-        print(f"\nParsing feed: {feed_url}")
-        d = feedparser.parse(feed_url)
-        for entry in d.entries:
-            link = entry.get('link')
-            if link:
-                save_article(link, feed_entry=entry)
+# def run(feeds_file):
+#     with open(feeds_file, 'r', encoding='utf-8') as fh:
+#         raw = json.load(fh)
+#     feeds = raw if isinstance(raw, list) else raw.get('feeds', [])
+#     for feed_url in feeds:
+#         print(f"\nParsing feed: {feed_url}")
+#         d = feedparser.parse(feed_url)
+#         for entry in d.entries:
+#             link = entry.get('link')
+#             if link:
+#                 save_article(link, feed_entry=entry)
 
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--feeds', default='feeds.json')
-    args = parser.parse_args()
-    run(args.feeds)
+# if __name__ == '__main__':
+#     parser = argparse.ArgumentParser()
+#     parser.add_argument('--feeds', default='feeds.json')
+#     args = parser.parse_args()
+#     run(args.feeds)

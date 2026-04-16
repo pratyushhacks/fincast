@@ -1,5 +1,5 @@
 # Base host for the wrapper
-@host =  http://127.0.0.1:5272
+@host =  http://127.0.0.1:5271
 
 ###
 # Health check
@@ -13,15 +13,15 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "model": "Phi-3-mini-128k-instruct-cuda-gpu:1",
+  "model": "Phi-3-mini-128k-instruct-cuda-gpu:2",
   "messages": [
     {
       "role": "user",
-      "content": "Write a small poem about financial markets."
+      "content": "Write a small poem (4 sentences) about financial markets."
     }
   ],
-  "temperature": 0,
-  "max_tokens": 40,
+  "temperature": 0.7,
+  "max_tokens": 100,
   "extra_body": {
     "repetition_penalty": 5.0
   }
@@ -34,6 +34,6 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "model": "Phi-3-mini-128k-instruct-cuda-gpu:1",
+  "model": "Phi-3-mini-128k-instruct-cuda-gpu:2",
   "input": "test embedding"
 }
