@@ -149,6 +149,8 @@ trusted_sources:
   - investing.com
   - benzinga.com
   - pymnts.com
+  - finance.yahoo.com
+  - yahoo.com
 
   # US Tech
   - techcrunch.com

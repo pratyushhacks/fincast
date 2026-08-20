@@ -47,6 +47,7 @@ INSTRUMENT_DESCRIPTIONS = {
     "AMZN": "equity – e-commerce/cloud (Amazon)",
     "TSLA": "equity – EV manufacturer (Tesla)",
     "INTC": "equity – semiconductor (Intel)",
+    "AMD": "equity – semiconductor/chipmaker (Advanced Micro Devices)",
     # sector ETFs
     "SOXX": "sector ETF – US semiconductor companies",
     "BOTZ": "sector ETF – global robotics and AI companies",
@@ -169,6 +170,16 @@ def _validate_result(result: dict, ticker: str) -> dict:
         "prompt_version":   PROMPT_VERSION,
     }
 
+
+def is_trusted_source(site: str) -> bool:
+    if not site:
+        return False
+    site = site.strip().lower()
+    return any(
+        site == trusted or site.endswith("." + trusted) or trusted.endswith("." + site)
+        for trusted in TRUSTED_SOURCES
+    )
+
 from utils import (
     get_tickers,
     get_benchmarks,
@@ -202,7 +213,7 @@ def score_article(json_path: str, force: bool = False) -> dict | None:
         return None
 
     # Source filter
-    if TRUSTED_SOURCES and meta.get("site") not in TRUSTED_SOURCES:
+    if TRUSTED_SOURCES and not is_trusted_source(meta.get("site")):
         return None
 
     # Resolve ticker — required for instrument-aware scoring
@@ -220,6 +231,10 @@ def score_article(json_path: str, force: bool = False) -> dict | None:
 
     # Load article text which is at same level as json file
     text_path = meta.get("text_path") # this could be article_guid.txt or /data/raw/site/date/article_guid.txt
+    if not text_path:
+        print(f"  [SKIP] Missing text_path metadata: {json_path}")
+        return None
+
     text_file_name = Path(text_path).name
     text_file_path = Path(json_path).resolve().parent / text_file_name
 
@@ -283,12 +298,12 @@ def score_article(json_path: str, force: bool = False) -> dict | None:
         json.dump(meta, fh, ensure_ascii=False, indent=2)
 
     relevance_flag = " [LOW-REL]" if result["relevance"] == 1 else ""
-    print(
-        f"  [OK] {meta.get('site',''):<20} {ticker:<5} "
-        f"rel={result['relevance']} sent={result['sentiment']} "
-        f"dir={result['direction']:<5}{relevance_flag} | "
-        f"{result['summary'][:60]}"
-    )
+    # print(
+    #     f"  [OK] {meta.get('site',''):<20} {ticker:<5} "
+    #     f"rel={result['relevance']} sent={result['sentiment']} "
+    #     f"dir={result['direction']:<5}{relevance_flag} | "
+    #     f"{result['summary'][:60]}"
+    # )
     return meta
 
 
@@ -300,7 +315,7 @@ def collect_json_paths(data_dir: str) -> list[str]:
     for root, _, files in os.walk(data_dir):
         for f in files:
             if f.endswith(".json"):
-                print(f"Found JSON: {os.path.join(root, f)}")
+                # print(f"Found JSON: {os.path.join(root, f)}")
                 paths.append(os.path.join(root, f))
     return paths
 

@@ -77,20 +77,31 @@ def save_article(url, feed_entry=None, gdelt_query=None, data_dir_path=None):
         return None
 
     publish_date = None
+    publish_dt = None
+    fetch_date = None
     if feed_entry:
-        dt = feed_entry.get('published') or feed_entry.get('updated')
+        dt = feed_entry.get('published') or feed_entry.get('updated') or feed_entry.get('seendate') or feed_entry.get('fetch_date')
         if dt:
             try:
-                publish_date = dateparser.parse(dt).isoformat()
+                publish_dt = dateparser.parse(dt)
+                publish_date = publish_dt.isoformat()
             except Exception:
                 publish_date = None
+        if feed_entry.get('fetch_date'):
+            try:
+                fetch_date = dateparser.parse(feed_entry['fetch_date']).isoformat()
+            except Exception:
+                fetch_date = None
 
     article_id  = slug_id(url, publish_date)
     domain      = domain_from_url(url)
 
-    now = datetime.now()
-    scrape_date = now.isoformat()
-    date_folder = now.strftime('%Y-%m-%d')
+    if publish_dt:
+        date_folder = publish_dt.strftime('%Y-%m-%d')
+    else:
+        raise ValueError(f"No date available for article: {url}")
+
+    scrape_date = datetime.now().isoformat()
 
     out_dir   = os.path.join(data_dir_path, domain, date_folder)
     os.makedirs(out_dir, exist_ok=True)
@@ -119,6 +130,7 @@ def save_article(url, feed_entry=None, gdelt_query=None, data_dir_path=None):
         'site':            domain,
         'title':           title,
         'publish_date':    publish_date,
+        'fetch_date':      fetch_date,
         'scrape_date':     scrape_date,
         'html_path':       html_path, 
         'text_path':       text_path,

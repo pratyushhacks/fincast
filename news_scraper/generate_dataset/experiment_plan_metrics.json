@@ -1,0 +1,46 @@
+{
+  "total_examples": 1495,
+  "total_ticker_groups": 19,
+  "ready_tickers": 2,
+  "medium_tickers": 10,
+  "low_tickers": 7,
+  "overall_flat_pct": 71.4,
+  "neutral_sentiment_pct": 38.2,
+  "dataset_mismatch_pct": 7.684210526315789,
+  "high_flat_tickers": 11,
+  "high_mismatch_tickers": 0,
+  "low_sample_tickers": 7,
+  "ready_to_train_heuristic": false,
+  "total_examples_target": 3000,
+  "sampling_strategy": {
+    "flat_oversample": true,
+    "flat_cap_pct": 40,
+    "min_articles_per_day": 1,
+    "exclude_tickers": [
+      "AAPL",
+      "BOTZ",
+      "DRIV",
+      "GOOGL",
+      "INTC",
+      "MSFT",
+      "NVDA",
+      "SKYY",
+      "SPY",
+      "TLT",
+      "UUP",
+      "XLF",
+      "XLK",
+      "XLV"
+    ]
+  },
+  "data_gaps": [
+    "Flat price moves dominate the dataset; consider downsampling flat examples or using a binary target.",
+    "High flat ratio tickers: ['AAPL', 'BOTZ', 'DRIV', 'GOOGL', 'MSFT', 'NVDA', 'SPY', 'TLT', 'UUP', 'XLF']",
+    "Tickers with low sample count: ['BOTZ', 'INTC', 'SKYY', 'TLT', 'UUP', 'XLK', 'XLV']",
+    "Too few ticker groups with 200+ examples for a generalizable model."
+  ],
+  "recommendations": [
+    "Exclude or downsample tickers with low sample counts and high flat ratios.",
+    "Prefer a 70/15/15 split and cap flat examples at 40% if flat dominates."
+  ]
+}

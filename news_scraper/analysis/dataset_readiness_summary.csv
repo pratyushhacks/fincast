@@ -1,0 +1,2 @@
+,total_examples,total_ticker_groups,ready_tickers,medium_tickers,low_tickers,high_flat_tickers,low_entropy_tickers,low_sample_tickers,overall_flat_pct,overall_bucket_entropy,neutral_sentiment_pct,dataset_mismatch_pct,ready_to_train,recommendation
+0,7322,20,15,3,2,0,0,2,43.3,0.87,37.2,16.715,True,Proceed with fine-tuning

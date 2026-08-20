@@ -1,0 +1,30 @@
+# FinCast fine-tuning environment
+# Tested target: Windows/Linux, RTX 4050 (6GB VRAM), CUDA 12.1+
+#
+# IMPORTANT: install torch FIRST and separately, matching your CUDA version —
+# pip's default `torch` wheel from PyPI is often CPU-only or mismatched with
+# your installed CUDA toolkit. Check your CUDA version with `nvidia-smi`, then
+# install from the matching index, e.g. for CUDA 12.1:
+#
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+#
+# Then install everything below.
+
+transformers==4.44.2
+trl==0.10.1
+peft==0.12.0
+accelerate==0.33.0
+bitsandbytes==0.43.3
+datasets==2.20.0
+python-dotenv==1.0.1
+rich==13.7.1   # trl 0.10.1's trainer/utils.py imports this internally but doesn't declare it as a dependency
+
+# Optional but recommended:
+# tensorboard==2.17.0   # if you want to watch loss curves via `tensorboard --logdir`
+
+# NOTE on bitsandbytes + Windows: native Windows wheels are supported from
+# 0.43.x onward without needing WSL. If you hit a CUDA/DLL load error
+# specifically from bitsandbytes, that's the first thing to check —
+# `python -m bitsandbytes` (if available in your version) or
+# `pip show bitsandbytes` to confirm the installed build matches your CUDA
+# toolkit version.

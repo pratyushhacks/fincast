@@ -1,25 +1,40 @@
 {
-  "assessment": "The dataset shows a good distribution of sentiment scores and price buckets across tickers, with a majority of examples being flat. However, some tickers have too few examples to train on, and there is a need to balance the dataset by oversampling non-flat buckets. The dataset is ready to be used for training with the proposed sampling strategy.",
-  "total_examples_target": 10000,
+  "assessment": "Dataset has a high neutral sentiment percentage and requires downsampling or rebalancing for better predictive performance.",
+  "assumptions": [
+    "sentiment mapped 1-5; flat=3 means no move"
+  ],
+  "total_examples_target": 3000,
   "train_pct": 70,
-  "val_pct": 20,
-  "test_pct": 10,
-  "sampling_strategy": {
-    "flat_oversample": true,
-    "flat_cap_pct": 40,
-    "min_articles_per_day": 5,
-    "exclude_tickers": [
-      "BOTZ",
-      "AAPL"
-    ]
-  },
+  "val_pct": 15,
+  "test_pct": 15,
+  "flat_cap_pct": 40,
+  "flat_oversample": true,
+  "min_articles_per_day": 1,
+  "exclude_tickers": [
+    "AAPL",
+    "BOTZ",
+    "DRIV",
+    "GOOGL",
+    "INTC",
+    "MSFT",
+    "NVDA",
+    "SKYY",
+    "SPY",
+    "TLT",
+    "UUP",
+    "XLF",
+    "XLK",
+    "XLV"
+  ],
   "data_gaps": [
-    "Ticker AAPL has too few examples to train on.",
-    "Ticker BOTZ has too few examples to train on."
+    "Neutral class >50%",
+    "Low sample count for some tickers"
   ],
   "recommendations": [
-    "Oversample non-flat buckets to balance the dataset.",
-    "Exclude tickers with too few examples to train on."
+    "Set flat_cap_pct=40 to ensure flat examples do not dominate the dataset.",
+    "Exclude or downsample tickers with low sample counts and high flat ratios to improve model generalizability.",
+    "Consider increasing the total_examples_target to 3000 for a more robust training dataset."
   ],
-  "ready_to_train": true
+  "ready_to_train": false,
+  "confidence": 0.7
 }

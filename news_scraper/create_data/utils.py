@@ -2,6 +2,8 @@ r"""
 utils.py — single source of truth for config, tickers, and trusted sources.
 All scripts import from here instead of maintaining their own hardcoded dicts.
 """
+import os
+
 import yaml
 
 CONFIG_PATH = "gdelt_config.yaml"
@@ -11,7 +13,8 @@ _cfg = None
 def get_config():
     global _cfg
     if _cfg is None:
-        with open(CONFIG_PATH, 'r', encoding='utf-8') as fh:
+        config_path = os.path.join(os.path.dirname(__file__), CONFIG_PATH)
+        with open(config_path, 'r', encoding='utf-8') as fh:
             _cfg = yaml.safe_load(fh) or {}
     return _cfg
 

@@ -1,0 +1,21 @@
+ticker,category,total_articles,unique_days,avg_sentiment,avg_trailing_vol,flat_pct,strong_down_pct,strong_up_pct,bucket_entropy,imbalance_flag,readiness
+AAPL,company,621,80,3.52,1.54,32.0,7.9,11.3,0.93,OK,READY 200+
+AMD,company,304,63,4.08,5.13,40.8,7.2,17.1,0.91,OK,READY 200+
+AMZN,company,409,83,3.75,1.86,39.4,10.8,9.5,0.91,OK,READY 200+
+BOTZ,sector/macro,39,30,3.21,1.88,35.9,0.0,12.8,0.82,OK,LOW <50
+DRIV,sector/macro,130,58,3.58,2.17,35.4,6.2,9.2,0.9,OK,MED 50-200
+GOOGL,company,432,73,3.63,2.22,46.5,2.1,11.6,0.82,OK,READY 200+
+INTC,company,291,70,3.95,5.68,41.2,1.0,10.7,0.82,OK,READY 200+
+META,company,887,90,3.25,2.78,54.3,5.6,5.7,0.78,OK,READY 200+
+MSFT,company,556,80,3.41,1.91,42.3,7.4,9.4,0.88,OK,READY 200+
+NVDA,company,863,78,3.73,2.48,52.7,3.6,6.3,0.78,OK,READY 200+
+SKYY,sector/macro,198,65,3.43,2.11,39.9,4.0,17.2,0.87,OK,MED 50-200
+SOXX,sector/macro,280,76,3.71,2.99,34.3,5.7,16.1,0.91,OK,READY 200+
+SPY,sector/macro,607,92,3.06,0.89,55.2,5.1,5.6,0.76,OK,READY 200+
+TLT,sector/macro,284,65,3.19,0.58,32.0,10.9,7.0,0.92,OK,READY 200+
+TSLA,company,399,78,3.2,3.06,45.6,10.5,10.0,0.88,OK,READY 200+
+USO,sector/macro,315,70,3.6,4.23,25.4,9.8,8.9,0.91,OK,READY 200+
+UUP,sector/macro,168,56,2.87,0.35,41.1,3.6,4.2,0.79,OK,MED 50-200
+XLF,sector/macro,227,70,3.1,0.97,36.6,4.8,8.4,0.86,OK,READY 200+
+XLK,sector/macro,30,22,3.13,1.66,30.0,3.3,13.3,0.83,OK,LOW <50
+XLV,sector/macro,282,72,3.34,1.06,39.4,0.7,6.4,0.75,OK,READY 200+

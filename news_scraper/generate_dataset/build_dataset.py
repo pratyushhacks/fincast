@@ -10,9 +10,18 @@ Usage:
   python build_dataset.py --data-dir data/raw --out dataset.jsonl
 """
 import os
+import sys
 import json
+import shutil
 import argparse
 from collections import defaultdict
+
+# Ensure the sibling create_data package can be imported when running from generate_dataset/
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if ROOT_DIR not in sys.path:
+    sys.path.insert(0, ROOT_DIR)
+
+from create_data.utils import get_tickers, get_benchmarks
 
 SYSTEM_PROMPT = (
     "You are a financial market analyst. "
@@ -21,64 +30,8 @@ SYSTEM_PROMPT = (
     "strong_down, down, flat, up, strong_up."
 )
 
-COMPANY_TICKERS = {
-    '(NVIDIA OR NVDA)':    "NVDA",
-    '(Apple OR AAPL)':     "AAPL",
-    '(Microsoft OR MSFT)': "MSFT",
-    '(Meta OR META)':      "META",
-    '(Tesla OR TSLA)':     "TSLA",
-    '(Amazon OR AMZN)':    "AMZN",
-    '(Google OR GOOGL)':   "GOOGL",
-    '(Intel OR INTC)':     "INTC",
-    '"AMD"':               "AMD",
-}
-
-SECTOR_TICKERS = {
-    "semiconductor":                                    "SOXX",
-    "cloud computing":                                  "SKYY",
-    "electric vehicles":                                "DRIV",
-    "healthcare stocks":                                "XLV",
-    "financial sector":                                 "XLF",
-    "artificial intelligence market":                   "BOTZ",
-    '("Federal Reserve" OR "Fed rates")':               "SPY",
-    '"US inflation"':                                   "SPY",
-    '"oil prices"':                                     "USO",
-    '"trade war" tariffs technology':                   "XLK",
-    '"US recession"':                                   "SPY",
-    '"treasury yields"':                                "TLT",
-    '"dollar index"':                                   "UUP",
-    '"geopolitical risk"':                              "SPY",
-    '"antitrust" "big tech"':                           "XLK",
-    '"AI regulation"':                                  "BOTZ",
-    '("China" "technology ban" OR "export controls")':  "SOXX",
-    '"cybersecurity breach"':                           "CIBR",
-}
-
-# Add at top
-TICKER_BENCHMARK = {
-    "NVDA":  "QQQ", "AAPL":  "QQQ", "MSFT": "QQQ",
-    "META":  "QQQ", "TSLA":  "QQQ", "AMZN": "QQQ",
-    "GOOGL": "QQQ", "INTC":  "QQQ", "AMD":  "QQQ",
-    "SOXX": "SPY", "SKYY": "SPY", "DRIV": "SPY",
-    "XLV":  "SPY", "XLF":  "SPY", "BOTZ": "SPY",
-    "USO":  "SPY", "TLT":  "SPY", "UUP":  "SPY",
-    "XLK":  "SPY", "CIBR": "SPY",
-}
-
-PLAIN_NAME_TICKERS = {
-    "NVIDIA":    "NVDA",
-    "Apple":     "AAPL",
-    "Microsoft": "MSFT",
-    "Meta":      "META",
-    "Tesla":     "TSLA",
-    "Amazon":    "AMZN",
-    "Google":    "GOOGL",
-    "Intel":     "INTC",
-    "AMD":       "AMD",
-    "OpenAI":    None,
-}
-
-ALL_TICKERS = {**COMPANY_TICKERS, **SECTOR_TICKERS, **PLAIN_NAME_TICKERS}
+ALL_TICKERS = get_tickers()
+TICKER_BENCHMARK = get_benchmarks()
 
 
 def collect_json_paths(data_dir):
@@ -94,12 +47,109 @@ def get_ticker(gdelt_query):
     return ALL_TICKERS.get(gdelt_query)
 
 
-def main(data_dir, out_path, min_articles=1):
+def is_same_file(src, dst):
+    if not os.path.exists(dst):
+        return False
+    try:
+        return (os.path.getsize(src) == os.path.getsize(dst) and
+                int(os.path.getmtime(src)) == int(os.path.getmtime(dst)))
+    except OSError:
+        return False
+
+
+def get_article_quality_reason(meta, min_relevance=2, min_summary_words=10):
+    if not meta.get('summary'):
+        return False, 'missing_summary'
+    if meta.get('sentiment') is None:
+        return False, 'missing_sentiment'
+    if not meta.get('price_changes', {}):
+        return False, 'missing_price_changes'
+
+    summary = meta.get('summary', '')
+    if len(summary.split()) < min_summary_words:
+        return False, 'too_short_summary'
+
+    if meta.get('relevance', 1) < min_relevance:
+        return False, 'low_relevance'
+
+    gdelt_query = meta.get('gdelt_query', '')
+    ticker = get_ticker(gdelt_query)
+    if not ticker:
+        return False, 'missing_ticker'
+
+    ticker_prices = meta['price_changes'].get(gdelt_query, {})
+    if not ticker_prices or ticker_prices.get('bucket_1d') is None:
+        return False, 'missing_bucket'
+
+    return True, 'ok'
+
+
+def is_good_article(meta, min_relevance=2, min_summary_words=10):
+    good, _ = get_article_quality_reason(meta, min_relevance, min_summary_words)
+    return good
+
+
+def collect_by_ticker(data_dir, out_root, min_relevance=2, min_summary_words=10):
+    paths = collect_json_paths(data_dir)
+    print(f"Scanning {len(paths)} articles...\n")
+    os.makedirs(out_root, exist_ok=True)
+    counts = defaultdict(int)
+    skipped = 0
+    skip_reasons = defaultdict(int)
+    expected_paths = set()
+
+    for json_path in paths:
+        with open(json_path, 'r', encoding='utf-8') as fh:
+            try:
+                meta = json.load(fh)
+            except json.JSONDecodeError:
+                skipped += 1
+                skip_reasons['invalid_json'] += 1
+                print(f"  [SKIP] invalid JSON: {json_path}")
+                continue
+
+        good, reason = get_article_quality_reason(meta, min_relevance, min_summary_words)
+        if not good:
+            skipped += 1
+            skip_reasons[reason] += 1
+            continue
+
+        ticker = get_ticker(meta.get('gdelt_query', ''))
+        rel_path = os.path.relpath(json_path, data_dir)
+        out_path = os.path.join(out_root, ticker, rel_path)
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        if not is_same_file(json_path, out_path):
+            shutil.copy2(json_path, out_path)
+        expected_paths.add(os.path.normpath(out_path))
+        counts[ticker] += 1
+
+    removed = 0
+    for root, _, files in os.walk(out_root, topdown=False):
+        for f in files:
+            if not f.endswith('.json'):
+                continue
+            out_path = os.path.normpath(os.path.join(root, f))
+            if out_path not in expected_paths:
+                os.remove(out_path)
+                removed += 1
+        if not os.listdir(root):
+            os.rmdir(root)
+
+    print(f"Copied/updated {sum(counts.values())} articles into {out_root}")
+    print(f"Skipped {skipped} articles due to quality/filtering or invalid JSON")
+    for reason, count in sorted(skip_reasons.items(), key=lambda x: x[1], reverse=True):
+        print(f"  {reason}: {count}")
+    if removed:
+        print(f"Removed {removed} stale article files from {out_root}")
+    for ticker, count in sorted(counts.items(), key=lambda x: x[1], reverse=True):
+        print(f"  {ticker}: {count}")
+
+
+def main(data_dir, out_path, min_articles=1, min_relevance=2, min_summary_words=10):
     paths = collect_json_paths(data_dir)
     print(f"Scanning {len(paths)} articles...\n")
 
-    # Group by (date, ticker)
-    # key: (date_str, ticker) -> list of article metas
+    # Group by (date, ticker, gdelt_query) to avoid mixing different watchlist forms.
     groups = defaultdict(list)
 
     skipped = 0
@@ -108,26 +158,16 @@ def main(data_dir, out_path, min_articles=1):
         with open(json_path, 'r', encoding='utf-8') as fh:
             meta = json.load(fh)
 
-        # Must have summary, sentiment and price_changes with bucket_1d
-        if not meta.get('summary') or meta.get('sentiment') is None or not meta.get('price_changes', {}):
+        good, reason = get_article_quality_reason(meta, min_relevance, min_summary_words)
+        if not good:
             skipped += 1
-            print(f"  [SKIP] Missing summary/sentiment/price: {json_path}")
+            print(f"  [SKIP] {reason}: {json_path}")
             continue
-
 
         price_changes = meta.get('price_changes', {})
-        gdelt_query   = meta.get('gdelt_query', '')
-        ticker        = get_ticker(gdelt_query)
-        if not ticker:
-            skipped += 1
-            print(f"  [SKIP] unable to get ticker for gdelt_query: {gdelt_query} in {json_path}")
-            continue
-
+        gdelt_query = meta.get('gdelt_query', '')
+        ticker = get_ticker(gdelt_query)
         ticker_prices = price_changes.get(gdelt_query, {})
-        if not ticker_prices or ticker_prices.get('bucket_1d') is None:
-            skipped += 1  # next day not yet available
-            print(f"  [SKIP] No price label for ticker '{ticker}' in {json_path}")
-            continue
 
         # Use scrape_date as the article date
         date_str = (meta.get('publish_date') or meta.get('scrape_date', ''))[:10]
@@ -214,5 +254,18 @@ if __name__ == '__main__':
     parser.add_argument('--out',          default='dataset.jsonl')
     parser.add_argument('--min-articles', type=int, default=1,
                         help='Min articles per ticker per day to include')
+    parser.add_argument('--collect-by-ticker', default=None,
+                        help='If set, copy raw JSON files into ticker folders under this directory')
+    parser.add_argument('--min-relevance', type=int, default=2,
+                        help='Minimum relevance score to include an article')
+    parser.add_argument('--min-summary-words', type=int, default=10,
+                        help='Minimum summary length in words to include an article')
     args = parser.parse_args()
-    main(args.data_dir, args.out, args.min_articles)
+    if args.collect_by_ticker:
+        collect_by_ticker(args.data_dir, args.collect_by_ticker,
+                          min_relevance=args.min_relevance,
+                          min_summary_words=args.min_summary_words)
+    else:
+        main(args.data_dir, args.out, args.min_articles,
+             min_relevance=args.min_relevance,
+             min_summary_words=args.min_summary_words)
