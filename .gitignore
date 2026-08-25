@@ -5,4 +5,6 @@
 **/data/raw
 **/data/ticker_data
 *.zip
+*.pyc
 */__pycache__/*
+**/__pycache__/*
