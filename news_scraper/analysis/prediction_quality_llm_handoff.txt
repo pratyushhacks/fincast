@@ -1,0 +1,97 @@
+# FinCast Prediction Quality: Evidence Handoff
+
+Use this brief to review the model and recommend the next experiments. Separate every conclusion into: observed evidence, reasonable inference, and unknowns requiring another analysis. Do not claim that the model is overfit, leaking data, or learning useful distinctions unless the evidence supports that claim.
+
+## Objective
+Assess class balance, model prediction behavior, production accuracy after outcomes settle, data-quality risks, and the smallest rigorous next experiments for this financial movement classifier.
+
+## Evaluation boundaries
+- Training and validation JSONL files contain labels, not model predictions.
+- Validation was used for loss monitoring, early stopping, and checkpoint selection; it is not an untouched final test set.
+- Production accuracy uses the latest logged row per ticker/date, so repeated runs do not overweight one forecast.
+- A production row is scored only when actual_move_bin is one of the five valid classes.
+- Production rows are chronological and may be correlated; uncertainty should account for time dependence.
+
+## Dataset coverage
+- Training coverage: {'rows': 1068, 'unique_tickers': 20, 'unique_dates': 0, 'date_range': 'unavailable'}.
+- Validation coverage: {'rows': 157, 'unique_tickers': 20, 'unique_dates': 0, 'date_range': 'unavailable'}.
+- Production coverage after latest-run deduplication: {'rows': 98, 'unique_tickers': 19, 'unique_dates': 7, 'date_range': '2026-07-29 to 2026-08-21'}.
+- Settled production coverage: {'rows': 77, 'unique_tickers': 19, 'unique_dates': 5, 'date_range': '2026-07-29 to 2026-08-19'}.
+- Source files: train=C:\work\PratyushMishraGitHub\news_analysis\news_scraper\data\train_data\combined\train.jsonl (exists=True), validation=C:\work\PratyushMishraGitHub\news_analysis\news_scraper\data\train_data\combined\val.jsonl (exists=True), production=C:\work\PratyushMishraGitHub\news_analysis\news_scraper\predictions_log.jsonl (exists=True).
+- Valid movement classes, ordered by severity: ['strong_down', 'down', 'flat', 'up', 'strong_up'].
+
+## Label balance
+- Training mode: flat (27.62% of training labels).
+- Validation mode: flat (31.21% of validation labels).
+- Training distribution: {'strong_down': 134, 'down': 219, 'flat': 295, 'up': 232, 'strong_up': 188}.
+- Validation distribution: {'strong_down': 13, 'down': 22, 'flat': 49, 'up': 42, 'strong_up': 31}.
+- Training/validation ticker overlap: 20 shared tickers.
+
+## Repeat-run consistency
+- Repeat-run summary: {'raw_log_rows': 163.0, 'unique_ticker_date_forecasts': 98.0, 'duplicate_forecast_groups': 49.0, 'duplicate_log_rows': 114.0, 'consistent_duplicate_groups': 44.0, 'inconsistent_duplicate_groups': 5.0, 'group_consistency_pct': 89.79591836734694, 'inconsistent_groups_with_news_count_change_pct': 60.0}.
+- Inconsistent repeated forecast groups: 5; inspect whether news count, input text, market context, or inference settings changed.
+
+## Settled production evidence
+- Exact five-class accuracy: 22.08%.
+- Direction accuracy: 46.75%.
+- Actual-majority baseline: 37.66% (strong_up).
+- Lift over actual-majority baseline: -15.58 percentage points.
+- Prediction distribution: {'strong_down': 7, 'down': 2, 'flat': 13, 'up': 40, 'strong_up': 15}.
+- Actual distribution: {'strong_down': 5, 'down': 18, 'flat': 11, 'up': 14, 'strong_up': 29}.
+- Prediction entropy: 1.835 bits.
+- Mean class-distance error: 1.30; within one class step: 64.94%.
+- Opposite-direction rate: 53.25%.
+- Confusion matrix, actual rows and predicted columns: {'strong_down': {'strong_down': 2, 'down': 1, 'flat': 0, 'up': 1, 'strong_up': 3}, 'down': {'strong_down': 0, 'down': 0, 'flat': 1, 'up': 0, 'strong_up': 1}, 'flat': {'strong_down': 1, 'down': 3, 'flat': 2, 'up': 2, 'strong_up': 5}, 'up': {'strong_down': 1, 'down': 12, 'flat': 8, 'up': 6, 'strong_up': 13}, 'strong_up': {'strong_down': 1, 'down': 2, 'flat': 0, 'up': 5, 'strong_up': 7}}.
+
+## Production slices
+- Per-ticker metrics:
+  - MSFT: n=5, exact=60.00%, direction=80.00%, prediction_mode=up (60.00%), actual_return_mean=5.13%, actual_return_std=7.30%, mean_news_items=2.20.
+  - META: n=5, exact=40.00%, direction=40.00%, prediction_mode=flat (60.00%), actual_return_mean=-0.38%, actual_return_std=5.75%, mean_news_items=2.60.
+  - XLF: n=5, exact=40.00%, direction=60.00%, prediction_mode=up (100.00%), actual_return_mean=-0.05%, actual_return_std=0.85%, mean_news_items=1.20.
+  - TSLA: n=3, exact=33.33%, direction=66.67%, prediction_mode=up (66.67%), actual_return_mean=1.56%, actual_return_std=2.85%, mean_news_items=2.00.
+  - INTC: n=3, exact=33.33%, direction=66.67%, prediction_mode=strong_up (33.33%), actual_return_mean=-1.11%, actual_return_std=2.21%, mean_news_items=1.00.
+  - DRIV: n=3, exact=33.33%, direction=66.67%, prediction_mode=up (66.67%), actual_return_mean=2.99%, actual_return_std=2.19%, mean_news_items=1.00.
+  - AMZN: n=4, exact=25.00%, direction=50.00%, prediction_mode=strong_up (50.00%), actual_return_mean=1.98%, actual_return_std=3.04%, mean_news_items=2.00.
+  - UUP: n=4, exact=25.00%, direction=25.00%, prediction_mode=flat (100.00%), actual_return_mean=-0.60%, actual_return_std=0.53%, mean_news_items=1.50.
+  - SOXX: n=4, exact=25.00%, direction=50.00%, prediction_mode=strong_up (75.00%), actual_return_mean=2.37%, actual_return_std=5.45%, mean_news_items=1.25.
+  - SKYY: n=4, exact=25.00%, direction=50.00%, prediction_mode=up (100.00%), actual_return_mean=0.93%, actual_return_std=1.92%, mean_news_items=2.50.
+  - USO: n=4, exact=25.00%, direction=50.00%, prediction_mode=strong_down (50.00%), actual_return_mean=-0.61%, actual_return_std=3.68%, mean_news_items=1.50.
+  - GOOGL: n=5, exact=20.00%, direction=60.00%, prediction_mode=up (60.00%), actual_return_mean=0.76%, actual_return_std=2.81%, mean_news_items=3.00.
+  - SPY: n=5, exact=20.00%, direction=40.00%, prediction_mode=up (80.00%), actual_return_mean=0.67%, actual_return_std=1.14%, mean_news_items=2.00.
+  - AMD: n=4, exact=0.00%, direction=50.00%, prediction_mode=strong_up (75.00%), actual_return_mean=2.97%, actual_return_std=7.06%, mean_news_items=2.25.
+  - AAPL: n=4, exact=0.00%, direction=25.00%, prediction_mode=up (100.00%), actual_return_mean=-0.58%, actual_return_std=2.14%, mean_news_items=2.75.
+  - NVDA: n=5, exact=0.00%, direction=60.00%, prediction_mode=up (100.00%), actual_return_mean=1.23%, actual_return_std=1.81%, mean_news_items=3.80.
+  - BOTZ: n=1, exact=0.00%, direction=100.00%, prediction_mode=up (100.00%), actual_return_mean=3.62%, actual_return_std=unavailable%, mean_news_items=1.00.
+  - TLT: n=4, exact=0.00%, direction=0.00%, prediction_mode=flat (75.00%), actual_return_mean=0.29%, actual_return_std=1.08%, mean_news_items=3.50.
+  - XLV: n=5, exact=0.00%, direction=0.00%, prediction_mode=up (40.00%), actual_return_mean=-0.19%, actual_return_std=2.22%, mean_news_items=2.80.
+- Accuracy by news-volume bucket: {'0': {'n': 3, 'exact_accuracy_pct': 33.333, 'direction_accuracy_pct': 66.667, 'mean_actual_change_pct': 0.89}, '1': {'n': 23, 'exact_accuracy_pct': 26.087, 'direction_accuracy_pct': 60.87, 'mean_actual_change_pct': 1.504}, '2-3': {'n': 36, 'exact_accuracy_pct': 27.778, 'direction_accuracy_pct': 47.222, 'mean_actual_change_pct': 0.933}, '4-5': {'n': 15, 'exact_accuracy_pct': 0.0, 'direction_accuracy_pct': 20.0, 'mean_actual_change_pct': 0.418}, '6+': {'n': 0, 'exact_accuracy_pct': None, 'direction_accuracy_pct': nan, 'mean_actual_change_pct': nan}}.
+- Daily production metrics: {Timestamp('2026-07-29 00:00:00'): {'n': 17, 'exact_accuracy_pct': 23.529, 'direction_accuracy_pct': 41.176, 'prediction_entropy_bits': 1.732}, Timestamp('2026-07-31 00:00:00'): {'n': 16, 'exact_accuracy_pct': 50.0, 'direction_accuracy_pct': 75.0, 'prediction_entropy_bits': 1.936}, Timestamp('2026-08-16 00:00:00'): {'n': 11, 'exact_accuracy_pct': 18.182, 'direction_accuracy_pct': 63.636, 'prediction_entropy_bits': 1.495}, Timestamp('2026-08-18 00:00:00'): {'n': 17, 'exact_accuracy_pct': 17.647, 'direction_accuracy_pct': 35.294, 'prediction_entropy_bits': 1.999}, Timestamp('2026-08-19 00:00:00'): {'n': 16, 'exact_accuracy_pct': 0.0, 'direction_accuracy_pct': 25.0, 'prediction_entropy_bits': 1.186}}.
+
+## Error and return evidence
+- Actual-return summary by actual class: {'strong_down': {'count': 5, 'mean': -4.517, 'median': -3.534, 'std': 2.253}, 'down': {'count': 18, 'mean': -1.243, 'median': -1.133, 'std': 0.441}, 'flat': {'count': 11, 'mean': 0.031, 'median': 0.0, 'std': 0.326}, 'up': {'count': 14, 'mean': 1.137, 'median': 1.204, 'std': 0.471}, 'strong_up': {'count': 18, 'mean': 5.182, 'median': 3.764, 'std': 3.632}}.
+- Most common actual/predicted error pairs: {('strong_up', 'up'): {'n': 13, 'mean_actual_change_pct': 4.555, 'median_actual_change_pct': 2.895, 'mean_class_error_steps': 1.0}, ('down', 'up'): {'n': 12, 'mean_actual_change_pct': -1.271, 'median_actual_change_pct': -1.25, 'mean_class_error_steps': 2.0}, ('flat', 'up'): {'n': 8, 'mean_actual_change_pct': 0.012, 'median_actual_change_pct': 0.099, 'mean_class_error_steps': 1.0}, ('strong_up', 'strong_up'): {'n': 7, 'mean_actual_change_pct': 4.79, 'median_actual_change_pct': 4.88, 'mean_class_error_steps': 0.0}, ('up', 'up'): {'n': 6, 'mean_actual_change_pct': 1.011, 'median_actual_change_pct': 0.917, 'mean_class_error_steps': 0.0}, ('strong_up', 'flat'): {'n': 5, 'mean_actual_change_pct': 3.905, 'median_actual_change_pct': 3.905, 'mean_class_error_steps': 2.0}, ('up', 'strong_up'): {'n': 5, 'mean_actual_change_pct': 1.085, 'median_actual_change_pct': 0.887, 'mean_class_error_steps': 1.0}, ('down', 'flat'): {'n': 3, 'mean_actual_change_pct': -0.874, 'median_actual_change_pct': -0.819, 'mean_class_error_steps': 1.0}, ('strong_up', 'strong_down'): {'n': 3, 'mean_actual_change_pct': 8.678, 'median_actual_change_pct': 8.501, 'mean_class_error_steps': 4.0}, ('down', 'strong_up'): {'n': 2, 'mean_actual_change_pct': -1.666, 'median_actual_change_pct': -1.666, 'mean_class_error_steps': 3.0}}.
+- The return comparison is descriptive only; it does not establish a tradable strategy or fixed return for a class.
+
+## Known constraints and pipeline context
+- Model: phi-3-mini-4k-instruct fine-tuned with QLoRA 4-bit on a 6 GB VRAM constraint.
+- Data: scraped daily news, sentiment, recent five-day performance, price, and volume at market close.
+- Each training example uses only 1 to 5 news items, so news coverage and relevance may be limiting factors.
+
+## Evidence currently missing
+- Deterministic model predictions and metrics on both train.jsonl and val.jsonl.
+- Chronological holdout or walk-forward test results.
+- Global, per-ticker-majority, always-flat, and direction-only baselines.
+- Bootstrap or time-aware confidence intervals for production metrics.
+- Checkpoint name, training steps/epochs, best validation loss, seed, decoding settings, and whether inference was deterministic.
+- Article duplicate rate, missing-value rates, news relevance quality, date/market-close alignment, weekend/holiday handling, and train/validation date overlap.
+- Exact target construction, bin thresholds, forecast horizon, and whether any future information can enter the news or feature window.
+
+## Questions for the reviewing LLM
+1. What is directly observed, what is only inferred, and what remains untestable from this brief?
+2. Do the distributions and confusion patterns indicate class collapse, class imbalance, magnitude confusion, ticker-specific failure, or insufficient evidence?
+3. Is five-class movement prediction appropriate for this sample size and volatility regime, compared with directional or regression objectives?
+4. What data-quality and leakage checks should be run first, with exact pass/fail criteria?
+5. How should the model be compared against global-majority, ticker-majority, always-flat, directional, and simple statistical baselines?
+6. What minimum sample size and chronological coverage are needed before trusting an improvement?
+7. Recommend the next three experiments. For each, specify the hypothesis, exact dataset/model change, metric, baseline, confidence requirement, and pass/fail criterion.
+8. Identify any metric here that could be misleading because of deduplication, time correlation, ticker imbalance, or small samples.

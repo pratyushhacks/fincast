@@ -12,10 +12,10 @@
       "cwd": "${workspaceFolder}\\llm_wrapper_project"
     },
     {
-      "name": "Build Dataset - 1 - Fetch News (news_scrapper)",
+      "name": "Build Dataset - 1 - Fetch News (news_scraper)",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}\\news_scrapper\\fetch_gdelt_news.py",
+      "program": "${workspaceFolder}\\news_scraper\\create_data\\fetch_gdelt_news.py",
       "args": [
         "--days",
         "1",
@@ -25,16 +25,16 @@
         "0.5"
       ],
       "console": "integratedTerminal",
-      "preLaunchTask": "Create venv & install (news_scrapper)",
-      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
-      "cwd": "${workspaceFolder}\\news_scrapper",
+      "preLaunchTask": "Create venv & install (news_scraper)",
+      "python": "${workspaceFolder}\\news_scraper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scraper",
       "justMyCode": true
     },
     {
-      "name": "Build Dataset - 2 - Append Sentiments (news_scrapper)",
+      "name": "Build Dataset - 2 - Append Sentiments (news_scraper)",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}\\news_scrapper\\label_sentiment.py",
+      "program": "${workspaceFolder}\\news_scraper\\create_data\\label_sentiment.py",
       "args": [
         "--data-dir",
         "data/raw",
@@ -42,30 +42,30 @@
         "1"
       ],
       "console": "integratedTerminal",
-      "preLaunchTask": "Create venv & install (news_scrapper)",
-      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
-      "cwd": "${workspaceFolder}\\news_scrapper",
+      "preLaunchTask": "Create venv & install (news_scraper)",
+      "python": "${workspaceFolder}\\news_scraper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scraper",
       "justMyCode": true
     },
     {
-      "name": "Build Dataset - 3 - Fetch Stock Prices (news_scrapper)",
+      "name": "Build Dataset - 3 - Fetch Stock Prices (news_scraper)",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}\\news_scrapper\\fetch_prices.py",
+      "program": "${workspaceFolder}\\news_scraper\\create_data\\fetch_prices.py",
       "args": [
         "--data-dir",
         "data/raw"
       ],
       "console": "integratedTerminal",
-      "preLaunchTask": "Create venv & install (news_scrapper)",
-      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
-      "cwd": "${workspaceFolder}\\news_scrapper"
+      "preLaunchTask": "Create venv & install (news_scraper)",
+      "python": "${workspaceFolder}\\news_scraper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scraper"
     },
     {
-      "name": "Build Dataset - 4 - Create Training Data (news_scrapper)",
+      "name": "Build Dataset - 4 - Create Training Data (news_scraper)",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}\\news_scrapper\\build_dataset.py",
+      "program": "${workspaceFolder}\\news_scraper\\generate_dataset\\build_dataset.py",
       "args": [
         "--data-dir",
         "data/raw",
@@ -75,19 +75,19 @@
         "100"
       ],
       "console": "integratedTerminal",
-      "preLaunchTask": "Create venv & install (news_scrapper)",
-      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
-      "cwd": "${workspaceFolder}\\news_scrapper"
+      "preLaunchTask": "Create venv & install (news_scraper)",
+      "python": "${workspaceFolder}\\news_scraper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scraper"
     },
     {
-      "name": "Nightly Run (news_scrapper)",
+      "name": "Nightly Run (news_scraper)",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}\\news_scrapper\\nightly_run.py",
+      "program": "${workspaceFolder}\\news_scraper\\create_data\\nightly_run.py",
       "console": "integratedTerminal",
-      "preLaunchTask": "Create venv & install (news_scrapper)",
-      "python": "${workspaceFolder}\\news_scrapper\\.venv\\Scripts\\python.exe",
-      "cwd": "${workspaceFolder}\\news_scrapper"
+      "preLaunchTask": "Create venv & install (news_scraper)",
+      "python": "${workspaceFolder}\\news_scraper\\.venv\\Scripts\\python.exe",
+      "cwd": "${workspaceFolder}\\news_scraper"
     }
   ]
 }

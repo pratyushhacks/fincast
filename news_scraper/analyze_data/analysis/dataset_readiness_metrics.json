@@ -1,0 +1,16 @@
+{
+  "total_examples": 5947,
+  "total_ticker_groups": 20,
+  "ready_tickers": 14,
+  "medium_tickers": 4,
+  "low_tickers": 2,
+  "high_flat_tickers": 0,
+  "low_entropy_tickers": 0,
+  "low_sample_tickers": 2,
+  "overall_flat_pct": 43.1,
+  "overall_bucket_entropy": 0.87,
+  "neutral_sentiment_pct": 36.8,
+  "dataset_mismatch_pct": 16.29,
+  "ready_to_train": true,
+  "recommendation": "Proceed with fine-tuning"
+}

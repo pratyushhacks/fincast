@@ -17,14 +17,14 @@
       }
     },
     {
-      "label": "Create venv & install (news_scrapper)",
+      "label": "Create venv & install (news_scraper)",
       "type": "shell",
-      "command": "if (-not (Test-Path 'news_scrapper\\.venv')) { python -m venv news_scrapper\\.venv }; news_scrapper\\.venv\\Scripts\\python -m pip install --upgrade pip; news_scrapper\\.venv\\Scripts\\pip install -r news_scrapper\\requirements.txt",
+      "command": "if (-not (Test-Path '.venv')) { python -m venv .venv }; & './.venv/Scripts/python.exe' -m pip install --upgrade pip; & './.venv/Scripts/pip.exe' install -r ./requirements.txt",
       "problemMatcher": [],
       "group": "build",
       "presentation": { "reveal": "always", "panel": "shared" },
       "options": {
-        "cwd": "${workspaceFolder}",
+        "cwd": "${workspaceFolder}\\news_scraper",
         "shell": {
           "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
           "args": ["-NoProfile", "-Command"]
