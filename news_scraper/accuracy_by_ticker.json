@@ -1,0 +1,116 @@
+[
+  {
+    "ticker": "NVDA",
+    "n": 12,
+    "exact_accuracy": 8.3,
+    "direction_accuracy": 33.3
+  },
+  {
+    "ticker": "XLV",
+    "n": 12,
+    "exact_accuracy": 25.0,
+    "direction_accuracy": 25.0
+  },
+  {
+    "ticker": "AAPL",
+    "n": 11,
+    "exact_accuracy": 0.0,
+    "direction_accuracy": 18.2
+  },
+  {
+    "ticker": "AMZN",
+    "n": 11,
+    "exact_accuracy": 18.2,
+    "direction_accuracy": 36.4
+  },
+  {
+    "ticker": "SPY",
+    "n": 11,
+    "exact_accuracy": 18.2,
+    "direction_accuracy": 27.3
+  },
+  {
+    "ticker": "AMD",
+    "n": 10,
+    "exact_accuracy": 10.0,
+    "direction_accuracy": 60.0
+  },
+  {
+    "ticker": "GOOGL",
+    "n": 10,
+    "exact_accuracy": 30.0,
+    "direction_accuracy": 60.0
+  },
+  {
+    "ticker": "META",
+    "n": 10,
+    "exact_accuracy": 20.0,
+    "direction_accuracy": 40.0
+  },
+  {
+    "ticker": "TLT",
+    "n": 9,
+    "exact_accuracy": 22.2,
+    "direction_accuracy": 22.2
+  },
+  {
+    "ticker": "TSLA",
+    "n": 9,
+    "exact_accuracy": 33.3,
+    "direction_accuracy": 55.6
+  },
+  {
+    "ticker": "INTC",
+    "n": 8,
+    "exact_accuracy": 25.0,
+    "direction_accuracy": 37.5
+  },
+  {
+    "ticker": "SOXX",
+    "n": 8,
+    "exact_accuracy": 12.5,
+    "direction_accuracy": 50.0
+  },
+  {
+    "ticker": "USO",
+    "n": 8,
+    "exact_accuracy": 12.5,
+    "direction_accuracy": 50.0
+  },
+  {
+    "ticker": "UUP",
+    "n": 8,
+    "exact_accuracy": 50.0,
+    "direction_accuracy": 50.0
+  },
+  {
+    "ticker": "XLF",
+    "n": 8,
+    "exact_accuracy": 37.5,
+    "direction_accuracy": 50.0
+  },
+  {
+    "ticker": "MSFT",
+    "n": 7,
+    "exact_accuracy": 42.9,
+    "direction_accuracy": 57.1
+  },
+  {
+    "ticker": "SKYY",
+    "n": 7,
+    "exact_accuracy": 14.3,
+    "direction_accuracy": 28.6
+  },
+  {
+    "ticker": "DRIV",
+    "n": 3,
+    "exact_accuracy": 33.3,
+    "direction_accuracy": 66.7
+  },
+  {
+    "ticker": "BOTZ",
+    "n": 1,
+    "exact_accuracy": 0.0,
+    "direction_accuracy": 100.0
+  }
+]

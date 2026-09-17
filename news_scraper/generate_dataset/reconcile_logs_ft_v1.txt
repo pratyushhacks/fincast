@@ -1,0 +1,26 @@
+(.venv) PS C:\work\PratyushMishraGitHub\news_analysis\news_scraper> python .\generate_dataset\reconcile_predictions.py
+Reconciled 0 prediction(s) this run. 0 still awaiting settlement.
+Running forward-test exact accuracy: 35/163 = 21.5%
+Running forward-test direction accuracy: 67/163 = 41.1%
+
+Ticker     n   Exact %  Direction %
+-----------------------------------
+NVDA      12       8.3         33.3
+XLV       12      25.0         25.0
+AAPL      11       0.0         18.2
+AMZN      11      18.2         36.4
+SPY       11      18.2         27.3
+AMD       10      10.0         60.0
+GOOGL     10      30.0         60.0
+META      10      20.0         40.0
+TLT        9      22.2         22.2
+TSLA       9      33.3         55.6
+INTC       8      25.0         37.5
+SOXX       8      12.5         50.0
+USO        8      12.5         50.0
+UUP        8      50.0         50.0
+XLF        8      37.5         50.0
+MSFT       7      42.9         57.1
+SKYY       7      14.3         28.6
+DRIV       3      33.3         66.7
+BOTZ       1       0.0        100.0
