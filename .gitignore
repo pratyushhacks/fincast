@@ -8,3 +8,5 @@
 *.pyc
 */__pycache__/*
 **/__pycache__/*
+**/phi3-fincast-qlora
+**/phi3-fincast-qlora-final
