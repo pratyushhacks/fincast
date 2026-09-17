@@ -16,11 +16,30 @@ not a separately-invented definition of correct/incorrect.
 import glob
 import json
 import os
+from collections import defaultdict
 
 import build_ticker_jsonl as btj
 
 LOG_PATH = os.getenv("PREDICTIONS_LOG_PATH", "predictions_log.jsonl")
 DATA_DIR = btj.DEFAULT_DATA_DIR
+
+ACCURACY_SUMMARY_PATH = os.getenv(
+    "ACCURACY_SUMMARY_PATH", "accuracy_by_ticker.json"
+)
+
+# down-side / flat / up-side grouping for direction-level scoring —
+# same 5-class buckets used everywhere else, just collapsed to 3.
+DIRECTION_MAP = {
+    "strong_down": "down",
+    "down": "down",
+    "flat": "flat",
+    "up": "up",
+    "strong_up": "up",
+}
+
+
+def to_direction(bucket):
+    return DIRECTION_MAP.get(bucket)
 
 
 def find_settled_outcome(ticker: str, date: str, data_dir: str):
@@ -50,6 +69,48 @@ def find_settled_outcome(ticker: str, date: str, data_dir: str):
             return move_bin, price_record['change_1d']
 
     return None, None
+
+
+def per_ticker_accuracy(reconciled):
+    """Break the reconciled set down by ticker: exact-match accuracy
+    (predicted_move_bin == actual_move_bin) and direction accuracy
+    (predicted direction == actual direction, down/flat/up). Kept as a
+    standalone function so v2's eval can call this same logic against
+    its own predictions_log.jsonl and produce a directly comparable table.
+    """
+    stats = defaultdict(lambda: {"n": 0, "exact_correct": 0, "direction_correct": 0})
+
+    for e in reconciled:
+        t = e["ticker"]
+        s = stats[t]
+        s["n"] += 1
+        if e.get("correct"):
+            s["exact_correct"] += 1
+
+        actual_dir = to_direction(e.get("actual_move_bin"))
+        pred_dir = to_direction(e.get("predicted_move_bin"))
+        if actual_dir is not None and pred_dir is not None and actual_dir == pred_dir:
+            s["direction_correct"] += 1
+
+    table = []
+    for ticker, s in stats.items():
+        n = s["n"]
+        table.append({
+            "ticker": ticker,
+            "n": n,
+            "exact_accuracy": round(s["exact_correct"] / n * 100, 1) if n else None,
+            "direction_accuracy": round(s["direction_correct"] / n * 100, 1) if n else None,
+        })
+
+    table.sort(key=lambda row: (-row["n"], row["ticker"]))
+    return table
+
+
+def print_per_ticker_table(table):
+    print(f"\n{'Ticker':<8}{'n':>4}{'Exact %':>10}{'Direction %':>13}")
+    print("-" * 35)
+    for row in table:
+        print(f"{row['ticker']:<8}{row['n']:>4}{row['exact_accuracy']:>10}{row['direction_accuracy']:>13}")
 
 
 def main():
@@ -90,7 +151,19 @@ def main():
     reconciled = [e for e in entries if e.get('actual_move_bin') is not None]
     if reconciled:
         correct = sum(1 for e in reconciled if e.get('correct'))
-        print(f"Running forward-test accuracy: {correct}/{len(reconciled)} = {correct/len(reconciled)*100:.1f}%")
+        direction_correct = sum(
+            1 for e in reconciled
+            if to_direction(e.get('actual_move_bin')) == to_direction(e.get('predicted_move_bin'))
+        )
+        print(f"Running forward-test exact accuracy: {correct}/{len(reconciled)} = {correct/len(reconciled)*100:.1f}%")
+        print(f"Running forward-test direction accuracy: {direction_correct}/{len(reconciled)} = {direction_correct/len(reconciled)*100:.1f}%")
+
+        table = per_ticker_accuracy(reconciled)
+        print_per_ticker_table(table)
+
+        with open(ACCURACY_SUMMARY_PATH, 'w', encoding='utf-8') as fh:
+            json.dump(table, fh, indent=2)
+        print(f"\nPer-ticker accuracy written to {ACCURACY_SUMMARY_PATH}")
 
 
 if __name__ == '__main__':
