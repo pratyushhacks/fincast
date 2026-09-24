@@ -1,29 +1,29 @@
-# FinCast: Fine-Tuning a Small Model to Predict Stock Moves on a Gaming Laptop
+# FinCast: Fine-Tuning a Small Model to Predict Next-Day Stock Moves
 
-I wanted to fine-tune a small open-source model to predict next-day stock movement from news and price data and I wanted to do it end-to-end, entirely on my own laptop. No hosted API, no cloud GPU rental. Just a Phi-3-mini model, an RTX 4050 with 6GB of VRAM, and whatever creativity that constraint forced on me.
+## Section 1: Short Summary 
+FinCast is an end‑to‑end pipeline that fine‑tunes a small open‑source LLM to predict next‑day stock movement from daily news and short‑term price context. This is built and run entirely on a laptop (Phi‑3‑mini, RTX 4050, 6GB VRAM). The repo contains data collection, dataset building, QLoRA fine‑tuning, nightly prediction, and reconciliation scripts.
 
-Let me say plainly up front what this is and isn't, since it shapes how to read
-everything that follows: the goal was never to build a market prediction model
-that you can use for trading. It was to see what a small model could learn from a genuinely modest
-amount of signal — a handful of news articles a day and a few days of price action. And to build that pipeline with my own hands rather than read about it.
+The goal was the full pipeline: data collection → labeling → training → evaluation → live prediction — built from scratch, on hardware modest enough that every design decision had a real cost attached to it.
 
-I've spent the last six years leading AI engagements: across speech, chatbots, RAG systems, fine-tuning GPT models and bespoke agentic solutions across a range of industries. Which is exactly why I wanted to do this one alone, on a laptop, with no budget. There's
-a difference between architecting a pipeline on a whiteboard and living through
-the version where GDELT throttles you at 2am, your CSV parser silently mangles a
-tab-delimited file, and your model confidently predicts "up" for a ticker that
-just dropped 4%. Constraints teach you things a well-resourced project quietly
-hides. I wanted the whole loop: collect data, label it, build a training set,
-fine-tune, evaluate, deploy live predictions, and then sit with the results long
-enough to find out where they lied to me.
+I picked financial domain to learn fine-tuning as fresh data arrives every single day, and the ground truth arrives the next morning. You collect, you predict, you get scored, you fix. That loop can run indefinitely and it doesn't care how confident you were, which makes it an honest teacher.
 
-Financial news is a good domain for this as fresh data arrives every single day, and the ground
-truth arrives the next morning whether you like it or not. You collect, you
-predict, you get scored, you fix. That loop can run indefinitely and it doesn't
-care how confident you were — which makes it an honest teacher.
+What actually surprised me is that this effort went somewhere at all. Mixing a handful of news articles with a few days of price history and fine-tuning a small open model on a gaming laptop produced a model that showed real, if narrow, directional signal which I was not confident that this scale of effort would produce. It hasn't seen full years data yet, so there's plenty still to prove before I'd trust it with anything. But this write-up is less about the finished model and more about learning by doing, trying to make honest sense of what the model's behavior was actually telling me at each step.
 
-What actually surprised me is that it went somewhere at all. Mixing a handful of news articles with a few days of price history and fine-tuning a small open model on a gaming laptop produced a model that showed real, if narrow, directional signal — not something I was confident going in that this scale of effort would produce. It hasn't seen a full market cycle yet, so there's plenty still to prove before I'd trust it with anything. But this write-up is less about the finished model and more about learning by doing, trying to make honest sense of what the model's behavior was actually telling me at each step.
 
-So the goal was the full pipeline: data collection → labeling → training → evaluation → live prediction — built from scratch, on hardware modest enough that every design decision had a real cost attached to it.
+## Section 2: The Full Pipeline, End to End
+
+Before getting into any one stage's story, it's worth seeing the whole shape of the thing — partly because the shape itself was a real design decision, not just plumbing.
+
+![Pipeline diagram](./images/04_pipeline.png)
+
+Every night, four stages run in sequence to turn raw news into a labeled dataset: **GDELT's DOC API** returns article URLs for a watchlist of companies, sectors, and macro themes; a **scraper** downloads and extracts clean article text from each one; a **sentiment-scoring step** reads that text and produces a summary, a 1–5 sentiment score, and a direction; and a **price-fetch step** pulls each ticker's trailing trend and computes a volatility-normalized move label from Yahoo Finance. None of that last step touches a model at all — it's pure price math.
+
+From there, **dataset building** is the one component that gets reused twice, in two very different contexts. Given a ticker and a date, it deduplicates near-duplicate articles covering the same underlying story, ranks what's left, and keeps the top 5 by signal strength. At training time (say once in 3 months), this runs once per historical ticker-day to build `train.jsonl`/`val.jsonl`. It runs *again* every night — same code, same dedup logic — to build today's live prediction payload. That reuse was deliberate: to keep the code that builds a live prediction be same as the code that built training examples.
+
+Note that this pipeline runs two completely different local models, for two completely different jobs.
+
+- **Local LLM #1 — Phi-3-mini-128k-instruct.** The long-context, general-purpose model. It summarizes and scores every single raw article (one call per news article every night), and then it is used again to make the deduplication judgment call, deciding whether two headlines are actually the same story (one call per batch of up to 5 candidate articles). This is the model doing all the messy, open-ended language understanding work.
+- **Local LLM #2 — the fine-tuned Phi-3-mini-4k-instruct adapter.** The narrow, single-purpose model. Its only job is *predicting*: given a ticker's trailing returns and up to 5 pre-selected, pre-summarized news items, output one classification. It gets loaded once per run and then generates once per ticker — nothing close to the call volume of the sentiment-scoring model.
 
 ## Repository Map
 
@@ -31,7 +31,7 @@ So the goal was the full pipeline: data collection → labeling → training →
 |---|---|
 | News collection | [`news_scraper/create_data/fetch_gdelt_news.py`](news_scraper/create_data/fetch_gdelt_news.py) |
 | Price enrichment | [`news_scraper/create_data/fetch_prices.py`](news_scraper/create_data/fetch_prices.py) |
-| Training-data builder | [`generate_dataset/build_ticker_jsonl.py`](generate_dataset/build_ticker_jsonl.py) |
+| Training-data builder | [`news_scraper/generate_dataset/build_ticker_jsonl.py`](news_scraper/generate_dataset/build_ticker_jsonl.py) |
 | Date-based split | [`news_scraper/generate_dataset/combine_datasets.py`](news_scraper/generate_dataset/combine_datasets.py) |
 | QLoRA training | [`fine_tune/fine_tune.py`](fine_tune/fine_tune.py) |
 | Live prediction | [`news_scraper/generate_dataset/predict_ticker.py`](news_scraper/generate_dataset/predict_ticker.py) |
@@ -47,15 +47,15 @@ GDELT's DOC API became my news source of choice — it does its own entity match
 
 I went back and forth on the fetch strategy itself. Querying day-by-day felt safer at first — smaller requests, easier to reason about — but it multiplied my total request count and made the throttling worse. Switching to a single date-range query per topic cut the request count down, but early on I was still seeing repeated failures even with what felt like generous spacing.
 
-The fix that actually moved the needle was a mix of three things: **long sleeps** between requests (well above GDELT's documented minimum, since the documented floor turned out to be more of a suggestion than a guarantee), **randomizing the order** topics were queried in each run, and treating catch-up as its own explicit pass rather than something that happened inline. Randomizing the order mattered more than I expected — when a run failed partway through, the same handful of topics (always near the end of a fixed list) kept losing out night after night. Shuffling meant that even a partially-failed run spread its misses around, and a second (and sometimes third) retry pass — after a real cooldown, not an immediate re-hit — usually caught whatever the first pass missed.
+Then moved to a mix of 3 things: **long sleeps** between requests (well above GDELT's documented minimum, since the documented floor turned out to be more of a suggestion than a guarantee), **randomizing the order** topics were queried in each run, and treating catch-up as its own explicit pass rather than something that happened inline. Randomizing the order mattered more than I expected — when a run failed partway through, the same handful of topics (always near the end of a fixed list) kept losing out night after night. Shuffling meant that even a partially-failed run spread its misses around, and a second (and sometimes third) retry pass — after a real cooldown, not an immediate re-hit — usually caught whatever the first pass missed.
 
 ---
 
 ## Augmenting News with Price Data
 
-News sentiment alone doesn't tell a model much without recent market context, so each row also carried the ticker's trailing price trend pulled from Yahoo Finance, alongside the news for that day. The idea was to give the model something to anchor "is this good news" against — a stock that's already been sliding for a week reacts differently to the same headline than one on a tear.
+News sentiment alone doesn't tell a model much without recent market context, so each row also carried the ticker's trailing price trend pulled from Yahoo Finance, alongside the news for that day.
 
-I deliberately kept this lean: no benchmark index (like QQQ), volume, VIX, earnings calendar, or per-article LLM-computed comparison was included in the model prompt. Every added field competes for space in an already tight token budget on 6GB of VRAM, so news items per row got capped at 5 and the model-facing price context stayed as the plain trailing trend. The enrichment file contains additional fields, but the prompt builder does not expose them to the model.
+I deliberately kept this lean. Every added field competes for space in an already tight token budget on 6GB of VRAM, so news items per row got capped at 5 and the model-facing price context stayed as the plain trailing trend. The enrichment file contains additional fields, but the prompt builder does not expose them to the model.
 
 **The label story needs an important distinction, and it's the single easiest thing to get wrong when reading this repo.** Two different bucketing schemes exist here, and only one of them is the training target:
 
@@ -74,9 +74,9 @@ It is **not** accurate to describe this model as training on the volatility-norm
 
 Before touching any model weights, I built [an analysis notebook](news_scraper/analyze_data/analyze_data.ipynb) to actually look at what I'd collected: price-bucket distribution overall and per-ticker, a sentiment-vs-price mismatch confusion matrix, edge cases where bullish news coincided with a price drop, stock-vs-benchmark correlation, macro sentiment vs. individual stock moves, sector-vs-constituent correlation, and a couple of exploratory tests on whether volatility regime or article relevance tier affected how predictive sentiment actually was.
 
-The analysis report contains the original bucket-balance investigation: the volatility-normalized `bucket_1d` distributions were much healthier across tickers than the earlier fixed-bucket experiment. That's useful evidence about the enriched dataset, but it is not the training-label distribution. I also added an entropy-based balance metric, because a flat-percentage threshold alone can miss a different kind of imbalance — a ticker skewed entirely toward one non-flat extreme instead of toward "flat" wouldn't necessarily trip a flat-dominance check.
+The analysis report contains the original bucket-balance investigation: the volatility-normalized `bucket_1d` distributions were much healthier across tickers than the earlier fixed-bucket experiment. That's useful evidence about the enriched dataset, but it is not the training-label distribution. I also added an entropy-based balance metric to see for imbalance.
 
-![Price bucket distribution](news_scraper/blog/images/01_price_bucket_distribution.png)
+![Price bucket distribution](./images/01_price_bucket_distribution.png)
 
 *Distribution of the analysis field `bucket_1d` across 7,322 labeled articles — not the training-label distribution.*
 
@@ -84,13 +84,11 @@ To be precise about scale, since it's easy to conflate different artifacts: 8,77
 
 Readiness varied a fair amount by ticker once I broke it down individually — 15 of 20 tickers came back "READY 200+" articles, 3 landed in a medium tier, and 2 (XLK, BOTZ) were flagged low-sample. Entropy ranged from AAPL at 0.93 down to XLV at 0.75 — still healthy, but a visible reminder that "the dataset overall looks balanced" can hide individual tickers that aren't pulling their weight.
 
-![Per-ticker label entropy](news_scraper/blogimages/02_ticker_label_entropy.png)
+![Per-ticker label entropy](./images/02_ticker_label_entropy.png)
 
 *Entropy over the five `bucket_1d` outcome classes per ticker — a measure of label spread, not of article coverage or model quality.*
 
-For actually reasoning about the results, I found it far more useful to export everything into one consolidated markdown file than to hand over a stack of CSVs — easier to paste into a chat and get a second opinion on. That export went through a couple of rounds of its own: an early version reused generic variable names across notebook sections, so a later section's reassignment silently overwrote an earlier section's numbers by the time the export ran — a genuinely sneaky bug, since nothing errored, the export just quietly reported stale values. I also trimmed it from full verbatim article rows in the edge-case section down to counts only, once it was clear the verbatim text wasn't adding anything to the data-quality read I needed.
-
-The correlation numbers themselves came out weak almost everywhere — mostly r < 0.2 between sentiment and price move. Worth sitting with for a second: that's not automatically a data-quality failure. Markets are reasonably efficient, and a single pairwise correlation can't see the kind of nonlinear, multi-signal structure a fine-tuned model conditioning on several inputs at once might still pick up on. It was also a good reminder to watch for the multiple-comparisons trap — run enough correlation tests at p < 0.05 across sectors and volatility regimes, and a few "significant" hits show up by chance alone.
+For actually reasoning about the results, I found it far more useful to export everything into one consolidated markdown file and use some chats to get a second opinion on. That export went through a couple of rounds of its own. I also trimmed it from full verbatim article rows in the edge-case section down to counts only, once it was clear the verbatim text wasn't adding anything to the data-quality read I needed.
 
 **So what did this analysis phase actually tell me?** Three things, in order of how much they changed what happened next. First, bucket balance is extremely sensitive to how thresholds are chosen — volatility-normalized bucketing produced far healthier distributions than fixed thresholds on the same underlying data, which is worth knowing given the training target uses fixed thresholds. Second, weak sentiment-price correlation is expected and not disqualifying on its own; it just meant I couldn't rely on a single clean signal and had to trust the fine-tuning process to find structure a correlation coefficient can't. Third, dataset-wide health metrics can and did hide ticker-level problems — the overall entropy looked fine while XLK and BOTZ were quietly sitting on too little data to trust individually.
 
@@ -100,7 +98,7 @@ The correlation numbers themselves came out weak almost everywhere — mostly r 
 
 With the data in reasonable shape, the next call was whether to frame this as supervised fine-tuning or something more reinforcement-flavored. I went with SFT: the label for every row comes from an objective, already-known price outcome, not a preference signal that needs exploring — and RL-style methods tend to be more sample-hungry and more sensitive to reward noise, which mattered given how weak the raw sentiment-price correlations were. There wasn't a strong argument for the added complexity.
 
-The base model was `microsoft/Phi-3-mini-4k-instruct` — not the 128k-context variant, which I'd reserved separately for the sentiment-scoring step where full articles needed reading. Training rows themselves only ran 400–600 tokens, so 4k context was plenty. To fit in 6GB of VRAM, I used QLoRA: 4-bit NF4 quantization with double quantization, LoRA rank 16 / alpha 32, gradient checkpointing, and 8-bit paged AdamW. One detail worth calling out for anyone trying this on a different base model: Phi-3's attention and MLP projections are fused (`qkv_proj`, `gate_up_proj`) rather than split into separate `q_proj`/`k_proj`/`v_proj` modules the way many other architectures are — get the target-module names wrong and LoRA silently attaches to nothing. No error, just a fine-tune that doesn't learn anything. I also used completion-only loss masking, so gradient signal focused on the JSON output tokens rather than being diluted across the prompt.
+The base model was `microsoft/Phi-3-mini-4k-instruct` — not the 128k-context variant, which I'd reserved separately for the sentiment-scoring step where full articles needed reading. Training rows themselves only ran 400–600 tokens, so 4k context was plenty. To fit in 6GB of VRAM, I used QLoRA: 4-bit NF4 quantization with double quantization, LoRA rank 16 / alpha 32, gradient checkpointing, and 8-bit paged AdamW. One detail worth calling out for anyone trying this on a different base model: do look at the attention and MLP projections modules which could be fused together rather than split into separate. If you get the target-module names wrong and LoRA silently attaches to nothing. No error, just a fine-tune that doesn't learn anything. I also used completion-only loss masking, so gradient signal focused on the JSON output tokens rather than being diluted across the prompt.
 
 The final dataset split 1,225 rows into 1,068 training and 157 validation examples — split by date rather than by row, specifically to keep near-duplicate same-day entries from leaking across the boundary. The run took about 2.2 hours wall-clock, with early stopping at roughly epoch 4.12 (step 275 of a planned 528) after the best validation loss (0.1558) landed earlier, around epoch 2.62 — restoring that best checkpoint rather than the later, worse one it would've saved by default.
 
@@ -118,7 +116,7 @@ Here's the full forward-test result, reconciled across the run window **07/29/20
 
 **Overall: 35/163 exact = 21.5% · 67/163 direction = 41.1%**
 
-![Direction accuracy by ticker](news_scraper/blog/images/03_direction_accuracy_by_ticker.png)
+![Direction accuracy by ticker](./images/03_direction_accuracy_by_ticker.png)
 
 | Ticker | n | Exact % | Direction % |
 |---|---|---|---|
@@ -154,5 +152,3 @@ Here's the full forward-test result, reconciled across the run window **07/29/20
 ## Closing Thoughts
 
 That's where this version leaves off. It's a small, imperfect, but genuinely working pipeline — one that produced a model showing a real, if narrow, directional edge on a subset of tickers, built entirely on a gaming laptop with a handful of daily news articles and a few days of price history. It hasn't seen a full market cycle, the magnitude side of predictions is still mostly unresolved, and there's a longer list of rough edges than what's covered here.
-
-Those rough edges — along with the fixes and the improvements they led to — are the subject of the next write-up.
